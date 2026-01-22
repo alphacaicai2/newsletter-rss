@@ -1,1 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Newsletter Feed</title>
+    <link>https://alphacaicai2.github.io/newsletter-rss/rss.xml</link>
+    <description>Newsletter feed</description>
+    <lastBuildDate>Thu, 22 Jan 2026 13:35:37 GMT</lastBuildDate>
+  </channel>
+</rss>
