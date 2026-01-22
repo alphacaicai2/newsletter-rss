@@ -1,8 +1,228 @@
-<?xml version="1.0" encoding="UTF-8"?>
+  <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Test RSS</title>
-    <link>https://alphacaicai2.github.io</link>
-    <description>Test feed</description>
+    <title>Newsletter Feed</title>
+    <link>https://your-domain.com/rss.xml</link>
+    <description>Newsletter feed</description>
+    <lastBuildDate>Thu, 22 Jan 2026 14:03:37 GMT</lastBuildDate>
+
+  <item>
+    <title>Exclusive: How Apple’s Craig Federighi Went From AI Skeptic to Believer</title>
+    <description>%title% 
+
+
+Exclusive:
+
+&quot;With Google Deal, Apple’s Craig Federighi Plots a Cautious Course in AI&quot;
+By Aaron Tilley and Wayne Ma
+Jan 22, 2026
+
+Last fall, Apple’s software chief, Craig Federighi, delivered a warm message to a meeting of the company’s combined software and AI groups. Federighi said he was excited about deeper collaboration between his software team and Apple’s AI group.
+
+But then came Federighi’s criticism. He added that he liked moving fast and feeling the “wind at his back,” but in recent years he had felt Apple hadn’t been moving as quickly as he would have liked in AI. Although he wasn’t explicit, some members of Apple’s foundation models team—which builds the underlying software that power the company’s AI features—took his comment as a dig at their group.
+
+---
+
+Read the full article: https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNBgsIz8cMoHUqf0HepbVAmF0Jc6XxIT1NpLjqxYM69PZrvBwZp-2BXzIVKBCzY2HYZeZ7WL-2BxpinIj-2Bi1xsuoPEaPjTND5HbUaGMEMoaQtVwTDuBT4Mh-2FTfTgZ8GHh4PIYSFjV48orNcfkCGlf1FhAWLWJsXJLYxSNgaZgAKhJO9os8Umlj0xu-2BvP-2Broecck-2B-2BFZyLlq-2F0bolniNRp2FL2-2FmhTAOz4X02e3K4MrxMY7WiA-3DC-xq_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8fwzRaoa6pzwu9a4ieonMzqHAxwRV9StP4n7jabHbLEivS35L-2B3xgBdXrcgN4xYgMpBajseP245NkPor6UXIwQZHVA-2FckADmopK2jTcoxWJPYfjUvStF667cKpLu5cWP-2FAQtH1UF-2FcsoQ8C941WN68Q
+</description>
+    <pubDate>Thu, 22 Jan 2026 14:01:51 GMT</pubDate>
+    <guid>19be603c962a8b42</guid>
+    <author>&quot;The Information&quot; &lt;hello@theinformation.com&gt;</author>
+  </item>
+
+  <item>
+    <title>The Electric: Trump Moves to Accelerate Seabed Mining of Critical Metals</title>
+    <description>%title% 
+
+
+  The Electric
+  By Steve LeVine
+  Jan 22, 2026
+
+    Millions of these metals-rich nodules are strewn across the seafloor three miles below the surface of the Pacific. Photo: Carolyn Cole / L.A. Times/Getty Startup Western mining companies got key U.S. support Wednesday in their yearslong effort to extract copper, cobalt and other key metals from the deep Pacific seabed, a move intended to accelerate non-Chinese supplies for tech and defense companies.In a notice, President Donald Trump’s administration significantly shortened the permitting process to mine the metals contained in mineral-rich, potato-size nodules scattered by the millions on the Pacific Ocean seabed.The move could shrink the time it takes to start a mining operation to months from years previously, said Gerard Barron, CEO of The Metals Co. The Canada-based company is a leading explorer in the Clarion-Clipperton Zone, located in the middle of the Pacific Ocean 500 miles southeast of Hawaii, and one of the richest sites for these nodules.Barron told me TMC would file a revised permit application in line with the new rules on Thursday. After building necessary mining equipment and processing plants, TMC expects to begin mining the nodules before the end of next year. The company’s share price rose 13% Wednesday on the news.Wednesday’s move by the U.S. National Oceanic and Atmospheric Administration aligned with Trump’s scorn for international agencies—in this case, the International Seabed Authority, a U.N. body that has been drafting rules for such operations for 11 years. It follows an April executive order by Trump calling for faster seabed mining.Geopolitics drove Trump’s order. Since his return to power a year ago, the U.S. and China have engaged in a repeated tit-for-tat fight over exports of critical products. The U.S. has restricted the supply of high-end chips to China, while China has blocked the export of rare earth minerals, graphite and battery components.China controls about 80% of the world’s production of cobalt and nickel, used in the defense industry and electric vehicles, and 90% of manganese production. Collectively, however, the nodules in the Clarion-Clipperton Zone, three miles below the surface of the Pacific, contain almost twice as much nickel as all known deposits on land, according to the U.S. Geological Survey, as well as 20% more manganese and more than three times as much cobalt. They also contain significant copper.TMC is among an international group of startups including ones from Russia, China and Europe that have hounded the International Seabed Authority to issue permits allowing them to vacuum up these nodules. But while the authority has issued dozens of exploration permits, it has issued no actual mining licenses.Mining startups including TMC have accused the Seabed Authority of deliberately slowing down the licensing process. In prepared remarks Barron is to deliver to a House committee on Thursday, he called the Seabed Authority “gridlocked.” In April, the Trump administration said it would ignore the Seabed Authority entirely and issue licenses itself. On Wednesday, NOAA moved to expedite the process further, eliminating a requirement that mining startups first obtain an exploration license from the agency, then apply to it for a commercial metals recovery permit. Now startups can apply for both the license and the permit simultaneously.Oliver Gunasekara, CEO of Impossible Metals, which is seeking to extract nodules in the Clarion-Clipperton Zone as well as offshore of American Samoa, said the U.S. moves appear to be getting the Seabed Authority to move faster.“The executive order and the fact that The Metals Co. is going direct has put a lot of pressure on the ISA because it now needs to decide if it’s going to be relevant or not,” he said.Edward Boling, a partner at law firm Perkins Coie who worked on sea law in both Republican and Democratic administrations, said the Trump administration’s moves could backfire if future administrations favor stricter international law, undermining any NOAA permits awarded now.“Our economy is not an island,” Boling said. “It’s part of the international marketplace. Frankly, I would expect that any developer is going to want to ensure long-term security.”Environmental groups have long fought seabed mining, arguing that risks to largely unknown marine ecosystems require tight rules around mining. They are likely to continue their pressure on regulators.Gunasekara, who is currently raising a $30 million Series A round, said he is sticking with the Seabed Authority’s process. “It’s more legitimate,” he said. “It’s not to say that we don’t think NOAA is a viable approach. But we think that from a longer-term perspective, it’s a safer route to go.”Barron, in his prepared remarks, appeared to acknowledge that the durability of the Trump administration’s decisions was an issue. He urged Congress to write NOAA’s new rules into U.S. law, making it harder for future administrations to change the policy. “Capital-intensive offshore industries require confidence that permits will endure over time,” he said.
+</description>
+    <pubDate>Thu, 22 Jan 2026 12:31:04 GMT</pubDate>
+    <guid>19be5b05a4ce2215</guid>
+    <author>&quot;Steve LeVine&quot; &lt;hello@theinformation.com&gt;</author>
+  </item>
+
+  <item>
+    <title>Exclusive: Anthropic Lowers Profit Margin Projection as Revenue Skyrockets</title>
+    <description>%title% 
+
+
+Exclusive:
+
+&quot;Anthropic Lowers Profit Margin Projection as Revenue Skyrockets&quot;
+By Sri Muppidi
+Jan 21, 2026
+
+Anthropic last month projected it would generate a 40% gross profit margin from selling AI to businesses and application developers in 2025, according to two people with knowledge of its financials. That margin was 10 percentage points lower than its earlier optimistic expectations, though it’s still a big improvement from the year before.
+
+The lower-than-expected gross profit margin resulted from the costs of running Anthropic models for paying customers, in a process known as inference, on servers from Google and Amazon. Those inference costs were 23% higher than the company had anticipated, the projections showed. Anthropic calculates gross margins by subtracting inference costs and other costs of selling its products.
+
+---
+
+Read the full article: https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNFPDRVyZ6YfRpU7VFKF84mUaZbM5mJf8pjk0FDUVmdsOcFPy-2B19d1u2jZIYq6PRLHhgX5f-2BAKa1p3BPJr-2BTz6Pu4PuftShM-2FuHLToAQBneJYt6xi-2FQpHuu9U00vW9HcySQ-2FZf0-2FkHDeDckdsKs-2B5XpBCuKbU9-2B26mE0Y9H-2FiE5AklwJYpxMy5cuPwivZL7Itic6u3vsEL8Yo4Jj2JdnoRFLK6mtur7bP7YHfuNJkBldA-3DwFP8_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjAt2xg5yTg9-2FzDdd8yUey0TyaZ5-2FWXC-2By-2BOJaeXuV6qHhqWLi0Kwqn-2B80cOWYj-2BARQBAO3Cw8x0QjwKu3kTeE-2Bl7duw71ebp6t9wTLpXW5iGUQ3ga-2BxlQb5us46kW4kfRLk2G4I-2FdZuwRQwRhgVkZCz4kcLappt9JhPP-2Fq7d1m8RHtvxMLi5nJTqW-2FJgATf01hYgEk121n-2FJvBYZn-2B05fC9PfAd82RdJQSqrx3WkkFD6MRI0rbxwYUY6-2BTAR4vGDd2JYhjv2psRblNk8LvTR-2BlQ-3D-3D
+</description>
+    <pubDate>Thu, 22 Jan 2026 02:19:40 GMT</pubDate>
+    <guid>19be38098254e656</guid>
+    <author>&quot;The Information&quot; &lt;hello@theinformation.com&gt;</author>
+  </item>
+
+  <item>
+    <title>OpenAI Names Former TML Staffer Zoph to Oversee Enterprise Push</title>
+    <description>%title% 
+
+
+Exclusive:
+
+&quot;OpenAI Names Former TML Staffer Zoph to Oversee Enterprise Push&quot;
+By Stephanie Palazzolo and Erin Woo
+Jan 21, 2026
+
+Barret Zoph, the Thinking Machines Lab cofounder who rejoined OpenAI in a swirl of controversy last week, will lead the company’s push to sell AI products to businesses, as part of a broader reorganization across the company, OpenAI’s CEO of Applications Fidji Simo told staff on Wednesday.
+
+Brad Lightcap, OpenAI’s chief operating officer, will transition out of leading product and engineering for OpenAI’s business of selling to other enterprises but will continue to run OpenAI’s commercial functions, according to a copy of the memo seen by The Information.
+
+---
+
+Read the full article: https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNYoiDzbM-2BKsAbBbqOXAtjTLpyQU8woO8fSB-2FRBtBXxbBSSm4Jkdl4qm-2FT3JzxrincLoK1ghPfHhiaf3DNxEvbXvvJ7ygNJO1IFarpe298kx81cWc33YyCDmlu9zjIxWp142EMu5GNI6vjUpaWZaDsnP3oeuyFzWC2bM0R59t2Bhp7uZZuNvdAVABwr2tBP7OGyg-2BInJSBCt2pNb0-2FkiSBX5ORjpjy2e274I9guKB1ipI-3DaZND_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjG606CYnjOd3HqdYaxgZjm6feufSw6rFGJi-2Be-2Fgz7h76y5tNEXYm0vBiFzFy-2BZlwK7yeKKPuUNB0eFSmd7fZSuHcVFCc1NtItCgDtc8SKmnsledxd-2BP6E8GkEgVl1xaOmZU1hPoD7K7QyqBhqQ-2FpeguNnzdDxtm5rV8GcyZ8v1-2FfsChqprBqgfYntTt-2B-2FwVrm8o7Rk48krzOu-2BETpRbN-2BH-2FfPAxsrejcBCa8OvCCFVywT50HPWSiQWellsj-2FzXTAoYXPThbx61KR6vQvDL7bOmg-3D-3D
+</description>
+    <pubDate>Wed, 21 Jan 2026 22:14:45 GMT</pubDate>
+    <guid>19be2a0728879bf6</guid>
+    <author>&quot;The Information&quot; &lt;hello@theinformation.com&gt;</author>
+  </item>
+
+  <item>
+    <title>Apple Developing AI Wearable Pin</title>
+    <description>%title% 
+
+
+Exclusive:
+
+&quot;Apple Developing AI Wearable Pin&quot;
+By Wayne Ma and Qianer Liu
+Jan 21, 2026
+
+Apple is developing an AI-powered wearable pin the size of an AirTag that is equipped with multiple cameras, a speaker, microphones and wireless charging, according to people with direct knowledge of the project. The device could be released as early as 2027, they said.
+
+Such a product would position Apple to compete more effectively with OpenAI, which is planning its own AI-powered devices, and Meta Platforms, which is already selling smart glasses that offer access to its AI assistant. Google also plans to release smart glasses, in conjunction with Samsung, with AI capabilities.
+
+---
+
+Read the full article: https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNBGCK-2FBWPVpI6D8s-2B6lNAjflG48FRzLb1dfAWLjjddvpT8oC1zN0CO5IjdvohVe01RGD-2FQaRMHH4cqq3Wxg96rBmyz7kqeFrqVN6e5u56eOzy5c38ymqMz1U5fwVU1aINCiwx-2FFjrJGpRR2ou6n0zRCDPYoVYyA3SbBkyNXkAtts5oeuudHtMq18tyRG7om5M7dvO_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjnM8qNH-2FmZowMgAU2kkj0TxiqC31spidxCXuV6a52nIQE2cPbLkbVCqGV9cZFgNtksVhJCc-2F7uYaSBeR6qJJsWPGkOmqhm9KUkkPnHQhUp5B-2BNOyfz-2BJSgtdb5-2BS3GmTGG00ScusThUWGKkq7yUo7wQu5ujl2fySIvKEaoEHgXswGLDIkWxvaZJl1rXdCNfjHgbI2HUXJN9PMaOgPhZzeW9MM-2Fnm8eEUkbyWiyxsRPN0zLe7aliQybS3T4eNxjDKTDa5kvYmrSyG7EF8KAwDy-2Bw-3D-3D
+</description>
+    <pubDate>Wed, 21 Jan 2026 19:59:19 GMT</pubDate>
+    <guid>19be22456bb7ac6d</guid>
+    <author>&quot;The Information&quot; &lt;hello@theinformation.com&gt;</author>
+  </item>
+
+  <item>
+    <title>Data Center Inflation Is Here</title>
+    <description>%title% 
+
+
+  The Information Finance
+  By Ken Brown
+  Jan 21, 2026
+
+    In the first weeks of the year, it has become clear that building data centers is getting more expensive. On a relative basis, the shift could benefit the cash-rich tech giants, particularly Google, while potentially hurting cash-burning startups. This doesn’t mean giant data centers won’t get built. Investors are still enthusiastic about AI, and the tech giants that are funding the buildout are still rolling in cash. It could mean these companies see lower returns and some projects don’t get built or are scaled back. The biggest and hardest-to-quantify cost is power, which has long been a major constraint on data center construction. Local governments have been complaining for more than a year about rising electricity costs, and the White House, which has woken up to concerns about affordability, weighed in.Last week, the Department of Energy and several governors in the middle Atlantic region effectively demanded that companies building data centers agree to 15-year contracts to buy power from new power plants. Auctions for power run by grid operator PJM have hit records, but the prices haven’t been high enough to get power companies to build new power generation. That means data center developers will have to spend more. The notably bipartisan effort is expected to generate $15 billion in new power plants. Both Google and Microsoft appear committed to delivering their own power. As my colleague Ann Davis Vaughan wrote in our new AI Infrastructure newsletter, Google’s $4.8 billion purchase of power producer Intersect will speed its data center development. We also reported that Google is asking federal regulators to speed approval of data centers that bring their own power. Microsoft said last week it would pay more for electricity and subsidize the expansion of the electric grid. Electric power means computing power and that could become the differentiator among AI companies. Those that can afford to build it will move ahead and those that can’t fall will fall behind. Computing power translates into revenue, a connection made clear by OpenAI’s chief financial officer, Sarah Friar, over the weekend. The company’s computing capacity roughly tripled in each of the last three years and so did its revenue. If power was the only higher cost, it could be manageable. But there are others. Financing could get more expensive for two reasons. First, long-term interest rates hit their highest levels in more than four months this week, driven in part by President Donald Trump’s tariff threats, tied to his obsession with taking over Greenland. Second, there will be an estimated $300 billion of AI debt issuance this year. While a lot of it will come from the tech giants, which have pristine credit, the sheer amount of borrowing could outweigh demand. That means yields could rise, making borrowing more expensive. The weight of that more costly debt will fall on the companies with less pristine credit, such as Oracle or CoreWeave. (There’s another more wonky way to think about it: Investors buy up the super-safe debt issued by the tech giants and sell off generally lower yielding U.S. government debt, which drives up interest rates for the rest of the economy.)Then there are the costs of the gear needed to build data centers. You can start with commodities such as copper, which rose 45% last year. Demand for the metal is expected to keep growing over the next decade. AI data centers use far more copper than typical data centers do, for everything from electrical wires and components to cooling systems and servers. Then there’s the manufactured goods. The wait time for new natural gas turbines is three to four years, making it a terrific seller’s market. That’s one reason companies such as GE Vernova are raising prices. The company has boosted margins and expects profits to grow as price increases flow through its order book. GE Vernova lifted its dividend, boosted share buybacks and is generating piles of cash. Its stock was among the market’s best performers last year.The wait time for gas turbines is just one of many factors causing delays for data centers, as my colleague Anissa Gardizy, who also writes the AI Infrastructure newsletter, reported. There have been delays installing water-cooling systems, which Nvidia’s superfast chips require, and delays getting those chips up and running. There have also been delays connecting to the power grid and getting local approval.The longer it takes to open a data center, the more it will cost and the harder it will be to earn a return on that investment. I’m focusing on rising costs right now because I think their impact will start showing up this year. In extreme cases, developers will be squeezed for cash and might need to raise money to finish their projects. Higher costs might also make some cancel planned projects before they get off the ground.As we saw with OpenAI, more computing capacity means more revenue. Those who can’t pay will fall behind. 
+
+A message from NYSE
+
+Shaping the future of finance
+
+NYSE hosted seven of the 10 largest IPOs of 2025 and led in large technology IPOs, representing nearly 70% of proceeds raised in 2025, including some of the world&apos;s most notable names like Klarna (NYSE: KLAR), Figma (NYSE: FIG), Circle (NYSE: CRCL), and Bullish (NYSE: BLSH). NYSE remained the largest ETF marketplace in the world, with $10t of AUM listed, and the #1 platform for US crypto ETF trading.
+
+Here&apos;s to raising the bar every year.
+
+New From Our Reporters
+
+ExclusiveOpenAI Lines Up Advertisers, Reveals Key Details Ahead of Ads Launch
+By Catherine Perloff and Sri Muppidi
+
+ExclusiveJPMorgan Moves To Cut Off Fintech With Questionable Customers
+By Michael Roddan
+
+ExclusiveMy Interview With Andy Jassy: OpenAI, Trump, Power and the Future of AWS
+By Jessica E. Lessin
+</description>
+    <pubDate>Wed, 21 Jan 2026 16:01:49 GMT</pubDate>
+    <guid>19be14adc36c8c88</guid>
+    <author>&quot;Ken Brown&quot; &lt;hello@theinformation.com&gt;</author>
+  </item>
+
+  <item>
+    <title>AI Agenda: AI Videos Nearly Indistinguishable From Real Videos, Runway Finds</title>
+    <description>%title% 
+
+
+  AI Agenda
+  By Rocket Drew
+  Jan 21, 2026
+
+    Hello! Rocket here.Runway today is releasing its latest AI model, Gen-4.5, that can generate videos from an image. The model, from the startup that specializes in image and video-generating models, is impressive but is likely to underscore growing concerns about AI-generated deepfakes.To measure the model’s performance, Runway asked over 1,000 people to distinguish real videos from similar videos generated by the model. Participants only guessed correctly 57.1% of the time—not much better than flipping a coin. Runway came up with the test when its own employees started having a hard time telling apart videos based on digital footage from the outputs of the new model, said Chief Technology Officer Anastasis Germanidis. “We have probably some of the most trained eyes,” he said, so if Runway’s employees were struggling with the task, they figured people who don’t spend their days scrutinizing AI videos would fare even worse.Runway used its new model to generate a video from the starting frame of clips of real subjects, like animals and human faces. The clips came from Filmpac, a provider of video footage and other media. Runway then trimmed the real and AI videos to five seconds and made sure both had the same resolution.Participants in the study had 10 seconds to guess whether a clip was real or AI-generated. The short time window is realistic, simulating how someone might encounter a video on social media.Germanidis himself took a stab at it. The result? “I failed quite a bit,” he said. In the study, people did a better job on videos that contained human faces and hands, or humans taking actions. For those videos, accuracy ranged from 58% to 65%. It’s not that the model is worse at generating those videos: Germanidis thinks people are more attuned to videos of people that look “uncanny,” compared to other subjects.Well before Runway’s latest model, lawmakers and some technologists were worried about the threat from deepfakes, or AI-generated videos and images that pretend to be legitimate. Those concerns intensified this month, after xAI’s Grok generated images of women and children wearing bikinis or lingerie, prompting bans in multiple countries and an investigation by the California attorney general.To guard against misinformation, people should “have a more critical mindset” about the content they see online,” Germanidis said. “For us, the study is a way to kind of increase the awareness that at this point we’re crossing the threshold, and it’s hard to tell apart generated from real videos.”Runway includes in the metadata of its videos that they are AI-generated and is also looking into more reliable ways to watermark these videos, so they can be identified as AI-generated, Germanidis said. Congress has proposed legislation to require watermarking of AI-generated content, and some states have passed laws requiring such disclosures. In Germanidis’ view, the technology is too early to codify specific requirements, but he noted that policies dealing with misinformation in general should cover AI-generated videos.In the U.S., the 2024 presidential election came and went without significant disruption from AI-fueled disinformation, but Runway’s study is just the latest evidence that the quality of AI models has improved a lot over the past two years. With midterm elections coming up in November, our collective ability to sort fact from fiction will be tested again.If you want to prepare in the meantime, anyone is free to try their hand at a Turing test on Runway’s website, where the company will be launching a version available to the public, along with a leaderboard to track who can most accurately determine what’s AI-generated and what’s not.Here’s what else is going on…People on the MoveAmazon has tapped former Microsoft executive Jigar Thakkar to lead Quick Suite, a collection of enterprise search and agent-building tools it launched in October as part of a broader push to develop compelling AI applications.Greg Yang, a co-founder of xAI said in a post on X that he’s stepping back into an informal advisory role to go “founder mode” on his health, following a diagnosis for Lyme disease. “Until I pushed myself hard building xAI and weakened my immune system, the symptoms weren&apos;t noticeable.”Overheard“Don’t let your loved ones use ChatGPT,” Elon Musk posted on X on Tuesday, in reference to a post about ChatGPT users who committed suicide. The post followed another on Monday, in which Musk wrote “OpenAI’s ChatGPT convinced a guy to do a murder-suicide! To be safe, AI must be maximally truthful-seeking and not pander to delusions.”In response, Altman wrote Tuesday that “we need to protect vulnerable users, while also making sure our guardrails still allow all of our users to benefit from our tools.” He also said that Musk had previously complained about ChatGPT’s moderation being too restrictive. “Apparently more than 50 people have died from crashes related to Autopilot. I only ever rode in a car using it once, some time ago, but my first thought was that it was far from a safe thing for Tesla to have released. I won’t even start on some of the Grok decisions,” Altman wrote.Meanwhile, at Davos, Google DeepMind CEO Demis Hassabis said he would be open to a détente in the AI race. In an interview with Bloomberg, Hassabis said would likely support a pause on AI development if every AI company agreed to it. He said he would like to see companies collaborate on AI development as they approach the creation of human-level AI, but unfortunately “international cooperation’s a little bit tricky at the moment.” Presumably, such a pause would also ease tensions between the CEOs of those companies on social media!Policy WatchAnthropic has hired three new lobbying firms since the beginning of December, Politico reported, citing recent disclosures. The firms are Thorn Run Partners, Kountoupes Denham Carr &amp;amp; Reid and Avenue Solutions.Anthropic spent over $1 million in lobbying expenditures in the third quarter last year, Politico reported. That’s more than OpenAI spent in that period, but less than Meta or Amazon.Deals and DebutsSee The Information’s Generative AI Database for an exclusive list of private companies and their investors.Zipline, a drone delivery startup, raised over $600 million at a $7.6 billion valuation, in a funding round from investors including Valor Equity Partners, Tiger Global, Fidelity Management and Research Company and Baillie Gifford.Humans&amp;amp;, which is developing “human-centric” AI tools, raised $480 million at $4.48 billion valuation in a seed funding round led by SV Angel and co-founder Georges Harik, with participation from Nvidia, Jeff Bezos, GV, Emerson Collective, Forerunner, S32, DCVC, Human Capital, Felicis and CRV.Baseten, which helps run AI models for companies including Cursor and Notion, raised $300 million at a $5 billion valuation in a funding round led by IVP and CapitalG, with participation from Nvidia, which invested $150 million, the Wall Street Journal reported.OpenEvidence, which provides a “ChatGPT for doctors,” raised $250 million in funding at a $12 billion valuation led by Thrive Capital and DST Global. The Information first broke the round here.Emergent, which provides AI for developing apps, raised $70 million in a Series B funding round at a $300 million valuation led by Khosla Ventures and SoftBank.Applied Compute, which uses reinforcement learning to customize AI models, is in talks to raise up to $70 million at a $1.3 billion valuation, The Information reported. Kleiner Perkins is in talks to lead the round.Datarails, which offers AI-powered FP&amp;amp;A software, raised $70 million in Series C funding led by One Peak.Ivo, which uses AI to help lawyers review contracts, raised $55 million in a Series B funding round led by Blackbird.Unbox Robotics, which develops warehouse robots, raised $28 million in a Series B funding round led by Icici Venture and Restart Labs.OpenAI is asking a small group of advertisers for spending commitments of less than $1 million each over a several week trial period, as the company tests new ads within its ChatGPT chatbot, The Information reported.OpenAI also began adding age verification to ChatGPT. If OpenAI estimates that a user is under 18, ChatGPT adds additional restrictions, including on violence and romantic roleplay.ServiceNow has signed a multi-year deal to pay for OpenAI’s artificial intelligence models in its business software, the two companies said on Tuesday. Under the agreement, OpenAI will now be the “preferred” AI model provider in ServiceNow’s software. In the past, ServiceNow let customers choose between AI models from OpenAI or other providers including Google and Anthropic.Amazon is open to working with other companies to run their AI shopping assistants on its site, where it already offers its own shopping chatbot, CEO Andy Jassy said in an interview with The Information’s Jessica Lessin at the World Economic Forum in Davos.X released the algorithm it uses to recommend posts in users’ For You feeds. The algorithm ranks posts using “a Grok-based transformer model that predicts engagement probabilities for each post.”72% of ChatGPT subscribers have set ChatGPT to their browser homepage, replacing traditional search engines, according to a survey conducted by Bango, a subscription bundling company.Adobe released new AI features in Acrobat, such as the ability to generate podcast summaries based on files, create presentations and edit files using prompts.
+
+A message from ServiceNow
+
+Now your people can AI like they were meant to AI.
+
+Introducing the AI Experience by ServiceNow. Most AI is stuck in silos. Trapped in apps. Disconnected from how people actually work. The AI Experience by ServiceNow® works the way people do. It brings text, voice, images, and agents into a single, seamless interface where AI is the new UI. Learn more
+
+New From Our Reporters
+
+ExclusiveOpenAI Lines Up Advertisers, Reveals Key Details Ahead of Ads Launch
+By Catherine Perloff and Sri Muppidi
+
+ExclusiveApplied Compute, Founded by Ex-OpenAI Researchers, in Talks for $1.3 Billion Valuation
+By Stephanie Palazzolo and Valida Pau
+
+ExclusiveTikTok Plans Big Shopping Push
+By Jing Yang and Juro Osawa
+
+Recommended Newsletter
+
+Every weekday, The Briefing helps executives get smarter about the latest in tech, media and finance. Subscribe for free now.
+
+What We’re Reading
+
+UK exposed to ‘serious harm’ by failure to tackle AI risks, MPs warn
+
+Anthropic CEO Says AI Chip Sales to China Like Selling Nukes to North Korea
+
+Ukraine to share wartime combat data with allies to help train AI
+
+Thank you for reading the AI Agenda Newsletter! I’d love your feedback, ideas and tips: stephanie@theinformation.com.If you think someone else might enjoy this newsletter, please pass it forward or they can sign up here.
+</description>
+    <pubDate>Wed, 21 Jan 2026 15:01:48 GMT</pubDate>
+    <guid>19be113ed4c315fc</guid>
+    <author>&quot;Stephanie Palazzolo&quot; &lt;hello@theinformation.com&gt;</author>
+  </item>
+
+  <item>
+    <title>TikTok Plans Big Shopping Push</title>
+    <description>%title% 
+
+
+Exclusive:
+
+&quot;TikTok Plans Big Shopping Push&quot;
+By Jing Yang and Juro Osawa
+Jan 21, 2026
+
+TikTok’s U.S. business may be about to take off.
+
+The scheduled completion this week of TikTok’s sale of its U.S. data security arm to a joint venture ends years of uncertainty about its future in the U.S. And the video app maker is now redoubling its efforts to build a much bigger e-commerce business in the U.S., in a new challenge to Amazon.
+
+---
+
+Read the full article: https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaN1BYU1c4x-2BejA9iBFLbgm-2BY9e-2BHNJ7P4N-2BbI0QO4-2BfiltPWrbVxtROhPm-2FbQQKMqXuFj98e3eEpkmoT4l3Q8rD77CI1-2BZqIk9C1AyrAsltbUoytTBVy3wn2WQUzYiS5j3UDNb-2BsugvIdChXFRgPzkmZNUFssVKQMFbc7YcNS-2BNjqERzojcLjbJOAP7D4W1JBwreSH_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2Jj7rbbKO2EOKxpTCSpaxFSCUvJPIog-2FyqdMxkFIA2xxps7VvPgVTmaa-2FFyi-2BpRP7VCDUOlQMlXovz-2BsUyBavE3XUR3pE1-2F9FEOpctLREGVb0xd9rrgCYQSEu7URAE05U-2BhlHj7n6B1ok81FSs116Ula2DF3EwoO33XzIY29-2Fu0Yap-2B-2FPjbQ4I6OYFhVeTe-2BPAXGMORl2cec1tUfEg-2FCIJ6cUr76okfihoBoJTKMxPNNLrruvnuig-2B6es19ssPdzoEoswTur5NY36uIekDTglb-2BWA-3D-3D
+</description>
+    <pubDate>Wed, 21 Jan 2026 14:04:41 GMT</pubDate>
+    <guid>19be0dfca260f375</guid>
+    <author>&quot;The Information&quot; &lt;hello@theinformation.com&gt;</author>
+  </item>
+
   </channel>
 </rss>
