@@ -4,7 +4,646 @@
     <title>Newsletter Feed</title>
     <link>https://your-domain.com/rss.xml</link>
     <description>Newsletter feed</description>
-    <lastBuildDate>Fri, 23 Jan 2026 19:00:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 19:15:16 GMT</lastBuildDate>
+
+  <item>
+    <title>The New MAGA Megadonors: OpenAI&apos;s Greg Brockman and His Wife Anna</title>
+    <description><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" /> <!-- utf-8 works for most cases -->
+    <meta name="viewport" content="width=device-width" /> <!-- Supported on some email clients -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" /> <!-- Use the latest (edge) version of IE rendering engine -->
+    <title>%title%</title> <!-- The title tag shows in email notifications, like Android 4.4. -->
+    
+    <style>
+    </style>
+    <!--[if mso]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if lte mso 11]>
+      <style type="text/css">
+        .outlook-group-fix {
+          width:100% !important;
+        }
+      </style>
+    <![endif]-->
+  </head>
+  <body>
+    <table class="container" cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#ffffff" style="max-width: 600px !important; margin: auto;">
+      <tbody>
+        <tr>
+          <td class="content-wrapper main format-content" style="max-width: 600px;">
+            
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
+  <head>
+    <title>How Greg and Anna Brockman Became MAGA Megadonors</title> <!-- The title tag shows in email notifications, like Android 4.4. -->
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta charset="utf-8"> <!-- utf-8 works for most cases -->
+    <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- Supported on some email clients -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- Use the latest (edge) version of IE rendering engine -->
+    <meta name="x-apple-disable-message-reformatting" />
+    <!--[if !mso]><!-->
+    <style>
+  .footer-link {
+    color: #ffffff !important;
+    text-decoration: underline !important;
+    font-weight: normal;
+  }
+  .footer-link:hover {
+    color: $magenta !important;
+  }
+  @media screen and (max-width: 600px) {
+    .responsive-table tr td,
+    .responsive-table tr td ul li,
+    .responsive-table tr td ol li {
+      font-size: inherit;
+      line-height: inherit;
+    }
+
+    .responsive-table {
+      width: 100% !important;
+      max-width: 100% !important;
+    }
+  }
+  @media (prefers-color-scheme: dark) {
+    .background-dark {
+      background: #2f3538 !important;
+      color: #dfdfdf !important;
+    }
+  }
+</style>
+
+    <style type="text/css">
+      body, table, td, a{-webkit-text-size-adjust: 100% !important;-ms-text-size-adjust: 100% !important;}
+      table, td{mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+      img{-ms-interpolation-mode: bicubic;}
+      img{border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;}
+      table{border-collapse: collapse !important;}
+      body{height: 100% !important;margin: 0 auto !important;padding: 0 !important;width: 100% !important;}
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+      @media screen and (max-width: 525px) {
+        .mobile-button-container {
+          margin: 0 auto;
+          width: 100% !important;
+        }
+        .mobile-hide {
+          display: none !important;
+          visibility: hidden !important;
+        }
+        .mobile-logo {
+          width: 116px !important;
+        }
+        .mobile-date, .mobile-byline {
+          font-size: 12px !important;
+        }
+      }
+      @media screen and (max-width: 600px) {
+        .responsive-table tr td,
+        .responsive-table tr td ul li,
+        .responsive-table tr td ol li,
+        p {
+          font-size: inherit;
+          line-height: inherit;
+        }
+        h1 {
+          font-size: 26px !important;
+          line-height: 1.4 !important;
+        }
+        .img-max {
+          max-width: 100% !important;
+          width: 100% !important;
+          height: auto !important;
+          display: block !important;
+          margin: 0 auto 16px !important;
+        }
+        .img-container {
+          margin-bottom: 12px !important;
+        }
+        .responsive-table {
+          width: 100% !important;
+          max-width: 100% !important;
+        }
+        .padding {
+          padding-left: 5% !important;
+          padding-right: 5% !important;
+        }
+        .mobile-padding {
+          padding-left: 5% !important;
+          padding-right: 5% !important;
+        }
+        .no-padding {
+          padding: 0 !important;
+        }
+        .mobile-button {
+          font-size: 14px !important;
+          line-height: 1 !important;
+          padding: 16px 32px !important;
+          display: block !important;
+        }
+        .tablet-hide {
+          display: none !important;
+          visibility: hidden !important;
+        }
+      }
+      @media (prefers-color-scheme: dark) {
+        /* Your dark mode styles: */
+        body {
+          background: #2F3538;
+          color: #dfdfdf;
+          background: #2F3538 !important;
+          color: #dfdfdf !important;
+        }
+        .background-dark {
+          background: #2F3538;
+          color: #dfdfdf;
+          background: #2F3538 !important;
+          color: #dfdfdf !important;
+        }
+        h1, h2, h3, h4,
+        p {
+          color: #dfdfdf;
+          color: #dfdfdf !important;
+        }
+        .logo-light {
+          display: none;
+          display: none !important;
+          visibility: hidden;
+          visibility: hidden !important;
+        }
+        .logo-dark {
+          display: block;
+          display: block !important;
+          visibility: visible;
+          visibility: visible !important;
+        }
+      }
+      div[style*="margin: 16px 0"] { margin: 0 !important;}
+      html, body, h1, h2, h3, h4, h5, ul li, ol li { margin: 0;padding: 0;}
+      ul li, ol li { color: #000; }
+      .mobile-button, a, img {
+        transition: color 0.2s, opacity 0.2s;
+      }
+      a:hover {color: #f32a52 !important;}
+      .mobile-button:hover {
+        color: #ffffff !important;
+        background: #f32a52 !important;
+        border: 1px solid #f32a52 !important;
+      }
+      .content-body p {margin-bottom: 24px;-webkit-text-size-adjust: 100% !important;-ms-text-size-adjust: 100% !important;font-size: 19px;}
+      .content-body a {color: #f32a52;font-weight: bold;text-decoration: none;}
+      .content-body a:hover {color: #000 !important;}
+    </style>
+    <!--<![endif]-->
+    <!--[if mso]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+    <![endif]-->
+    <!--[if lte mso 11]>
+      <style type="text/css">
+        .outlook-group-fix {
+          width:100% !important;
+        }
+      </style>
+    <![endif]-->
+  </head>
+  <body class="body" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;height: 100% !important;width: 100% !important;margin: 0;padding: 0">
+    <!-- Visually Hidden Preheader Text : BEGIN -->
+<div class="preheader" style="display: none !important;font-size: 1px;line-height: 1px;max-height: 0px;max-width: 0px;opacity: 0;overflow: hidden;mso-hide: all;font-family: sans-serif;color: #fff;">
+  In November, Greg Brockman, OpenAI’s president and co-founder, and his wife, Anna, enjoyed a glitzy night out in Washington: a White House state dinner for Saudi Crown Prince Mohammed bin Salman. The Brockmans were among a broad contingent of tech elite in attendance at the fete, hosted by President Donald Trump. Soon after the event, the Brockmans posted pictures of themselves posing with Elon Musk, Nvidia’s Jensen Huang and his wife, Lori, and David Sacks, the venture capitalist who’s become Trump’s AI and crypto czar. It wasn’t the only time in the last few months that the Silicon Valley couple has made splashy appearances in Trump’s orbit. In the fall, they attended two other White House suppers and went to Trump’s revamped Kennedy Center Honors, dining later that evening with one of the honorees, actor Sylvester Stallone. But nothing has more loudly announced their arrival as Trump-friendly figures than their decision to become megadonors: giving $50 million to Leading the Future, a bipartisan super PAC focused on combating state-level AI regulation, and $25 million to MAGA Inc., a Trump super PAC.
+</div>
+
+    <table border="0" align="center" cellpadding="0" cellspacing="0" width="100%" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important">
+      <tr>
+        <td bgcolor="#ffffff" align="center" class="background-dark" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;max-width:600px;">
+          <!--[if (gte mso 9)|(IE)]>
+            <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
+              <tr>
+                <td align="center" width="600">
+          <![endif]-->
+          <table  border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;" class="responsive-table">
+            <div style="display: none !important;font-size: 1px;line-height: 1px;max-height: 0px;max-width: 0px;opacity: 0;overflow: hidden;mso-hide: all;font-family: sans-serif;">
+  
+</div>
+
+            <tr>
+              <td bgcolor="#ffffff" class="divider" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;max-width:600px;">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
+                  <tr>
+                    <td bgcolor="#ffffff" align="left" valign="top" style="padding: 24px 20px 0;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" class="mobile-padding background-dark">
+                      <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlvYCYiS-2F03cdUcMOgCPCyBxUkW3btpMf1IiekqWdBbLpHWM5XFZbZjWb97KeKOpSCW9uf312cJQtuLTHSTW8hxD1jkar4-2Bh54NCxTNWAWmhqT0NnjGK0gWMth2wwonGNg-3DuAFN_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FMbAogGLsuymOt33cdtLXZbSz5uFHIXZnQdMn5Njh7Tfh-2B7m9nxnkbKmOozj3VJqKWhmxM6cx6IxOv0JgGiPEkfSmsczhl1v12O3xeJyl9yuS9w-2Bpp94ZpAVI-2BpSfnB4vj1tIXKd844IREt5zEUeRtG" target="_blank" style="text-decoration: none;color: #ffffff;line-height: 0;margin: 0;padding: 0;display: block">
+                        <img alt="The Information logo"
+                          src="https://tii.imgix.net/logos/theinformation/the-information-black-text-logo-white-bg.jpg?pad=20&amp;bg=ffffff"
+                          class="mobile-logo" width="145" border="0" style="width: 145px;max-width: 145px;border: 0" />
+                      </a>
+                    </td>
+                    <td bgcolor="#ffffff" align="right" valign="top" style="padding: 24px 20px 0" class="mobile-padding background-dark">
+                      <span class="mobile-date" style="font-family: 'Suisse Int\'l Mono', monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;color: #6d686e;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%">Jan 23, 2026</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td bgcolor="#ffffff" class="divider" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;max-width:600px;">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;max-width: 600px">
+                  <tr>
+                    <td style="padding: 0 20px" class="background-dark padding">
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
+                        <tr>
+                          <td align="left" style="padding: 32px 0;font-size: 19px;line-height: 32px;font-family: 'Noto Serif', Georgia, serif;font-weight: 400;border-bottom: 2px solid #f0ece5;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;max-width: 600px;width: 100%;">
+                            
+                            
+<p class="content-highlight" style="font-family: monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;color: #f32a52;margin-bottom: 8px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
+  The Big Read
+</p>
+
+                            
+<h1 class="content-title" style="font-family: 'Suisse Works', Georgia, 'Times New Roman', Times, serif; font-weight: normal; font-size: 36px; line-height: 54px; margin-bottom: 8px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
+    <a style="color:inherit;text-decoration:none;" universal="true" href="https://url3396.theinformation.com/uni/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaN-2FAASoDgQOXjI6QYol1Sa4FInb583ORDedpNKwGF5YrioBRRHRB7IXbPYSHHVWcHhPXgAogYV5LiUdDqZtkq0rO1u-2B-2BfDEnBbKxM27bYUOFj9ICI5f4c2JWUjzFK1TceuNe4Lz-2FdDXKKtqQ8tbO4-2FJKoBGloydNgLyX0-2BfoXZTheep9MW4K5iScONydoHCSoyX7kyuBfsjVbYtiNi75CJDg-3D-3DWACa_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FN9Q3M-2FWYdVgxVtxJ3uxlVhhbwv8xKRgHbsJBIK0KeMfxSLQCcl-2F5zFsbMcG6T61yNrk7mu08MDNn1vojtdhgQbXQXBBUAr3qRhK-2F8TO3kReUzoKNmzryjt4d-2B30DS2eFZXi1c9nVvK9-2FGrdcRH-2Br-2FW">How Greg and Anna Brockman Became MAGA Megadonors</a>
+</h1>
+
+                            
+<p class="content-byline" style="font-family: Helvetica, Arial, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e;margin-bottom: 16px;font-weight: 400;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
+  By <a style="text-decoration: none; color: #6d686e; font-weight: normal;" href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBnKGRhs0Xp3T6g6kHnMBsMzxlp5mwJ9eUKmwkgRIgNKelN3on9zlAPduMX-2BVYjj1B7BnT36UXOXnX86X84UNoYqO-2Bz4EsG0sCqUFNrbcJanIoJIwDeTcFlfl11s1idz1rd6fLZ3tmHXa1fwwAR3c6-2F96V4x7hG7tIoTOAKJo2R75w-3D-3DNiRp_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FPc5nMAlCnSQ-2BfRwkCbzlMt1zRR-2FTxECqxXBaRgjZtYZ5UwZsZ6KuCYt-2BYkmR1L8y03TKqxO7gWktJZjRdrrdvmwlXWzkngvsRxyq7ivVfwk-2B1lxZDRAfk5cJx14OLmaK3-2BhBW1YgTUm6nXWn7D4Tbg">Jemima McEvoy</a>, <a style="text-decoration: none; color: #6d686e; font-weight: normal;" href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBk4OyDJ4m3ygOI9MX9I8dvIiOHJPHci3t3WVHkLpD4VlaiTJkZfpo09mwJyoDyVz-2BF5sqEnSG3suwtd1-2BwGhUdx51gNNu9Ay1EIVWwxvBe7l3C6jZCIPid3MJeCSwKypyxmYZMjNgD7SKuAyyR-2FqAdDuzFpogTQivl7wMGTPVqVJQ-3D-3D0k1L_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FNfesctSeAB0pw7SF468WFjGI7UBOh9P9iOS1RkJvh5o7Q5Ks4ZbVAGqq-2BcgnGBdBqHpWOvU3N5gZ1YdNBIUrTh-2FiZFf9alqM8t2ByEXmECxMMxjIzf-2Fnngh6cLeO0x0m17YBVhsGEALXahmaqkdYKQ">Stephanie Palazzolo</a>, and <a style="text-decoration: none; color: #6d686e; font-weight: normal;" href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkPuG3gRrMxxAbVgeyIJWeseTfJF7k1jPegHJh5p02aHx9zOuUCBHaQSCyEpeHKaNxn6S6ZVWYY8O7IvnYhtIDhts9IFAmCVa4jxRE-2FZjNscGcpv-2BlSskiyPEtZzX7JgX-2Fk7YGZwIPl4ncmVcm89ec0ACrV_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FObibg21-2FnXtArlhuQSH2GbNLihhDorQiYqbpBcJ6yPNTUpG6bFxJLzQGTVarmnrwWP-2BSyq2i7L8FgMxeOVrbSUo13dlD9b-2Fa7jOHgTWLrh29yp9sNbmYO8-2BmvYEUvelb1Vnn6W0h4RAPod4orvXQ6w">Sylvia Varnham O&#39;Regan</a>
+</p>
+
+                            
+<div style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;" class="content-body">
+  <p>In November, Greg Brockman, OpenAI’s president and co-founder, and his wife, Anna, enjoyed a glitzy night out in Washington: a White House state dinner for Saudi Crown Prince Mohammed bin Salman.</p>
+
+<p>The Brockmans were among a broad contingent of tech elite in attendance at the fete, hosted by President Donald Trump. Soon after the event, the Brockmans&nbsp;<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1QiDB9wURiZ7gTcWDsOolQMPQT5QwIFrIunsFukuH4CqZQvtgbnt2FqILnQA5w-2FkbkNDP7hgtkFL6xBehk4iFnoZqdOJJtayfi84HzeRC-2B2jWtiD5SowPMIpv5hHfBMDkPww6d2RgOwirgJoQY-2FPuE0UaFpBlYCFeuZUPS4KOT3FqC1S_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FMG9sHJWVGk7F2CiXdEoaWS-2FWHPJr2D3FgFl4t5NMvYvQUA6joZYKWrHociSHp6J-2B9LGFvlh4YU49Wsm8O7KD5CH8sOv9807Auy6QSqdEcbbyWjU7dDA6RaG5WASz7KnZzQd1TaQFaNjhu90-2FkHz3DJ">posted pictures</a>&nbsp;of themselves posing with Elon Musk, Nvidia’s Jensen Huang and his wife, Lori, and David Sacks, the venture capitalist who’s become Trump’s AI and crypto czar.</p>
+
+<p>It wasn’t the only time in the last few months that the Silicon Valley couple has made splashy appearances in Trump’s orbit. In the fall, they attended two other White House suppers and went to Trump’s revamped Kennedy Center Honors, dining later that evening with one of the honorees, actor Sylvester Stallone. But nothing has more loudly announced their arrival as Trump-friendly figures than their decision to become megadonors: giving $50 million to Leading the Future, a bipartisan super PAC focused on combating state-level AI regulation, and $25 million to MAGA Inc., a Trump super PAC.</p>
+</div>
+                              
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" style="padding: 0">
+      <table border="0" cellspacing="0" cellpadding="0" class="mobile-button-container">
+        <tr>
+          <td align="center" bgcolor="#f32a52">
+            <a class="button mobile-button" style="font-size: 16px;font-family: Helvetica, Arial, sans-serif;color: #fff;text-decoration: none;padding: 16px 154px;display: inline-block;font-weight: 400;line-height: 16px;border: 1px solid #f32a52;background: #f32a52;border-radius: 4px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;" universal="true" href="https://url3396.theinformation.com/uni/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaN-2FAASoDgQOXjI6QYol1Sa4FInb583ORDedpNKwGF5YrioBRRHRB7IXbPYSHHVWcHhPXgAogYV5LiUdDqZtkq0rPN-2FYwLO2S7FhFF4HMoDgx068GG7rTIRkl1l2tOniSrm-2BorJjMj9vr4W5mmTWKaisg69EM9GFKBe8X9dliprLXuUHD7Jeh9WAQgXcJbk99ogfHJcnBhIvzLC97hMx3tKiSu89V7cHX4bJDXv-2FeV0fbI-3DvLPp_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FO9mUfesYW0js9MTWQf0SSPznGfTNaQV7C4I4WdDmM0U1nTdqxwxV-2FZ1iAcQ6s1rn-2BLBJw7GNG04vbZ7tPL6u5DvWi98eMDd2H-2F8wC9eaPVYC-2F-2BCe5mXwSFadj8jaJ18LdSo9IPwoZuEF3RV55UrNIu">
+  <!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->
+  Read the full article
+  <!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->
+</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            
+            <tr>
+  <td bgcolor="#ffffff" class="divider">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td style="padding: 0 20px" class="background-dark padding">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td align="left" style="padding: 48px 0;font-size: 19px;line-height: 32px;font-family: 'Noto Serif', Georgia, serif;font-weight: 400;border-bottom: 1px solid #f0ece5;">
+                <h2 style="font-family: 'Suisse Works', Georgia, 'Times New Roman', Times, serif;font-weight: 500;font-size: 26px;line-height: 36px;margin-bottom: 16px;">Popular articles</h2>
+
+                <!--[if (gte mso 9)|(IE)]>
+                <table border="0" cellspacing="0" cellpadding="0" width="164" dir="ltr">
+                <tr>
+                <td width="164" valign="middle">
+                <![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" width="164" class="responsive-table img-container" style="width: 164px"><tr><td style="line-height: 0" class="img-container">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNipKnK6WqatgUoScKFjbn9NIYDJmSBqZcOhDOe4GeplziijOMdPvNc5rG24FwUkvobSYV3espBamXSJx2JJCBqdqp-2BgAU7evZHsmj37C0ZxMXH13FZLiCc-2FNgaU5IjIMhV7lZiD4jkufHMXMruNqulxerN2UJY5S8Hvk4THBxvxqrRIwPXpCp-2B9qoDa4OuGvLqFz3D2kLm55dfB1RSfRi9A76zWziXSIPBwPR2AQrPrlKpvhpZdp9Q2EVBKcT30SSMn4D_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FNaxpArsxgUBMzOY6x41bMZPzn-2FAMElq8KwyZC0iTeuZy9bUKpEvvUkAtpKMBYdDrXQJfEKKVOjJGzzBPWmH2MDhY7lL7eKpwbUR5xsrL59QTabVMDvT9PMVI-2BKOWZ1Ad6mDH6jvBm2pIyo6aaYviRx" target="_blank">
+                    <img alt="" width="164" src="https://tii.imgix.net/production/articles/16422/1aa179f8-dbd1-4058-b5a2-ea72a8115472.png?w=560&amp;auto=compress,format&amp;q=20" style="max-width: 164px;margin: 0 20px 0 0!important" class="img-max" border="0" />
+                  </a>
+                </td></tr></table>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                <td width="16">&nbsp;</td>
+                <td width="363" valign="middle" style="font-size: 16px;line-height: 22px;font-family: Georgia, serif;color: #000000">
+                <![endif]-->
+                <div style="width: 360px;float: left" class="responsive-table">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNipKnK6WqatgUoScKFjbn9NIYDJmSBqZcOhDOe4GeplziijOMdPvNc5rG24FwUkvobSYV3espBamXSJx2JJCBqdqp-2BgAU7evZHsmj37C0ZxMXH13FZLiCc-2FNgaU5IjIMhV7lZiD4jkufHMXMruNqulxerN2UJY5S8Hvk4THBxvxqrRIwPXpCp-2B9qoDa4OuGvLqFz3D2kLm55dfB1RSfRi9A76zWziXSIPBwPR2AQrPrlKpvhpZdp9Q2EVBKcT30SS_4KS_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FNo49ylcKTqGj0REA-2BBYbEWoGGDfDk7PCvuDFn3Z4-2BxHHR6yc1IGnJ7NL4-2F7W5On0g4mDyj73gQ9I02MqHBi6IZCEfZ4fVs-2BL5KdaoTdZKo5cvlVq6J7pZQ457jaMDtxmnFM-2FBxvrAfzsdGl6QQg8lq" target="_blank" style="text-decoration: none; color: inherit;">
+                    <span style="font-family: 'Suisse Int\'l', monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;display: block;margin-bottom: 8px;color: #f32a52;">Exclusive</span>
+                    <h4 style="font-family: 'Suisse Int\'l', Helvetica, Arial, sans-serif;font-size: 18px;line-height: 27px;margin: 0 0 4px;font-weight:500; color: inherit;">
+                      Thinking Machines Exodus Tests Investor Appetite for a $50 Billion Valuation
+                    </h4>
+                    <span style="font-family: Helvetica, Arial, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">
+                      By Erin Woo and Stephanie Palazzolo
+                    </span>
+                  </a>
+                </div>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                </tr>
+                </table>
+                <![endif]-->
+                <div style="clear: both"></div>
+                <br><table align="left" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td style="background: #fec6cc;padding: 1px 0 0; line-height: 0; font-size: 1px"></td></tr></table><br>
+                <!--[if (gte mso 9)|(IE)]>
+                <table border="0" cellspacing="0" cellpadding="0" width="164" dir="ltr">
+                <tr>
+                <td width="164" valign="middle">
+                <![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" width="164" class="responsive-table img-container" style="width: 164px"><tr><td style="line-height: 0" class="img-container">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNFPDRVyZ6YfRpU7VFKF84mUaZbM5mJf8pjk0FDUVmdsOcFPy-2B19d1u2jZIYq6PRLHKuR842u5Nl4FG0GRz5Ju566fzL2Oa-2BuOpPIbQGvjmJgB40v5poK0pKdnMtxbpCfMGiKVqj0P69Yf8I442IdgrEvwnTMpc7fx9Mnq7PaShsCu3QEeUnjbPYkaahcah4UHBf9flrZHuZ6y81padALFyIQGIb7mrWmoPvk-2FLNO593o-3DfmUM_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FMnsmWwQ4DWmTZSafFUUmS7du5-2F-2FScyw2D16hWKE9I3PytuZOSVEpfFVkpdc5BfM9pGARzuTuwN-2BwGmU-2BUFHGHEhLmxuqa1PbO-2Bn9HaNulsrpswlf9eOM7H29oUfva8WPgE-2BjF6YNSauUMG6MCGnWV8" target="_blank">
+                    <img alt="" width="164" src="https://tii.imgix.net/production/articles/16444/517fe562-db64-448f-b2c5-6688d22bd57e.jpg?w=560&amp;auto=compress,format&amp;q=20" style="max-width: 164px;margin: 0 20px 0 0!important" class="img-max" border="0" />
+                  </a>
+                </td></tr></table>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                <td width="16">&nbsp;</td>
+                <td width="363" valign="middle" style="font-size: 16px;line-height: 22px;font-family: Georgia, serif;color: #000000">
+                <![endif]-->
+                <div style="width: 360px;float: left" class="responsive-table">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNFPDRVyZ6YfRpU7VFKF84mUaZbM5mJf8pjk0FDUVmdsOcFPy-2B19d1u2jZIYq6PRLHKuR842u5Nl4FG0GRz5Ju566fzL2Oa-2BuOpPIbQGvjmJgB40v5poK0pKdnMtxbpCfMGiKVqj0P69Yf8I442IdgrEvwnTMpc7fx9Mnq7PaShsCu3QEeUnjbPYkaahcah4UHBf9flrZHuZ6y81padALFyIQGIb7mrWmoPvk-2FLNO593o-3DQ1ob_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FNxt-2BYL4o4pN-2B5WVZjDc3XnMCCyycmYb7eh1Ss7QBaC1h-2Bt6ixsQi12uba8EFA6m1FIYdU9vEqAs-2FXvD8zVMG6XVvMoFKg5Ti3csbWVCgNyo78ZYY7-2FhBYOioVSnlaZc1Pyv4wfjbbTnBY0ehjgmqd1" target="_blank" style="text-decoration: none; color: inherit;">
+                    <span style="font-family: 'Suisse Int\'l', monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;display: block;margin-bottom: 8px;color: #f32a52;">Exclusive</span>
+                    <h4 style="font-family: 'Suisse Int\'l', Helvetica, Arial, sans-serif;font-size: 18px;line-height: 27px;margin: 0 0 4px;font-weight:500; color: inherit;">
+                      Anthropic Lowers Gross Margin Projection as Revenue Skyrockets
+                    </h4>
+                    <span style="font-family: Helvetica, Arial, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">
+                      By Sri Muppidi
+                    </span>
+                  </a>
+                </div>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                </tr>
+                </table>
+                <![endif]-->
+                <div style="clear: both"></div>
+                <br><table align="left" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td style="background: #fec6cc;padding: 1px 0 0; line-height: 0; font-size: 1px"></td></tr></table><br>
+                <!--[if (gte mso 9)|(IE)]>
+                <table border="0" cellspacing="0" cellpadding="0" width="164" dir="ltr">
+                <tr>
+                <td width="164" valign="middle">
+                <![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" width="164" class="responsive-table img-container" style="width: 164px"><tr><td style="line-height: 0" class="img-container">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNCAMt4ugUQEQQirn6ze2-2BfLVaRHkqmwz30lIvRDHoSri3HDv76fqehWdIfLJKOv5iTCAOaxg0QbgfGFDCxfaVop-2FvOcCl0bUDR61BcDlFjB2JUcpsXmCMyLqq-2FjhKTc0f7ZjvQfxXjxzyJ1EVMpONTjNEKdjkQJkk2SG6wDIXHymcvDw3GXynWcbxEYzlgzC2q5AsHNYw48NQnLFzlU7iONDCuEKpSFrfzDcyxkFG4zQ-3D974w_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FN6aXIpgZ5GA74CRCYpx8OapThkh13LNaOi3pFQ4xahWBwKKyfZ3pgUQq8kyNcffHeGCNO4amKojd3WZFkK1aPssKAQXVDwVk2i3McC6A6-2Fq2LJUL1PEiu-2FvNK1ptzmmQBPnrztae5ruUxKh7I4rM1M" target="_blank">
+                    <img alt="" width="164" src="https://tii.imgix.net/production/articles/16434/b1598fdc-fa3a-4fd2-8a5a-6e0036f760ec.jpg?w=560&amp;auto=compress,format&amp;q=20" style="max-width: 164px;margin: 0 20px 0 0!important" class="img-max" border="0" />
+                  </a>
+                </td></tr></table>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                <td width="16">&nbsp;</td>
+                <td width="363" valign="middle" style="font-size: 16px;line-height: 22px;font-family: Georgia, serif;color: #000000">
+                <![endif]-->
+                <div style="width: 360px;float: left" class="responsive-table">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNCAMt4ugUQEQQirn6ze2-2BfLVaRHkqmwz30lIvRDHoSri3HDv76fqehWdIfLJKOv5iTCAOaxg0QbgfGFDCxfaVop-2FvOcCl0bUDR61BcDlFjB2JUcpsXmCMyLqq-2FjhKTc0f7ZjvQfxXjxzyJ1EVMpONTjNEKdjkQJkk2SG6wDIXHymcvDw3GXynWcbxEYzlgzC2q5AsHNYw48NQnLFzlU7iONDCuEKpSFrfzDcyxkFG4zQ-3D8m0U_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FMniyWe-2F8UUMo7zmTWttRvhYV-2F1cDu-2B9JM7NTWIWBGBiq9waW62UAmbufn1zPm4kGaljjP9qpbUvr-2FT5FWvl3I6NTRQazk-2BEQ2LXFiCyXbKCxgsn8-2FwcCNWLI1RicIKyP1htoZ1LxAoEY0ik4Yk61nS" target="_blank" style="text-decoration: none; color: inherit;">
+                    <span style="font-family: 'Suisse Int\'l', monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;display: block;margin-bottom: 8px;color: #f32a52;">Exclusive</span>
+                    <h4 style="font-family: 'Suisse Int\'l', Helvetica, Arial, sans-serif;font-size: 18px;line-height: 27px;margin: 0 0 4px;font-weight:500; color: inherit;">
+                      OpenAI Lines Up Advertisers, Reveals Key Details Ahead of Ads Launch
+                    </h4>
+                    <span style="font-family: Helvetica, Arial, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">
+                      By Catherine Perloff and Sri Muppidi
+                    </span>
+                  </a>
+                </div>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                </tr>
+                </table>
+                <![endif]-->
+                <div style="clear: both"></div>
+                <br><table align="left" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td style="background: #fec6cc;padding: 1px 0 0; line-height: 0; font-size: 1px"></td></tr></table><br>
+                <!--[if (gte mso 9)|(IE)]>
+                <table border="0" cellspacing="0" cellpadding="0" width="164" dir="ltr">
+                <tr>
+                <td width="164" valign="middle">
+                <![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" width="164" class="responsive-table img-container" style="width: 164px"><tr><td style="line-height: 0" class="img-container">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkayEPumDOht6B6TI0Zt47ONk9Dg6JQ7ej5NGpHG78-2FXKpBXKhcX1-2BF6ofMa1Yza58xAK-2BOgAUOpkmaLD0h-2F0jX-2FeAo-2BtfVW7KpwenBdW6dAE4RNezb7XXTbRQA2B3DyKbItwsi6N3hZPDW76wL3ckRXtqSs4jRua1ix4kFhU0gRXXh2oMSZCPsF2Yh1MB8RRJCIDatEB-2Bdr93enOZrMJpdd5K6-2BJuXfwzLPTxgR0mD3ylvD-2B6FkL0LPbQhsyQ3I4hMQo4aZpTZzExcJQ6I2DUkYxc1_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FMtyjpewuzVXC3VXVOM51wrDNVgLu-2Ba-2FDs9FztgoMwydIiVgRMBo27W8Zdqq1OAukgdR2TnSScottJV35m3xoatR7jsigIjYJ1cwdCGIH-2F8j45JHDxjCbbw8rCxbYiLeeSjFkiXTbl-2B3Dtqy4J-2Fzeeg" target="_blank">
+                    <img alt="" width="164" src="https://tii.imgix.net/production/articles/16447/e8ae4191-6f5a-400d-b29e-9835e38b34a3-SJfaks.png?w=560&amp;auto=compress,format&amp;q=20" style="max-width: 164px;margin: 0 20px 0 0!important" class="img-max" border="0" />
+                  </a>
+                </td></tr></table>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                <td width="16">&nbsp;</td>
+                <td width="363" valign="middle" style="font-size: 16px;line-height: 22px;font-family: Georgia, serif;color: #000000">
+                <![endif]-->
+                <div style="width: 360px;float: left" class="responsive-table">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkayEPumDOht6B6TI0Zt47ONk9Dg6JQ7ej5NGpHG78-2FXKpBXKhcX1-2BF6ofMa1Yza58xAK-2BOgAUOpkmaLD0h-2F0jX-2FeAo-2BtfVW7KpwenBdW6dAE4RNezb7XXTbRQA2B3DyKbItwsi6N3hZPDW76wL3ckRXtqSs4jRua1ix4kFhU0gRXXh2oMSZCPsF2Yh1MB8RRJCIDatEB-2Bdr93enOZrMJpdd5K6-2BJuXfwzLPTxgR0mD3ylvD-2B6FkL0LPbQhsyQ3I4hMQo4aZpTZzExcJQ6I2DUkNQz1_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FO9tBfi1gHCCXvnVyVBuma9w8j6WkUJRmNQmYcMjCHttfXV3MKI-2FxHy-2FTv8zWE5j9wJJGs7aMpp1cFuzCsHbeq1te1t1tm-2BZJHXdKhByvV-2F-2BvknsqRnhZdPOZPmW4A2p2G545KS24p0w8kPrfONI7Ln" target="_blank" style="text-decoration: none; color: inherit;">
+                    <span style="font-family: 'Suisse Int\'l', monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;display: block;margin-bottom: 8px;color: #f32a52;">Applied AI</span>
+                    <h4 style="font-family: 'Suisse Int\'l', Helvetica, Arial, sans-serif;font-size: 18px;line-height: 27px;margin: 0 0 4px;font-weight:500; color: inherit;">
+                      OpenAI Plans to Take a Cut of Customers’ AI-Aided Discoveries
+                    </h4>
+                    <span style="font-family: Helvetica, Arial, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">
+                      By Amir Efrati
+                    </span>
+                  </a>
+                </div>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                </tr>
+                </table>
+                <![endif]-->
+                <div style="clear: both"></div>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+            <tr>
+  <td bgcolor="#ffffff" class="divider">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td style="padding: 0 20px" class="background-dark padding">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td align="left" style="padding: 48px 0 0;font-size: 18px;line-height: 27px;font-family: Verdana, serif;color: #000;font-weight: 400;">
+                <h2 style="font-family: Georgia, Times, serif;font-weight: 400;font-size: 26px;line-height: 36px;margin-bottom: 16px;margin-top: 0;">
+                  Opportunities
+                </h2>
+                <h4 style="font-family: Verdana, sans-serif;font-size: 18px;line-height: 27px;margin-bottom: 8px;margin-top: 0;">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlgaThIaQhhxP-2B18aQkVacQa-2BbGcb9fvNdGV7qVgiOyEIdSVCJFsORDX2dr1MYHCVQqMElygmvQBgh-2BUlG7u-2BYWTTT8bt-2F1ecK8cj2E1tUTUvyaYniqxypdotutqZgRGvQwFfHKAkrZKX6dwQTFZmSXGQQo_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FPE3rd6OaDnhZCMUNYNYcd0h5IV4nqnfbVIr06vZRj-2BDkRuxFdAtycN8uYbYQsWxNLJ2Uj0XSFZL88QBAhxQGVyKnkHcjFPnngLdxOW21KN7CvizgQmfLYq-2BQzD-2FGtgwTlaxCbaqcXSsLxNMZCuCZSL" target="_blank" style="text-decoration: none;color: inherit;font-weight: 700;">
+                    Group subscriptions
+                  </a>
+                </h4>
+                <p style="font-family: Verdana, sans-serif;margin: 8px 0;font-weight: 400;">Empower your teams to stay ahead of market trends with the most trusted tech journalism.</p>
+                <p style="margin: 0;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlgaThIaQhhxP-2B18aQkVacQa-2BbGcb9fvNdGV7qVgiOyEIdSVCJFsORDX2dr1MYHCVQqMElygmvQBgh-2BUlG7u-2BYWTTT8bt-2F1ecK8cj2E1tUTUvyaYniqxypdotutqZgRGvQwFfHKAkrZKX6dwQTFZmSXls6O_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FNV41LgO766fxzugvyqFvrZmGQRjYVnRrL2IzRr4AO4LxCHBmNzT5cMjc18Ro6yY5p-2FLbaW4-2BuixJZ8o6jHDGu9I8WnboYtQxn-2Bq-2FblAZYoDxZP4buhhJlZgjxM9uUcAkRBlGPgE-2BJ-2FXRdBdadYGjZo" target="_blank" style="font-family: Verdana, sans-serif;text-decoration: underline;color: #f32a52;font-weight: 400;line-height:24px;font-size: 16px;">Learn more</a></p>
+                <table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 24px 0"><tr><td style="background: #fec6cc;padding: 1px 0 0;line-height: 0;font-size: 1px"></td></tr></table><br>
+                <h4 style="font-family: Verdana, sans-serif;font-size: 18px;line-height: 27px;margin-bottom: 8px;margin-top: 0;">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkXfGE0AkbtBrzl4aUS5O2KNdNYXa5mgGSNJhsksQ21m75EruhwlHl0VwdpgyNrFiS16S8LmSEMKszbecuYgwpNMvOgMbG-2BSaknLsbUSVKVMak2JZAy6YYFfkoMloBa-2FaBJM1X3-2FNeBusiYneRTu3-2BcBtOH_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FMj-2BDhtjZvNi7qy7LrsvDl1r-2FpBeHhe9LJpcJxsz9Kbl5LSvitTqM7uvHAdRO3bhKG-2BDaNBO4fql0aGuSFfNTqyJFfhErHDkLvsCDKKZxWNFftscFA9V5k1ZgF4NkggmfcCKA6vYfY-2BowFsY751bAFT" target="_blank" style="text-decoration: none;color: inherit;font-weight: 700;">
+                    Brand partnerships
+                  </a>
+                </h4>
+                <p style="font-family: Verdana, sans-serif;margin: 8px 0;font-weight: 400;">Reach The Information&rsquo;s influential audience with your message.</p>
+                <p style="margin: 0;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkXfGE0AkbtBrzl4aUS5O2KNdNYXa5mgGSNJhsksQ21m75EruhwlHl0VwdpgyNrFiS16S8LmSEMKszbecuYgwpNMvOgMbG-2BSaknLsbUSVKVMak2JZAy6YYFfkoMloBa-2FaBJM1X3-2FNeBusiYneRTu3-2BcY_EJ_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FPxKUSaFapWiNiuFtKTDWPLQSD1XwgLFXSKYlNWthb8ozc947ueNU6bcdOMyWHTPF8A7a3hBXFbjOO0Kg8lN-2FpwqT4jaZH7X6wyquJeAEQT3rDMEBnvx4-2FtFmTm5DIiHGhtf2J3F7Ig4HOCIP0i-2FyqG" target="_blank" style="font-family: Verdana, sans-serif;text-decoration: underline;color: #f32a52;font-weight: 400;line-height:24px;font-size: 16px;">Connect with our team</a></p>
+                <table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top: 48px;"><tr><td style="background: #f0ece5;padding: 1px 0 0;line-height: 0;font-size: 1px"></td></tr></table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+          </table>
+          <!--[if (gte mso 9)|(IE)]>
+              </td>
+            </tr>
+          </table>
+          <![endif]-->
+        </td>
+      </tr>
+      <tr>
+  <td bgcolor="#ffffff" class="background-dark">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <table
+            width="600"
+            border="0"
+            cellspacing="0"
+            cellpadding="0"
+            style="width: 600px; max-width: 600px"
+            bgcolor="#ffffff"
+            class="responsive-table"
+          >
+            <tr>
+              <td
+                align="center"
+                style="padding: 45px 75px; padding-top: 45px !important; padding-bottom: 45px !important; font-family: Suisse Screen, Helvetica, Arial, sans-serif; font-weight: normal; font-size: 12px; line-height: 24px; font-size: 12px !important; line-height: 24px !important; color: #ffffff; background: #2F3538;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;"
+                class="background-dark padding"
+              >
+                <span
+                  style="font-family: 'Suisse Int\'l Mono', monospace, Helvetica, Arial, sans-serif; font-size: 14px; color: #F32A52"
+                >Follow us</span>
+                <table width="227.85" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1T2Sl5PeJ-2FG7XEaBvfWxfrQHbwmq5gLU2ojiuowH64rJBj-2BXB6C9UBnLd5uDA0OPkzjJvALNAX05BKspQYMbXWAuNNnB1e0xFvNmRBIb-2BbOifnC5POh4Us6FZ2c9oWv7zCRz7IKriWEAHqYpjvFXHiY-3DCiPG_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FMHRe9KcBdEWAGpBuFmitEzK2FhZAV8d85IwFRkUvVvtSv8RM1bVDic6ldT81WxsFoGX-2BWU6TdDTZe8MxM3GBS5emDsry-2FdFkZ6w180vC-2B4dnofS8SIA-2F6DM3ae9q7ZjyDdaXZ7fg8tIbHmcUaelhAg"
+                        target="_blank"
+                        style="text-decoration: none;"
+                      >
+                        <img width="32" src="https://tii.imgix.net/global/email/icon-X-v3.png" alt="X" border="0">
+                      </a><br>
+                    </td>
+                    <td width="32" valign="middle"></td>
+                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1YCFIgUTnTtU9jcXdi5OlS4DnFensodraGNsXFNZLRKsOkUFKt9aKkvfZp-2FSglSxfcQA5R6BJTwq1KR4o1rz281uE5YzM2dIrm1plX7HgGIIgfJ2k95h4Fv0knEMgOumO103ZAAZ12B-2F8wOSRzBvENL0ModIMbt-2Bph3nVxON0dMeapAO_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FOTKmxVgQlCYb0q0ijwGofB46gPEiGh2GxiGF7i-2FI15Cw1HP-2Fnxpz-2B8iuteFfdWYGp8tidjz3bT9zjvjpJJV-2BpTt4cgIebaftUQ-2Fwx-2BSNAH6XHJk5P4wtOzZdlWzOdCDdT9G1Eicd3qBLLqrF-2BLcKdb"
+                        target="_blank"
+                        style="text-decoration: none"
+                      >
+                        <img width="32" src="https://tii.imgix.net/global/email/icon-linkedin-v3.png" alt="LinkedIn" border="0">
+                      </a><br>
+                    </td>
+                    <td width="32" valign="middle"></td>
+                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1dMu7bhLyA2t3R-2B-2Be0O7TUhTGcCztTV72-2BitQZ9RP9u7mPvffDgEtbfIxnCYoxVjmZwU-2F4wJBDbSU1NSG1isg34lEo-2BiWyPOebxPCDHxMyjDrT9sglbbs1giDTQWlnUWPQ1YDZGj4TdfVway-2BGQt-2BqeyP1779M9oXDk9iw2QEwXDSkD__CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FO0-2BUiWaPtV-2FNgMy6qGBZBJPPT4cdQ-2FtC8NzUFpDLhOskve9WGCn2ifT-2FEX5AA7Ow7n3mR6RnbllFCqqFlmyl3OmW0O-2BmoYoTTLMyQ6fNRaOtXomq1Qz2N9LnWfpMKul3RvFidzpFfqf1-2F-2BRWjNGbF9"
+                        target="_blank"
+                        style="text-decoration: none"
+                      >
+                        <img width="32" src="https://tii.imgix.net/global/email/icon-facebook-v3.png" alt="Facebook" border="0">
+                      </a><br>
+                    </td>
+                    <td width="32" valign="middle"></td>
+                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1cH8QhuXOWazGIIpzuv5CPjwlNYj84mRAH9436zZAMWljvmgShg1z9AjH54DR-2FJmaxwE0lfdqeO6aF2rnrTc-2B6yV4vQ72eoUKuuQTG8zbqbFxuh-2FVTRCVpqppdkwDhdICy3Fi6CRuwyiTIGDmHq-2Flviet2Czx-2BCP-2BgEjy8s4P6yzn4gU_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FNfjjH45dygO3b9zaCMCeCT2EzP7UmnRGq-2FVl7JjELSOuCYdUHnr9xLjjgYrpHT30x-2F0K0bMFMph4SB4JNtkAgUkBfE-2FsiS1MlIy5wvem8yzcsoDP5kksXmH6PQUxepfo-2F4HVPWwlKeYJWOQ8dmBKJH"
+                        target="_blank"
+                        style="text-decoration: none"
+                      >
+                        <img width="32" src="https://tii.imgix.net/global/email/icon-threads-v3.png" alt="Threads" border="0">
+                      </a><br>
+                    </td>
+                    <td width="32" valign="middle"></td>
+                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1eYsgqOksHLUoTSKBWk98czesKR7FvhLK0QjueixeWfEymYo67WgCfLTgN9bBamsRxs-2FfbX47PLmDZFfmR9ddZdchG9OlGO7Sr5lS5FAomr8s9T258PtS1ETqyUwt6v1LHmREKng-2FoweBbhEklKuqbgd0h88kS-2FUVZ5k7Hwx5sHofn9A_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FPGgg9lvODxbjj8ZD8rqdlbNp6TwpUR6uqMjLVcen9lQkQQlEzWCLOgcF3npWjWM9oH2Pywt605eHFcn8Cr1sRAcgLgNXbP107YghZ-2F6cxXcolGM90A8KnwcqsxbAcLtnC9TtkbUMw5EWcEx8RbyKxP"
+                        target="_blank"
+                        style="text-decoration: none"
+                      >
+                        <img width="32" src="https://tii.imgix.net/global/email/icon-instagram-v3.png" alt="Instagram" border="0">
+                      </a><br>
+                    </td>
+                  </tr>
+                </table>
+                Sent to info@vibexcap.c&#173;om
+                |
+                <a
+                  href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmRyOSkt-2B6tut-2FgIJZjZ88GSa6oVYM0I7-2FTSqls99-2BpFjBk4wPLczKh9A2juBJWw-2FC64TkxcdZ1Futgv-2FK-2BN-2BrnjrTJ8L11PgelJ3R2g3lu0bIhnq0l3eM0peY8UdfK8q2NmiWKntKGmPHIbO1wzC2ZM6Tzk4ftoyhHwmLWmfYo-2BlGSCDV-2FOfNwiDsvAlVjF8Y9C6H0MKOzdUFOa6TPkmUrAlyTY-2BAaMNaDs3EwjMfV7VCs5a8HG60-2BTD1WHXDU9J5hYix0as6XehHq6rSeFKKOLQFAhFkdBycKC8F3UsVUX6LoK-2FmtlljzLAs5V9l76DHa0Bp0JqhEoJ-2BplkIhcCKw8L9Ch32nGhIriLsc5ZTWOw-3D-3DvbrU_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FP6BM0gqEvVQTFUh7ZRicQQnorGq-2BDEAT3iJjq57jBGjT3ehuw5Mv61wp8GDkK7DsTbZCXndrq3bo5tP-2BolUUR7Uh-2FyeEE2QHGWif-2FpyBhJT8CsxIYqyFm0PH05XXre2a7KzXmXhHEMYP9kfjqRe7-2FM"
+                  target="_blank"
+                  class="footer-link"
+                >Manage your preferences or unsubscribe</a>
+                |
+                <a
+                  href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1ZwsjdD8U8HPRHZODNtX5742xNsoxaJ40flKf35Cvt1CHBFE8dGLv92qL5h-2BGtShTp2SxIPlu4MrAdMlBQtsNK3jikyGl1eYTmsCEjA2fD08qbMOoTqGxNrUz6z0fqjbAC7o-2Bh4200n4X4gjAhuGFVocAtkWZhG7AomJbkxRbt95563C_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FNJLVg8PdwjwlylgkQEf-2F2KJUmyHC-2Fp-2FHe6rXZNwP5zEK3cXWC-2BSoGNCiRhMh2esOtfu4hL7dw3ulrO4bDTU8xU1fecD158jqdU79h3MYFUmTwbYISSxIbYgaH-2BOdUiziMYdGIN2fkPlqk64QgxXJHS"
+                  target="_blank"
+                  class="footer-link"
+                >Help</a>
+                <a href="#" style="color: #ffffff !important; text-decoration: none !important; font-weight: normal !important">The&nbsp;Information &middot;&nbsp;251&nbsp;Rhode&nbsp;Island&nbsp;Street,&nbsp;Suite&nbsp;107,&nbsp;San Francisco,&nbsp;CA&nbsp;94103</a><br>
+                <br>
+                <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmN-2BtioNXgRiKmS6QeiVMUmf1kk36DAm-2FsCscr1R8-2FpHXzZj8DFSUZAew8jPs4IufC4vuzLAwrtVTS7U6yj6CqzcI8sXndsI08cuVYHqqh2nbgCzUN5BbQS9o7Mu9WSxqQ-3D-xiL_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BoRhg7ZNNQd1vM1qWS5aVmqSK9P5lvvLEaexty16XGAZOzkBuKssEchTk4y3zeHaU9LkHPDwrqHDfY5Q5EmFpeXH93fkvN-2FO212Q1qOr68KY9tV5J7F-2FnTTMJ8PvwF9VN9t8GqE9nMFAMMWAr1TM0-2FNM4to9g1Gf5XcDPW6RR6LVar7CGyFfnhSpnSs97ZJAYg5p-2B9DA4vGqTnds9NLnD71wIzU0437haBD6y1UUdu-2F9emu4FrDZK4gYEELHKCEfbrxvjYRItX6UqjAbtcsQQKqITHNjFa4Vim-2B3JaCawtN0" target="_blank">
+                  <img
+                    alt=""
+                    width="20"
+                    border="0"
+                    src="https://tii.imgix.net/global/email/logo.png"
+                    style="width: 20px; max-width: 20px; height: auto; border: 0"
+                  >
+                </a>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+    </table>
+  </body>
+</html>
+
+          </tr>
+      </tbody>
+    </table>
+    <!--[if (gte mso 9)|(IE)]>
+          </td>
+        </tr>
+      </table>
+    <![endif]-->
+  <img src="https://url3396.theinformation.com/wf/open?upn=u001.Vk1lvOTnrxw-2FfL8-2BmGyNhxdTSlGmmtgiIYT5kEvVfr1vFY5QSfRIs2AD8XouQ1krKJ5nznT-2FpNP4f0VTgAV1Osv5nzWICK2oVXUbpDltWOjxFJgBZVVExi330Xs-2F2xdakq2Ai3LkDobVVlhDcH9c5TXxMv3B2Kg5sZ0Ab9ZNQfjdfzd27x0aC6xi5kd8T8p8BTdNCcrOX2jNZOkGEb3KGhy3ajJzS98NF4Q9DY50SxYXbn4TztgFp-2BR10G3dNjrLrcF1lWzW4XKdWCC6aB4BRaVvwFZwgSEJu54rGoHWHHHRiHt-2B5ROyrjzmnR-2BSe0lacSIosA9dq9nLGlQ0UXEiG6F-2F4Enmg2RXGKXsZ3hJZ3yIaa7p84KmAhl8XV7TAYOo" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/></body>
+</html>
+]]></description>
+    <pubDate>Fri, 23 Jan 2026 19:08:04 GMT</pubDate>
+    <guid>19bec422ebe59d52</guid>
+    <author>&quot;The Information&quot; &lt;hello@theinformation.com&gt;</author>
+  </item>
 
   <item>
     <title>Major Crypto Exchanges Are Racing to Offer U.S. Stocks</title>
@@ -9584,88 +10223,6 @@ style="margin:0;margin-bottom:16px">You’re receiving this email because you si
     <pubDate>Thu, 22 Jan 2026 20:17:14 GMT</pubDate>
     <guid>19be75b4e8a1a769</guid>
     <author>&quot;WIRED Made in China&quot; &lt;wired@newsletters.wired.com&gt;</author>
-  </item>
-
-  <item>
-    <title>How Claude Code is reshaping software—and Anthropic</title>
-    <description><![CDATA[<!DOCTYPE html><html lang="en-US" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en"><head><title>How Claude Code is reshaping software—and Anthropic</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><!--[if mso]>
-<xml><w:WordDocument xmlns:w="urn:schemas-microsoft-com:office:word"><w:DontUseAdvancedTypographyReadingMail/></w:WordDocument>
-<o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml>
-<![endif]--><!--[if !mso]><!--><!--<![endif]--><style>
-*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{color:inherit!important;text-decoration:inherit!important}#MessageViewBody a{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.desktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.image_block img+div{display:none}sub,sup{font-size:75%;line-height:0}#converted-body .list_block ol,#converted-body .list_block ul,.body [class~=x_list_block] ol,.body [class~=x_list_block] ul,u+.body .list_block ol,u+.body .list_block ul{padding-left:20px} @media (max-width:620px){.social_block.desktop_hide .social-table{display:inline-block!important}.mobile_hide{display:none}.row-content{width:100%!important}.stack .column{width:100%;display:block}.mobile_hide{min-height:0;max-height:0;max-width:0;overflow:hidden;font-size:0}.desktop_hide,.desktop_hide table{display:table!important;max-height:none!important}.row-10 .column-1,.row-11 .column-1,.row-12 .column-1,.row-13 .column-1,.row-14 .column-1,.row-15 .column-1,.row-16 .column-1,.row-19 .column-1,.row-2 .column-1,.row-3 .column-1,.row-4 .column-1,.row-5 .column-1,.row-6 .column-1,.row-7 .column-1,.row-8 .column-1{padding:0 20px!important}.row-9 .column-1{padding:0 26px!important}.row-17 .column-1,.row-18 .column-1{padding:10px 5px 10px 20px!important}.row-17 .column-2,.row-18 .column-2{padding:10px 20px 10px 10px!important}}
-</style><!--[if mso ]><style>sup, sub { font-size: 100% !important; } sup { mso-text-raise:10% } sub { mso-text-raise:-10% }</style> <![endif]--></head><body class="body" style="background-color:#fff;margin:0;padding:0;-webkit-text-size-adjust:none;text-size-adjust:none"><div class="sailthru-emco-preheader" style="display: none; max-height: 0px; overflow: hidden;">The head of Claude Code reveals he now writes 100 percent of his code with AI.</div><div style="display:none"><a href=""><img src="https://link.wired.com/img/6929c570cbb9bd0553080c70q092v.1dj/7efe2085.gif" alt="" border="0" /></a></div><table class="nl-container" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fff"><tbody><tr><td><table class="row row-1" align="center" 
-width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fbfbfb"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;color:#000;width:600px;margin:0 auto" width="600"><tbody><tr><td class="column column-1" width="100%" 
-style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;vertical-align:top"><table class="html_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad"><div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:center" align="center">
-<img src="https://ib.adnxs.com/getuid?https%3A%2F%2Fapi.permutive.com%2Fv2.0%2Fpx%2Ftrack%3Fk%3D03216d60-04fb-482f-a220-f2d58e573301%26i%3D%24UID%26e%3DEmailOpen%26it%3Dappnexus%26p%3D%257B%2522market%2522%253A%2522US%2522%252C%2522uID%2522%253A%252271c983434f32230718a961a16a1d290182bd21582957b14537b3abca24b8137b%2522%252C%2522esp%2522%253A%2522Sailthru%2522%252C%2522campaign%2522%253A%2522WIR_PremiumModelBehavior_012226%2522%252C%2522brand%2522%253A%2522wired%2540newsletters.wired.com%2522%252C%2522cID%2522%253A%25220%2522%257D" width="1" height="1" border="0" /></div></td></tr></table><table class="paragraph_block block-2" width="100%" border="0" cellpadding="0" 
-cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class="pad" style="padding-bottom:10px"><div style="color:#757575;direction:ltr;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;font-size:11px;font-weight:400;letter-spacing:0;line-height:1.2;text-align:center;mso-line-height-alt:13px"><p style="margin:0">
-<a href="https://link.wired.com/view/6929c570cbb9bd0553080c70q092v.1dj/b0168516" target="_blank" rel="noopener" style="text-decoration: underline; color: #757575;">View in browser</a>&nbsp; | &nbsp;<a href="https://link.wired.com/click/43681783.1783/aHR0cHM6Ly93d3cud2lyZWQuY29tL25ld3NsZXR0ZXI_dXRtX3NvdXJjZT1ubCZ1dG1fYnJhbmQ9d2lyZWQmdXRtX21haWxpbmc9V0lSX1ByZW1pdW1Nb2RlbEJlaGF2aW9yXzAxMjIyNiZ1dG1fY2FtcGFpZ249YXVkLWRldiZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jb250ZW50PVdJUl9QcmVtaXVtTW9kZWxCZWhhdmlvcl8wMTIyMjYmYnhpZD02OTI5YzU3MGNiYjliZDA1NTMwODBjNzAmY25kaWQ9OTE2MTYzMjgmaGFzaGE9MGY4YzdjZTNlOGUzZTM4MGU3NGFmY2JmZDllOTdlOTcmaGFzaGI9M2FiMzExMGQ4YzYwMmUzMDYxMWU3YjlkODM3YzU3YWNiMjQxY2E2OSZoYXNoYz03MWM5ODM0MzRmMzIyMzA3MThhOTYxYTE2YTFkMjkwMTgyYmQyMTU4Mjk1N2IxNDUzN2IzYWJjYTI0YjgxMzdi/6929c570cbb9bd0553080c70Bf426e53a" target="_blank" rel="noopener" style="text-decoration: underline; color: #757575;">Update preferences</a>&nbsp;</p></div></td></tr></table><table class="image_block block-3" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad" style="width:100%"><div class="alignment" align="center"><div style="max-width:600px">
-<a href="https://link.wired.com/click/43681783.1783/aHR0cHM6Ly93d3cud2lyZWQuY29tL3RhZy9tb2RlbC1iZWhhdmlvci8_dXRtX3NvdXJjZT1ubCZ1dG1fYnJhbmQ9d2lyZWQmdXRtX21haWxpbmc9V0lSX1ByZW1pdW1Nb2RlbEJlaGF2aW9yXzAxMjIyNiZ1dG1fY2FtcGFpZ249YXVkLWRldiZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jb250ZW50PVdJUl9QcmVtaXVtTW9kZWxCZWhhdmlvcl8wMTIyMjYmYnhpZD02OTI5YzU3MGNiYjliZDA1NTMwODBjNzAmY25kaWQ9OTE2MTYzMjgmaGFzaGE9MGY4YzdjZTNlOGUzZTM4MGU3NGFmY2JmZDllOTdlOTcmaGFzaGI9M2FiMzExMGQ4YzYwMmUzMDYxMWU3YjlkODM3YzU3YWNiMjQxY2E2OSZoYXNoYz03MWM5ODM0MzRmMzIyMzA3MThhOTYxYTE2YTFkMjkwMTgyYmQyMTU4Mjk1N2IxNDUzN2IzYWJjYTI0YjgxMzdi/6929c570cbb9bd0553080c70B60c11f01" target="_blank"><img src="https://media.sailthru.com/fss/fbht11/cc763ed1-ca94-4fbf-a2eb-5e90bdda7569/Subscriber.png" style="display:block;height:auto;border:0;width:100%" width="600" alt="Model Behavior" title="Model Behavior" height="auto"></a></div></div></td></tr></table></td></tr></tbody></table></td></tr></tbody></table><table class="row row-2" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" 
-role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fbfbfb"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#f6f4f0;border-radius:0;color:#000;width:600px;margin:0 auto" width="600"><tbody><tr><td class="column column-1" width="100%" 
-style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-left:40px;padding-right:40px;vertical-align:top"><table class="html_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad"><div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:center" align="center"></div></td></tr></table><table class="text_block block-2" width="100%" 
-border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class="pad" style="padding-bottom:25px;padding-top:18px"><div style="font-family:sans-serif"><div class style="font-size:14px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;mso-line-height-alt:18.2px;color:#000;line-height:1.3"><p style="margin:0;font-size:14px;mso-line-height-alt:23.400000000000002px">
-<span style="word-break: break-word; font-size: 18px;"><strong><span style="word-break: break-word; font-size: 30px;">■ </span>In this week’s <i>Model Behavior:</i></strong> <span style="word-break: break-word; color: #555555;">Maxwell Zeff spoke with Boris Cherny, head of Claude Code, about how the viral coding tool is changing the way Anthropic works.</span></span></p></div></div></td></tr></table><table class="divider_block block-3" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad" 
-style="padding-bottom:1px;padding-top:1px"><div class="alignment" align="center"><table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="divider_inner" style="font-size:1px;line-height:1px;border-top:3px solid #000"><span style="word-break: break-word;">&#8202;</span></td></tr></table></div></td></tr></table><table class="html_block block-4" width="100%" border="0" cellpadding="0" cellspacing="0" 
-role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad"><div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:center" align="center"></div></td></tr></table><table class="image_block block-5" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad" style="padding-top:25px;width:100%;padding-right:0;padding-left:0"><div class="alignment" 
-align="left"><div style="max-width:26px"><img src="https://media.sailthru.com/composer/images/bazh/qlld270o/y4g/5xl/mf8/Modebehavior-quote.png" style="display:block;height:auto;border:0;width:100%" width="26" alt title height="auto"></div></div></td></tr></table><table class="paragraph_block block-6" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class="pad" 
-style="padding-bottom:8px;padding-top:8px"><div style="color:#000;direction:ltr;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;font-size:28px;font-weight:700;letter-spacing:0;line-height:1;text-align:left;mso-line-height-alt:28px"><p style="margin:0">This is the golden age for people with short attention spans</p></div></td></tr></table><table class="paragraph_block block-7" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td 
-class="pad" style="padding-bottom:7px;padding-top:7px"><div style="color:#000;direction:ltr;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;font-size:18px;font-weight:400;letter-spacing:0;line-height:1.5;text-align:left;mso-line-height-alt:27px"><p style="margin:0">Hi, <a href="https://link.wired.com/click/43681783.1783/aHR0cHM6Ly93d3cud2lyZWQuY29tL2F1dGhvci9tYXh3ZWxsLXplZmYvP3V0bV9zb3VyY2U9bmwmdXRtX2JyYW5kPXdpcmVkJnV0bV9tYWlsaW5nPVdJUl9QcmVtaXVtTW9kZWxCZWhhdmlvcl8wMTIyMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JmJ4aWQ9NjkyOWM1NzBjYmI5YmQwNTUzMDgwYzcwJmNuZGlkPTkxNjE2MzI4Jmhhc2hhPTBmOGM3Y2UzZThlM2UzODBlNzRhZmNiZmQ5ZTk3ZTk3Jmhhc2hiPTNhYjMxMTBkOGM2MDJlMzA2MTFlN2I5ZDgzN2M1N2FjYjI0MWNhNjkmaGFzaGM9NzFjOTgzNDM0ZjMyMjMwNzE4YTk2MWExNmExZDI5MDE4MmJkMjE1ODI5NTdiMTQ1MzdiM2FiY2EyNGI4MTM3Yg/6929c570cbb9bd0553080c70B78e49922" style="color:#406D8E; font-weight:bold;">Maxwell Zeff</a> here, back with your weekly dispatch from the heart of the AI world.<br><br>Engineers in Silicon Valley have been raving about Anthropic’s AI coding tool, <a href="https://link.wired.com/click/43681783.1783/aHR0cHM6Ly93d3cud2lyZWQuY29tL3N0b3J5L3doeS1kaWQtYS0xMC1iaWxsaW9uLWRvbGxhci1zdGFydHVwLWxldC1tZS12aWJlLWNvZGUtZm9yLXRoZW0tYW5kLXdoeS1kaWQtaS1sb3ZlLWl0Lz91dG1fc291cmNlPW5sJnV0bV9icmFuZD13aXJlZCZ1dG1fbWFpbGluZz1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9V0lSX1ByZW1pdW1Nb2RlbEJlaGF2aW9yXzAxMjIyNiZieGlkPTY5MjljNTcwY2JiOWJkMDU1MzA4MGM3MCZjbmRpZD05MTYxNjMyOCZoYXNoYT0wZjhjN2NlM2U4ZTNlMzgwZTc0YWZjYmZkOWU5N2U5NyZoYXNoYj0zYWIzMTEwZDhjNjAyZTMwNjExZTdiOWQ4MzdjNTdhY2IyNDFjYTY5Jmhhc2hjPTcxYzk4MzQzNGYzMjIzMDcxOGE5NjFhMTZhMWQyOTAxODJiZDIxNTgyOTU3YjE0NTM3YjNhYmNhMjRiODEzN2I/6929c570cbb9bd0553080c70B2fba1dc2" style="color:#406D8E; font-weight:bold;">Claude Code</a>, for months. But recently, the buzz feels as if it’s reached a fever pitch.<br><br>Earlier this week, I sat down with Boris Cherny, head of Claude Code, to try to understand how the company is meeting this moment. <br><br>“We built the simplest possible thing,” said Cherny. “The craziest thing was learning three months ago that half of the sales team at Anthropic uses Claude Code every week.”<br><br>AI-powered coding has evolved quickly. From 2021 to 2024, most tools functioned as little more than autocomplete, suggesting a few lines of code as developers typed. By early 2025, startups like Cursor and Windsurf began rolling out early “agentic” coding products, which let developers describe a feature in plain language and leave the rest up to an AI agent. <br><br>Claude Code launched around this time too. Cherny acknowledges that early versions of Claude Code often stumbled, making errors or getting stuck in costly loops. Cherny says Anthropic built Claude Code for where AI capabilities were headed, rather than where they were at launch.<br><br>That bet was prescient. Several developers claim AI coding products reached an <a href="https://link.wired.com/external/43681783.1783/aHR0cHM6Ly93d3cuaW50ZXJjb25uZWN0cy5haS9wL2NsYXVkZS1jb2RlLWhpdHMtZGlmZmVyZW50P3V0bV9zb3VyY2U9bmwmdXRtX2JyYW5kPXdpcmVkJnV0bV9tYWlsaW5nPVdJUl9QcmVtaXVtTW9kZWxCZWhhdmlvcl8wMTIyMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JmJ4aWQ9NjkyOWM1NzBjYmI5YmQwNTUzMDgwYzcwJmNuZGlkPTkxNjE2MzI4Jmhhc2hhPTBmOGM3Y2UzZThlM2UzODBlNzRhZmNiZmQ5ZTk3ZTk3Jmhhc2hiPTNhYjMxMTBkOGM2MDJlMzA2MTFlN2I5ZDgzN2M1N2FjYjI0MWNhNjkmaGFzaGM9NzFjOTgzNDM0ZjMyMjMwNzE4YTk2MWExNmExZDI5MDE4MmJkMjE1ODI5NTdiMTQ1MzdiM2FiY2EyNGI4MTM3Yg/6929c570cbb9bd0553080c70B909f1183" style="color:#406D8E; font-weight:bold;">inflection point</a> in recent months, particularly around the launch of Anthropic’s latest AI model, <a href="https://link.wired.com/external/43681783.1783/aHR0cHM6Ly93d3cuYW50aHJvcGljLmNvbS9uZXdzL2NsYXVkZS1vcHVzLTQtNT91dG1fc291cmNlPW5sJnV0bV9icmFuZD13aXJlZCZ1dG1fbWFpbGluZz1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9V0lSX1ByZW1pdW1Nb2RlbEJlaGF2aW9yXzAxMjIyNiZieGlkPTY5MjljNTcwY2JiOWJkMDU1MzA4MGM3MCZjbmRpZD05MTYxNjMyOCZoYXNoYT0wZjhjN2NlM2U4ZTNlMzgwZTc0YWZjYmZkOWU5N2U5NyZoYXNoYj0zYWIzMTEwZDhjNjAyZTMwNjExZTdiOWQ4MzdjNTdhY2IyNDFjYTY5Jmhhc2hjPTcxYzk4MzQzNGYzMjIzMDcxOGE5NjFhMTZhMWQyOTAxODJiZDIxNTgyOTU3YjE0NTM3YjNhYmNhMjRiODEzN2I/6929c570cbb9bd0553080c70B4c891c6f" style="color:#406D8E; font-weight:bold;">Claude Opus 4.5</a>.<br><br>Kian Katanforoosh, an adjunct lecturer on AI at Stanford and the CEO of the startup Workera, says his company recently switched over to Claude Code after testing several AI coding tools internally. Ultimately, he says, Claude Code worked better for his senior engineers than tools from Cursor and Windsurf.<br><br>“The only model I can point to where I saw a step-function improvement in coding abilities recently has been Claude Opus 4.5,” says Katanforoosh. “It doesn’t even feel like it’s coding like a human, you sort of feel like it has figured out a better way.”<br><br>Last year, the business of AI coding agents took off. In November, Anthropic announced that Claude Code had reached $1 billion in annualized recurring revenue, less than a year after its debut.<br><br>By the end of 2025, Claude Code’s ARR had grown by at least another $100 million, according to a person familiar with the company’s financials. At the time the product accounted for roughly 12 percent of Anthropic’s total ARR, which stood around $9 billion. While still smaller than Anthropic’s enterprise business—which supplies AI systems to entire corporations—coding is one of the company’s fastest-growing segments.<br><br>Anthropic has also told investors it aims to be cash-flow positive by 2028 and that Claude Code could play an important role in its revenue growth. The company declined to comment on its finances. <br><br>While Anthropic feels dominant in AI coding, the buzz around Claude Opus 4.5  appears to be  lifting several companies. Cursor, which lets users code using models from Anthropic and other AI labs, also said its coding tool reached $1 billion in ARR in November. In December, the company posted particularly strong month-over-month revenue growth, according to a person close to the company. OpenAI, Google, and xAI are also racing to claim a larger share of the AI coding market, developing agentic products of their own powered by in-house AI models. <br><br>Now, Anthropic is trying to use Claude Code’s momentum to <a href="https://link.wired.com/click/43681783.1783/aHR0cHM6Ly93d3cud2lyZWQuY29tL3N0b3J5L2FudGhyb3BpYy1jbGF1ZGUtY293b3JrLWFnZW50Lz91dG1fc291cmNlPW5sJnV0bV9icmFuZD13aXJlZCZ1dG1fbWFpbGluZz1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9V0lSX1ByZW1pdW1Nb2RlbEJlaGF2aW9yXzAxMjIyNiZieGlkPTY5MjljNTcwY2JiOWJkMDU1MzA4MGM3MCZjbmRpZD05MTYxNjMyOCZoYXNoYT0wZjhjN2NlM2U4ZTNlMzgwZTc0YWZjYmZkOWU5N2U5NyZoYXNoYj0zYWIzMTEwZDhjNjAyZTMwNjExZTdiOWQ4MzdjNTdhY2IyNDFjYTY5Jmhhc2hjPTcxYzk4MzQzNGYzMjIzMDcxOGE5NjFhMTZhMWQyOTAxODJiZDIxNTgyOTU3YjE0NTM3YjNhYmNhMjRiODEzN2I/6929c570cbb9bd0553080c70Bdce57e9c" style="color:#406D8E; font-weight:bold;">create agents for non-coding sectors</a>. Earlier this month, the company launched Cowork, an AI agent that can manage files on a user’s computer and interact with software—without requiring any interaction with a coding terminal. <br><br>This interview has been edited and condensed for clarity.</p></div></td></tr></table></td></tr></tbody></table></td></tr></tbody></table><table class="row row-3" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" 
-style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fbfbfb"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#f6f4f0;border-radius:0;color:#000;width:600px;margin:0 auto" width="600"><tbody><tr><td class="column column-1" width="100%" 
-style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-left:40px;padding-right:40px;vertical-align:top"><table class="html_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad"><div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:center" align="center"></div></td></tr></table></td></tr></tbody></table></td></tr></tbody>
-</table>
-<table class="row row-6" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fbfbfb"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#f6f4f0;border-radius:0;color:#000;width:600px;margin:0 auto" width="600"><tbody><tr><td class="column column-1" 
-width="100%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-left:40px;padding-right:40px;vertical-align:top"><table class="paragraph_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class="pad" style="padding-top:16px"><div 
-style="color:#000;direction:ltr;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;font-size:18px;font-weight:400;letter-spacing:0;line-height:1.5;text-align:left;mso-line-height-alt:27px"><p style="margin:0"><b>WIRED: There's been excitement around Claude Code for months. Why is it taking off now?</b><br><br><b>BORIS CHERNY:</b> We released Claude Code like a year ago, and at the time, we weren't sure if agentic coding was even going to be a thing. We had this hypothesis that maybe the model is ready for something like this. Almost immediately, it started to click. <br><br>When we first launched this, I wrote maybe 5 percent of my code with Claude Code. And then in May, with Opus 4 and Sonnet 4, it became maybe like 30 percent. And now with Opus 4.5, 100 percent of my code for the last two months has been written by Claude Code. And I code every day.<br><br><b>How are people inside of big companies using Claude differently today than they were a year ago?</b><br><br>Most people were basically just using chat a year ago. But when we talk about Claude Code or <a href="https://link.wired.com/click/43681783.1783/aHR0cHM6Ly93d3cud2lyZWQuY29tL3N0b3J5L2FudGhyb3BpYy1jbGF1ZGUtY293b3JrLWFnZW50Lz91dG1fc291cmNlPW5sJnV0bV9icmFuZD13aXJlZCZ1dG1fbWFpbGluZz1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9V0lSX1ByZW1pdW1Nb2RlbEJlaGF2aW9yXzAxMjIyNiZieGlkPTY5MjljNTcwY2JiOWJkMDU1MzA4MGM3MCZjbmRpZD05MTYxNjMyOCZoYXNoYT0wZjhjN2NlM2U4ZTNlMzgwZTc0YWZjYmZkOWU5N2U5NyZoYXNoYj0zYWIzMTEwZDhjNjAyZTMwNjExZTdiOWQ4MzdjNTdhY2IyNDFjYTY5Jmhhc2hjPTcxYzk4MzQzNGYzMjIzMDcxOGE5NjFhMTZhMWQyOTAxODJiZDIxNTgyOTU3YjE0NTM3YjNhYmNhMjRiODEzN2I/6929c570cbb9bd0553080c70Cdce57e9c" style="color:#406D8E; font-weight:bold;">Cowork</a>, it's really agentic. That means it can use tools, read files on your system, and interact with Slack and Google Sheets. So it can do all of this work that's extremely useful, way more than just talking.<br><br>I really think this is the golden age for people with short attention spans. The way you use these products is not like this deep focus. When I look at the most productive Claude Code users in and out of Anthropic, it's the people who jump across all these different tasks. You set Claude on its way, you start a second one, a third, and so on. Then you go back to the first tab and you check in on it. <br><br><b>How is Anthropic reorganizing around Claude Code? You're having this viral product moment, and things are really taking off. Do you feel like there's been a swift reaction within the company to meet this moment? </b><br><br>We talk about engineers being the early adopters; I feel like Anthropic employees are even earlier adopters. Since we released Claude Code internally back in late 2024, the adoption has just been insane. We had this product review with Dario before we released it externally. He asked, “Are you forcing people to use it? What's going on?”<br><br><b>There's something about the user interface of Claude Code that seems especially sticky. I'd love it if you could pinpoint what that is.</b><br><br>I just don't think there's one thing. Honestly, this is the product that we all use. If you talk to Anthropic’s technical employees, pretty much 100 percent of them use Claude Code all the time. If you look at the code that I write, 100 percent is written using Claude Code. If you look at the Claude Code team, like 95 percent of our code is written using Claude Code. <br><br>We use the products so much that we make it really awesome for ourselves and for our customers. And this is just back to this culture of learning through dog-fooding, learning through feedback. Our biggest target market that we care about is enterprises. And they're actually very similar to us in terms of the kind of safety that they need and the way they interact with products.<br><br><b>Does Anthropic plan to sell Cowork to more kinds of knowledge workers as part of its enterprise offerings?</b><br><br>Cowork is kind of a new part of our product portfolio. It's a new bet, and we don't totally know how it's going to be used yet. Very roughly, it's Claude Code for people that aren't coding. What's surprising is I've actually been using Cowork myself for a bunch of stuff.<br><br>There’s just this new way of working. This is the most fun I've ever had as an engineer because I don’t have to do all the tedious work. I think this is what's coming for all other work that people do too.<br><br><b>I’ve talked to some engineers who were a little taken aback by Claude Code, and how they don’t need to code themselves anymore. What’s your advice for engineers who are navigating this shift?</b><br><br>As an industry, we've always gone through transitions. My grandfather was a programmer in the Soviet Union, and he was programming on punch cards. It was a very physical thing. And then at some point, it turned into machine code, and then it turned into the first high-level languages, like C, and then eventually Java and Python. <br><br>As an industry, we've gone through these evolutions before. It’s this kind of increasing abstraction, and I view agents as just a thing on this continuum. <br><br>Today, there's a learning curve. People don't get it immediately. But I think  the learning curve is gonna get smoother, and it's gonna become easier and easier to use tools like Claude Code and Cowork effectively. <br><br><b>How many Claude Code agents are you spinning up in a day? </b><br><br>This morning I woke up, I think I started three or four coding agents on my phone. When I get into work, I'll check in on what they're doing, and then I'll probably start a few more in my terminal. At any given moment, I usually have like five or ten running across the terminal, mobile, and website. And now I'm actually also adding Cowork to the mix.<br><br>For example, I've been using Cowork for project management. We have a big spreadsheet of all the things engineers are working on this week. Every few days, I'll just have Cowork look at the spreadsheet for an engineer that hasn't filled out their name, and I'll have it message them on Slack to ask them to fill it out.<br><br><b>What should people expect in the year ahead in terms of Claude’s agentic abilities?</b><br><br>AI agents will be able to help with all the tedious things in your life. This happened for engineering this year, and I think it's gonna happen for everything else. Agents will be able to take care of things like filling out forms, moving data from one place to another, sending emails. I think it's just going to free us up to do the things that we actually enjoy. <br><br>It’s gonna be disruptive, and I think this is a thing we're gonna have to navigate. But I also think it's just amazing. It lets me enjoy my job much more, and it lets me enjoy my day a lot more.</p></div></td></tr></table></td></tr></tbody></table></td></tr></tbody></table><table class="row row-8" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" 
-style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fbfbfb"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#f6f4f0;border-radius:0;color:#000;width:600px;margin:0 auto" width="600"><tbody><tr><td class="column column-1" width="100%" 
-style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-left:40px;padding-right:40px;vertical-align:top"><table class="html_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad"><div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:center" align="center"></div></td></tr></table></td></tr></tbody></table></td></tr></tbody>
-</table> <table class="row row-10" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" 
-role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fbfbfb"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#f6f4f0;border-radius:0;color:#000;width:600px;margin:0 auto" width="600"><tbody><tr><td class="column column-1" width="100%" 
-style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-left:40px;padding-right:40px;vertical-align:top"><table class="html_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad"><div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:center" align="center"></div></td></tr></table></td></tr></tbody></table></td></tr></tbody>
-</table><table class="row row-16" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fbfbfb"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#f6f4f0;border-radius:0;color:#000;width:600px;margin:0 auto" width="600"><tbody><tr>
-<td class="column column-1" width="100%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-left:40px;padding-right:40px;vertical-align:top"><table class="image_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad" style="padding-top:30px;width:100%"><div class="alignment" align="center"><div style="max-width:520px">
-<a href="https://link.wired.com/click/43681783.1783/aHR0cHM6Ly93d3cud2lyZWQuY29tL3N0b3J5L2xpdmVzdHJlYW0td2VsY29tZS10by10aGUtY2hpbmVzZS1jZW50dXJ5P3V0bV9zb3VyY2U9bmwmdXRtX2JyYW5kPXdpcmVkJnV0bV9tYWlsaW5nPVdJUl9QcmVtaXVtTW9kZWxCZWhhdmlvcl8wMTIyMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JmJ4aWQ9NjkyOWM1NzBjYmI5YmQwNTUzMDgwYzcwJmNuZGlkPTkxNjE2MzI4Jmhhc2hhPTBmOGM3Y2UzZThlM2UzODBlNzRhZmNiZmQ5ZTk3ZTk3Jmhhc2hiPTNhYjMxMTBkOGM2MDJlMzA2MTFlN2I5ZDgzN2M1N2FjYjI0MWNhNjkmaGFzaGM9NzFjOTgzNDM0ZjMyMjMwNzE4YTk2MWExNmExZDI5MDE4MmJkMjE1ODI5NTdiMTQ1MzdiM2FiY2EyNGI4MTM3Yg/6929c570cbb9bd0553080c70B2c732089" target="_blank"><img src="https://media.sailthru.com/composer/images/bazh/qlld270o/06n/ryp/stz/Modelbehavior-Line-Dash.png" style="display:block;height:auto;border:0;width:100%" width="520" alt title height="auto"></a></div></div></td></tr></table><table class="paragraph_block block-2" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr>
-<td class="pad" style="padding-bottom:16px;padding-top:16px"><div style="color:#000;direction:ltr;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;font-size:22px;font-weight:700;letter-spacing:0;line-height:1.2;text-align:left;mso-line-height-alt:26px"><p style="margin:0">In Other News</p></div></td></tr></table><table class="list_block block-3" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" 
-style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word;color:#000;direction:ltr;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;font-size:18px;font-weight:400;letter-spacing:0;line-height:1.5;text-align:left;mso-line-height-alt:27px"><tr><td class="pad" style="padding-bottom:9px;padding-left:10px;padding-right:10px;padding-top:9px"><div style="margin-left:-20px"><ul start="1" style="margin-top:0;margin-bottom:0;list-style-type:revert"><li style="Margin:0 0 4px 0">
-<a href="https://link.wired.com/click/43681783.1783/aHR0cHM6Ly93d3cud2lyZWQuY29tL3N0b3J5L2NoaW5hLWFpLWJvb20tYWxnb3JpdGhtLXJlZ2lzdHJ5P3V0bV9zb3VyY2U9bmwmdXRtX2JyYW5kPXdpcmVkJnV0bV9tYWlsaW5nPVdJUl9QcmVtaXVtTW9kZWxCZWhhdmlvcl8wMTIyMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JmJ4aWQ9NjkyOWM1NzBjYmI5YmQwNTUzMDgwYzcwJmNuZGlkPTkxNjE2MzI4Jmhhc2hhPTBmOGM3Y2UzZThlM2UzODBlNzRhZmNiZmQ5ZTk3ZTk3Jmhhc2hiPTNhYjMxMTBkOGM2MDJlMzA2MTFlN2I5ZDgzN2M1N2FjYjI0MWNhNjkmaGFzaGM9NzFjOTgzNDM0ZjMyMjMwNzE4YTk2MWExNmExZDI5MDE4MmJkMjE1ODI5NTdiMTQ1MzdiM2FiY2EyNGI4MTM3Yg/6929c570cbb9bd0553080c70B869064b6" target="_blank" style="text-decoration: underline; color: #000000;" rel="noopener"><strong>Thousands of Companies Are Driving China’s AI Boom. A Government Registry Tracks Them All</strong></a> How the Cyberspace Administration of China inadvertently made a guide to the country’s homegrown AI revolution.<a href="" target="_blank" rel="noopener" style="text-decoration: underline; color: #000000;"></a></li><li style="Margin:0 0 4px 0">
-<a href="https://link.wired.com/click/43681783.1783/aHR0cHM6Ly93d3cud2lyZWQuY29tL3N0b3J5L2V1cm9wZS1yYWNlLXVzLWRlZXBzZWVrLXNvdmVyZWlnbi1haT91dG1fc291cmNlPW5sJnV0bV9icmFuZD13aXJlZCZ1dG1fbWFpbGluZz1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9V0lSX1ByZW1pdW1Nb2RlbEJlaGF2aW9yXzAxMjIyNiZieGlkPTY5MjljNTcwY2JiOWJkMDU1MzA4MGM3MCZjbmRpZD05MTYxNjMyOCZoYXNoYT0wZjhjN2NlM2U4ZTNlMzgwZTc0YWZjYmZkOWU5N2U5NyZoYXNoYj0zYWIzMTEwZDhjNjAyZTMwNjExZTdiOWQ4MzdjNTdhY2IyNDFjYTY5Jmhhc2hjPTcxYzk4MzQzNGYzMjIzMDcxOGE5NjFhMTZhMWQyOTAxODJiZDIxNTgyOTU3YjE0NTM3YjNhYmNhMjRiODEzN2I/6929c570cbb9bd0553080c70B61ef9b93" target="_blank" style="text-decoration: underline; color: #000000;" rel="noopener"><strong>The Race to Build the DeepSeek of Europe Is On</strong></a><a href="" target="_blank" rel="noopener" style="text-decoration: underline; color: #000000;"></a><a href="" target="_blank" rel="noopener" style="text-decoration: underline; color: #000000;"></a><a href="" target="_blank" rel="noopener" style="text-decoration: underline; color: #000000;"></a><strong> </strong>As Europe’s long-standing alliance with the US falters, its push to become a self-sufficient AI superpower has become more urgent.<a href="" target="_blank" rel="noopener" style="text-decoration: underline; color: #000000;"></a><a href="" target="_blank" rel="noopener" style="text-decoration: underline; color: #000000;"></a>
-</li><li style="Margin:0 0 4px 0"><a href="https://link.wired.com/click/43681783.1783/aHR0cHM6Ly93d3cud2lyZWQuY29tL3N0b3J5L2FudGhyb3BpYy1jbGF1ZGUtY293b3JrLWFnZW50P3V0bV9zb3VyY2U9bmwmdXRtX2JyYW5kPXdpcmVkJnV0bV9tYWlsaW5nPVdJUl9QcmVtaXVtTW9kZWxCZWhhdmlvcl8wMTIyMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JmJ4aWQ9NjkyOWM1NzBjYmI5YmQwNTUzMDgwYzcwJmNuZGlkPTkxNjE2MzI4Jmhhc2hhPTBmOGM3Y2UzZThlM2UzODBlNzRhZmNiZmQ5ZTk3ZTk3Jmhhc2hiPTNhYjMxMTBkOGM2MDJlMzA2MTFlN2I5ZDgzN2M1N2FjYjI0MWNhNjkmaGFzaGM9NzFjOTgzNDM0ZjMyMjMwNzE4YTk2MWExNmExZDI5MDE4MmJkMjE1ODI5NTdiMTQ1MzdiM2FiY2EyNGI4MTM3Yg/6929c570cbb9bd0553080c70Be41ccc6a" target="_blank" style="text-decoration: underline; color: #000000;" rel="noopener"><strong>Anthropic’s Claude Cowork Is an AI Agent That Actually Works</strong></a>&nbsp;Cowork is a user-friendly version of Anthropic’s Claude Code AI-powered tool that’s built for file management and basic computing tasks. Here’s what it's like to use it.</li></ul></div></td></tr></table><table class="paragraph_block block-4" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class="pad" 
-style="padding-top:26px"><div style="color:#000;direction:ltr;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;font-size:18px;font-weight:400;letter-spacing:0;line-height:1.5;text-align:left;mso-line-height-alt:27px"><p style="margin:0">
-<strong>What did you think about today's newsletter?</strong> Let us know by emailing <strong><a href="mailto:modelbehavior@wired.com?subject=Model Behavior - Feedback" target="_blank" title="modelbehavior@wired.com" rel="noopener" style="text-decoration: underline; color: #406d8e;">modelbehavior@wired.com</a></strong></p></div></td></tr></table><table class="image_block block-5" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td
-class="pad" style="padding-top:21px;width:100%"><div class="alignment" align="center"><div style="max-width:520px"><a href="https://link.wired.com/click/43681783.1783/aHR0cHM6Ly93d3cud2lyZWQuY29tL3N0b3J5L2xpdmVzdHJlYW0td2VsY29tZS10by10aGUtY2hpbmVzZS1jZW50dXJ5P3V0bV9zb3VyY2U9bmwmdXRtX2JyYW5kPXdpcmVkJnV0bV9tYWlsaW5nPVdJUl9QcmVtaXVtTW9kZWxCZWhhdmlvcl8wMTIyMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JmJ4aWQ9NjkyOWM1NzBjYmI5YmQwNTUzMDgwYzcwJmNuZGlkPTkxNjE2MzI4Jmhhc2hhPTBmOGM3Y2UzZThlM2UzODBlNzRhZmNiZmQ5ZTk3ZTk3Jmhhc2hiPTNhYjMxMTBkOGM2MDJlMzA2MTFlN2I5ZDgzN2M1N2FjYjI0MWNhNjkmaGFzaGM9NzFjOTgzNDM0ZjMyMjMwNzE4YTk2MWExNmExZDI5MDE4MmJkMjE1ODI5NTdiMTQ1MzdiM2FiY2EyNGI4MTM3Yg/6929c570cbb9bd0553080c70C2c732089" target="_blank"><img src="https://media.sailthru.com/composer/images/bazh/qlld270o/06n/ryp/stz/Modelbehavior-Line-Dash.png" style="display:block;height:auto;border:0;width:100%" width="520" alt title height="auto"></a></div></div></td></tr></table><table class="paragraph_block block-6" width="100%" border="0" 
-cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class="pad" style="padding-bottom:16px;padding-top:16px"><div style="color:#000;direction:ltr;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;font-size:22px;font-weight:700;letter-spacing:0;line-height:1.2;text-align:left;mso-line-height-alt:26px"><p style="margin:0">Sign Up to Our Other Subscriber Newsletters</p></div></td></tr></table></td></tr></tbody></table>
-</td></tr></tbody></table><table class="row row-17" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fbfbfb"><tbody><tr><td><table class="row-content" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#f6f4f0;border-radius:0;color:#000;width:600px;margin:0 auto" width="600">
-<tbody><tr><td class="column column-1" width="33.333333333333336%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bottom:10px;padding-left:40px;padding-top:15px;vertical-align:top"><table class="image_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad" style="width:100%;padding-right:0;padding-left:0"><div class="alignment" align="left"><div 
-style="max-width:112px"><a href="https://link.wired.com/click/43681783.1783/aHR0cHM6Ly93d3cud2lyZWQuY29tL25ld3NsZXR0ZXIvZXhjbHVzaXZlL2FpLWxhYj91dG1fc291cmNlPW5sJnV0bV9icmFuZD13aXJlZCZ1dG1fbWFpbGluZz1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9V0lSX1ByZW1pdW1Nb2RlbEJlaGF2aW9yXzAxMjIyNiZieGlkPTY5MjljNTcwY2JiOWJkMDU1MzA4MGM3MCZjbmRpZD05MTYxNjMyOCZoYXNoYT0wZjhjN2NlM2U4ZTNlMzgwZTc0YWZjYmZkOWU5N2U5NyZoYXNoYj0zYWIzMTEwZDhjNjAyZTMwNjExZTdiOWQ4MzdjNTdhY2IyNDFjYTY5Jmhhc2hjPTcxYzk4MzQzNGYzMjIzMDcxOGE5NjFhMTZhMWQyOTAxODJiZDIxNTgyOTU3YjE0NTM3YjNhYmNhMjRiODEzN2I/6929c570cbb9bd0553080c70Bff238902" target="_blank"><img src="https://media.sailthru.com/composer/images/bazh/qlld270o/2wt/xpo/sb5/Property%201%3DKnight.png" style="display:block;height:auto;border:0;width:100%;border-radius:10px" width="112" alt title height="auto"></a></div></div></td></tr></table></td><td class="column column-2" width="66.66666666666667%" 
-style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bottom:10px;padding-right:40px;padding-top:5px;vertical-align:top"><table class="paragraph_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class="pad" style="padding-bottom:5px;padding-top:5px"><div 
-style="color:#000;direction:ltr;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;font-size:18px;font-weight:700;letter-spacing:0;line-height:1.2;text-align:left;mso-line-height-alt:22px"><p style="margin:0"><a href="https://link.wired.com/click/43681783.1783/aHR0cHM6Ly93d3cud2lyZWQuY29tL25ld3NsZXR0ZXIvZXhjbHVzaXZlL2FpLWxhYj91dG1fc291cmNlPW5sJnV0bV9icmFuZD13aXJlZCZ1dG1fbWFpbGluZz1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9V0lSX1ByZW1pdW1Nb2RlbEJlaGF2aW9yXzAxMjIyNiZieGlkPTY5MjljNTcwY2JiOWJkMDU1MzA4MGM3MCZjbmRpZD05MTYxNjMyOCZoYXNoYT0wZjhjN2NlM2U4ZTNlMzgwZTc0YWZjYmZkOWU5N2U5NyZoYXNoYj0zYWIzMTEwZDhjNjAyZTMwNjExZTdiOWQ4MzdjNTdhY2IyNDFjYTY5Jmhhc2hjPTcxYzk4MzQzNGYzMjIzMDcxOGE5NjFhMTZhMWQyOTAxODJiZDIxNTgyOTU3YjE0NTM3YjNhYmNhMjRiODEzN2I/6929c570cbb9bd0553080c70Cff238902" target="_blank" style="text-decoration: none; color: #000000;" rel="noopener">AI Lab</a></p></div></td></tr></table><table class="paragraph_block block-2" width="100%" border="0" cellpadding="0" cellspacing="0" 
-role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class="pad" style="padding-bottom:5px;padding-top:5px"><div style="color:#000;direction:ltr;font-family:'Courier New',Courier,'Lucida Sans Typewriter','Lucida Typewriter',monospace;font-size:18px;font-weight:400;letter-spacing:0;line-height:1.2;text-align:left;mso-line-height-alt:22px"><p style="margin:0">Resident AI expert Will Knight takes you to the furthest edges of this fast-changing field<br>
-<a href="https://link.wired.com/click/43681783.1783/aHR0cHM6Ly93d3cud2lyZWQuY29tL25ld3NsZXR0ZXIvZXhjbHVzaXZlL2FpLWxhYj91dG1fc291cmNlPW5sJnV0bV9icmFuZD13aXJlZCZ1dG1fbWFpbGluZz1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9V0lSX1ByZW1pdW1Nb2RlbEJlaGF2aW9yXzAxMjIyNiZieGlkPTY5MjljNTcwY2JiOWJkMDU1MzA4MGM3MCZjbmRpZD05MTYxNjMyOCZoYXNoYT0wZjhjN2NlM2U4ZTNlMzgwZTc0YWZjYmZkOWU5N2U5NyZoYXNoYj0zYWIzMTEwZDhjNjAyZTMwNjExZTdiOWQ4MzdjNTdhY2IyNDFjYTY5Jmhhc2hjPTcxYzk4MzQzNGYzMjIzMDcxOGE5NjFhMTZhMWQyOTAxODJiZDIxNTgyOTU3YjE0NTM3YjNhYmNhMjRiODEzN2I/6929c570cbb9bd0553080c70Dff238902" target="_blank" style="text-decoration: underline; color: #000000;" rel="noopener"><strong>Sign up</strong></a></p></div></td></tr></table></td></tr></tbody></table></td></tr></tbody></table><table class="row row-18" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fbfbfb"><tbody><tr><td><table class="row-content" align="center" 
-border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#f6f4f0;border-radius:0;color:#000;width:600px;margin:0 auto" width="600"><tbody><tr><td class="column column-1" width="33.333333333333336%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bottom:10px;padding-left:40px;padding-top:15px;vertical-align:top"><table class="image_block block-1" width="100%" border="0" cellpadding="0" 
-cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad" style="width:100%;padding-right:0;padding-left:0"><div class="alignment" align="left"><div style="max-width:112px"><a href="https://link.wired.com/click/43681783.1783/aHR0cHM6Ly93d3cud2lyZWQuY29tL25ld3NsZXR0ZXIvZXhjbHVzaXZlL2JhY2tjaGFubmVsP3V0bV9zb3VyY2U9bmwmdXRtX2JyYW5kPXdpcmVkJnV0bV9tYWlsaW5nPVdJUl9QcmVtaXVtTW9kZWxCZWhhdmlvcl8wMTIyMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JmJ4aWQ9NjkyOWM1NzBjYmI5YmQwNTUzMDgwYzcwJmNuZGlkPTkxNjE2MzI4Jmhhc2hhPTBmOGM3Y2UzZThlM2UzODBlNzRhZmNiZmQ5ZTk3ZTk3Jmhhc2hiPTNhYjMxMTBkOGM2MDJlMzA2MTFlN2I5ZDgzN2M1N2FjYjI0MWNhNjkmaGFzaGM9NzFjOTgzNDM0ZjMyMjMwNzE4YTk2MWExNmExZDI5MDE4MmJkMjE1ODI5NTdiMTQ1MzdiM2FiY2EyNGI4MTM3Yg/6929c570cbb9bd0553080c70B3021814e" target="_blank"><img src="https://media.sailthru.com/composer/images/bazh/qlld270o/6eh/lz4/zn9/Property%201%3DLevy.png" style="display:block;height:auto;border:0;width:100%;border-radius:10px" width="112" alt title 
-height="auto"></a></div></div></td></tr></table></td><td class="column column-2" width="66.66666666666667%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bottom:10px;padding-right:40px;padding-top:5px;vertical-align:top"><table class="paragraph_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class="pad" 
-style="padding-bottom:5px;padding-top:5px"><div style="color:#000;direction:ltr;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;font-size:18px;font-weight:700;letter-spacing:0;line-height:1.2;text-align:left;mso-line-height-alt:22px"><p style="margin:0"><a href="https://link.wired.com/click/43681783.1783/aHR0cHM6Ly93d3cud2lyZWQuY29tL25ld3NsZXR0ZXIvZXhjbHVzaXZlL2JhY2tjaGFubmVsP3V0bV9zb3VyY2U9bmwmdXRtX2JyYW5kPXdpcmVkJnV0bV9tYWlsaW5nPVdJUl9QcmVtaXVtTW9kZWxCZWhhdmlvcl8wMTIyMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JmJ4aWQ9NjkyOWM1NzBjYmI5YmQwNTUzMDgwYzcwJmNuZGlkPTkxNjE2MzI4Jmhhc2hhPTBmOGM3Y2UzZThlM2UzODBlNzRhZmNiZmQ5ZTk3ZTk3Jmhhc2hiPTNhYjMxMTBkOGM2MDJlMzA2MTFlN2I5ZDgzN2M1N2FjYjI0MWNhNjkmaGFzaGM9NzFjOTgzNDM0ZjMyMjMwNzE4YTk2MWExNmExZDI5MDE4MmJkMjE1ODI5NTdiMTQ1MzdiM2FiY2EyNGI4MTM3Yg/6929c570cbb9bd0553080c70C3021814e" target="_blank" style="text-decoration: none; color: #000000;" rel="noopener">Backchannel</a></p></div></td></tr></table><table class="paragraph_block block-2" width="100%" 
-border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class="pad" style="padding-bottom:5px;padding-top:5px"><div style="color:#000;direction:ltr;font-family:'Courier New',Courier,'Lucida Sans Typewriter','Lucida Typewriter',monospace;font-size:18px;font-weight:400;letter-spacing:0;line-height:1.2;text-align:left;mso-line-height-alt:22px"><p style="margin:0">
-WIRED editor at large Steven Levy puts the week’s biggest tech news in perspective<br><a href="https://link.wired.com/click/43681783.1783/aHR0cHM6Ly93d3cud2lyZWQuY29tL25ld3NsZXR0ZXIvZXhjbHVzaXZlL2JhY2tjaGFubmVsP3V0bV9zb3VyY2U9bmwmdXRtX2JyYW5kPXdpcmVkJnV0bV9tYWlsaW5nPVdJUl9QcmVtaXVtTW9kZWxCZWhhdmlvcl8wMTIyMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JmJ4aWQ9NjkyOWM1NzBjYmI5YmQwNTUzMDgwYzcwJmNuZGlkPTkxNjE2MzI4Jmhhc2hhPTBmOGM3Y2UzZThlM2UzODBlNzRhZmNiZmQ5ZTk3ZTk3Jmhhc2hiPTNhYjMxMTBkOGM2MDJlMzA2MTFlN2I5ZDgzN2M1N2FjYjI0MWNhNjkmaGFzaGM9NzFjOTgzNDM0ZjMyMjMwNzE4YTk2MWExNmExZDI5MDE4MmJkMjE1ODI5NTdiMTQ1MzdiM2FiY2EyNGI4MTM3Yg/6929c570cbb9bd0553080c70D3021814e" target="_blank" style="text-decoration: underline; color: #000000;" rel="noopener"><strong>Sign up</strong></a></p></div></td></tr></table></td></tr></tbody></table></td></tr></tbody></table><table class="row row-19" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" 
-style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fbfbfb"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#f6f4f0;border-radius:0;color:#000;width:600px;margin:0 auto" width="600"><tbody><tr><td class="column column-1" width="100%" 
-style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-left:40px;padding-right:40px;vertical-align:top"><div class="spacer_block block-1" style="height:60px;line-height:60px;font-size:1px">&#8202;</div></td></tr></tbody></table></td></tr></tbody></table><table class="row row-20" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" 
-style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fbfbfb"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#363432;border-radius:0;color:#000;width:600px;margin:0 auto" width="600"><tbody><tr><td class="column column-1" width="100%" 
-style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bottom:32px;padding-left:40px;padding-right:40px;padding-top:32px;vertical-align:top"><table class="paragraph_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class="pad"><div 
-style="color:#dcdcdc;direction:ltr;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;letter-spacing:0;line-height:1.2;text-align:center;mso-line-height-alt:19px"><p style="margin:0">MORE FROM <a href="https://link.wired.com/click/43681783.1783/aHR0cHM6Ly93d3cud2lyZWQuY29tLz91dG1fc291cmNlPW5sJnV0bV9icmFuZD13aXJlZCZ1dG1fbWFpbGluZz1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9V0lSX1ByZW1pdW1Nb2RlbEJlaGF2aW9yXzAxMjIyNiZieGlkPTY5MjljNTcwY2JiOWJkMDU1MzA4MGM3MCZjbmRpZD05MTYxNjMyOCZoYXNoYT0wZjhjN2NlM2U4ZTNlMzgwZTc0YWZjYmZkOWU5N2U5NyZoYXNoYj0zYWIzMTEwZDhjNjAyZTMwNjExZTdiOWQ4MzdjNTdhY2IyNDFjYTY5Jmhhc2hjPTcxYzk4MzQzNGYzMjIzMDcxOGE5NjFhMTZhMWQyOTAxODJiZDIxNTgyOTU3YjE0NTM3YjNhYmNhMjRiODEzN2I/6929c570cbb9bd0553080c70B161f7e35" target="_blank" rel="noopener" style="text-decoration: underline; color: #dcdcdc;">WIRED.COM</a></p></div></td></tr></table><table class="divider_block block-2" width="100%" border="0" cellpadding="0" 
-cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad" style="padding-bottom:10px;padding-top:10px"><div class="alignment" align="center"><table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="divider_inner" style="font-size:1px;line-height:1px;border-top:1px solid #bbb"><span style="word-break: break-word;">&#8202;</span></td></tr></table></div></td></tr>
-</table><table class="social_block block-3" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad" style="text-align:center;padding-right:0;padding-left:0"><div class="alignment" align="center"><table class="social-table" width="252px" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;display:inline-block"><tr><td style="padding:0 2px 0 2px">
-<a href="https://link.wired.com/external/43681783.1783/aHR0cHM6Ly9ic2t5LmFwcC9wcm9maWxlL3dpcmVkLmNvbT91dG1fc291cmNlPW5sJnV0bV9icmFuZD13aXJlZCZ1dG1fbWFpbGluZz1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9V0lSX1ByZW1pdW1Nb2RlbEJlaGF2aW9yXzAxMjIyNiZieGlkPTY5MjljNTcwY2JiOWJkMDU1MzA4MGM3MCZjbmRpZD05MTYxNjMyOCZoYXNoYT0wZjhjN2NlM2U4ZTNlMzgwZTc0YWZjYmZkOWU5N2U5NyZoYXNoYj0zYWIzMTEwZDhjNjAyZTMwNjExZTdiOWQ4MzdjNTdhY2IyNDFjYTY5Jmhhc2hjPTcxYzk4MzQzNGYzMjIzMDcxOGE5NjFhMTZhMWQyOTAxODJiZDIxNTgyOTU3YjE0NTM3YjNhYmNhMjRiODEzN2I/6929c570cbb9bd0553080c70B4208b756" target="_blank"><img src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/circle-dark-gray/bluesky@2x.png" width="32" height="auto" alt="Bluesky" title="Bluesky" style="display:block;height:auto;border:0"></a></td><td style="padding:0 2px 0 2px"><a href="https://link.wired.com/external/43681783.1783/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS93aXJlZC8_dXRtX3NvdXJjZT1ubCZ1dG1fYnJhbmQ9d2lyZWQmdXRtX21haWxpbmc9V0lSX1ByZW1pdW1Nb2RlbEJlaGF2aW9yXzAxMjIyNiZ1dG1fY2FtcGFpZ249YXVkLWRldiZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jb250ZW50PVdJUl9QcmVtaXVtTW9kZWxCZWhhdmlvcl8wMTIyMjYmYnhpZD02OTI5YzU3MGNiYjliZDA1NTMwODBjNzAmY25kaWQ9OTE2MTYzMjgmaGFzaGE9MGY4YzdjZTNlOGUzZTM4MGU3NGFmY2JmZDllOTdlOTcmaGFzaGI9M2FiMzExMGQ4YzYwMmUzMDYxMWU3YjlkODM3YzU3YWNiMjQxY2E2OSZoYXNoYz03MWM5ODM0MzRmMzIyMzA3MThhOTYxYTE2YTFkMjkwMTgyYmQyMTU4Mjk1N2IxNDUzN2IzYWJjYTI0YjgxMzdi/6929c570cbb9bd0553080c70B108ea38f" target="_blank"><img 
-src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/circle-dark-gray/instagram@2x.png" width="32" height="auto" alt="Instagram" title="Instagram" style="display:block;height:auto;border:0"></a></td><td style="padding:0 2px 0 2px"><a href="https://link.wired.com/external/43681783.1783/aHR0cHM6Ly93d3cudGlrdG9rLmNvbS9Ad2lyZWQ_dXRtX3NvdXJjZT1ubCZ1dG1fYnJhbmQ9d2lyZWQmdXRtX21haWxpbmc9V0lSX1ByZW1pdW1Nb2RlbEJlaGF2aW9yXzAxMjIyNiZ1dG1fY2FtcGFpZ249YXVkLWRldiZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jb250ZW50PVdJUl9QcmVtaXVtTW9kZWxCZWhhdmlvcl8wMTIyMjYmYnhpZD02OTI5YzU3MGNiYjliZDA1NTMwODBjNzAmY25kaWQ9OTE2MTYzMjgmaGFzaGE9MGY4YzdjZTNlOGUzZTM4MGU3NGFmY2JmZDllOTdlOTcmaGFzaGI9M2FiMzExMGQ4YzYwMmUzMDYxMWU3YjlkODM3YzU3YWNiMjQxY2E2OSZoYXNoYz03MWM5ODM0MzRmMzIyMzA3MThhOTYxYTE2YTFkMjkwMTgyYmQyMTU4Mjk1N2IxNDUzN2IzYWJjYTI0YjgxMzdi/6929c570cbb9bd0553080c70Bce1b6dee" target="_blank"><img src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/circle-dark-gray/tiktok@2x.png" width="32" height="auto" alt="TikTok" title="TikTok" 
-style="display:block;height:auto;border:0"></a></td><td style="padding:0 2px 0 2px"><a href="https://link.wired.com/external/43681783.1783/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3dpcmVkP3V0bV9zb3VyY2U9bmwmdXRtX2JyYW5kPXdpcmVkJnV0bV9tYWlsaW5nPVdJUl9QcmVtaXVtTW9kZWxCZWhhdmlvcl8wMTIyMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JmJ4aWQ9NjkyOWM1NzBjYmI5YmQwNTUzMDgwYzcwJmNuZGlkPTkxNjE2MzI4Jmhhc2hhPTBmOGM3Y2UzZThlM2UzODBlNzRhZmNiZmQ5ZTk3ZTk3Jmhhc2hiPTNhYjMxMTBkOGM2MDJlMzA2MTFlN2I5ZDgzN2M1N2FjYjI0MWNhNjkmaGFzaGM9NzFjOTgzNDM0ZjMyMjMwNzE4YTk2MWExNmExZDI5MDE4MmJkMjE1ODI5NTdiMTQ1MzdiM2FiY2EyNGI4MTM3Yg/6929c570cbb9bd0553080c70B11b2956c" target="_blank"><img src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/circle-dark-gray/facebook@2x.png" width="32" height="auto" alt="Facebook" title="Facebook" style="display:block;height:auto;border:0"></a></td><td style="padding:0 2px 0 2px"><a href="https://link.wired.com/external/43681783.1783/aHR0cHM6Ly90d2l0dGVyLmNvbS93aXJlZD91dG1fc291cmNlPW5sJnV0bV9icmFuZD13aXJlZCZ1dG1fbWFpbGluZz1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9V0lSX1ByZW1pdW1Nb2RlbEJlaGF2aW9yXzAxMjIyNiZieGlkPTY5MjljNTcwY2JiOWJkMDU1MzA4MGM3MCZjbmRpZD05MTYxNjMyOCZoYXNoYT0wZjhjN2NlM2U4ZTNlMzgwZTc0YWZjYmZkOWU5N2U5NyZoYXNoYj0zYWIzMTEwZDhjNjAyZTMwNjExZTdiOWQ4MzdjNTdhY2IyNDFjYTY5Jmhhc2hjPTcxYzk4MzQzNGYzMjIzMDcxOGE5NjFhMTZhMWQyOTAxODJiZDIxNTgyOTU3YjE0NTM3YjNhYmNhMjRiODEzN2I/6929c570cbb9bd0553080c70B429b9653" target="_blank">
-<img src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/circle-dark-gray/twitter@2x.png" width="32" height="auto" alt="X" title="X" style="display:block;height:auto;border:0"></a></td><td style="padding:0 2px 0 2px"><a href="https://link.wired.com/external/43681783.1783/aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvd2lyZWQ_dXRtX3NvdXJjZT1ubCZ1dG1fYnJhbmQ9d2lyZWQmdXRtX21haWxpbmc9V0lSX1ByZW1pdW1Nb2RlbEJlaGF2aW9yXzAxMjIyNiZ1dG1fY2FtcGFpZ249YXVkLWRldiZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jb250ZW50PVdJUl9QcmVtaXVtTW9kZWxCZWhhdmlvcl8wMTIyMjYmYnhpZD02OTI5YzU3MGNiYjliZDA1NTMwODBjNzAmY25kaWQ9OTE2MTYzMjgmaGFzaGE9MGY4YzdjZTNlOGUzZTM4MGU3NGFmY2JmZDllOTdlOTcmaGFzaGI9M2FiMzExMGQ4YzYwMmUzMDYxMWU3YjlkODM3YzU3YWNiMjQxY2E2OSZoYXNoYz03MWM5ODM0MzRmMzIyMzA3MThhOTYxYTE2YTFkMjkwMTgyYmQyMTU4Mjk1N2IxNDUzN2IzYWJjYTI0YjgxMzdi/6929c570cbb9bd0553080c70Ba8ebb332" target="_blank"><img src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/circle-dark-gray/linkedin@2x.png" width="32" height="auto" alt="LinkedIn" title="LinkedIn" 
-style="display:block;height:auto;border:0"></a></td><td style="padding:0 2px 0 2px"><a href="https://link.wired.com/external/43681783.1783/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2lyZWQ_dXRtX3NvdXJjZT1ubCZ1dG1fYnJhbmQ9d2lyZWQmdXRtX21haWxpbmc9V0lSX1ByZW1pdW1Nb2RlbEJlaGF2aW9yXzAxMjIyNiZ1dG1fY2FtcGFpZ249YXVkLWRldiZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jb250ZW50PVdJUl9QcmVtaXVtTW9kZWxCZWhhdmlvcl8wMTIyMjYmYnhpZD02OTI5YzU3MGNiYjliZDA1NTMwODBjNzAmY25kaWQ9OTE2MTYzMjgmaGFzaGE9MGY4YzdjZTNlOGUzZTM4MGU3NGFmY2JmZDllOTdlOTcmaGFzaGI9M2FiMzExMGQ4YzYwMmUzMDYxMWU3YjlkODM3YzU3YWNiMjQxY2E2OSZoYXNoYz03MWM5ODM0MzRmMzIyMzA3MThhOTYxYTE2YTFkMjkwMTgyYmQyMTU4Mjk1N2IxNDUzN2IzYWJjYTI0YjgxMzdi/6929c570cbb9bd0553080c70B3aa3a61b" target="_blank"><img src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/circle-dark-gray/youtube@2x.png" width="32" height="auto" alt="YouTube" title="YouTube" style="display:block;height:auto;border:0"></a></td></tr></table></div></td></tr></table><table class="divider_block block-4" width="100%" border="0" cellpadding="0" 
-cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad" style="padding-bottom:10px;padding-top:10px"><div class="alignment" align="center"><table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="divider_inner" style="font-size:1px;line-height:1px;border-top:1px solid #bbb"><span style="word-break: break-word;">&#8202;</span></td></tr></table></div></td></tr>
-</table><table class="paragraph_block block-5" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class="pad" style="padding-bottom:20px;padding-left:5px;padding-right:5px;padding-top:20px"><div style="color:#fff;direction:ltr;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;font-size:12px;font-weight:400;letter-spacing:0;line-height:1.2;text-align:center;mso-line-height-alt:14px"><p 
-style="margin:0;margin-bottom:16px">You’re receiving this email because you signed up for the MODEL BEHAVIOR newsletter from WIRED.</p><p style="margin:0;margin-bottom:16px">
-<a href="https://link.wired.com/click/43681783.1783/aHR0cHM6Ly93d3cud2lyZWQuY29tL25ld3NsZXR0ZXI_ZW1haWw9aW5mbyU0MHZpYmV4Y2FwLmNvbSZ1dG1fc291cmNlPW5sJnV0bV9icmFuZD13aXJlZCZ1dG1fbWFpbGluZz1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9V0lSX1ByZW1pdW1Nb2RlbEJlaGF2aW9yXzAxMjIyNiZieGlkPTY5MjljNTcwY2JiOWJkMDU1MzA4MGM3MCZjbmRpZD05MTYxNjMyOCZoYXNoYT0wZjhjN2NlM2U4ZTNlMzgwZTc0YWZjYmZkOWU5N2U5NyZoYXNoYj0zYWIzMTEwZDhjNjAyZTMwNjExZTdiOWQ4MzdjNTdhY2IyNDFjYTY5Jmhhc2hjPTcxYzk4MzQzNGYzMjIzMDcxOGE5NjFhMTZhMWQyOTAxODJiZDIxNTgyOTU3YjE0NTM3YjNhYmNhMjRiODEzN2I/6929c570cbb9bd0553080c70Ca98463eb" target="_blank" rel="noopener" style="text-decoration: underline; color: #ffffff;">Manage your preferences</a> &nbsp;|&nbsp; <a href="https://link.condenast.com/click/43681783.1783/aHR0cHM6Ly93d3cuY29uZGVuYXN0LmNvbS9wcml2YWN5LXBvbGljeS8_dXRtX3NvdXJjZT1ubCZ1dG1fYnJhbmQ9d2lyZWQmdXRtX21haWxpbmc9V0lSX1ByZW1pdW1Nb2RlbEJlaGF2aW9yXzAxMjIyNiZ1dG1fY2FtcGFpZ249YXVkLWRldiZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jb250ZW50PVdJUl9QcmVtaXVtTW9kZWxCZWhhdmlvcl8wMTIyMjYmYnhpZD02OTI5YzU3MGNiYjliZDA1NTMwODBjNzAmY25kaWQ9OTE2MTYzMjgmaGFzaGE9MGY4YzdjZTNlOGUzZTM4MGU3NGFmY2JmZDllOTdlOTcmaGFzaGI9M2FiMzExMGQ4YzYwMmUzMDYxMWU3YjlkODM3YzU3YWNiMjQxY2E2OSZoYXNoYz03MWM5ODM0MzRmMzIyMzA3MThhOTYxYTE2YTFkMjkwMTgyYmQyMTU4Mjk1N2IxNDUzN2IzYWJjYTI0YjgxMzdi/6929c570cbb9bd0553080c70B7e0f1a33" target="_blank" rel="noopener" style="text-decoration: underline; color: #ffffff;">View our Privacy Policy</a>&nbsp; |&nbsp; <a href="https://link.wired.com/click/43681783.1783/aHR0cHM6Ly93aXJlZC5jb20vbmV3c2xldHRlci91bnN1YnNjcmliZT9uZXdzbGV0dGVySWQ9MjQ5MTAzJmVtYWlsPWluZm8lNDB2aWJleGNhcC5jb20mdXRtX3NvdXJjZT1ubCZ1dG1fYnJhbmQ9d2lyZWQmdXRtX21haWxpbmc9V0lSX1ByZW1pdW1Nb2RlbEJlaGF2aW9yXzAxMjIyNiZ1dG1fY2FtcGFpZ249YXVkLWRldiZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jb250ZW50PVdJUl9QcmVtaXVtTW9kZWxCZWhhdmlvcl8wMTIyMjYmYnhpZD02OTI5YzU3MGNiYjliZDA1NTMwODBjNzAmY25kaWQ9OTE2MTYzMjgmaGFzaGE9MGY4YzdjZTNlOGUzZTM4MGU3NGFmY2JmZDllOTdlOTcmaGFzaGI9M2FiMzExMGQ4YzYwMmUzMDYxMWU3YjlkODM3YzU3YWNiMjQxY2E2OSZoYXNoYz03MWM5ODM0MzRmMzIyMzA3MThhOTYxYTE2YTFkMjkwMTgyYmQyMTU4Mjk1N2IxNDUzN2IzYWJjYTI0YjgxMzdi/6929c570cbb9bd0553080c70Bc7cd0512" target="_blank" style="text-decoration: underline; color: #ffffff;" rel="noopener">Unsubscribe</a>
-</p><p style="margin:0;margin-bottom:16px"><strong>Have questions or comments?&nbsp;<a href="mailto:hello@wired.com?subject=Daily newsletter feedback" target="_blank" title="hello@wired.com" rel="noopener" style="text-decoration: underline; color: #ffffff;">Send us a message</a>.</strong></p><p style="margin:0;margin-bottom:16px">Need help? <a href="https://link.wired.com/click/43681783.1783/aHR0cHM6Ly93d3cud2lyZWQuY29tL2Fib3V0L2ZlZWRiYWNrLz91dG1fc291cmNlPW5sJnV0bV9icmFuZD13aXJlZCZ1dG1fbWFpbGluZz1XSVJfUHJlbWl1bU1vZGVsQmVoYXZpb3JfMDEyMjI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9V0lSX1ByZW1pdW1Nb2RlbEJlaGF2aW9yXzAxMjIyNiZieGlkPTY5MjljNTcwY2JiOWJkMDU1MzA4MGM3MCZjbmRpZD05MTYxNjMyOCZoYXNoYT0wZjhjN2NlM2U4ZTNlMzgwZTc0YWZjYmZkOWU5N2U5NyZoYXNoYj0zYWIzMTEwZDhjNjAyZTMwNjExZTdiOWQ4MzdjNTdhY2IyNDFjYTY5Jmhhc2hjPTcxYzk4MzQzNGYzMjIzMDcxOGE5NjFhMTZhMWQyOTAxODJiZDIxNTgyOTU3YjE0NTM3YjNhYmNhMjRiODEzN2I/6929c570cbb9bd0553080c70Bbd102733" target="_blank" rel="noopener" style="text-decoration: underline; color: #ffffff;">Contact us</a>.
-</p><p style="margin:0">Copyright © Condé Nast 2026. One World Trade Center, New York, NY 10007. All rights reserved.<table cellpadding="0" cellspacing="0" border="0" width="40" height="6"><tbody><tr><td><img src="https://sli.wired.com/imp?s=128129400&e=info@vibexcap.com&p=01222026&lctg=&stpe=pixel" width="2" height="6" border="0" /></td><td><img src="https://sli.wired.com/imp?s=128129401&e=info@vibexcap.com&p=01222026&lctg=&stpe=pixel" width="2" height="6" border="0" /></td><td><img src="https://sli.wired.com/imp?s=128129402&e=info@vibexcap.com&p=01222026&lctg=&stpe=pixel" width="2" height="6" border="0" /></td><td><img src="https://sli.wired.com/imp?s=128129403&e=info@vibexcap.com&p=01222026&lctg=&stpe=pixel" width="2" height="6" border="0" /></td><td><img src="https://sli.wired.com/imp?s=128129404&e=info@vibexcap.com&p=01222026&lctg=&stpe=pixel" width="2" height="6" border="0" /></td></tr></tbody></table></p></div></td></tr></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><!-- End --></body></html>]]></description>
-    <pubDate>Thu, 22 Jan 2026 19:01:49 GMT</pubDate>
-    <guid>19be717385c67013</guid>
-    <author>&quot;WIRED Model Behavior&quot; &lt;wired@newsletters.wired.com&gt;</author>
   </item>
 
   </channel>
