@@ -4,7 +4,527 @@
     <title>Newsletter Feed</title>
     <link>https://your-domain.com/rss.xml</link>
     <description>Newsletter feed</description>
-    <lastBuildDate>Fri, 23 Jan 2026 15:45:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 16:00:16 GMT</lastBuildDate>
+
+  <item>
+    <title>AI Frontiers on TechCrunch</title>
+    <description><![CDATA[
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>AI Frontiers</title>
+        
+<style>
+            body {
+                font-family: Arial, sans-serif;
+                color: #333;
+                line-height: 1.6;
+                margin: 0;
+                padding: 0;
+            }
+            .container {
+                max-width: 600px;
+                margin: 0 auto;
+                padding: 20px;
+            }
+            .header {
+                font-size: 24px;
+                font-weight: bold;
+                color: #333;
+                margin-bottom: 10px;
+            }
+            .story-meta {
+                font-size: 14px;
+                color: #666;
+                margin-bottom: 15px;
+            }
+            .story-link, .hn-link {
+                color: #FF6F61;
+                text-decoration: none;
+            }
+            .story-content {
+                margin: 20px 0;
+            }
+            .story-content h3 {
+                font-size: 18px;
+                color: #444;
+                margin: 15px 0 10px 0;
+            }
+            .story-content p {
+                font-size: 16px;
+                color: #555;
+                margin: 10px 0;
+            }
+            .story-divider {
+                border: 0;
+                border-top: 1px solid #eee;
+                margin: 30px 0;
+            }
+            .footer {
+                font-size: 14px;
+                color: #888;
+                margin-top: 30px;
+                border-top: 1px solid #ddd;
+                padding-top: 20px;
+                text-align: center;
+            }
+            .footer a {
+                color: #4F46E5;
+                text-decoration: none;
+            }
+            .digest-header {
+                text-align: center;
+                margin-bottom: 30px;
+            }
+            .digest-title {
+                font-size: 28px;
+                color: #4F46E5;
+                margin-bottom: 10px;
+            }
+            .digest-date {
+                color: #666;
+                font-size: 16px;
+            }
+            .content-section {
+                margin: 15px 0;
+            }
+            
+            .content-section p {
+                margin: 10px 0;
+                line-height: 1.6;
+            }
+            
+            .digest-list {
+                margin: 10px 0;
+                padding-left: 20px;
+                list-style: none;  /* Remove default bullets */
+            }
+            
+            .digest-list li {
+                margin: 8px 0;
+                line-height: 1.6;
+                position: relative;
+                list-style-type: none;  /* Remove default bullets */
+                padding-left: 20px;
+                color: #555;  /* Match the regular text color */
+            }
+            
+            .digest-list li:before {
+                content: "•";
+                position: absolute;
+                left: 0;
+                color: #555;  /* Match the text color */
+            }
+            /* For nested lists */
+            .digest-list .digest-list {
+                margin-top: 5px;
+                margin-bottom: 5px;
+            }
+            
+            /* Ensure proper spacing between sections */
+            .story-content h3 {
+                margin-top: 25px;
+                margin-bottom: 15px;
+            }
+        </style>
+    
+    </head>
+    <body>
+        <div class="container">
+            <div class="digest-header">
+                <div class="digest-title">AI Frontiers on TechCrunch</div>
+                <div class="digest-date">January 23, 2026</div>
+            </div>
+            
+        <div class="section">
+            <div class="header">Anthropic has to keep revising its technical interview test as Claude improves</div>
+            <div class="story-meta">
+                
+                    • Article: <a href="https://techcrunch.com/2026/01/22/anthropic-has-to-keep-revising-its-technical-interview-test-so-you-cant-cheat-on-it-with-claude/" class="story-link">https://techcrunch.com/2026/01/22/anthropic-has-to-keep-revising-its-technical-interview-test-so-you-cant-cheat-on-it-with-claude/</a> <br>
+                    
+                    
+                    • Text-to-Speech audio: <a href="https://audios.aicrafter.info/9f0e1cf3-9dff-4407-966b-1e82ddf9a820.mp3" class="story-link">Listen</a> <br>
+                    • AI-generated podcast: <a href="https://audios.aicrafter.info/1faf9e64-d8a7-4551-877f-f67fbe3bfaf2.mp3" class="story-link">Listen</a> <br>
+    
+                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
+            </div>
+             
+            <div class="story-content">
+                <h3>Article Summary:</h3>
+                <div class="content-section"><ul class='digest-list'><li>• Anthropic's performance optimization team has revamped its take-home test for job applicants as advanced AI coding tools, like Claude Opus 4.5, began outperforming even top human candidates, challenging the traditional assessment process.</li><li>• To address this, the team created a novel test focused less on hardware optimization, successfully stumping current AI models and restoring its ability to identify exceptional human talent.</li><li>• Anthropic shared its original test publicly, inviting innovative solutions and encouraging candidates to surpass Claude Opus 4.5's capabilities.</li></ul></div>
+            </div>
+    
+            
+        </div>
+        <hr class="story-divider">
+        
+        <div class="section">
+            <div class="header">Spotify brings AI-powered Prompted Playlists to the US and Canada</div>
+            <div class="story-meta">
+                
+                    • Article: <a href="https://techcrunch.com/2026/01/22/spotify-brings-ai-powered-prompted-playlists-to-the-u-s-and-canada/" class="story-link">https://techcrunch.com/2026/01/22/spotify-brings-ai-powered-prompted-playlists-to-the-u-s-and-canada/</a> <br>
+                    
+                    
+                    • Text-to-Speech audio: <a href="https://audios.aicrafter.info/0eb67774-3ca8-452f-ade3-fffd3331f538.mp3" class="story-link">Listen</a> <br>
+                    • AI-generated podcast: <a href="https://audios.aicrafter.info/afba414e-efe3-429a-93b5-31215d514b70.mp3" class="story-link">Listen</a> <br>
+    
+                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
+            </div>
+             
+            <div class="story-content">
+                <h3>Article Summary:</h3>
+                <div class="content-section"><ul class='digest-list'><li>• Spotify is introducing Prompted Playlists, an advanced AI playlist creation tool for Premium users in the U.S. and Canada, enabling them to describe their desired music in conversational prompts without needing technical terminology.</li><li>• The AI leverages real-time music trends, culture, history, and user listening behavior to curate playlists, offering personalized recommendations or entirely new discoveries, even allowing users to bypass their own listening history.</li><li>• The feature supports creative prompts, such as playlists inspired by moods, weather, or TV shows, and introduces the potential for a new type of creator who designs shareable AI prompts for others to explore.</li></ul></div>
+            </div>
+    
+            
+        </div>
+        <hr class="story-divider">
+        
+        <div class="section">
+            <div class="header">Former Sequoia partner’s new startup uses AI to negotiate your calendar for you</div>
+            <div class="story-meta">
+                
+                    • Article: <a href="https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/" class="story-link">https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/</a> <br>
+                    
+                    
+                    • Text-to-Speech audio: <a href="https://audios.aicrafter.info/7d8d4fa8-314f-405c-8d0c-1aee456fce08.mp3" class="story-link">Listen</a> <br>
+                    • AI-generated podcast: <a href="https://audios.aicrafter.info/0fd459b8-2108-4633-b69d-9da3d8e164dd.mp3" class="story-link">Listen</a> <br>
+    
+                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
+            </div>
+             
+            <div class="story-content">
+                <h3>Article Summary:</h3>
+                <div class="content-section"><ul class='digest-list'><li>• Former Sequoia Capital partner Kais Khimji has launched Blockit, an AI-powered calendar-scheduling platform, securing $5M in seed funding led by Sequoia.</li><li>• Blockit’s AI agents streamline scheduling by directly negotiating meeting times between users, eliminating back-and-forth emails and enabling personalized preferences, such as prioritizing meetings based on email tone or skipping lunch during busy days.</li><li>• Already adopted by over 200 companies, Blockit is leveraging advances in large language models (LLMs) and "context graphs" to create an AI-driven social network for time management, offering a seamless alternative to tools like Calendly.</li></ul></div>
+            </div>
+    
+            
+        </div>
+        <hr class="story-divider">
+        
+        <div class="section">
+            <div class="header">Google’s AI Mode can now tap into your Gmail and Photos to provide tailored responses</div>
+            <div class="story-meta">
+                
+                    • Article: <a href="https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/" class="story-link">https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/</a> <br>
+                    
+                    
+                    • Text-to-Speech audio: <a href="https://audios.aicrafter.info/a29aa3e4-ec5e-4d16-9a95-a8305b192586.mp3" class="story-link">Listen</a> <br>
+                    • AI-generated podcast: <a href="https://audios.aicrafter.info/dcbaa92c-a4b0-462d-ab38-2bb7267990e1.mp3" class="story-link">Listen</a> <br>
+    
+                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
+            </div>
+             
+            <div class="story-content">
+                <h3>Article Summary:</h3>
+                <div class="content-section"><ul class='digest-list'><li>• Google’s AI Mode now integrates "Personal Intelligence," allowing users to opt-in for personalized responses by accessing data from Gmail, Google Photos, Search, and YouTube history. This feature is rolling out to AI Pro and AI Ultra subscribers in the U.S.</li><li>• The AI leverages user data to offer customized suggestions, such as tailored travel itineraries, shopping recommendations, or creative ideas for personal projects, enhancing its utility as a lifestyle assistant.</li><li>• Privacy remains a priority, as users can toggle the feature on or off, and Google ensures the AI doesn’t train directly on personal data but uses prompts to refine its responses.</li></ul></div>
+            </div>
+    
+            
+        </div>
+        <hr class="story-divider">
+        
+        <div class="section">
+            <div class="header">Google now offers free SAT practice exams, powered by Gemini</div>
+            <div class="story-meta">
+                
+                    • Article: <a href="https://techcrunch.com/2026/01/22/google-now-offers-free-sat-practice-exams-powered-by-gemini/" class="story-link">https://techcrunch.com/2026/01/22/google-now-offers-free-sat-practice-exams-powered-by-gemini/</a> <br>
+                    
+                    
+                    • Text-to-Speech audio: <a href="https://audios.aicrafter.info/8f85bbaf-c5bd-4ca3-bc92-c07ac4d327f8.mp3" class="story-link">Listen</a> <br>
+                    • AI-generated podcast: <a href="https://audios.aicrafter.info/bf1127e8-0a9f-4ae2-a34c-7a3f666e9362.mp3" class="story-link">Listen</a> <br>
+    
+                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
+            </div>
+             
+            <div class="story-content">
+                <h3>Article Summary:</h3>
+                <div class="content-section"><ul class='digest-list'><li>• Google introduces free SAT practice exams through its Gemini AI, offering personalized feedback, detailed explanations, and performance analysis to help students prepare effectively.</li><li>• The AI-driven tool is developed in collaboration with education companies like the Princeton Review, ensuring the content closely aligns with actual SAT standards.</li><li>• While democratizing access to SAT prep, the initiative raises concerns about over-reliance on AI, potential impacts on critical thinking skills, and challenges to the traditional tutoring industry.</li></ul></div>
+            </div>
+    
+            
+        </div>
+        <hr class="story-divider">
+        
+        <div class="section">
+            <div class="header"></div>
+            <div class="story-meta">
+                
+                    • Article: <a href="https://techcrunch.com/2026/01/22/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/" class="story-link">https://techcrunch.com/2026/01/22/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/</a> <br>
+                    
+                    
+                    
+                    
+    
+                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
+            </div>
+             
+            <div class="story-content">
+                <h3>Article Summary:</h3>
+                <div class="content-section"><ul class='digest-list'><li>Unexpected response structure: {'success': False, 'error': 'Request timed out'}</li></ul></div>
+            </div>
+    
+            
+        </div>
+        <hr class="story-divider">
+        
+        <div class="section">
+            <div class="header"></div>
+            <div class="story-meta">
+                
+                    • Article: <a href="https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/" class="story-link">https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/</a> <br>
+                    
+                    
+                    
+                    
+    
+                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
+            </div>
+             
+            <div class="story-content">
+                <h3>Article Summary:</h3>
+                <div class="content-section"><ul class='digest-list'><li>Unexpected response structure: {'success': False, 'error': 'Request timed out'}</li></ul></div>
+            </div>
+    
+            
+        </div>
+        <hr class="story-divider">
+        
+        <div class="section">
+            <div class="header"></div>
+            <div class="story-meta">
+                
+                    • Article: <a href="https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/" class="story-link">https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/</a> <br>
+                    
+                    
+                    
+                    
+    
+                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
+            </div>
+             
+            <div class="story-content">
+                <h3>Article Summary:</h3>
+                <div class="content-section"><ul class='digest-list'><li>Unexpected response structure: {'success': False, 'error': 'Request timed out'}</li></ul></div>
+            </div>
+    
+            
+        </div>
+        <hr class="story-divider">
+        
+        <div class="section">
+            <div class="header">From invisibility cloaks to AI chips: Neurophos raises $110M to build tiny optical processors for inferencing</div>
+            <div class="story-meta">
+                
+                    • Article: <a href="https://techcrunch.com/2026/01/22/from-invisibility-cloaks-to-ai-chips-neurophos-raises-110m-to-build-tiny-optical-processors-for-inferencing/" class="story-link">https://techcrunch.com/2026/01/22/from-invisibility-cloaks-to-ai-chips-neurophos-raises-110m-to-build-tiny-optical-processors-for-inferencing/</a> <br>
+                    
+                    
+                    • Text-to-Speech audio: <a href="https://audios.aicrafter.info/31347480-f975-4ef1-840b-60570d15f6d2.mp3" class="story-link">Listen</a> <br>
+                    • AI-generated podcast: <a href="https://audios.aicrafter.info/1142f5e6-57d9-42e3-a598-a6ac0a7fef0f.mp3" class="story-link">Listen</a> <br>
+    
+                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
+            </div>
+             
+            <div class="story-content">
+                <h3>Article Summary:</h3>
+                <div class="content-section"><ul class='digest-list'><li>• Neurophos, a photonics startup, has developed a groundbreaking "metasurface modulator" that enables optical processing units (OPUs) to perform matrix vector multiplication faster and more efficiently than traditional silicon-based GPUs, addressing the growing energy demands of AI inference.</li><li>• The startup claims its OPU achieves 235 Peta Operations per Second (POPS) at 56 GHz while consuming just 675 watts, outperforming Nvidia’s B200 AI GPU by a wide margin in both speed and energy efficiency.</li><li>• Neurophos raised $110 million in Series A funding led by Gates Frontier, with participation from Microsoft’s M12, Bosch Ventures, Aramco Ventures, and others, to accelerate chip development and expand operations.</li></ul></div>
+            </div>
+    
+            
+        </div>
+        <hr class="story-divider">
+        
+        <div class="section">
+            <div class="header"></div>
+            <div class="story-meta">
+                
+                    • Article: <a href="https://techcrunch.com/2026/01/22/quadric-rides-the-shift-from-cloud-ai-to-on-device-inference-and-its-paying-off/" class="story-link">https://techcrunch.com/2026/01/22/quadric-rides-the-shift-from-cloud-ai-to-on-device-inference-and-its-paying-off/</a> <br>
+                    
+                    
+                    
+                    
+    
+                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
+            </div>
+             
+            <div class="story-content">
+                <h3>Article Summary:</h3>
+                <div class="content-section"><ul class='digest-list'><li>Unexpected response structure: {'success': False, 'error': 'Request timed out'}</li></ul></div>
+            </div>
+    
+            
+        </div>
+        <hr class="story-divider">
+        
+        <div class="section">
+            <div class="header"></div>
+            <div class="story-meta">
+                
+                    • Article: <a href="https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/" class="story-link">https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/</a> <br>
+                    
+                    
+                    
+                    
+    
+                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
+            </div>
+             
+            <div class="story-content">
+                <h3>Article Summary:</h3>
+                <div class="content-section"><ul class='digest-list'><li>Unexpected response structure: {'success': False, 'error': 'Request timed out'}</li></ul></div>
+            </div>
+    
+            
+        </div>
+        <hr class="story-divider">
+        
+        <div class="section">
+            <div class="header"></div>
+            <div class="story-meta">
+                
+                    • Article: <a href="https://techcrunch.com/2026/01/23/only-1-week-left-or-until-the-first-500-passes-are-gone-the-first-disrupt-2026-ticket-discount-is-ending/" class="story-link">https://techcrunch.com/2026/01/23/only-1-week-left-or-until-the-first-500-passes-are-gone-the-first-disrupt-2026-ticket-discount-is-ending/</a> <br>
+                    
+                    
+                    
+                    
+    
+                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
+            </div>
+             
+            <div class="story-content">
+                <h3>Article Summary:</h3>
+                <div class="content-section"><ul class='digest-list'><li>Unexpected response structure: {'success': False, 'error': 'Request timed out'}</li></ul></div>
+            </div>
+    
+            
+        </div>
+        <hr class="story-divider">
+        
+        <div class="section">
+            <div class="header"></div>
+            <div class="story-meta">
+                
+                    • Article: <a href="https://techcrunch.com/2026/01/23/openai-chief-sam-altman-plans-india-visit-as-ai-leaders-converge-in-new-delhi-sources/" class="story-link">https://techcrunch.com/2026/01/23/openai-chief-sam-altman-plans-india-visit-as-ai-leaders-converge-in-new-delhi-sources/</a> <br>
+                    
+                    
+                    
+                    
+    
+                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
+            </div>
+             
+            <div class="story-content">
+                <h3>Article Summary:</h3>
+                <div class="content-section"><ul class='digest-list'><li>Unexpected response structure: {'success': False, 'error': 'Request timed out'}</li></ul></div>
+            </div>
+    
+            
+        </div>
+        <hr class="story-divider">
+        
+        <div class="section">
+            <div class="header"></div>
+            <div class="story-meta">
+                
+                    • Article: <a href="https://techcrunch.com/2026/01/22/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/" class="story-link">https://techcrunch.com/2026/01/22/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/</a> <br>
+                    
+                    
+                    
+                    
+    
+                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
+            </div>
+             
+            <div class="story-content">
+                <h3>Article Summary:</h3>
+                <div class="content-section"><ul class='digest-list'><li>Unexpected response structure: {'success': False, 'error': 'Request timed out'}</li></ul></div>
+            </div>
+    
+            
+        </div>
+        <hr class="story-divider">
+        
+        <div class="section">
+            <div class="header"></div>
+            <div class="story-meta">
+                
+                    • Article: <a href="https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/" class="story-link">https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/</a> <br>
+                    
+                    
+                    
+                    
+    
+                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
+            </div>
+             
+            <div class="story-content">
+                <h3>Article Summary:</h3>
+                <div class="content-section"><ul class='digest-list'><li>Unexpected response structure: {'success': False, 'error': 'Request timed out'}</li></ul></div>
+            </div>
+    
+            
+        </div>
+        <hr class="story-divider">
+        
+        <div class="section">
+            <div class="header"></div>
+            <div class="story-meta">
+                
+                    • Article: <a href="https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/" class="story-link">https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/</a> <br>
+                    
+                    
+                    
+                    
+    
+                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
+            </div>
+             
+            <div class="story-content">
+                <h3>Article Summary:</h3>
+                <div class="content-section"><ul class='digest-list'><li>Unexpected response structure: {'success': False, 'error': 'Request timed out'}</li></ul></div>
+            </div>
+    
+            
+        </div>
+        <hr class="story-divider">
+        
+        <div class="section">
+            <div class="header"></div>
+            <div class="story-meta">
+                
+                    • Article: <a href="https://techcrunch.com/2026/01/22/google-deepmind-ceo-is-surprised-openai-is-rushing-forward-with-ads-in-chatgpt/" class="story-link">https://techcrunch.com/2026/01/22/google-deepmind-ceo-is-surprised-openai-is-rushing-forward-with-ads-in-chatgpt/</a> <br>
+                    
+                    
+                    
+                    
+    
+                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
+            </div>
+             
+            <div class="story-content">
+                <h3>Article Summary:</h3>
+                <div class="content-section"><ul class='digest-list'><li>Unexpected response structure: {'success': False, 'error': 'Request timed out'}</li></ul></div>
+            </div>
+    
+            
+        </div>
+        <hr class="story-divider">
+        
+            <div class="footer">
+                <p>
+                    Built with ❤️ by <a href="https://dannyzheng.me">dannyzheng.me</a><br>
+                </p>
+            </div>
+        </div>
+    </body>
+    </html>
+    ]]></description>
+    <pubDate>Fri, 23 Jan 2026 15:45:40 GMT</pubDate>
+    <guid>19beb88ee4e4cda1</guid>
+    <author>&quot;AI Frontiers&quot; &lt;newsletter.digest@aicrafter.info&gt;</author>
+  </item>
 
   <item>
     <title>AI Frontiers on Hacker News</title>
@@ -10747,150 +11267,6 @@ Ticket thread (paste everything):
     <pubDate>Thu, 22 Jan 2026 15:42:07 GMT</pubDate>
     <guid>19be65f5f99c7742</guid>
     <author>&quot;AI Frontiers&quot; &lt;newsletter.digest@aicrafter.info&gt;</author>
-  </item>
-
-  <item>
-    <title>🫳🏼 A crawling, detachable robot hand</title>
-    <description><![CDATA[<!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" style="font-size:16px;"><head></head><head><meta charset="utf-8"/><!--[if !mso]><!--><meta http-equiv="X-UA-Compatible" content="IE=edge"/><!--<![endif]--><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="x-apple-disable-message-reformatting"/><meta name="format-detection" content="telephone=no,address=no,email=no,date=no,url=no"/><meta name="color-scheme" content="light"/><meta name="supported-color-schemes" content="light"/><title>🫳🏼 A crawling, detachable robot hand</title><!--[if mso]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]--><style>
-  :root { color-scheme: light; supported-color-schemes: light; }
-  body { margin: 0; padding: 0; min-width: 100%!important; -ms-text-size-adjust: 100% !important; -webkit-transform: scale(1) !important; -webkit-text-size-adjust: 100% !important; -webkit-font-smoothing: antialiased !important; }
-  .body { word-wrap: normal; word-spacing:normal; }
-  table.mso { width: 100%; border-collapse: collapse; padding: 0; table-layout: fixed; }
-  img { border: 0; outline: none; }
-  table {  mso-table-lspace: 0px; mso-table-rspace: 0px; }
-  td, a, span {  mso-line-height-rule: exactly; }
-  #root [x-apple-data-detectors=true],
-  a[x-apple-data-detectors=true],
-  #MessageViewBody a { color: inherit !important; text-decoration: inherit !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important; }
-  span.MsoHyperlink { color: inherit !important; mso-style-priority: 99 !important; }
-  span.MsoHyperlinkFollowed { color: inherit !important; mso-style-priority: 99 !important; }
-  .a { background-color:#FFFFFF; }
-  .b { background-color:#101010; }
-  .c  { background-color:#FFFFFF; }
-  .d { background-color:#fff3f3; }
-  .d2 { background-color:#FFFFFF; }
-  .d3 { background-color:#FFFFFF; }
-  h1 a { text-decoration:underline;color:#d2221e !important;font-weight:bold; }
-  h2 a { text-decoration:underline;color:#d2221e !important;font-weight:bold; }
-  h3 a { text-decoration:underline;color:#d2221e !important;font-weight:bold; }
-  h4 a { text-decoration:underline;color:#d2221e !important;font-weight:bold; }
-  h5 a { text-decoration:underline;color:#d2221e !important;font-weight:bold; }
-  h6 a { text-decoration:underline;color:#d2221e !important;font-weight:bold; }
-  h1, h1 a, h2, h2 a, h3, h3 a, h4, h4 a, h5, h5 a, h6, h6 a, ul, li, ol, p, p a { margin: 0;padding: 0; }
-  h1 { font-family:'Helvetica',Arial,sans-serif;font-weight:700;font-size:28px;color:#000000;line-height:1.75;padding-bottom:16px;padding-top:16px;mso-margin-top-alt:16px;mso-margin-bottom-alt:16px }
-  h2 { font-family:'Helvetica',Arial,sans-serif;font-weight:700;font-size:24px;color:#000000;line-height:1.5;padding-bottom:4px;padding-top:16px;mso-margin-top-alt:16px;mso-margin-bottom-alt:4px }
-  h3 { font-family:'Helvetica',Arial,sans-serif;font-weight:700;font-size:22px;color:#000000;line-height:1.25;padding-bottom:4px;padding-top:12px;mso-margin-top-alt:12px;mso-margin-bottom-alt:4px }
-  h4 { font-family:'Helvetica',Arial,sans-serif;font-weight:700;font-size:22px;color:#000000;line-height:1.125;padding-bottom:4px;padding-top:0px;mso-margin-top-alt:0px;mso-margin-bottom-alt:4px }
-  h5 { font-family:'Helvetica',Arial,sans-serif;font-weight:400;font-size:18px;color:#000000;line-height:1;padding-bottom:4px;padding-top:16px;mso-margin-top-alt:16px;mso-margin-bottom-alt:4px }
-  h6 { font-family:'Helvetica',Arial,sans-serif;font-weight:400;font-size:14px;color:#000000;line-height:0.875;padding-bottom:0px;padding-top:12px;mso-margin-top-alt:12px;mso-margin-bottom-alt:0px }
-  p { font-family:'Helvetica',Arial,sans-serif;font-weight:400;color:#000000;font-size:16px;line-height:1.5;padding-bottom:8px;padding-top:8px;mso-margin-top-alt:8px;mso-margin-bottom-alt:8px; }
-  p a, .e a, ul a, li a, .h a, .h2 a, .h3 a { word-break:break-word;color:#d2221e !important;text-decoration:underline;text-decoration-color:#d2221e;font-weight:bold; }
-  p a span, .e a span, ul a span, li a span { color: inherit }
-  p .bold { font-weight:bold;color:#000000; }
-  p span[style*="font-size"] { line-height: 1.6; }
-  .f p { font-size:12px;line-height:15px;color:#000000;padding:0; }
-  .f p a { color:#000000 !important; }
-  .g p { font-family:'Helvetica',Arial,sans-serif;font-size:14px;line-height:20px;font-weight:normal;margin:0; }
-  .g p a  { text-decoration: underline; }
-  .i p { font-family:'Helvetica',Arial,sans-serif;line-height:1.5;font-size:15px;color:#2D2D2D; }
-  .i p a { color:#2D2D2D !important; }
-  .i2 p { font-family:'Helvetica',Arial,sans-serif;line-height:1.5;font-size:15px;color:#2D2D2D; }
-  .i2 p a { color:#2D2D2D !important; }
-  .i3 p { font-family:'Helvetica',Arial,sans-serif;line-height:1.8;font-size:24px;color:#2D2D2D; }
-  .i3 p a { color:#2D2D2D !important; }
-  .h p a { color:#595959 !important; }
-  .h2 p a { color:#595959 !important; }
-  .h3 p a { color:#595959 !important; }
-  .f p a, .i p a, .i2 p a, .i3 p a, .h p a, .h2 p a, .h3 p a { text-decoration:underline; }
-  .j { border-top:2px solid #030712; }
-  .k p { padding-left:15px;padding-bottom:0px;padding-top:6px;mso-margin-top-alt:6px;mso-margin-bottom-alt:0px;mso-margin-left-alt:15px; }
-  .o { background-color:#FFFFFF;border:1px solid #F1F1F1;border-radius:5px; }
-  .o p { font-family:'Helvetica',Arial,sans-serif;padding:0px;margin:0px; }
-  .l p,
-  .l p a, .l a { font-size:14px;line-height:20px;font-weight: bold;color:#2D2D2D;padding-bottom:6px;mso-margin-bottom-alt:6px;text-decoration:none; }
-  .m p,
-  .m p a { font-size:13px;line-height:18px;font-weight:400;color:#2D2D2D;padding-bottom:6px;mso-margin-bottom-alt:6px;text-decoration:none; }
-  .n p,
-  .n p a { font-size:12px;line-height:17px;font-weight:400;color:#2D2D2D;padding-bottom:6px;mso-margin-bottom-alt:6px;text-decoration:none; }
-  .p { background-color:#FFFFFF;max-width:520px;border:1px solid #E1E8ED;border:1px solid rgba(80, 80, 80, 0.3);border-radius:5px; }
-  .q { font-size:16px;font-family:Helvetica,Roboto,Calibri,sans-serif !important;border:1px solid #e1e8ed;border:1px solid rgba(80, 80, 80, 0.3);border-radius:10px;background-color:#FFFFFF; }
-  .q p { font-size:16px;font-family:system-ui,Helvetica,Roboto,Calibri,sans-serif !important;color:#222222;padding:4px 0; }
-  .r { border:1px solid #E1E8ED !important;border-radius:5px; }
-  .s p { font-size: 14px; line-height: 17px; font-weight: 400; color: #697882; text-decoration: none; }
-  .t p { font-family:'Helvetica',Arial,sans-serif;font-size:12px;line-height:1.5;font-weight:400;color:#000000;font-style:italic;padding:0px; }
-  .v { border-radius:10px;border:solid 0px #030712;background-color:#d2221e;font-family:'Verdana',Geneva,sans-serif;color:#FFFFFF; }
-  .v a { text-decoration:none;display:block;color:#FFFFFF; }
-  .w p { font-size:12px;line-height:15px;font-weight:400;color:#FFFFFF; }
-  .w p a { text-decoration: underline !important;color:#FFFFFF !important; }
-  ul { font-family:'Helvetica',Arial,sans-serif;margin:0px 0px 0px 25px !important;padding:0px !important;color:#2D2D2D;line-height:24px;list-style:disc;font-size:16px; }
-  ul > li { font-family:'Helvetica',Arial,sans-serif;margin:5px 0px 0px 0px !important;padding: 0px 0px 0px 0px !important; color: #2D2D2D; list-style:disc; }
-  ol { font-family:'Helvetica',Arial,sans-serif;margin: 0px 0px 0px 25px !important;padding:0px !important;color:#2D2D2D;line-height:24px;list-style:decimal;font-size:16px; }
-  ol > li { font-family:'Helvetica',Arial,sans-serif;margin:5px 0px 0px 0px !important;padding: 0px 0px 0px 0px !important; color: #2D2D2D; }
-  .e h3,
-  .e p,
-  .e span { padding-bottom:0px;padding-top:0px;mso-margin-top-alt:0px;mso-margin-bottom-alt:0px; }
-  .e span,
-  .e li { font-family:'Helvetica',Arial,sans-serif;font-size:16px;color:#000000;line-height:24px; }
-  .rec { font-family:  ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important; }
-  .rec__button:hover { background-color: #f9fafb !important; }
-  .copyright a {color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important;}
-  .txt_social p { padding: 0; word-break: break-all; }
-  .table, .table-c, .table-h { border: 1px solid #C0C0C0; }
-  .table-c { padding:5px; background-color:#FFFFFF; }
-  .table-c p { color: #2D2D2D; font-family:'Helvetica',Arial,sans-serif !important;overflow-wrap: break-word; }
-  .table-h { padding:5px; background-color:#F1F1F1; }
-  .table-h p { color: #2A2A2A; font-family:'Trebuchet MS','Lucida Grande',Tahoma,sans-serif !important;overflow-wrap: break-word; }
-  @media only screen and (max-width:667px) {
-    .aa, .w100pc { width: 100% !important; }
-    .bb img { width: 100% !important; height: auto !important; max-width: none !important; }
-    .cc { padding: 0px 8px !important; }
-    .ee { padding-top:10px !important;padding-bottom:10px !important; }
-    .ff ul, .ff ol { margin: 0px 0px 0px 10px !important;padding: 0px !important; }
-    .ff li { margin:5px 0px 0px 10px !important; }
-    .r {height:140px !important;}
-    .s p { font-size:13px !important;line-height:15px !important; }
-    .mob-hide {display:none !important;}
-    .mob-show {display: block !important; width: auto !important; overflow: visible !important; float: none !important; max-height: inherit !important; line-height: inherit !important;}
-    .mob-stack {width:100% !important;display:block !important;}
-    .mob-w-full {width:100% !important;}
-    .mob-block {display:block !important;}
-    .embed-img {padding:0px 0px 12px 0px !important;}
-    .socialShare {padding-top:15px !important;}
-    .rec { padding-left:15px!important;padding-right:15px!important; }
-    .bodyWrapper { padding:10px 4px 10px 4px !important; }
-    .social-mobile {float:left !important;margin-top:10px !important;}
-  }
-  @media screen and (max-width: 480px) {
-    u + .a .gg { width: 100% !important; width: 100vw !important; }
-    .tok-heart { padding-top:75% !important; }
-    .tok-play { padding-top: 250px !important; }
-  }
-  @media screen and (max-width: 320px) {
-    .tok-heart { padding-top:65% !important; }
-  }
-    .f
-{
-display: none;
-}
-  .u { border: 1px solid #CACACA !important; border-radius: 2px !important; background-color: #ffffff !important; padding: 0px 13px 0px 13px !important; font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif !important;font-size: 12px !important; color: #767676 !important; }
-  .u a { text-decoration: none; display: block !important; color: #767676 !important; margin: 0px !important; }
-  .u span, .u img { color: #767676 !important;margin:0px !important; max-height:32px !important;background-color:#ffffff !important; }
-</style><!--[if mso]><style type="text/css">
-    h1, h2, h3, h4, h5, h6 {font-family: Arial, sans-serif !important;}
-    body, table, td, p, a, span {font-family: Arial, sans-serif !important;}
-    sup { font-size: 100% !important;vertical-align: .5em !important;mso-text-raise: -1.5% !important;line-height: 0 !important; }
-    ul { margin-left:0px !important; margin-right:10px !important; margin-top:20px !important; margin-bottom:20px !important; }
-    ul li { margin-left: 0px !important; mso-special-format: decimal; }
-    ol { margin-left:0px !important; margin-right:10px !important; margin-top:20px !important; margin-bottom:20px !important; }
-    ol li { margin-left: 0px !important; mso-special-format: decimal; }
-    li.listItem { margin-left:15px !important; margin-top:0px !important; }
-    .paddingDesktop { padding: 10px 0 !important; }
-    .edm_outlooklist { margin-left: -20px !important; }
-    .embedImage { display:none !important; }
-</style><![endif]--><!-- __merge_tags_in_links__ --><style></style></head><body class="a" style="margin:0px auto;padding:0px;word-wrap:normal;word-spacing:normal;background-color:#FFFFFF;"><div role="article" aria-roledescription="email" aria-label="email_name" lang="en" style="font-size:1rem"><div style="display:none;max-height:0px;overflow:hidden;"> PLUS: Zipline comes to more cities &#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204; </div><table role="none" width="100%" border="0" cellspacing="0" align="center" cellpadding="0" class="gg"><tr><td align="center" valign="top"><table role="none" width="670" border="0" cellspacing="0" cellpadding="0" class="aa" style="width:670px;table-layout:fixed;"><tr><td class="bodyWrapper" align="center" valign="top" style="padding:10px 5px 10px 5px;"><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td align="center" valign="top" style="border-width:0px 0px 0px 0px;border-style: solid; border-color: #FFFFFF;border-radius:10px 10px 0px 0px;background-color:#FFFFFF;" class="c"><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0" align="center"><tr id="header"><td style="padding:15px 15px 0px 15px;"><div style="padding-top:0px;padding-right:0px;padding-bottom:20px;padding-left:0px;"><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td class="f" align="right" valign="top"><p> January 22nd, 2026 &nbsp; | &nbsp; <a href="https://link.mail.beehiiv.com/ss/c/u001.GQOM8q4ys-vZgCzT2HGlhRR7J-xBT4QBkF5vOL2NbkDkhdbkFPNeqlKxfp9tojEQ9ubUyEtM4IHSKssTJyghsrZJ8pCeSfmWomwltk4nuFhnLmqCF7o_lwdoJVVUYNh7n0NYnoQ7kM1ojSIJr5nUvPKCDNJ-tWdqe0gALMwuGLz3tMgIUm47xkuuv51kKvJ9fvO1pjT7cECapmMWJXNALHtrCqMNHX0tIoLmaAoMrFzqNXP72wurxQQ5bwQoP9R_E_goFXdFmbbiGBtSMGDXZDcJMthk7umtwJ7nZxr5K4Nrlf64p_S1EtAb_isDNhqWXN8YzIabbxXVka8yWix29EtAPxW2C6_w_DrwjP2s746zd3Zs7tKf4m-K7_24jVSp0DOHlRa_qnUMyedTxRSnP5umNKJtVQmnDgVlKhOWjsBLO_SCGRTtrMc4gByLWEX_89ZqV5oXpHJcd_jmU0ZZT_hElags-EPhHKY2Z_5_8-QLa8OaQZIM36b1pAn7fFsITgBMyztjSlSf3F1YheIu3q4fDR_wRyYTTYm9XEiltTkQiRqmoypgn4s54FdDpZPD_NmBNaIfHLdeJZtCIanzWprZ2NjPQWYljSn92Omyg4dXdhhXODo8DOMrjTOVz03dgBLjIbm2r6k6_MAHN6xLERYkkFmbDn5F-OrSNCiEnPkK7F3A_r__m6mw6CynNTfhhoEnSJrrVSs7Y9YLmtvY7WqiEkmtVAS_MYrzLYtGMM6Z7BdMYfGFZ-VwHUljcMmrNBS4QfiY83ZzHPAvDVa8_ERzbl7KKkduG0eQ607jdgo/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h0/h001._vtg-TT_rezeZ3cMt_uc0VmYeWoUbk0i0XZmbZVT7nk"><span class="translation_missing" title="translation missing: en.templates.posts.email.header.read_online">Read Online</span></a></p></td></tr><tr><td style="line-height:0;"><div data-open-tracking="true"> <img src="https://link.mail.beehiiv.com/ss/o/u001.1b7sc8m2xfuubMaNHxFuDw/4ni/rCVyMUvuTHaN1D_ftM6FdQ/ho.gif" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/> </div></td></tr></table></div></td></tr><tr id="content-blocks"><td class="email-card-body" align="center" valign="top" style="padding-bottom:15px;"><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td class="dd" align="right" style="padding:0px 15px;text-align:right;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><sup><b><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.GQOM8q4ys-vZgCzT2HGlhRR7J-xBT4QBkF5vOL2NbkDkhdbkFPNeqlKxfp9tojEQ9ubUyEtM4IHSKssTJyghsuy8PAHwU1BCHxNV_WzG7pIIiGthTXJdoWQ1jbAI9IB-SFSBaHmNZRgvgoIoo8fYyr5CuMTE1wBNLCWTeyWlCDkCybZH21zCpAej2Ji3zKgSansz3VTKuWqXTwEk6y2xX_hgd169_PWcLN6zMD9zHKfXATyw45kTGVPNkLBq1SiGmC636LuKbpbEP9b6zpOWfspCHnXfmXBbNzoaloooD0REKOcKprHkW1fpvap99Nn0MXWnVIRtYNjSyr6OAf8cfNeuDRBuodMIIBN_oUruf2OtcE4-0NakGEUZOP5dHqFzjIkjg5NvpZlLQcZQKwOAJ9NuZRLzVgOpzLnfwqZwNic8qMOFchFGit75-QUNYnptyOZTXv6R8Og-MZx180teNtpY2dFOENUYGY3V6ejwrD3SACAHgQmkI9DGkxV4Vk8wqdHWsBVs_47QXAzc0-R2pNboaK3FwOeKf_j9uaiKzmjvT4bV-KrWkuXOANeg99hQcvwG8OygjJQll4TEfMfAHA/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h1/h001.O6U3mKfkpbNte0K1fSW57ICK1RNOa6YTbOy-SdL0ctg" target="_blank" rel="noopener noreferrer nofollow"><span>Read Online</span></a></b></sup><span style="color:rgb(34, 34, 34);font-family:Helvetica, Arial, sans-serif;font-size:16px;"><sup> | </sup></span><sup><b><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.GQOM8q4ys-vZgCzT2HGlhRR7J-xBT4QBkF5vOL2NbkAW3YMje71wS7BOo-yTTowqx_X9wxEdPG1UOdvMH7GCDaT3I-7ioUMBSnXnAKdp1D4-qBF7W11SleFi2_5quUhXnWDXPaRmJinJu18gyOGkiMviobn4hRjVLCHyYrS9D9FQFnUteACcu9GfJq6MI3idzSgOIjlsuhyPOpbrUbw6qeOp7Qdr13F7qDOAtkuP3mjUlDLG7t3QlBl7js6bcIIo8VewPu0w6xZrRikqUqEOfN0kcRstCOdDkdb-JPTWD4Zq64CmhGD5nYYk21T86tNBpBafYbOZaAqr5mvMFVcuADG0IMXUPxy3GJrMM3kSEKsUDnGAKZGYuJEBu2H5SkgRxtfVRyYQXVkEjdG9NNwYdEkYWfevV4NAWgYxjKsKUFCbEdft44ACimERRX_fhgrM_G170oFXZRNiYkWrejBm3gE4p2izzFijgxcGWoJJQIVWLxaOqtBDo5cme03p5986hdtGxL76qirADeGAcQoqDH-oTY3w_kQUrqYlau6V5MjNR9-DXFIqVOZ7D69pP3xYgAtAOch5yyTQYekBbPZ0bgCWhEewhNe-UX-cPgb3CLPWi4Fzo96xrjcqiPkrCMSN_cpyvnm-0fNuorXJqeYplqRTsPJeW-BmWyW9z87QFV4UkCqnvqIMR2gVuzIel0J8KHDylrCqZgohLcMxM-x45pYnTkEYDYyiLhRpF1zEtdBkRGvOu95v4HPRtrzziWc4XLxRPH8LcBMpdxgnzkceQg/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h2/h001.l0h9Sax5O2468_o8-sBVy2bCQ62L5sVJAT7aLzyIN_0" target="_blank" rel="noopener noreferrer nofollow"><span>Sign Up</span></a></b></sup><span style="color:rgb(34, 34, 34);font-family:Helvetica, Arial, sans-serif;font-size:16px;"><sup> | </sup></span><sup><b><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.fKs5pSodVHyYpGj0H5OoMN_crcn319_Cugh51oNLE_Utc7vtZpePTzHeupVYrlfLoVk0AacOzEGkXmTxiv-Au8P9g9tcveNmoS26_sLRgx-W4qyihDxCq6CVp_saN6kMDFD-S_a21PrGUTATAhvLEz8D6YNn-wTcRxEjDivfWYQM2f4Ave5SsvV2QMj0vbL8bf2sDSt8H-VSUtpj8Mo87g/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h3/h001.KUTqJPwNTLmnb-FL-2D5rmMYfA_9ZwJ_jj1G_qCapI8" target="_blank" rel="noopener noreferrer nofollow"><span>Advertise</span></a></b></sup></p></td></tr><tr><td><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0" style=""><tr><td bgcolor="#D2221E" style="background-color:#D2221E;border-color:#000000;border-radius:10px;border-style:solid;border-width:2px;padding:0.0px 0.0px 0.0px 0.0px;"><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td align="center" valign="top" style="padding-bottom:8px;padding-left:15px;padding-right:15px;padding-top:2px; " class="dd"><table role="none" border="0" cellspacing="0" cellpadding="0" style="margin:0 auto 0 auto;"><tr><td align="center" valign="top" style="width:630px;"><a href="https://link.mail.beehiiv.com/ss/c/u001.GQOM8q4ys-vZgCzT2HGlhbyzzl5wjuPgBEg1_mZXdNoQWXFU6YP9o9OylLIIVhqwThZCuvPGpds_Ndznte8IVHw_difjtYclwGWEb2KGjbAbuidLKfk3QIvK1JyKD3O16QYE4D6HVgd04RsqplLbZ6EjG8voBgC-qu06K1LMBELxp_EYx2b8uzDKdRKljvGA/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h4/h001.VR4_uMHfIKOyIQhXpeVoEaUoX4usjUwHvQB1ifrlVRw" rel="noopener noreferrer nofollow" style="text-decoration:none;" target="_blank"><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/8592a77e-c2e6-4d4f-9203-b511ebb98bc8/roboticsheader.png?t=1736700542" alt="" height="auto" width="630" style="display:block;width:100%;border-radius:0px 0px 0px 0px;border-style:solid;border-width:0px 0px 0px 0px;box-sizing:border-box;border-color:#E5E7EB;" border="0"/></a></td></tr></table></td></tr></table></td></tr></table></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"></p></td></tr><tr><td><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0" style=""><tr><td bgcolor="#FFFFFF" style="background-color:#FFFFFF;border-color:#000000;border-radius:10px;border-style:solid;border-width:2px;padding:5.0px 0.0px 5.0px 0.0px;"><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>Good morning, TT.</b></span><span style=""> EPFL roboticists just built a robotic hand that can detach itself and crawl away from its arm — basically “Thing” from The Addams Family, but engineered in Switzerland.</span></p></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style="">With freakishly flexible, reversible fingers, it can grip from either side — and even juggle extra tasks with a sixth digit. Is this the next big leap in real-world dexterity?</span></p></td></tr><tr><td align="center" valign="top" style="font-size:0px;line-height:0px;padding:30px 0px 30px;" class="dd"><table class="j" role="none" width="100%" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td> &nbsp; </td></tr></table></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>In today’s robotics rundown:</b></span></p></td></tr><tr><td style="padding-bottom:12px;padding-left:25px;padding-right:25px;padding-top:0px;" class="ee"><div style="margin-left:0px;" class="edm_outlooklist"><ul style="font-weight:normal;list-style-type:disc;margin-bottom:12px !important;margin-top:12px !important;padding:0px 0px 0px 0px;"><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">Robotic hand detaches and crawls on its own</span></p></li><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">Zipline soars to $7.6B as it targets Houston, Phoenix</span></p></li><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">Sailbots take on Category 5 hurricanes</span></p></li><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">Serve Robotics moves into hospital bots</span></p></li><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">Quick hits on other robotics news </span></p></li></ul></div></td></tr></table></td></tr></table></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"></p></td></tr><tr><td><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0" style=""><tr><td bgcolor="#D2221E" style="background-color:#D2221E;border-color:#000000;border-style:solid;border-width:2px;padding:0.0px 0.0px 0.0px 0.0px;"><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td class="dd" align="center" style="padding:0px 15px;text-align:center;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style="color:#FFFFFF;"><b>LATEST DEVELOPMENTS</b></span></p></td></tr></table></td></tr></table></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"></p></td></tr><tr><td><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0" style=""><tr><td bgcolor="#FFFFFF" style="background-color:#FFFFFF;border-color:#000000;border-radius:10px;border-style:solid;border-width:2px;padding:0.0px 0.0px 0.0px 0.0px;"><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td class="dd" align="left" valign="top" style="color:#000000;font-weight:normal;padding:0px 15px;text-align:left;"><h6 style="color:#000000;font-weight:normal;mso-line-height-alt:87.5%;"><span style="">EPFL</span></h6></td></tr><tr><td class="dd" align="left" valign="top" style="color:#000000;font-weight:Bold;padding:0px 15px;text-align:left;"><h4 style="color:#000000;font-weight:Bold;mso-line-height-alt:112.5%;"><span style="">✌🏼 </span><span style=""><span style="text-decoration:underline;"><b><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.Ij6wOTM6hhDCwKZMYyR5LsaXjw52mC6i9kpXBj1Irx2UZUjBuPNEZSb6zCMqEGytaMtngxPRlpR4sBPkO2_7AjDnq33iZw6Bz_wKkP5llpxf46ZC0QDHZBieZkP5o-iRKhwUo998pf_OVM-S9qhlBGi_VYqPMy-Ht4w1SxA846wbyNteJbqY7Cdovr8HJnTmc3Fazu_0s-UVbpxyt0kcwQvh8g7rCvk7WUMWHv6cC51IJuRIsrKMfkoDpIDg5flX/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h5/h001.bMzAnESKqYszoF3pn0YrssWBLpC-kXoGCaMBsPstg-A" target="_blank" rel="noopener noreferrer nofollow"><span>Robotic hand detaches and crawls on its own</span></a></b></span></span></h4></td></tr><tr><td align="center" valign="top" style="padding-bottom:8px;padding-left:15px;padding-right:15px;padding-top:2px; " class="dd"><table role="none" border="0" cellspacing="0" cellpadding="0" style="margin:0 auto 0 auto;"><tr><td align="center" valign="top" style="width:630px;"><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/e4a6abb0-d308-4282-bc4c-a0c5581129c8/1108x622.jpg?t=1769075974" alt="" height="auto" width="630" style="display:block;width:100%;border-radius:0px 0px 0px 0px;border-style:solid;border-width:0px 0px 0px 0px;box-sizing:border-box;border-color:#E5E7EB;" border="0"/></td></tr><tr><td align="left" valign="top" class="t" style="width:630px; padding: 4px 0px 4px 0px;"><p><span style="">Image source: EPFL</span></p></td></tr></table></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>The Rundown: </b></span><span style="">Researchers at Switzerland’s EPFL just </span><span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.Ij6wOTM6hhDCwKZMYyR5LsaXjw52mC6i9kpXBj1Irx2UZUjBuPNEZSb6zCMqEGytaMtngxPRlpR4sBPkO2_7AjDnq33iZw6Bz_wKkP5llpxf46ZC0QDHZBieZkP5o-iRKhwUo998pf_OVM-S9qhlBGi_VYqPMy-Ht4w1SxA846wbyNteJbqY7Cdovr8HJnTmc3Fazu_0s-UVbpxyt0kcwQvh8g7rCvk7WUMWHv6cC51IJuRIsrKMfkoDpIDg5flX/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h6/h001.PKho1knA4qNVj3fRntNLB0-8VZUPMMhI1EoEH0PtZWM" target="_blank" rel="noopener noreferrer nofollow"><span>built</span></a></span><span style=""> a robotic hand that can detach from its arm, scuttle across a surface, and grab objects beyond the reach of conventional manipulators</span><span style=""><i>.</i></span></p></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>The details: </b></span></p></td></tr><tr><td style="padding-bottom:12px;padding-left:25px;padding-right:25px;padding-top:0px;" class="ee"><div style="margin-left:0px;" class="edm_outlooklist"><ul style="font-weight:normal;list-style-type:disc;margin-bottom:12px !important;margin-top:12px !important;padding:0px 0px 0px 0px;"><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">The EPFL team built this robotic hand from 3D printable parts, with the ability to detach from its arm, crawl, grab objects, and reattach itself.</span></p></li><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">The reversible design lets any finger combination form opposing thumb-like pairs, enabling grasping from either side without repositioning.</span></p></li><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">Each finger bends in both directions with more than twice the range of motion of a human hand, optimized via genetic algorithms for grasping and locomotion.</span></p></li><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">With five fingers, it replicates most human grasps; add a sixth finger, and it can tackle two-handed tasks singlehandedly, like unscrewing a large bottle cap.</span></p></li></ul></div></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>Why it matters: </b></span><span style="">This hand challenges a core assumption in robotics — that manipulators must stay bolted to their arms. By treating it as an autonomous agent that can deploy, complete a task, and return, EPFL’s design hints at a future where robotic limbs become interchangeable tools rather than fixed appendages.</span></p></td></tr></table></td></tr></table></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"></p></td></tr><tr><td><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0" style=""><tr><td bgcolor="#FFFFFF" style="background-color:#FFFFFF;border-color:#000000;border-radius:10px;border-style:solid;border-width:2px;padding:0.0px 0.0px 0.0px 0.0px;"><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td class="dd" align="left" valign="top" style="color:#000000;font-weight:normal;padding:0px 15px;text-align:left;"><h6 style="color:#000000;font-weight:normal;mso-line-height-alt:87.5%;"><span style="">ZIPLINE</span></h6></td></tr><tr><td class="dd" align="left" valign="top" style="color:#000000;font-weight:Bold;padding:0px 15px;text-align:left;"><h4 style="color:#000000;font-weight:Bold;mso-line-height-alt:112.5%;">🌯<span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.s09qcFkCj2HFKELjMKK4jqaR7fl2LP-3GtTz4KRolvYReoXgauQzFyqgELZWqJ6tJcy3qDaJw2BrU6FMvrwc9Oxz4F0sK6o7T3XSgVt6p70HB4R6MwKL8mQZ9Hg_08cptZ_EgjWAIs9KZverbFmlWLawI3QxUdK3HrNWpCTzoImdKstBepPu11rPWFx5ZG88vM9fMyLiXwcwuLofhlpC7MZaO63HnqVhAI-eV35WRiRtnbpfi05YLAxvN03yuDyoSMr8WdkqV12QZOKZYnP0c7PmPHncIXJMmR1Totau0PrQnuxCXZ1QM2jSQTsgDO9qcKjkKoEoqMSilAn2t_b2aLPwdK5qM-scrfBRftYJJDI-qLrYQEBRRgbwxrkrIfonlxV6vJqDnk2NMXKV0d9gsMUhbpeq6cvTDqhhDD1QVWc/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h7/h001.u6eSjB08x9JDYsnDb_J4gpIZuodDS7qDzwD2BDa3zhY" target="_blank" rel="noopener noreferrer nofollow"><span> </span></a></span><span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.s09qcFkCj2HFKELjMKK4jqaR7fl2LP-3GtTz4KRolvYReoXgauQzFyqgELZWqJ6tJcy3qDaJw2BrU6FMvrwc9Oxz4F0sK6o7T3XSgVt6p70HB4R6MwKL8mQZ9Hg_08cptZ_EgjWAIs9KZverbFmlWLawI3QxUdK3HrNWpCTzoImdKstBepPu11rPWFx5ZG88vM9fMyLiXwcwuLofhlpC7MZaO63HnqVhAI-eV35WRiRtnbpfi05YLAxvN03yuDyoSMr8WdkqV12QZOKZYnP0c7PmPHncIXJMmR1Totau0PrQnuxCXZ1QM2jSQTsgDO9qcKjkKoEoqMSilAn2t_b2aLPwdK5qM-scrfBRftYJJDI-qLrYQEBRRgbwxrkrIfonlxV6vJqDnk2NMXKV0d9gsMUhbpeq6cvTDqhhDD1QVWc/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h8/h001.am_gULb19pC8qsgFwXz20tOS9N-QFVjYQlS4qIZptTM" target="_blank" rel="noopener noreferrer nofollow"><span><span style="text-decoration:underline;"><b>Zipline soars to $7.6B as it targets Houston, Phoenix</b></span></span></a></span></h4></td></tr><tr><td align="center" valign="top" style="padding-bottom:8px;padding-left:15px;padding-right:15px;padding-top:2px; " class="dd"><table role="none" border="0" cellspacing="0" cellpadding="0" style="margin:0 auto 0 auto;"><tr><td align="center" valign="top" style="width:630px;"><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/0eaf44b6-f325-421a-ad34-54f27c4d7ec3/zipline-drone-delivery-2-million-houston-phoenix_cropped_processed_by_imagy.jpeg?t=1769071315" alt="" height="auto" width="630" style="display:block;width:100%;border-radius:0px 0px 0px 0px;border-style:solid;border-width:0px 0px 0px 0px;box-sizing:border-box;border-color:#E5E7EB;" border="0"/></td></tr><tr><td align="left" valign="top" class="t" style="width:630px; padding: 4px 0px 4px 0px;"><p><span style="">Image source: Zipline</span></p></td></tr></table></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>The Rundown: </b></span><span style="">Zipline just </span><span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.s09qcFkCj2HFKELjMKK4jqaR7fl2LP-3GtTz4KRolvYReoXgauQzFyqgELZWqJ6tJcy3qDaJw2BrU6FMvrwc9Oxz4F0sK6o7T3XSgVt6p70HB4R6MwKL8mQZ9Hg_08cptZ_EgjWAIs9KZverbFmlWLawI3QxUdK3HrNWpCTzoImdKstBepPu11rPWFx5ZG88vM9fMyLiXwcwuLofhlpC7MZaO63HnqVhAI-eV35WRiRtnbpfi05YLAxvN03yuDyoSMr8WdkqV12QZOKZYnP0c7PmPHncIXJMmR1Totau0PrQnuxCXZ1QM2jSQTsgDO9qcKjkKoEoqMSilAn2t_b2aLPwdK5qM-scrfBRftYJJDI-qLrYQEBRRgbwxrkrIfonlxV6vJqDnk2NMXKV0d9gsMUhbpeq6cvTDqhhDD1QVWc/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h9/h001.GacjQwOsVZ_gcD7aiHsbmwYFqNTAMhXFLETJnUZJHVQ" target="_blank" rel="noopener noreferrer nofollow"><span>raised</span></a></span><span style=""> more than $600M to fuel a fresh U.S. push that will launch its autonomous drone delivery in Houston and Phoenix in early 2026 and support expansion into at least four states.</span></p></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>The details:</b></span></p></td></tr><tr><td style="padding-bottom:12px;padding-left:25px;padding-right:25px;padding-top:0px;" class="ee"><div style="margin-left:0px;" class="edm_outlooklist"><ul style="font-weight:normal;list-style-type:disc;margin-bottom:12px !important;margin-top:12px !important;padding:0px 0px 0px 0px;"><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">Zipline’s valuation has nearly tripled in under three years, leaping from $2.75B in mid-2021 to $7.6B today.</span></p></li><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">Zipline says it has surpassed 2M commercial deliveries globally, with its drones flying more than 125M autonomous miles and delivering over 20M items.</span></p></li><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">The company began operations in 2016, delivering blood by drone in Rwanda, and has spent the past decade building a vertically integrated logistics stack.</span></p></li><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">Its Platform 2 drones, tailored for suburban home delivery, can carry up to 8 lb. within a 10‑mile radius, while the Platform 1 handles 120‑mile round trips.</span></p></li></ul></div></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>Why it matters: </b></span><span style="">Zipline says its newest U.S. sites can ramp to 100 deliveries a day in just two days, turning what used to be slow, geofenced pilots into something that starts to look like real infrastructure. Rivals Amazon Prime Air and Walmart’s drone partners Wing and DroneUp are </span><span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.GQOM8q4ys-vZgCzT2HGlhRR7J-xBT4QBkF5vOL2NbkA78EemwVl1QodNJhw0lnnZjogZU9T6KWxDorrGPNQcFH1Y8_B0ULk9_-7GgKtL0D84QXLKK8c2J8RxC5RJ-YbsYbJWDTdH8Wjw-6gv3_s7UX5bWxcqgzfV9ObbWqCVrtgMLvrcMWFlAXwhaynxBeP6oUBh7MADhRLeFsu3s3k4Z7i98ndqFD_MNpFAKyo18RocOja2vgM-eGSw5EKoC4FS2gu1VmKY7e7zpykGhevM4cUXGXJeQj1u3f3mE5eGfYeesVhXZI5jFjOCA36ZTrkb0_jyzEpwH00K913HyL8l9e6ktLwKHgS3mrT4nrcMN6xjlqUUpQwSuAHhzr8MUVnysX62BVm5X1hr1c6KX0kDEPpuuFkeBkKPPw-nRWt0QAvdgeArMfvSHOxAvR1_npWYj30VVRgkd5NyjngLVHOQiyQ6FgOWCWoACPVfVBDE5o3ktI0u41LOqvLAa0aXahJPv_pSsUHlATa766oM1qAlaQuF9tcc6ZqfoU7EvYZMcGgbbthQbrzGLrFba5YP1itnex4l8W1bTDqT_MYYUc7fpC4kP4CIBm2gXKFy3AZZSw8MBwl0OicS2kIe5-kxOakubxtJ8BTbcCiMOWx8N50U0M2t0KqRzSYv4H25I91X5QwgXroCEFrK6j4Y3Ey52cqDfevUjLc4BH1IeTzMNKpgOFbkhmhguW_irGt8pXN0ozTfADEzQjICTNoHVOdorGWA-8efPRjIAPoHyxUcos8vaxAA2WJSo1QitZHIjygumC4/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h10/h001.xXNVSnt78UJOxRwIo5onhBPsvfVK6uzr2lO1WGiKUTQ" target="_blank" rel="noopener noreferrer nofollow"><span>pushing</span></a></span><span style=""> hard too — the drone wars are officially on.</span></p></td></tr></table></td></tr></table></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"></p></td></tr><tr><td><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0" style=""><tr><td bgcolor="#FFFFFF" style="background-color:#FFFFFF;border-color:#000000;border-radius:10px;border-style:solid;border-width:2px;padding:0.0px 0.0px 0.0px 0.0px;"><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td class="dd" align="left" valign="top" style="color:#000000;font-weight:normal;padding:0px 15px;text-align:left;"><h6 style="color:#000000;font-weight:normal;mso-line-height-alt:87.5%;"><span style="">CLIMATE ROBOTICS</span></h6></td></tr><tr><td class="dd" align="left" valign="top" style="color:#000000;font-weight:Bold;padding:0px 15px;text-align:left;"><h4 style="color:#000000;font-weight:Bold;mso-line-height-alt:112.5%;">🌊<span style=""> </span><span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.fKs5pSodVHyYpGj0H5OoMJly9uwj_VI1miva1XEfRXu53HYA-1TrQrcVou7iFwuYK5nQoUgrjtd_a_tIB46sYIiqXPGWHKHdDBdTPK2Y-v96CQPCCkKoQPu2-A0kLJKOZ8gpzPME9riqSRN22Zzh_AyZM_yRvwiLZV2IRKYTOYjn1o6Ddjcu-06EQ0r3Ld-lSm8sqj2l3hGKALxDa69clCt_XVKiSM7FVEzizQFSbck__99ZrLRDsJyM8TUQ-WHGAdhIprrlps7V7pPXsIKKgz0tIbfKMch00_j_d-Xq-gA/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h11/h001.r7sPXHVlYD4gdpQ8SzjMuajHJw9_SkXSSUeN2yDbrUk" target="_blank" rel="noopener noreferrer nofollow"><span><span style="text-decoration:underline;"><b>Sailbots take on Category 5 hurricanes</b></span></span></a></span></h4></td></tr><tr><td align="center" valign="top" style="padding-bottom:8px;padding-left:15px;padding-right:15px;padding-top:2px; " class="dd"><table role="none" border="0" cellspacing="0" cellpadding="0" style="margin:0 auto 0 auto;"><tr><td align="center" valign="top" style="width:630px;"><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/b1b4eaf4-8560-426a-bdf2-836913b48a8a/Oshen_cropped_processed_by_imagy.jpeg?t=1769007292" alt="" height="auto" width="630" style="display:block;width:100%;border-radius:0px 0px 0px 0px;border-style:solid;border-width:0px 0px 0px 0px;box-sizing:border-box;border-color:#E5E7EB;" border="0"/></td></tr><tr><td align="left" valign="top" class="t" style="width:630px; padding: 4px 0px 4px 0px;"><p><span style="">Image source: Oshen</span></p></td></tr></table></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>The Rundown: </b></span><span style="">Bootstrapped UK startup Oshen has built swarms of low-cost autonomous “C-Star” robots that recently became the first ocean bots to survive and collect data from inside a Category 5 hurricane, its founder </span><span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.fKs5pSodVHyYpGj0H5OoMJly9uwj_VI1miva1XEfRXu53HYA-1TrQrcVou7iFwuYK5nQoUgrjtd_a_tIB46sYIiqXPGWHKHdDBdTPK2Y-v96CQPCCkKoQPu2-A0kLJKOZ8gpzPME9riqSRN22Zzh_AyZM_yRvwiLZV2IRKYTOYjn1o6Ddjcu-06EQ0r3Ld-lSm8sqj2l3hGKALxDa69clCt_XVKiSM7FVEzizQFSbck__99ZrLRDsJyM8TUQ-WHGAdhIprrlps7V7pPXsIKKgz0tIbfKMch00_j_d-Xq-gA/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h12/h001.UCgRXU3DQg6jEY3nWd2pj6dkyoUX13dICJhtsAV1z6k" target="_blank" rel="noopener noreferrer nofollow"><span>told</span></a></span><span style=""> Techcrunch.</span></p></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>The details:</b></span></p></td></tr><tr><td style="padding-bottom:12px;padding-left:25px;padding-right:25px;padding-top:0px;" class="ee"><div style="margin-left:0px;" class="edm_outlooklist"><ul style="font-weight:normal;list-style-type:disc;margin-bottom:12px !important;margin-top:12px !important;padding:0px 0px 0px 0px;"><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">Oshen builds autonomous micro-robots that can survive up to 100 days at sea and are cheap enough to deploy in swarms for ocean data collection.</span></p></li><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">Founder Anahita Laverack launched the company in 2022 after realizing how little real-time ocean data exists for weather and climate modeling.</span></p></li><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">OAA commissioned Oshen to deploy C-Stars near the U.S. Virgin Islands for Hurricane Humberto; three of five bots rode out the full Category 5 storm.</span></p></li><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">Oshen, now based in Plymouth (England’s marine tech hub), is signing new government and defense contracts, including with the UK government.</span></p></li></ul></div></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>Why it matters:</b></span><span style=""> Oshen’s C-Star swarms show how micro-robots could plug a critical gap in hurricane and climate models by streaming real-time data from places that are tough to reach, intensifying competition with larger uncrewed fleets like Saildrone’s USVs already collecting high-res storm data for NOAA and navies worldwide.</span></p></td></tr></table></td></tr></table></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"></p></td></tr><tr><td><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0" style=""><tr><td bgcolor="#FFFFFF" style="background-color:#FFFFFF;border-color:#000000;border-radius:10px;border-style:solid;border-width:2px;padding:0.0px 0.0px 0.0px 0.0px;"><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td class="dd" align="left" valign="top" style="color:#000000;font-weight:normal;padding:0px 15px;text-align:left;"><h6 style="color:#000000;font-weight:normal;mso-line-height-alt:87.5%;"><span style="">SERVE ROBOTICS</span></h6></td></tr><tr><td class="dd" align="left" valign="top" style="color:#000000;font-weight:Bold;padding:0px 15px;text-align:left;"><h4 style="color:#000000;font-weight:Bold;mso-line-height-alt:112.5%;">🏥<span style=""> </span><span style=""><span style="text-decoration:underline;"><b><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.4havIpU3YrK95gnS6y-paD53aaA5JT6Qa1vE7mMBwMGjgDZK-44BwdO2GKXlS4-OfNUl8jrbDRxA9PFpBG_PQfL1eOA-SsTcH7YJGmhk6mYJ2LNGoNaQ4GcKXPg_w1wAbHpkp4XpWKMlevDxYCbXUSRYBaiGT_JkJIJPZk7xMYpTMUyjUO2IBujH8fpqmOpOB-ucGO8jGAw2sGGY9h5NhNlwShGOFkkawq8hOL9KMHY-Q-dSdXnm-xQ7reyc32ZUkSxpA5dWqFlPyGTuHsr8d_htCiuwZ1ctRaSY6WWM7y9yPJTDZNHwy-WU5CZFcmIVepj69A_spu5X4-5_DMBtqg/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h13/h001.p-StRKCFJHu2HMKk2ogZiiykHl211ez2xP8pIE0vPgA" target="_blank" rel="noopener noreferrer nofollow"><span>Serve Robotics moves into hospital bots</span></a></b></span></span></h4></td></tr><tr><td align="center" valign="top" style="padding-bottom:8px;padding-left:15px;padding-right:15px;padding-top:2px; " class="dd"><table role="none" border="0" cellspacing="0" cellpadding="0" style="margin:0 auto 0 auto;"><tr><td align="center" valign="top" style="width:630px;"><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/e7c5aad8-e099-41ce-a9b8-8cc968eae38f/serve-diligent_cropped_processed_by_imagy.jpeg?t=1769010298" alt="" height="auto" width="630" style="display:block;width:100%;border-radius:0px 0px 0px 0px;border-style:solid;border-width:0px 0px 0px 0px;box-sizing:border-box;border-color:#E5E7EB;" border="0"/></td></tr><tr><td align="left" valign="top" class="t" style="width:630px; padding: 4px 0px 4px 0px;"><p><span style="">Image source: Serve Robotics</span></p></td></tr></table></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>The Rundown: </b></span><span style="">Serve Robotics is pushing beyond burrito runs into the far messier world of hospital logistics, </span><span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.4havIpU3YrK95gnS6y-paD53aaA5JT6Qa1vE7mMBwMGjgDZK-44BwdO2GKXlS4-OfNUl8jrbDRxA9PFpBG_PQfL1eOA-SsTcH7YJGmhk6mYJ2LNGoNaQ4GcKXPg_w1wAbHpkp4XpWKMlevDxYCbXUSRYBaiGT_JkJIJPZk7xMYpTMUyjUO2IBujH8fpqmOpOB-ucGO8jGAw2sGGY9h5NhNlwShGOFkkawq8hOL9KMHY-Q-dSdXnm-xQ7reyc32ZUkSxpA5dWqFlPyGTuHsr8d_htCiuwZ1ctRaSY6WWM7y9yPJTDZNHwy-WU5CZFcmIVepj69A_spu5X4-5_DMBtqg/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h14/h001.EC7rOHnBY0BA54ePkepBeE15yQCRKEajUJ3VpI147pM" target="_blank" rel="noopener noreferrer nofollow"><span>agreeing</span></a></span><span style=""> to buy Austin-based Diligent Robotics in an all-stock deal valuing the startup at about $29M.</span></p></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>The details:</b></span></p></td></tr><tr><td style="padding-bottom:12px;padding-left:25px;padding-right:25px;padding-top:0px;" class="ee"><div style="margin-left:0px;" class="edm_outlooklist"><ul style="font-weight:normal;list-style-type:disc;margin-bottom:12px !important;margin-top:12px !important;padding:0px 0px 0px 0px;"><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">The deal extends Serve from sidewalk delivery to hospital logistics, but CEO Ali Kashani frames it as a natural expansion of the same autonomy stack.</span></p></li><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">Diligent’s Moxi robots are already one of the largest deployed hospital service fleets in the U.S., with roughly 100 robots across more than 25 hospitals.</span></p></li><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">Serve plans to keep Diligent operating independently while sharing software, autonomy tools, and data so that “every robot learns from every robot.”</span></p></li><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">Serve’s sidewalk fleet, which runs on both DoorDash and Uber Eats networks, scaled from 100 to more than 2K robots over the past year.</span></p></li></ul></div></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>Why it matters: </b></span><span style="">This deal turns Serve from a niche food-delivery player into one of the first companies running a shared autonomy stack across both public sidewalks and hospital corridors — a real-world stress test for “physical AI,” the bet that one platform can learn to navigate any human-occupied space and port those lessons everywhere.</span></p></td></tr></table></td></tr></table></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"></p></td></tr><tr><td><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0" style=""><tr><td bgcolor="#D2221E" style="background-color:#D2221E;border-color:#000000;border-style:solid;border-width:2px;padding:0.0px 0.0px 0.0px 0.0px;"><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td class="dd" align="center" style="padding:0px 15px;text-align:center;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style="color:#FFFFFF;"><b>QUICK HITS</b></span></p></td></tr></table></td></tr></table></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"></p></td></tr><tr><td><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0" style=""><tr><td bgcolor="#FFFFFF" style="background-color:#FFFFFF;border-color:#000000;border-radius:10px;border-style:solid;border-width:2px;padding:0.0px 0.0px 0.0px 0.0px;"><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td class="dd" align="left" valign="top" style="color:#000000;font-weight:Bold;padding:0px 15px;text-align:left;"><h3 style="color:#000000;font-weight:Bold;mso-line-height-alt:125.0%;">📰<span style=""> </span><span style=""><b><span style="text-decoration:underline;"><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.GQOM8q4ys-vZgCzT2HGlhRR7J-xBT4QBkF5vOL2NbkDgK-T350cDaTzoruSpwKrhLrsWXLQe_2TMr8JP8L8xBZlUMNM27L6JG80onObWdIXoXmT0DMwJUEBxHqJc6Kd1Ucmq0Rsk5Wqz2LbEoU_HORiQETnbJo6MOJaClGuqVUy8IyU1WF2Nqa7JoKV-gtGz0hP2lARLh-hz_7MxEgY1ax86P_6kQuvfFot7w8oSeXSh2O1HdqLa2V_qDLhvMsBGn2lQ2uq2ayCYQrifLv4djTLq2QIbvRdrxQoJGwAUugP-9KkQnX91_Dv1rFeq24w1nl8WFlwE-9qlwvL8QF52JhUTP_-VLc4HXiWLU18orbcZGyjPoDdm9_4Dvu_AGd8IPcK6IulszOtETsiz057svUA747U4cqQcMfh6W5b8w1dq0CQwEyiAX3rI4BGiQReJc3edpYwGQUmk-_ndSinN0Zlg5-5D3lOXfOuQjr2BHhBwMjWd47ECKV8gJ0pjrLnpyVZPug4EC5PYVlgls08TLOcdjCrA4fxWHMPe3Bg4iucIueHtnkwbjHKeuxIsnQmzYn3CaouWP9BQy3AzDHsPwkuNpw89wY-d_k5aaLC37R5xK49qHy1nrqJOsSYno0JpluJKDCRzPcwv935K5OsEkYoZSHQzjkA07J8WsUJdMW6fqAmcakJSDtSBxgNAm4ZA4N587SmqfHqaCVDn5yqHKcwgPIQi0-GPBRYQcNACbnwmJVyHmuy-W6YRcirZ1CY4/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h15/h001.nKDfFhfbUJldUvy1VEUBS4FFxFLDOGSh3bNuF2gwwmI" target="_blank" rel="noopener noreferrer nofollow"><span>Everything else in robotics today</span></a></span></b></span></h3></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>1X’s VP of AI, Eric Jang,</b></span><span style=""> who helped scale 1X from a small Norway-based startup to a global humanoid giant, </span><span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.ieUQ8aN29YnxOxHoGSR1o2oysiYk5mqc8i2iK3n1Nq0mCGBBd-gHLNhkCOIag4LtBybe0i7SMvHsU_NNxJjJg0V3daUPXjUFBcfY_YBmF0_Hhtxc3FgHLDDSQfsNj2L0yt4BzEcxTCrn4O2c5id8ZdaIxghaCdLrPXThCbplIg-6D-Qcpt47enV4VLuWcD6oUzK-t0fG0-rOwRbRzTO9m1SHCMSvo4c_jN-u4wuITJo/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h16/h001.fRzBMeahbyYfVC2XDM-aVm2cVnpbjGw8zRvveJY1sdo" target="_blank" rel="noopener noreferrer nofollow"><span>announced</span></a></span><span style=""> on X that he is leaving the company.</span></p></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>Chinese robotics firm UBTech</b></span><span style=""> </span><span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.s09qcFkCj2HFKELjMKK4jnGGbNXiJ-B_mNcUhZoB50Ie1Z4UmVXp8vavKL96rb-jINflzHToHKT0tdWvfiJMXREAE-oiN9yTHo9sMrU1cXzTAYCX0Ol5IKqZ2VgAztIsmRrOjwcgt5P9P8vd_8Gpm6TyM8raGExElH3NUn4lZtGu96NBmiIk1sNQIpVLoxoPuUjkQvRgjNy3wJVMoY64wrVSL_LSF3Qck7WW4b73ePq59KUPVMDe6T2OJ68a-sfYVNCmCMKuVA82Ei1FhHfRCdN5gkvtD_dO9xWCI1USmFVdgPW6_BaR7-HxvVlKPTpV/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h17/h001.sLfyFej3GFIzrUyulDKJXHqvLqKx6yFgLtFKpLbh_f4" target="_blank" rel="noopener noreferrer nofollow"><span>signed</span></a></span><span style=""> a deal to supply its Walker S2 humanoids to Airbus for aviation manufacturing, which sent UBTech’s shares surging.</span></p></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>UBTech </b></span><span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.4havIpU3YrK95gnS6y-paOG8g-2gPkvKxy_1jiJT_5V04Kx_uTj3E-GT2Aqi1qqgjx6PBlgil48jp3-tIrFGrJhCtii9tFcsfeNxS6akJrg3Tw_4oF4u0ANcAJYdO_LvLrV-XItdyzXYHhdl19PaQAxhzkIoeG1vUIQlplQkBgjBqnKWx73ZMJDN6xEn85mPZh2pGjmLVUlEdtKpDmdbvrpdi-7vxoK8E8ok72hQ59ZRhWXHtiSlsZDEw868Bw_iGBL9US1Q9bkyNX0-TMA-BsIZwRwS-fhgKdSR-joZB_I/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h18/h001.V3j9bvjBUql7uPfqnKtYBW_HnrByzC4lM9qPf1kKhMw" target="_blank" rel="noopener noreferrer nofollow"><span>says</span></a></span><span style=""> its Walker S2 humanoids are now autonomously performing assembly and material-handling tasks inside a Chinese wind turbine factory.</span></p></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>XPeng’s CEO, He Xiaopeng,</b></span><span style=""> </span><span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.4havIpU3YrK95gnS6y-paOG8g-2gPkvKxy_1jiJT_5V04Kx_uTj3E-GT2Aqi1qqgDZKBuazPCm81Q2Rhgi0YWzR5rhvNJN5JHTvxqOBY5cSanLNm2SGqXhH6ebHGUL9f3Ekwq47oZAu6O-0DsuLPilAm0u_3mbBALiK5DJg4I6acm6cnHRaxvTd5OGQhog00vHcjWsuNv7VRYtB0VG53_QBWfV-aQxLEj6P9SA9gajJ3XG-rilx3nBUvflSRRYV_ZuQr_p1yhSlkY6JQ1IJq-w/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h19/h001.TEicaOOLADnq4GjlIsQFxdPHBd0k1b3mm5Nh-_JvSWo" target="_blank" rel="noopener noreferrer nofollow"><span>said</span></a></span><span style=""> their automotive-grade ET1 humanoid has rolled off the production line, with the first mass-produced test units focused on reliability.</span></p></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>Hyundai’s Boston Dynamics</b></span><span style=""> </span><span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.s09qcFkCj2HFKELjMKK4jgipmpWkFBQy5dAq19lIPoMr4L17kIYiynUI5WrhmnTFI00YkKUJuhjHhs-W2bDW0yzRBgw3D_gOLo4Ou_Q-UlO1BgTuytO6Qea53rTFWhghjuiwgp8gOYPFD97W3Opukei0HEPf5DKykdn1oOT01NSt9Y4OIzx4vqp1tKCzlVHAMjPNdA6VjQwIOziJPeML9hMDPA2YxzKPi98Zs_GnsuPo5j1iiVwt0s19bPVJhWCzW0vLBWtkM9mCeNxu-xyvz2QAm5Dm02q3mR6aiqzt3d1TgMkIU9A-GIKGKGGBQLUL/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h20/h001.xCnNMNSieT7LdnUae2zut5xdp04RMf_BKoFe2IFlLY4" target="_blank" rel="noopener noreferrer nofollow"><span>hired</span></a></span><span style=""> Milan Kovac, Tesla’s former senior VP and head of the Optimus humanoid program, as a group adviser and outside director.</span></p></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>DEEP Robotics</b></span><span style=""> </span><span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.s09qcFkCj2HFKELjMKK4juVRzrjpoF207FwW-RC2zortfp6786H4GzokAWBoPIlAJ5pFLpt45_pJb9pNflVETQU8Jm7MKXSvk6AoDZU4aWod00aoG5xqAT8xHWL2FyoPOQkBdRuBzKs1gYQ9IHEP7xzrHWOBqLlLMY0U0oQP7GQ2HiqcdHxP1KOfvO84oCi480Ct8uXIPtoI564SECRG_vKSD9UdBuEyKvysUY3HoviBCO9KBRMb7wqZw2SgkvG2w5ayfv7ZabWV41NlcyCNEyFs1PfGRJe2-yMaGy6TXJarcnjRMcEYrShz0Znm1PxufBYgGBzUrx1vBgO22RfL0cDuYhJIUw2vNu5fWXPQtfY/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h21/h001.e_B5IIek0F-ZDhmF2o58Ops__Nq2GeQJJpWRY9xbQ_w" target="_blank" rel="noopener noreferrer nofollow"><span>launched</span></a></span><span style=""> an AI-powered firefighting system that uses coordinated robot dogs and other specialized robots to handle high-risk firefighting missions.</span></p></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>Microsoft</b></span><span style=""> </span><span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.s09qcFkCj2HFKELjMKK4jhgSt7rNWIq7MJjiD2pB7aK7KBCg6oJAaKJYctuWxTUFAc2YjS8J1xCbIrJzpCWwa1EpTOM9roGBYUdIiC51oBpS1HbBrC6vTH9o1oAvKexUUBLcsBaaDgnutrxDp9oGgWm1qvXPcS2-S5Blbctz-wseI7fNCVTtpC6lvv9O6_aZIE1_QYChIZVbRBD4QFcqEi0c8lTlGUcAX_tZ0OJHYwjPxWK1u-4J6HzD8TK6nEvTJ-El28zmMPqFxdx-REfOyw/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h22/h001.Pyo7PT5xM_hBy3bhH_nfONUbv8uEtB377X7sDp2oTes" target="_blank" rel="noopener noreferrer nofollow"><span>unveiled</span></a></span><span style=""> Rho-alpha, a robotics AI that converts everyday language into robot actions by combining vision and touch for more reliable real-world manipulation.</span></p></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>Boston Dynamics </b></span><span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.s09qcFkCj2HFKELjMKK4juuW-KyaCmQlBQn0QP0ly1irnm16yUkUmssFnTthRgVPamKaVGhPm1uo9MgZHW6Trb65xQjp0zeDPU9c2fbh4FrYj8IWZf2Y7Q881W42wvoyjluWgh-PSa40lTPZxLSkbeNZgrtIPniG5WcJ3OHDmTR94k1K5dRHA5AdSkkS1cINkWoyDjbwvQ1C8BojZXndqQ/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h23/h001.MSB_FZovIhZB2nw8vuMmovqsc9ijmA_g1KopsRozp9w" target="_blank" rel="noopener noreferrer nofollow"><span>updated</span></a></span><span style=""> its Spot platform and Orbit software to version 5.1 and introduced the Spot Cam 2 sensor head, sharpening its inspection capabilities.</span></p></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><b>Zhejiang University</b></span><span style=""> researchers </span><span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.s09qcFkCj2HFKELjMKK4jsKr0x7ljmtse1l7du-ESSuYnKFs-W_pbibqf8h0h9h_clJC5q7xcS35PMGXJLvGCOi_rWk06KKDlV_oIXd-_TYlb7iflpUrNp2XDpyoNyOkz2MLkn0Ecib3F66ivdg38XN_h795BLhmI_qkkC7cKnUESv2zO3lDrW0SCq3rGxWCKOvhOEWmhHLoUmf4IdR5I9mFNC8bwJ2suGMmpEguutU/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h24/h001.R2-35hqjU-6yB_Yi-uuxyK-Xta7BGmuHSUd2zn0GEAw" target="_blank" rel="noopener noreferrer nofollow"><span>built</span></a></span><span style=""> FlexiRay, a soft robotic gripper that uses an internal camera and mirror system to “see” around corners.</span></p></td></tr></table></td></tr></table></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"></p></td></tr><tr><td><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0" style=""><tr><td bgcolor="#D2221E" style="background-color:#D2221E;border-color:#000000;border-style:solid;border-width:2px;padding:0.0px 0.0px 0.0px 0.0px;"><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td class="dd" align="center" style="padding:0px 15px;text-align:center;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style="color:#FFFFFF;"><b>COMMUNITY</b></span></p></td></tr></table></td></tr></table></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"></p></td></tr><tr><td><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0" style=""><tr><td bgcolor="#FFFFFF" style="background-color:#FFFFFF;border-color:#000000;border-radius:10px;border-style:solid;border-width:2px;padding:0.0px 0.0px 0.0px 0.0px;"><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td class="dd" align="left" valign="top" style="color:#000000;font-weight:Bold;padding:0px 15px;text-align:left;"><h3 style="color:#000000;font-weight:Bold;mso-line-height-alt:125.0%;"><span style=""><b>🎓 </b></span><span style=""><span style="text-decoration:underline;"><b><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.17UmsSVZGRC-DbhM6N3Nm2ULwvK05XzUovFsZ2NkRGiiOOKwnpprrzrFI9uT_ZzeAZ8qgetkQhvCJ3GEO0AnUaD0yFPxZNa1OlaeVaND567a7k8E_ZtozLByjfgpQCH7SmbnsS44jg-n47JFNpDvojxdLwwFFAXv7wu7t-6YE8zEfCZJf3uhrOiwmo8IPKVN/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h25/h001.JNXr-TiizcStc7U2sRQcz-h-1dogfRNzCvZcO8t8zko" target="_blank" rel="noopener noreferrer nofollow"><span>Highlights: News, Guides & Events</span></a></b></span></span></h3></td></tr><tr><td style="padding-bottom:12px;padding-left:25px;padding-right:25px;padding-top:0px;" class="ee"><div style="margin-left:0px;" class="edm_outlooklist"><ul style="font-weight:normal;list-style-type:disc;margin-bottom:12px !important;margin-top:12px !important;padding:0px 0px 0px 0px;"><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">Read our last AI newsletter: </span><span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.s09qcFkCj2HFKELjMKK4jqB9xbDumVOZBCBd40pK7i8CAUwngyntKUAlZNFdDB0lvQ6on1Y0Fjjae8aHJXrL_HfZiMg7Qyrkwls3UUi5JZYBlYz_zAPWsHFiS7_JEtwQvXxXTSKZ1aliWSUB-FULk7PQl-tBfFjzmNA9hBGyn5dByXu0lS_dC_VKfZIGoRt39QxbrvGcFlIUn7WNESAKQtdwC8Hadx5E1MX2vJNvy8M/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h26/h001.CK5rCNsuGIPSaPNRvQNlMGSecRmER-UJfcx2fAqKDuI" target="_blank" rel="noopener noreferrer nofollow"><span>Anthropic writes Claude&#39;s Constitution</span></a></span></p></li><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">Read our last Tech newsletter: </span><span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.s09qcFkCj2HFKELjMKK4jlTBGcH0Uce40lvECn7Gq9ce25YWY-WPOjAy0IyXYBjUOE1uf4qeGfDyHjbtGSvHa45HCz_fi-wPNqQSeGsq0gv3GC-dTq1G-hDSi2mZs1N2yzw-foSmPMc8tRzCZGo6GDH53bjv9iz_61ATOLi_MU4U5ck0OyT_XHPCIFf_SeNn3q6vDKxq9UR1xdSdXXGLkoEnLuqRZrRI8LrEn7dK0Ts/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h27/h001.WY5bKJ_dqZaUERU15St50R1ZUTn38Qs3ThRe9PtxUm4" target="_blank" rel="noopener noreferrer nofollow"><span>Biotech’s big three (and they’re wild)</span></a></span></p></li><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">Read our last Robotics newsletter: </span><span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.s09qcFkCj2HFKELjMKK4jlTBGcH0Uce40lvECn7Gq9ctg3BBrecjGslhuixAMTYh8DTgAECE_Ab-VUrOL42el6z0RCv6tOs5twgXoazA39ynpMrjW7ISgZxDPyyi89GpgMMRN8TkHPiwmQ6zM3WVC-uMJHO_YVMe5nUg5kag1lUkJg0LSoU5tByIawMj5ZBBhp0EXNPEiVoNRUo2ZxWUHwOUdKsirDi6ICdkolaV3w8/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h28/h001.D17QDu_XIsvhpUhOuAwp9KhSXTeSKZgNPrW9LTc5Gp8" target="_blank" rel="noopener noreferrer nofollow"><span>1X now has a world model</span></a></span></p></li><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">Today’s AI tool guide: </span><span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.17UmsSVZGRC-DbhM6N3Nm2ULwvK05XzUovFsZ2NkRGimuVr900PWEbf3A86QZJR511Rl6nmOb7IvUdkg2BUW3EIDVmuR1EmBUQERITUhpo-TlcwqotlatxloRG9oKydW1iLQN5xAF00JcTMg41HrIMsnl-H6JyLqvAufqr5hII6Cwm7aA93HQ6sXRqWI902PDpGfMP6UfoN0WgU4_SF18t0lTJjFMQfv8XfipZw_xV9vVSaTKFLK418RCWK16l3AoyKAHI8PAzOlumpy21M2aA/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h29/h001.ZKYIHXRGhztwmFBfSBB-pVMxkADFccG_0XzwLpjUFYQ" target="_blank" rel="noopener noreferrer nofollow"><span>Make Claude an expert at anything with Skills repo</span></a></span></p></li><li class="listItem ultext"><p style="mso-line-height-alt:150.0%;padding:0px;text-align:left;word-break:break-word;"><span style="">RSVP to next workshop @ 4PM EST Thursday: </span><span style=""><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.17UmsSVZGRC-DbhM6N3Nm2ULwvK05XzUovFsZ2NkRGgEWsqO_oG6gWgnJHFImoq6_k7epw-aqdC1anVa4HFWagDqJd8tnitsp5Wm4-B9MOLWLOTwl2-N869um7eH1W_PmKIUPJaTV2jfW-Fb0TpBXwGNzbUryVaJ8xlQZQ6sDaa8G1jeLD9SwBrlErrZRygsM5fJk-VbYAFl2pv5aVv2rOY-IR51sodR7jb6wYArH7Lpe_Y-Yc3-yUq4H4Da-TwH/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h30/h001.Gr82hQwemgIoSxfqxW9KR0m8IAjO7VYaTkgdN7lfTFI" target="_blank" rel="noopener noreferrer nofollow"><span>AI Foundations Bootcamp pt.3</span></a></span></p></li></ul></div></td></tr></table></td></tr></table></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"></p></td></tr><tr><td><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0" style=""><tr><td bgcolor="#FFFFFF" style="background-color:#FFFFFF;border-color:#000000;border-radius:10px;border-style:solid;border-width:2px;padding:0.0px 0.0px 0.0px 0.0px;"><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td class="e" align="left" valign="top" style="padding:15px 15px 8px;"><h3 style="">That&#39;s it for today!</h3><p style="">Before you go we&#39;d love to know what you thought of today&#39;s newsletter to help us improve The Rundown experience for you.</p></td></tr><tr><td class="ee e " style="padding:0px 15px 15px;"><div style="margin-left:0px;" class="edm_outlooklist"><table role="none" border="0" cellspacing="4" cellpadding="0" align="left" style="min-width:300px;"><tr><td style="width:100%;border:1px solid rgba(50, 50, 50, 0.17);padding:6px 12px; border-radius:4px;"><a style="font-style:normal;text-decoration:none;" href="https://link.mail.beehiiv.com/ss/c/u001.GQOM8q4ys-vZgCzT2HGlhRR7J-xBT4QBkF5vOL2NbkCzphvOwViV3vNcGdhnOCtSoBwMVJLZwV2egAFvM968F33S2KfwERZqI9EcW31JyGl0iTdJgk3V1tfsoHA_Zd2mhR5F3dCDourH9nJLUVPTGOQgJXp8XSNC3AgGxQ7TRPpsn80YeUDI8LtfOQk1645OsXO0Xqyc-kyxASTlU0awq9WnepNI93PM_R_mpIirQfRyRZlkMeKRXW6-RuS4YMlKeAMpUOYttljkDOQg40D43qlofg5QWCNHRBT6V2M0_I5iMXCM9K8wdoQ4k2htXfhT1eub-tF8TK2B0q9SV8fvqNeLeNtczJ7Xwthuu8yoQCxAfHWxrzsOgdkdT6ukAzkCRM1Q6n6SOtLXmtfHvYJSMGyc9dYJkOwTQdk4ks6JtjXgNFxx4DXBzNmqRtoeQCNtGy-d-Yz7Pm-gScThpxPBfV9jf8OVWnAWjC3rASpjKmgF_SjjvGqcZaaEkokygw-saqphZYmJpgDHfIDz2jzhraZ-XJribSSj4xlPNsPzVS3qWO6-RA4rK8CRD3HG6_49rIghQANGCYIJciH6f_1vAqOI919GX7IQ-wmsOEApyWQeenbO9223VWeNkRbApnxOTJC7ZuKQIcJPTVLYjEv0MzER6JIEI2xr2YUvPjI5RDM2-JIpRQ87MDNDX7hOznh_cT0m1nbHQyaaoG-4QozKyPta0pFN3HGSfvEH5os7JRmuyfckT8DOz_1VuSGUaQdyrqnLjCR0sqdC2r44Yf1GZMdP5EYfO3ngUSs-VmDwL6ytrqnbkLjXlGqExPO4gS4yMlTEu3PpS6J-q-YY-VStVbRtYAiCsaAB1honFDeiEv7wpItUqLS2YaotweKRHFpChHClUx3KeTg1f529E10qjA866i57XTCJePVxQTZVe4_Ul7_hxfaHEIPNamq2DuK8kz5wQgsy-Ghw1u7jL-h60UABP7zA6K66zdL2kFol2nw/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h31/h001.Ksp9C3V2xtWsFwII-XDWSzPL0t_Hp5Tdrk-J9oLLDcg"><p style="font-size:14px;color:inherit;"> 🤖🤖🤖🤖🤖 Nailed it </p></a></td></tr><tr><td style="width:100%;border:1px solid rgba(50, 50, 50, 0.17);padding:6px 12px; border-radius:4px;"><a style="font-style:normal;text-decoration:none;" href="https://link.mail.beehiiv.com/ss/c/u001.GQOM8q4ys-vZgCzT2HGlhRR7J-xBT4QBkF5vOL2NbkCzphvOwViV3vNcGdhnOCtSoBwMVJLZwV2egAFvM968F33S2KfwERZqI9EcW31JyGl0iTdJgk3V1tfsoHA_Zd2mKXQQeUrij76v-c_8J-gygdUN6vMmW3AXvQznGZ7GGinvm7Od99AQP4R8Hba5QkY3UIjPUXL4sjpJG22XKLX3aF7CFf3K8NPLUYlZnHqjz_WYX52JbTZGL1qye-U3dTiRif9M7FNW53TKDM34B8RI98As1PlnRnyBaO6g0PqsUizANFkCznZACUC_vYfqdXLAM4a-x7ZBvPXJytoea04TD0dfiyzl4nqWlApEzhAoAMavHxtbVXcs5MbXjdgq7vmSazbZiwFEYl8hn7Ta9zXOpg8SXBGHuGvxDPaPlPlwjKCOF3SD30TvlKG_PHX8aFW6SJjhwhKOTdju35OnLj2YkhTuLcIznS7lI1i1h3JkeWALUi0hf-zIOfmpOjTdQbaWMwboG9n1PSL1U0u6wg56XL9PaaKewQ5FFbZ7CJIbbgiNk00G7vptrtCFRSNhzKss5His3-e0AEl02-bq_pgmphyFa0JV3-cn_R5hedR-iwFGwGkycdJzG6eOEDLlCki3k8QKKnyRqxjPJX0DamYiQlwX5N-99_oVrd_Srsog6UGqxeDSdDVzL_w5VXqnBMkmNmseBxQKGmPLYgQYGXQljJOsyF7FHJfDcYHp8y0IF4fAkap7BNOfY_dOQr1hp6ViETcO2XvNk9vtsQFsUPHBr5kcrY_bhUfcWdxZLjlg3_JiVb6d96My77a8I9H0gh1Inoq0Le-hW4tUqntOZPPEMyQWQ_JUKikWqQiUb6S4AHntX4olCjcUL9z8SgAxW2gdVV6KWvfZHQ4_b4lSBOK0p_bZgJxx670WKBDekVlHt2VsW4sdHnawT5lRAaHxn8dVCcG-IKoY-DkFkJLaQmuamZLj4SGY3Yo5IMKYrjJ64CM/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h32/h001.rGQab5bwHT2ozFuGEMTxI3AMWs-nFH3qvf_CH7ZrPok"><p style="font-size:14px;color:inherit;"> 🤖🤖🤖 Average </p></a></td></tr><tr><td style="width:100%;border:1px solid rgba(50, 50, 50, 0.17);padding:6px 12px; border-radius:4px;"><a style="font-style:normal;text-decoration:none;" href="https://link.mail.beehiiv.com/ss/c/u001.GQOM8q4ys-vZgCzT2HGlhRR7J-xBT4QBkF5vOL2NbkCzphvOwViV3vNcGdhnOCtSoBwMVJLZwV2egAFvM968F33S2KfwERZqI9EcW31JyGl0iTdJgk3V1tfsoHA_Zd2mQyQ14wUIUPrmwUP34DU3p503ygN0hYaVUFKlO6--s7qbEeIs8rOZ4H24KvnU5BwvOIh3iUKFL-4e6HpyJg5lxwS4liGA_LdHgJ1RfYSewGw8Qb8rLjXOeLj4kl-ffCOBxti7I4FH1-QgcJCewqibp85rJnt8DfPNwJXddlaWnDdTIyZhrXTlSacjt7ZxWiQZXQvTKroUEiphOzJwLoIRHZtxovA43LBufB71IfaiolpYYWkhVcP6UGWaCW00gnTKe5C3PPi0fk3vXpyC8NzBMucsyFENWt2PJ9iz1qVvEmOaI3whTLqaBa3bbdXe8MH_zgJJxU_nUQwck0o2T9erIIWeWi-FBD65vv2KrYE-iVzIxossXjVPQ471YWrHRJ2ki2YijNyxDjDfqCeFiNbCECgZbDj9vIpxgVkPXqzm7xBoVbJrMO_LzlkCMgL5sNmQKq_HMYgpJ5mTcsUYjzJ68K9lrOOVZ2JU88ssYNKkzm8toYClnD0OjWIosO1pYIO4W-4iNj9tqX3abBdODA8Cdcv0eFjG9VJch3hX2I8zp5SRHfcQg4Zmn83unZKZyYLTUzObRqeU9HE0xohEs9RHWtvsVGzcYhUGdoKeitxUkaDCpfUL47LgxztcL1C2L9GUgPQkaYA6EsmuPvt9D3QHcSVpVYqNMCQY7XWwod6VBsptUKWOOOgrWXFRZPZPh8IddU1xFZQbeEsxHjPZtRIqYwbcAL4O0mttD8yZg1nSTcodx02JKwl3S-2pSpt8Pr-tmC_ooxmbytI5PTrBEc0IucSyy_HPxIgc03GFQqNnzOyvHOvaupQeA3efWzFA_zdY2w-zMAIR-ffQboqc_btAs8MjWoPW6ZghLv673vqPRck/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h33/h001.9ymC3ZPfzWOkuLT2jEY63HKhGB58JBQfE7raEVaVGe0"><p style="font-size:14px;color:inherit;"> 🤖 Fail </p></a></td></tr></table></div></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style="">See you soon,</span></p></td></tr><tr><td class="dd" align="left" style="padding:0px 15px;text-align:left;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style=""><i>Rowan, Joey, Zach, Shubham, and Jennifer — The Rundown’s editorial team</i></span></p></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr><tr><td align="center" valign="top"><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td><tr><td class="b" align="center" valign="top" bgcolor="#101010" style="padding:0px 0px 0px 0px;border-style:solid;border-width: 0px 0px 0px 0px;border-color: #FFFFFF;border-bottom-left-radius:10px;border-bottom-right-radius:10px;"><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td align="center" valign="top" bgcolor="#d2221e" style="padding:12px"><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td><span style="padding-left:1px;"></span></td><td align="center" valign="middle" width="75" style="width:75px;"><a href="https://link.mail.beehiiv.com/ss/c/u001.ieUQ8aN29YnxOxHoGSR1oyFOWYI5tERFMOEpL2fRHtrVWWNnoBJOg08ppukAFj0uqfwMCprrWD2JMh9JenaaQuBVI8uG9bhHMlURa_jrc-xpvruMnQqYgF98MoPXrPN8OAfO01T_XrAj4rjgHzxKlIQqug9Wi75vdso5zieTpS_t3WcWL0lLBfpqZDV2U14M/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h34/h001.SPXYQ9kTTaZVWCRdvRbX_TY5mnucci5tvYXigWJ9F84" style="text-decoration:none;"><img width="22" height="22" alt="tw" border="0" style="display:block;max-width:22px;color:light" src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/static_assets/x_light.png"/></a></td><td align="center" valign="middle" width="75" style="width:75px;"><a href="https://link.mail.beehiiv.com/ss/c/u001.s09qcFkCj2HFKELjMKK4jozlYt3HeQSSndHziz9RhixW_egHJVvmaNXus0Hu67pGuF4IoTy4FdzCske3TNN1hdV0F88e62ijY8azfiQsFp0A9NIv8cpPWm9l4R-am6h1M6WK3_vRqqsb5z822H1Xt7i95FQHBJCBtRoK_RSiCMHeDN2eO0kMhxSYi0_KTnp63eqRSbKfFF1gpGrmi0-XjA/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h35/h001.IGW6eHFRe4oQBDArq0E9xBzLJbQnac3BEkasMO5Dj8o" style="text-decoration:none;"><img width="22" height="22" alt="ig" border="0" style="display:block;max-width:22px;color:light" src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/static_assets/instagram_light.png"/></a></td><td align="center" valign="middle" width="75" style="width:75px;"><a href="https://link.mail.beehiiv.com/ss/c/u001.s09qcFkCj2HFKELjMKK4jur_4Iqn4KoZWMCUcNuwiMuQvaYSW_mUGTKE14pjx9E-Yfx1nzLb_NmS0afhxkkhhLfykNklsUHI_THLjXiyIyb2NU5Ukbni3CwazczHKlE9V7YHdzYOQBb0hWuVplWr0r6zDANwlYWr4q8y2eNc2iDWY_USv7-W-a458MRulijKTSKiiEdcpQw3ij1VtOvVcA/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h36/h001.61_Uybj54VGCVYvxB1RhxnOSc4zWgjoU29pi1L2VfWo" style="text-decoration:none;"><img width="22" height="22" alt="in" border="0" style="display:block;max-width:22px;color:light" src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/static_assets/linkedin_light.png"/></a></td><td><span style="padding-left:1px;"></span></td></tr></table></td></tr><tr><td class="dd" align="center" style="padding:0px 15px;text-align:center;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style="color:rgb(255, 255, 255);font-size:0.8rem;">Want to sponsor us and get in front of our audience?</span><span style="color:rgb(255, 255, 255);font-size:0.8rem;"><b> </b></span><span style="color:rgb(255, 255, 255);font-size:0.8rem;"><b><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.fKs5pSodVHyYpGj0H5OoMN_crcn319_Cugh51oNLE_Utc7vtZpePTzHeupVYrlfLoVk0AacOzEGkXmTxiv-Au8P9g9tcveNmoS26_sLRgx-W4qyihDxCq6CVp_saN6kMDFD-S_a21PrGUTATAhvLEz8D6YNn-wTcRxEjDivfWYQM2f4Ave5SsvV2QMj0vbL8bf2sDSt8H-VSUtpj8Mo87g/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h37/h001.tU9tdNAajCuSf8z0OI3AXSNOdVTdxzETjU-39Eqpuf8" target="_blank" rel="noopener noreferrer nofollow"><span>Get in touch</span></a></b></span><span style="color:rgb(255, 255, 255);font-size:0.8rem;"><b>.</b></span></p></td></tr><tr><td class="dd" align="center" style="padding:0px 15px;text-align:center;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style="color:rgb(255, 255, 255);font-size:0.8rem;">Was this email forwarded to you? </span><span style="color:rgb(255, 255, 255);font-size:0.8rem;"><b><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.GQOM8q4ys-vZgCzT2HGlhRR7J-xBT4QBkF5vOL2NbkAW3YMje71wS7BOo-yTTowqx_X9wxEdPG1UOdvMH7GCDaT3I-7ioUMBSnXnAKdp1D4-qBF7W11SleFi2_5quUhXnWDXPaRmJinJu18gyOGkiMviobn4hRjVLCHyYrS9D9FQFnUteACcu9GfJq6MI3idzSgOIjlsuhyPOpbrUbw6qeOp7Qdr13F7qDOAtkuP3mjUlDLG7t3QlBl7js6bcIIo8VewPu0w6xZrRikqUqEOfN0kcRstCOdDkdb-JPTWD4Zq64CmhGD5nYYk21T86tNBpBafYbOZaAqr5mvMFVcuADG0IMXUPxy3GJrMM3kSEKsUDnGAKZGYuJEBu2H5SkgRxtfVRyYQXVkEjdG9NNwYdEkYWfevV4NAWgYxjKsKUFCbEdft44ACimERRX_fhgrM_G170oFXZRNiYkWrejBm3gE4p2izzFijgxcGWoJJQIVWLxaOqtBDo5cme03p5986hdtGxL76qirADeGAcQoqDH-oTY3w_kQUrqYlau6V5MjNR9-DXFIqVOZ7D69pP3xYgAtAOch5yyTQYekBbPZ0bgCWhEewhNe-UX-cPgb3CLPWi4Fzo96xrjcqiPkrCMSN_cpyvnm-0fNuorXJqeYplqRTsPJeW-BmWyW9z87QFV4UkCqnvqIMR2gVuzIel0J8KHDylrCqZgohLcMxM-x45pYnTkEYDYyiLhRpF1zEtdBkRGvOu95v4HPRtrzziWc4XLxRPH8LcBMpdxgnzkceQg/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h38/h001.Yi5p58XJJLbCbzD6GyV6G3hhPCR-bxFVKlT3APD7B0E" target="_blank" rel="noopener noreferrer nofollow"><span>Sign up for free here</span></a></b></span><span style="color:rgb(255, 255, 255);font-size:0.8rem;"><b>.</b></span></p></td></tr><tr><td class="dd" align="center" style="padding:0px 15px;text-align:center;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style="color:rgb(255, 255, 255);font-size:0.8rem;">Interested in podcasts? </span><span style="color:rgb(255, 255, 255);font-size:0.8rem;"><b><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.pOGQ4G3RdTHp0uzQ-gdGBYxjo7u5LpzsFif9Ty7tBqorNFmjPCjqZEGkBomq19e7m52NeoEu_HRZdbcBpoahId3g1e185pqzxoDUQ5asKqtPiQ5WDl9P5TJbb_GqQSjOHie7V6GtaV9SDEULxQN2wIONYQ8_rzvAsdjbb-vfb6242W6EEN8TFdDiuyjta4daECY6Rc7DSgk835fgmDhm5pDkV9u6e3bv2SqCno5-f2k/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h39/h001.MscMxIr-ctzBWFH_Wvyd_fEvxYX2q46h5i0CwuawWH0" target="_blank" rel="noopener noreferrer nofollow"><span>Check out ours here</span></a></b></span><span style="color:rgb(255, 255, 255);font-size:0.8rem;"><b>.</b></span></p></td></tr><tr><td class="dd" align="center" style="padding:0px 15px;text-align:center;word-break:break-word;"><p style="mso-line-height-alt:150.0%;"><span style="color:rgb(255, 255, 255);font-size:0.8rem;">Go deeper? </span><span style="color:rgb(255, 255, 255);font-size:0.8rem;"><b><a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.GQOM8q4ys-vZgCzT2HGlhXR0FkfkC8Z1vfQB8u_ll0IWgVWQXCSscascSiId_FzLm_yd9NetXr-hACdi-2iDt2SswFNq4Xy9IIxDRWDtq7LJzZtTghXHjWSyymQZk_tfyhEvZ7I207fBIXUjlqKWn3oC9ieba5PFnn0FkpPtVaYtuNei3toaAjYJjUqQ5A1d/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h40/h001.l6hEIBWsHn4nmjEgCkz5ead1BxN4_osdiG_1xhp88ck" target="_blank" rel="noopener noreferrer nofollow"><span>Join the AI University</span></a></b></span><span style="color:rgb(255, 255, 255);font-size:0.8rem;"><b>.</b></span></p></td></tr><tr><td class="w" align="center" valign="top" style="padding:15px 15px 15px 15px;"><table role="none" width="100%" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td align="center" valign="top"><p style="font-family:'Verdana',Geneva,sans-serif;color:#FFFFFF!important;"> Update your email preferences or unsubscribe <a class="link" href="https://link.mail.beehiiv.com/ss/c/u001.GQOM8q4ys-vZgCzT2HGlhRR7J-xBT4QBkF5vOL2NbkAW3YMje71wS7BOo-yTTowqyFqI1wZovFP2obvJV9635BQ3s6KsyPHih1ZsWI2-xQX2WFN9S8B-G2RLP2RL2AniNB-7C_hZZlYHdM5qwbklVCROYSFx3C-XD_mRsKHIbJRNXHLl5dxOrwklxMDz2MkaJmoca-6w7dYfN-jKZ3MCXhBYB3d9sPnp3MO3GroVb9ufiJYV110_7_hXUn7DrEBqNzzq9ZjOmK4zRDmcDi57zgyalqMWiElE9l3tG-xOqqGEcYBJHDxQgdETKOBRy1rZa6zIbJU4k70cCxPC-pxumYwsoxAziK9lPB2MYHXM-Vu3TyQJfDMU8oFNyd-goybjumhc4Ovy11u3qxCgumFy2ueOfsjjbYKa8amVZkAyB7H8Hzv81rcv9msJsvs-6OqSsqf0rbO4btkTAlsyIf8aydjd3TVDSdzYAdcbNyqf2zahZJ5VNmgnGomFytFwQ7GSEtIyE5Z122Rcug7LpB5NWqPLqJam3y0vWL5c9e6liTuLHEzPwGnRxt4f1B5sGz-YDfbV1E93RyrsofPNwIYvIVKv2Y1X5Ak9LAao_0j9f5Qo2zsf3V3iWTUeSX8OFWbKIAFZK4V8UsMnj7VPWp9ZYcft0z3Mh9QFYefQTPWcifKioVvOmrXQ98ZDMF9YryhRojHT8Z6IK8U2tlrJssx7rtgAFzxEl7zI01bRq9h74VZNfbqTa8oEDg6vBSzPTbRDOCBe_sEenJ0nm5muPbdwZUBdbphX-aL2aeTjL3gwwVI9TPYeNbMVUhP4wXOciZeCWRbBi3nLhCPseGsYrcKMmzXIK1WdZ-6OOY_buY_rW0ycFLL3-4cesB7MRY7niRCsAVCd4U7pOG2w4EZt6XGuBi5KN6w_g-ncucj9CEw85ioNCkDImcFIdwv85oaoFj-_rFWKMD4cy-jXLTgHvn1ucg/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h41/h001.oL0pHscXWKMIhWklHrJGMetRSj78_6f-fPpgVa2bCMI" style="text-decoration:underline;text-decoration-color:#FFFFFF!important;color:#FFFFFF!important;"> here</a></p><p class="copyright" style="font-family:'Verdana',Geneva,sans-serif;color:#FFFFFF!important;"> &copy; 2026 The Rundown AI, Inc </p><p style="font-family:'Verdana',Geneva,sans-serif;color:#FFFFFF!important;"> 333 Seymour St<br>Vancouver, BC V6B 5A7, Canada </p></td></tr><tr><td align="left" valign="top" height="2" style="height:2px;"><a href='https://link.mail.beehiiv.com/ss/c/u001.FOyLtoPfR89rNWD4NLCQT82ldg9lfhkxgHdBGfGIph9nfjjF01KvEs3Ah9Y7LmZ2yMPw8W7dbdhVSMyBRVySrnYWnQl8fsFE6s5W7ALcgXg/4ni/rCVyMUvuTHaN1D_ftM6FdQ/h42/h001.vgK1OWXuDVAnOK6r7b6PPbJSbupDdNW--6lbrRnZ-ic' style="color: #101010 !important; cursor: default; font-size: 1px; text-decoration: none;"> Terms of Service </a></td></tr><tr><td align="left" valign="top" height="2" style="height:2px;"><a href='https://email.beehiivstatus.com/fe0c7f66117e31b97bdaac95645daad9831a4a81/hclick' clicktracking="off" style="color: #101010 !important; cursor: default; font-size: 1px; text-decoration: none;"></a></td></tr></table></td></tr></table></td></tr></td></tr></table></td></tr></table></td></tr></table></td></tr></table></div></body></html>]]></description>
-    <pubDate>Thu, 22 Jan 2026 15:32:46 GMT</pubDate>
-    <guid>19be656bd897415d</guid>
-    <author>&quot;The Rundown Robotics&quot; &lt;hi@robotics.therundown.ai&gt;</author>
   </item>
 
   </channel>
