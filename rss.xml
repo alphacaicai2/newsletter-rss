@@ -4,7 +4,689 @@
     <title>Newsletter Feed</title>
     <link>https://your-domain.com/rss.xml</link>
     <description>Newsletter feed</description>
-    <lastBuildDate>Fri, 23 Jan 2026 14:30:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 14:45:17 GMT</lastBuildDate>
+
+  <item>
+    <title>Claude Code Tasks 🤖, Google personal AI search 🔍, evals for skills 📝</title>
+    <description><![CDATA[<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html charset=UTF-8"><meta charset="UTF-8"><meta name="viewport" content="width=device-width"><meta name="x-apple-disable-message-reformatting"><title>TLDR AI</title><meta name="color-scheme" content="light dark"><meta name="supported-color-schemes" content="light dark"><style type="text/css">
+			:root {
+				color-scheme: light dark; supported-color-schemes: light dark;
+			}
+			
+			*,
+			*:after,
+			*:before {
+				-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
+			}
+			
+			* {
+				-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;
+			}
+			
+			html,
+			body,
+			.document {
+				width: 100% !important; height: 100% !important; margin: 0; padding: 0;
+			}
+			
+			body {
+				-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility;
+			}
+			
+			div[style*="margin: 16px 0"] {
+				margin: 0 !important;
+			}
+			
+			table,
+			td {
+				mso-table-lspace: 0pt; mso-table-rspace: 0pt;
+			}
+			
+			table {
+				border-spacing: 0; border-collapse: collapse; table-layout: fixed; margin: 0 auto;
+			}
+			
+			img {
+				-ms-interpolation-mode: bicubic; max-width: 100%; border: 0;
+			}
+			
+			*[x-apple-data-detectors] {
+				color: inherit !important; text-decoration: none !important;
+			}
+			
+			.x-gmail-data-detectors,
+			.x-gmail-data-detectors *,
+			.aBn {
+				border-bottom: 0 !important; cursor: default !important;
+			}
+			
+			.btn {
+				-webkit-transition: all 200ms ease; transition: all 200ms ease;
+			}
+			
+			.btn:hover {
+				background-color: #f67575; border-color: #f67575;
+			}
+			
+			* {
+				font-family: Arial, Helvetica, sans-serif; font-size: 18px;
+			}
+			
+			@media screen and (max-width: 600px) {
+				.container {
+					width: 100%; margin: auto;
+				}
+				.stack {
+					display: block!important; width: 100%!important; max-width: 100%!important;
+				}
+				.btn {
+					display: block; width: 100%; text-align: center;
+				}
+			}
+			
+			body,
+			p,
+			td,
+			tr,
+			.body,
+			table,
+			h1,
+			h2,
+			h3,
+			h4,
+			h5,
+			h6,
+			div,
+			span {
+				background-color: #FEFEFE !important; color: #010101 !important;
+			}
+			
+			@media (prefers-color-scheme: dark) {
+				body,
+				p,
+				td,
+				tr,
+				.body,
+				table,
+				h1,
+				h2,
+				h3,
+				h4,
+				h5,
+				h6,
+				div,
+				span {
+					background-color: #27292D !important; color: #FEFEFE !important;
+				}
+			}
+			
+			a {
+				color: inherit !important; text-decoration: underline !important;
+			}
+
+		</style><!--[if mso | ie]>
+		<style type="text/css">
+			a {
+				background-color: #FEFEFE !important; color: #010101 !important;
+			}
+			@media (prefers-color-scheme: dark) {
+				a {
+					background-color: #27292D !important; color: #FEFEFE !important;
+				}
+			}
+	 </style>
+			<![endif]--></head><body class="">
+
+
+
+<div style="display: none; max-height: 0px; overflow: hidden;">Anthropic has upgraded Todos in Claude Code to Tasks, a new primitive that helps Claude Code track and complete more complicated projects&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;</div>
+<div style="display: none; max-height: 0px; overflow: hidden;">
+<br>
+</div>
+
+<table align="center" class="document"><tbody><tr><td valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="container" width="600"><tbody><tr class="inner-body"><td>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr class="header"><td bgcolor="" class="container">
+
+<table width="100%"><tbody><tr><td class="container">
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" style="margin-top: 0px;" width="100%"><tbody><tr><td style="padding: 0px;">
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div style="text-align: center;">
+<span style="margin-right: 0px;"><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fai%3Futm_source=tldrai/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/dAp36h-Tw_jJ50L-mMbxKNQlKBCmhkpl0F5qhHHimiU=441" rel="noopener noreferrer" target="_blank"><span>Sign Up</span></a>
+|<span style="margin-right: 2px; margin-left: 2px;"><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/H1ylILClgBOfpVzMlQ5Hp7j1lKJB_iUSzKP2Kq0GF8I=441" rel="noopener noreferrer" target="_blank"><span>Advertise</span></a></span>|<span style="margin-left: 2px;"><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=e2fa48bc-f698-11f0-b945-5dde65dcc703%26p=4497ba16-f859-11f0-9e7a-3d7d03934e0c%26pt=campaign%26t=1769179144%26s=0e3ae554b92e47bd60e3ce952cb01ff70095184b80aae3b4705ab79935361eac/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/sYsbIkachbhd3VOQc4XRpX17c-rCwS0BUgsheR8I0YA=441"><span>View Online</span></a></span>
+<br>
+</span></div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="text-align: center;"><span data-darkreader-inline-color="" style="--darkreader-inline-color:#3db3ff; color: rgb(51, 175, 255) !important; font-size: 30px;">T</span><span style="font-size: 30px;"><span data-darkreader-inline-color="" style="color: rgb(232, 192, 96) !important; --darkreader-inline-color:#e8c163; font-size:30px;">L</span><span data-darkreader-inline-color="" style="color: rgb(101, 195, 173) !important; --darkreader-inline-color:#6ec7b2; font-size:30px;">D</span></span><span data-darkreader-inline-color="" style="--darkreader-inline-color:#dd6e6e; color: rgb(220, 107, 107) !important; font-size: 30px;">R</span>
+<br>
+</td></tr></tbody></table>
+
+<br>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr id="together-with"><td align="center" height="20" style="vertical-align:middle !important;" valign="middle" width="100%"><strong style="vertical-align:middle !important; height: 100%;">Together With </strong>
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fairia.com%3Futm_source=TLDR%26utm_medium=Newsletter%26utm_campaign=January232026/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/wpaEJNXanxB02XmPYSpmfjgL3gD2jzVBlkfMbSsvMuU=441"><img src="https://images.tldr.tech/airia.png" valign="middle" style="vertical-align: middle !important; height: 100%;" alt="Airia"></a></td></tr></tbody></table>
+
+
+<table style="table-layout: fixed; width:100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;">
+<div style="text-align: center;">
+
+<h1><strong>TLDR AI <span id="date">2026-01-23</span></strong></h1>
+</div>
+</td></tr></tbody></table>
+
+<table style="table-layout: fixed; width:100%;" width="100%"><tbody><tr id="sponsy-copy"><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fairia.com%3Futm_source=TLDR%26utm_medium=Newsletter%26utm_campaign=January232026/2/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/mcgZ5D3HROHi7f4Ze0yRlpEWZcN0OMCJpc6ZbdpB03g=441">
+                                    <span>
+                                        <strong>Airia: Enterprise AI orchestration that unifies experimentation, prod, and governance (Sponsor)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    You want AI to be more than a never-ending work in progress, and that means enabling no-code, low-code, and pro-code development without IT gatekeepers standing in the way. Yet that doesn't mean governance goes out the window.<p></p><p><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fairia.com%3Futm_source=TLDR%26utm_medium=Newsletter%26utm_campaign=January232026/3/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/rnlSfsNzuc1ue5eyvSWZoV9sLcrTi1G732rOLDDlyaQ=441" rel="noopener noreferrer nofollow" target="_blank"><span>Airia is the enterprise AI platform</span></a> built to drive AI adoption by unifying innovation and security. Teams at Stryker, BuzzFeed, and ArcelorMittal use it to:</p>
+
+<ul>
+<li>Test prompts, LLMs, and agent variants in safe, prod-like environments&nbsp;</li>
+<li>End AI anxiety by controlling agent sprawl and <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fairia.com%2F%3Futm_source=TLDR%26utm_medium=Newsletter%26utm_campaign=January232026/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/oQBhx3nBcaY1zPJyRn72Wr0PshjZcPQosFUF6mJWpbk=441" rel="noopener noreferrer nofollow" target="_blank"><span>implementing automatic guardrails</span></a></li>
+<li>Discover risks, orchestrate agents, and monitor threats in one place</li>
+</ul>
+
+<p><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fairia.com%2F%3Futm_source=TLDR%26utm_medium=Newsletter%26utm_campaign=January232026/2/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/QwU6VEDlA_NqJijv3D4niuUls4-SwWkkpucF7aIW2oY=441" rel="noopener noreferrer nofollow" target="_blank"><span>Get a demo</span></a> and make AI adoption a reality
+
+
+</p>
+</span></span></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr>
+<tr bgcolor=""><td class="container">
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td style="padding: 0px;">
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><span style="font-size: 36px;"><span style="font-size:36px;">🚀</span></span></div></div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;">
+
+<h1><strong>Headlines &amp; Launches</strong></h1>
+</div>
+</div>
+</td></tr></tbody></table>
+
+<table style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FTBuUb7/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/OwPmNsP_BMZxQ4hmY5g5gES3EHsaA2_vX00DEZrgrGE=441">
+                                    <span>
+                                        <strong>We're turning Todos into Tasks in Claude Code (2 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Anthropic has upgraded Todos in Claude Code to Tasks, a new primitive that helps Claude Code track and complete more complicated projects and collaborate on them across multiple sessions or subagents. Claude can create Tasks with dependencies on each other that are stored in the metadata, mirroring how projects work. Tasks are stored in the file system so that multiple subagents or sessions can collaborate on them. Updates are broadcasted to all sessions currently working on the same Task List when one session updates a Task.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.google%2Fproducts-and-platforms%2Fproducts%2Fsearch%2Fpersonal-intelligence-ai-mode-search%2F%3Futm_source=tldrai/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/bH8jYoBKEXbW2TYgzz4nZenZmgsRhv8BNArvTEEO44s=441">
+                                    <span>
+                                        <strong>Personalized Search with AI Mode (4 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Google is expanding "Personal Intelligence" in Search, enabling AI Mode to use private context from Gmail and Photos for more personalized results.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><span style="font-size: 36px;">🧠</span></div>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;">
+
+<h1><strong>Deep Dives &amp; Analysis</strong></h1>
+</div>
+</div>
+</td></tr></tbody></table>
+
+
+<table style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FgvSiDV/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/n1j6jm37dNPy_OfcD2K11GgfepZPxXet5aLgETtMJFI=441">
+                                    <span>
+                                        <strong>Pantera Blockchain Letter :: January 2026 (25 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Macro, positioning, flows, and market structure effects were the dominant drivers last year, particularly for assets outside of Bitcoin. It was a difficult year for much of the token market, but the year also saw advanced institutional adoption, clarified product-market fit, and compressed valuations across large segments of the ecosystem. A strong fundamental backdrop following a year-long bear market for the broader token universe could present an opportunity. Forward-looking setups appear increasingly asymmetric, provided fundamentals stabilize and breadth returns.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdeveloper.nvidia.com%2Fblog%2Fovercoming-compute-and-memory-bottlenecks-with-flashattention-4-on-nvidia-blackwell%2F%3Futm_source=tldrai/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/2fD3Wndxnea_KK6_Qv1T4urPWbpBSYXyKiGIbsai1pg=441">
+                                    <span>
+                                        <strong>Overcoming Compute and Memory Bottlenecks with FlashAttention-4 on NVIDIA Blackwell (7 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    FlashAttention is an input/output aware algorithm that computes the same mathematical result as standard attention, but more efficiently. It uses reduced memory access and near-linear memory to achieve this. These optimizations lead to faster training and inference and enable models to handle longer sequences of tokens. FlashAttention-4, the latest iteration of optimized CUDA kernels, achieves a peak performance of 1,605 TFLOPS/s.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.copilotkit.ai%2Fblog%2Fhow-to-build-a-frontend-for-langchain-deep-agents-with-copilotkit%3Futm_source=tldrai/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/8iVmBas-AzFuBX2W3EozN0QVLi0XbHD9sPx9ELGHZGs=441">
+                                    <span>
+                                        <strong>Building Deep Agent Frontends (38 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    CopilotKit published a tutorial on building a fullstack Deep Agent app that includes resume ingestion, skill extraction, sub-agents with web search, and a streaming UI.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><span style="font-size: 36px;">🧑‍💻</span></div>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;">
+
+<h1><strong>Engineering &amp; Research</strong></h1>
+</div>
+</div>
+</td></tr></tbody></table>
+
+<table style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.framer.com%2Fstartups%2F%3Futm_medium=newsletter%26utm_source=TLDRAI%26utm_campaign=framer%26dub_id=rhXRk3fo9VucvDvf/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/ZHMjJLnT87rYUU3oy_VMesNw5do-4sHGe1hZyQnSEt8=441">
+                                    <span>
+                                        <strong>Design, build, and publish your site in hours on Framer — free for the first year (Sponsor)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Get from idea to live site in record time when you launch on <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.framer.com%2Fstartups%2F%3Futm_medium=newsletter%26utm_source=TLDRAI%26utm_campaign=framer%26dub_id=rhXRk3fo9VucvDvf/2/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/CB-_n82TUaD-Z4vKZyrhNWbuEQt3xCN5a_hRgDK1fzA=441" rel="noopener noreferrer nofollow" target="_blank"><span>Framer</span></a>. Hundreds of YC-backed founders have already designed and published <strong>beautiful</strong> sites without dev resources. Now pre-seed and seed-stage startups get their first year free. Make your website the easy part of your startup and <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.framer.com%2Fstartups%2F%3Futm_medium=newsletter%26utm_source=TLDRAI%26utm_campaign=framer%26dub_id=rhXRk3fo9VucvDvf/3/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/SJ2f1ZSeRZ6jsyJ-Gy7PDNmkBVY9saq6rmJRoX4NMC8=441" rel="noopener noreferrer nofollow" target="_blank"><span>claim your free year</span></a>
+</span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fqwen.ai%2Fblog%3Fid=qwen3tts-0115%26utm_source=tldrai/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/TUmCvvpP9Q_o-FmgO_3TIHYd1B6PEe5I9Aaje4TuxBw=441">
+                                    <span>
+                                        <strong>Qwen3-TTS Family is Now Open Sourced: Voice Design, Clone, and Generation! (35 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Qwen3-TTS is a series of speech generation models that supports voice cloning, voice design, ultra-high-quality human-like speech generation, and natural language-based voice control. The models support 10 mainstream languages (Chinese, English, Japanese, Korean, German, French, Russian, Portuguese, Spanish, and Italian) along with various dialects. They exhibit strong contextual understanding, allowing them to adapt tone, rhythm, and emotional expression based on instructions and text semantics.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fresearch.google%2Fblog%2Fsmall-models-big-results-achieving-superior-intent-extraction-through-decomposition%2F%3Futm_source=tldrai/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/6cD3Fg7xSL_Od2l9-vSZ6RJEDAeKf6JNeGv87SFYx1s=441">
+                                    <span>
+                                        <strong>Small models, big results: Achieving superior intent extraction through decomposition (6 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    For agents to be truly helpful, the underlying models need to be able to understand what users are trying to do when they are interacting with them. Large multimodal LLMs are already good at understanding user intent, but this typically involves sending information to a server, which can be slow, costly, and carries the potential risk of exposing sensitive information. The task can be made more tractable for small models by separating user intent understanding into two stages.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdeepmind.google%2Fblog%2Fd4rt-teaching-ai-to-see-the-world-in-four-dimensions%2F%3Futm_source=tldrai/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/hi7JHhRHW2lQU0gceVbqEXq9B9W98K7GsJ5oLwTUvAU=441">
+                                    <span>
+                                        <strong>D4RT: Unified, Fast 4D Scene Reconstruction &amp; Tracking (3 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    D4RT is a unified AI model for efficient 4D scene reconstruction and tracking that achieves up to 300x efficiency over traditional methods. Utilizing a unified encoder-decoder Transformer architecture, D4RT processes scenes dynamically by answering targeted queries about 3D space and time from 2D video inputs. This speed and scalability suit applications in robotics and augmented reality.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FDAGroup-PKU%2FReVidgen%2F%3Futm_source=tldrai/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/k0qXfdG4Tsmm5NPXOLF27aXcb1n3yLiaXF5J7ZUGklo=441">
+                                    <span>
+                                        <strong>Robotics Video Benchmark and Dataset (GitHub Repo)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    RBench is a benchmark for robotics video generation, and RoVid-X is a million-scale dataset for training embodied video models.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farxiv.org%2Fabs%2F2601.14750%3Futm_source=tldrai/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/xBUZKt_CQNIX25p1wGfzlGQ1aQmrBzpOT91dRiHqHCg=441">
+                                    <span>
+                                        <strong>Render-of-Thought: Visualizing Reasoning Chains (18 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Render-of-Thought (RoT) converts reasoning steps into visual representations using VLMs, offering a more compact and analyzable alternative to Chain-of-Thought prompting. The method achieves better token compression and faster inference while maintaining competitive reasoning performance.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><span style="font-size: 36px;">🎁</span></div></div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><strong><h1>Miscellaneous</h1></strong></div>
+</div>
+</td></tr></tbody></table>
+
+<table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcursor.com%2Fblog%2Fsalesforce%3Futm_source=tldrai/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/Fti-O-Hb9LJnJRsJIIqcUzetzOkUbaGCKuK3KAX8Us8=441">
+                                    <span>
+                                        <strong>Salesforce Adopts Cursor at Scale (3 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Over 90% of Salesforce's 20,000 engineers now use Cursor in daily workflows, improving development speed and code quality. The shift has helped power product releases like Agentforce and signals broader industry trends in AI-assisted software engineering.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.raindrop.ai%2Fblog%2Fthoughts-on-evals%3Futm_source=tldrai/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/dvgh-wdF9JPl8y6MiWooJ7lnPUI7uHphSFUr1S8I26A=441">
+                                    <span>
+                                        <strong>Thoughts on Evals (11 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Raindrop's AI monitors agents by generating billions of labels monthly, detecting issues, and providing performance insights in the real world. Unlike Eval Driven Development, Raindrop focuses on monitoring after deployment, allowing real-world feedback and faster iteration. Monitoring tools are more effective for AI products due to their dynamic nature, offering comprehensive real-world performance insights that static evals can't match.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><span style="font-size: 36px;">⚡</span></div></div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;">
+
+<h1><strong>Quick Links</strong></h1>
+</div>
+</div>
+</td></tr></tbody></table>
+
+<table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2F3b21aaf8-dea5-4127-be71-602d30e5001e%3Futm_source=tldrai/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/tMyvcinoegXtbvCYRi1S0Eqyep8K729p3yVC-Bgk_C0=441">
+                                    <span>
+                                        <strong>TLDR is hiring a Senior Software Engineer, Applied AI ($200k-$300k, Fully Remote)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    As the first engineer on TLDR's new Applied AI team, you'll build AI agents and composable Claude Skills to let non-technical teammates create their own AI workflows.&nbsp;<a class="c-link" href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2F3b21aaf8-dea5-4127-be71-602d30e5001e/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/NhQN7VR-EXu0UTObzMZdUD2RlqXYsxD3KpbceG6VBgw=441" rel="noopener noreferrer" target="_blank"><span>Learn more</span></a>.
+</span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsimonwillison.net%2F2026%2FJan%2F22%2Fchris-lloyd%2F%23atom-everything%3Futm_source=tldrai/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/AVlvjopdiHt08h53YLWDsX9weymAjJ4RBfvn2D_bEA8=441">
+                                    <span>
+                                        <strong>Most people's mental model of Claude Code is that "it's just a TUI" (1 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Claude Code is closer to a small game engine.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.lukaszolejnik.com%2Fsupply-chain-risk-of-agentic-ai-infecting-infrastructures-via-skill-worms%2F%3Futm_source=tldrai/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/moGX0gnlipIk9S4cv5t6KTZPbHARAhno2p619YzHW7s=441">
+                                    <span>
+                                        <strong>Supply-chain risk of agentic AI - infecting infrastructures via skill worms (2 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Skills added to AI assistants can introduce significant security risks by executing shell, network, and filesystem commands.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fd45vni/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/igggajltAlP_TcvW7tnljPFay1D0KsXodU8_Wz2nupc=441">
+                                    <span>
+                                        <strong>Securing Agents in Production (11 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    This post examines how Palantir's AIP Agentic Runtime secures agents across the full operational life cycle.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2026%2F01%2F22%2Finference-startup-inferact-lands-150m-to-commercialize-vllm%2F%3Futm_source=tldrai/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/6bhV2pEDR7bVHwE7FMRIGw80cr78ghYEsX2S6LaJw_Q=441">
+                                    <span>
+                                        <strong>Inference startup Inferact lands $150M to commercialize vLLM (1 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Inferact, the creator of an open source vLLM project, has raised $150 million in seed funding at an $800 million valuation in a round co-led by Andreessen Horowitz and Lightspeed Venture Partners.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;">
+
+<p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;">
+Love TLDR? Tell your friends and get rewards!
+</p>
+</td></tr>
+<tr><td class="container" style="padding: 0px 10px 15px;">
+<div class="text-block">
+Share your referral link below with friends to get free TLDR swag!
+</div>
+</td></tr>
+<tr><td align="left" style="padding: 10px;">
+<div class="text-block">
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2Fc3f832ee%2F2/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/LWhfhAS_f_qpdcjWZiuBTTG0W62iEwE1yjfcx0NXJmY=441" style="color: #464ba4; text-decoration: underline;">https://refer.tldr.tech/c3f832ee/2</a>
+</div>
+</td></tr>
+<tr></tr>
+<tr><td align="left" style="padding:5px 10px;">
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_6e3f4716c8c4%2F2/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/7R5wXM5Gxc_FYh8qfy0pdRSgAhBj9JKumPnhCJdpILQ=441" style="font-size: 16px; line-height: 1.6;  padding: 10px 0; display: inline-block;  text-decoration: underline;"><span style="mso-text-raise:13pt; text-decoration: underline;">Track your referrals here.</span></a>
+</td></tr></tbody></table>
+
+
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;">
+
+<p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;">
+Want to advertise in TLDR? 📰
+</p>
+<div class="text-block" style="margin-top: 10px;">
+If your company is interested in reaching an audience of AI professionals and decision makers, you may want to <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/CT1TBZ9NdNEQNYLlcFMhYZ1FpnGdXsaqyySm90q6TFw=441"><strong><span>advertise with us</span></strong></a>.
+</div>
+<br>
+
+<!-- New "Want to work at TLDR?" section -->
+
+<p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;">
+Want to work at TLDR? 💼
+</p>
+<div class="text-block" style="margin-top: 10px;">
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/W7--tB7V6IEU-0DMCdabeZ80ZvSWkLvDQMhZP7nFTUI=441" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"><strong>Apply here</strong></a>,
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/g5i2VkuKRn-dpugRMJufVrjv60J8Mn3nkYKwbjZH-Dk=441" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"><strong>create your own role</strong></a> or send a friend's resume to <a href="mailto:jobs@tldr.tech" style="color: #0000EE; text-decoration: underline;">jobs@tldr.tech</a> and get $1k if we hire them! TLDR is one of <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/bIu9McfFR3e2PJ4xcAX3ZheKolWpQF6JmTCeFSKw3ig=441" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"><strong>Inc.'s Best Bootstrapped businesses</strong></a> of 2025.
+</div>
+<br>
+
+<div class="text-block">
+If you have any comments or feedback, just respond to this email!
+<br>
+<br> Thanks for reading,
+<br>
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2Fandrewztan/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/V8JieWsD0vTAyBLLxT1Or-qJ3FHpQTrM-VYpkEsqabM=441"><span>Andrew Tan</span></a>, <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/i1nAxwf0qExlNQnoABhpxVRkhPWG2wc9o2wrBF11P6s=441"><span>Ali Aminian</span></a>, &amp; <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fjacob-turner-7521a8198%2F/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/qlNQ5aGq-WVqkF040GvT-sRNz6nXbDRwuzJ4cNYzr60=441"><span>Jacob Turner</span></a>
+<br>
+<br>
+</div>
+<br>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block" id="testing-id">
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fai%2Fmanage%3Femail=info%2540vibexcap.com/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/00bwpfUFQ7TErT02ty9iNZuNDjkuZNk3XSABAT5kkkI=441">Manage your subscriptions</a> to our other newsletters on tech, startups, and programming. Or if TLDR AI isn't for you, please <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=e2fa48bc-f698-11f0-b945-5dde65dcc703%26p=4497ba16-f859-11f0-9e7a-3d7d03934e0c%26pt=campaign%26pv=4%26spa=1769176908%26t=1769179144%26s=a5ffaeae1b230a625e54d557b3d1a4205d3a6aa8c984c72bd3df35d2e35609f6/1/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/7P_87GS_NHk1Soz2_cGWeX0yRQn5bKQABR8FGJOyV20=441">unsubscribe</a>.
+<br>
+</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+
+
+<img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019beb4b60c8-48e268f9-7880-460b-975c-1dce24c3bfab-000000/D90jrrenCTOIxO-Pn2DgjLF8s2B7KFDTfUdsxabYp3A=441" style="display: none; width: 1px; height: 1px;">
+</body></html>]]></description>
+    <pubDate>Fri, 23 Jan 2026 14:39:04 GMT</pubDate>
+    <guid>19beb4be7791d76e</guid>
+    <author>&quot;TLDR AI&quot; &lt;dan@tldrnewsletter.com&gt;</author>
+  </item>
 
   <item>
     <title>How Meta Is Reshaping Its Organization for an AI Computing Blitz</title>
@@ -10156,770 +10838,6 @@ display: none;
     <pubDate>Thu, 22 Jan 2026 15:02:34 GMT</pubDate>
     <guid>19be63f60f3ad232</guid>
     <author>&quot;a16z&quot; &lt;a16z@substack.com&gt;</author>
-  </item>
-
-  <item>
-    <title>AI Agenda: Why Some Researchers at OpenAI, Thinking Machines and Amazon Want to Change How LLMs Are Trained</title>
-    <description><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta charset="utf-8" /> <!-- utf-8 works for most cases -->
-    <meta name="viewport" content="width=device-width" /> <!-- Supported on some email clients -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" /> <!-- Use the latest (edge) version of IE rendering engine -->
-    <title>%title%</title> <!-- The title tag shows in email notifications, like Android 4.4. -->
-    
-    <style>
-    </style>
-    <!--[if mso]>
-      <xml>
-        <o:OfficeDocumentSettings>
-          <o:AllowPNG/>
-          <o:PixelsPerInch>96</o:PixelsPerInch>
-        </o:OfficeDocumentSettings>
-      </xml>
-      <![endif]-->
-      <!--[if lte mso 11]>
-      <style type="text/css">
-        .outlook-group-fix {
-          width:100% !important;
-        }
-      </style>
-    <![endif]-->
-  </head>
-  <body>
-    <table class="container" cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#ffffff" style="max-width: 600px !important; margin: auto;">
-      <tbody>
-        <tr>
-          <td class="content-wrapper main format-content" style="max-width: 600px;">
-            
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>AI Agenda</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-    <meta name="x-apple-disable-message-reformatting"/>
-    <style type="text/css">
-  body, table, td, a{-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;}
-  table, td{mso-table-lspace: 0pt; mso-table-rspace: 0pt;}
-  img{-ms-interpolation-mode: bicubic;}
-  img{border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none;}
-  table{border-collapse: collapse !important;}
-  body{height: 100% !important; margin: 0 auto !important; padding: 0 !important; width: 100% !important;}
-  p {font-family: 'Noto Serif', Georgia, serif; padding-bottom: 28px;}
-  a {
-    color: #f32a52;
-    font-weight: bold;
-  }
-  a:hover {color: #f32a52 !important;}
-  h1, h2, h3 {
-    line-height: 1.4 !important;
-    font-weight: 500;
-    font-family: 'Suisse Works', Georgia, serif;
-  }
-  h1, h2 {
-    font-size: 26px;
-  }
-  ul, ol {
-    margin-top: 0;
-  }
-  li {
-    font-family: 'Noto Serif', Georgia, serif;
-    font-size: 19px !important;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.7 !important;
-    margin-top: 12px;
-    Margin-Top: 12px;
-  }
-  hr {
-    border: 1px solid #f32a52;
-  }
-  a[x-apple-data-detectors] {
-    color: inherit !important;
-    text-decoration: none !important;
-    font-size: inherit !important;
-    font-family: inherit !important;
-    font-weight: inherit !important;
-    line-height: inherit !important;
-  }
-  .ad-corporate-container td {
-    padding: 0 !important;
-  }
-  @media screen and (max-width: 525px) {
-    .mobile-button-container {
-      margin: 0 auto;
-      width: 100% !important;
-    }
-    .mobile-hide {
-      display: none !important;
-    }
-    .mobile-logo {
-      width: 116px !important;
-    }
-    .mobile-date, .mobile-byline, .supported-by {
-      font-size: 12px !important;
-    }
-  }
-  @media screen and (max-width: 600px) {
-    .responsive-table tr td,
-    .responsive-table tr td ul li,
-    .responsive-table tr td ol li,
-    p {
-      font-size: inherit;
-      line-height: inherit;
-    }
-    .img-max {
-      max-width: 100% !important;
-      width: 100% !important;
-      height: auto !important;
-      display: block !important;
-      margin: 0 auto 16px !important;
-    }
-    .img-container {
-      margin-bottom: 12px !important;
-    }
-    .responsive-table {
-      width: 100% !important;
-      max-width: 100% !important;
-    }
-    .padding {
-      padding-left: 5% !important;
-      padding-right: 5% !important;
-    }
-    .mobile-padding {
-      padding-left: 5% !important;
-      padding-right: 5% !important;
-    }
-    .no-padding {
-      padding: 0 !important;
-    }
-    .mobile-button {
-      font-size: 14px !important;
-      line-height: 1 !important;
-      padding: 16px 32px !important;
-      display: block !important;
-    }
-    .tablet-hide {
-      display: none !important;
-      visibility: hidden !important;
-    }
-  }
-  @media (prefers-color-scheme: dark) {
-    /* Your dark mode styles: */
-    body {
-      background: #2F3538;
-      color: #dfdfdf;
-      background: #2F3538 !important;
-      color: #dfdfdf !important;
-    }
-    .background-dark {
-      background: #2F3538;
-      color: #dfdfdf;
-      background: #2f3538 !important;
-      color: #dfdfdf !important;
-    }
-    h1, h2, h3, h4,
-    p {
-      color: #dfdfdf;
-      color: #dfdfdf !important;
-    }
-    p a {
-      color: #f32a52;
-    }
-    .logo-light {
-      display: none;
-      display: none !important;
-      visibility: hidden;
-      visibility: hidden !important;
-    }
-    .logo-dark {
-      display: block;
-      display: block !important;
-      visibility: visible;
-      visibility: visible !important;
-    }
-    .format-as-content li {
-      color: #dfdfdf !important;
-    }
-  }
-  .format-as-content h2, .format-as-content h3 {font-family: Georgia, Times, serif;font-weight: 400;font-size: 26px;line-height: 36px;margin-bottom: 26px;margin-top: 0}
-  .format-as-content a {
-    color: #f32a52;
-    text-decoration: none !important;
-    font-weight: 400;
-  }
-  .format-as-content p {font-size: 19px;padding-bottom: 28px !important;}
-  .format-as-content li {
-    color: #000;
-  }
-  .format-as-content p + a {display: block;margin-bottom: 24px !important;}
-  .format-as-content section > hr {
-    margin-top: 0;
-    margin-bottom: 24px;
-  }
-  div[style*="margin: 16px 0"] { margin: 0 !important; }
-  html, body, h1, h2, h3, h4, h5, p, ul li, ol li { margin: 0; padding: 0; }
-  .mobile-button, a, img {
-    transition: color 0.2s, opacity 0.2s;
-  }
-  a:hover {
-    color: #f32a52 !important;
-  }
-  .button-link {
-    color: #ffffff !important;
-    text-decoration: none;
-  }
-  .button-link:hover {
-    background-color: #fec6cc !important;
-  }
-  .mobile-button:hover {
-    color: #ffffff !important;
-    background: #ea685e !important;
-    border: 2px solid #ea685e !important;
-  }
-  
-</style>
-
-    <style>
-  .footer-link {
-    color: #ffffff !important;
-    text-decoration: underline !important;
-    font-weight: normal;
-  }
-  .footer-link:hover {
-    color: $magenta !important;
-  }
-  @media screen and (max-width: 600px) {
-    .responsive-table tr td,
-    .responsive-table tr td ul li,
-    .responsive-table tr td ol li {
-      font-size: inherit;
-      line-height: inherit;
-    }
-
-    .responsive-table {
-      width: 100% !important;
-      max-width: 100% !important;
-    }
-  }
-  @media (prefers-color-scheme: dark) {
-    .background-dark {
-      background: #2f3538 !important;
-      color: #dfdfdf !important;
-    }
-  }
-</style>
-
-  </head>
-  <body class="body" style="margin: 0 !important; padding: 0 !important">
-    <div
-      style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden"
-    >
-      <!-- Visually Hidden Preheader Text : BEGIN -->
-<div class="preheader" style="display: none !important;font-size: 1px;line-height: 1px;max-height: 0px;max-width: 0px;opacity: 0;overflow: hidden;mso-hide: all;font-family: sans-serif;color: #fff;">
-  It seems like every AI researcher these days has lots of ideas around how to combat major shortcomings in the field, such as the “split-brain problem” (in which a model can incorrectly answer a question just because of the way the question is phrased), by developing new models that do “continual learning,” for instance.&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;
-</div>
-
-    </div>
-    <table
-      border="0"
-      cellpadding="0"
-      cellspacing="0"
-      width="100%"
-    >
-      <tr>
-        <td bgcolor="#ffffff" align="center" class="background-dark">
-          <!--[if (gte mso 9)|(IE)]>
-            <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
-              <tr>
-                <td align="center" width="600">
-          <![endif]-->
-          <table
-            border="0"
-            cellpadding="0"
-            cellspacing="0"
-            width="100%"
-            style="max-width: 600px"
-            class="responsive-table"
-          >
-            <tr>
-              <td bgcolor="#ffffff" class="divider">
-                <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr>
-                    <td
-                      bgcolor="#ffffff"
-                      align="left"
-                      valign="top"
-                      style="padding: 24px 20px"
-                      class="background-dark mobile-padding"
-                    >
-                      <a
-                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlvYCYiS-2F03cdUcMOgCPCyBxUkW3btpMf1IiekqWdBbLpHWM5XFZbZjWb97KeKOpSDlmcTg3caZ8OG-2Bw3a3j9u2PhWdt4mfrOPBLB2LW2-2FDSS0y0vrFbyfZJh9LeQpqJKA-3DbWHV_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6A2amUF4E9DN4xQYBWvHDz-2FO7gIFE5DhkVQU1RTcMUm6kSBjLlIY4WI53Y3O6xd2PtAe9Xx21v4ObH5-2BXK775OEKEoN88FNJCwx9F7BfwZlDKgZ2WFDSeI-2Bp2EWYc09RuKnAYL5KVWTK1XEp-2FbhuM-2FQ-3D-3D"
-                        target="_blank"
-                        style="text-decoration: none; color: #ffffff; line-height: 0; margin: 0; padding: 0; display: block"
-                      >
-                        <img
-                          alt="The Information logo"
-                          src="https://tii.imgix.net/logos/theinformation/the-information-black-text-logo-white-bg.jpg?pad=20&amp;bg=ffffff"
-                          class="mobile-logo"
-                          width="145"
-                          border="0"
-                          style="width: 145px; max-width: 145px; border: 0"
-                        />
-                      </a>
-                    </td>
-                    <td
-                      bgcolor="#ffffff"
-                      align="right"
-                      valign="top"
-                      style="padding: 24px 20px"
-                      class="background-dark mobile-padding"
-                    >
-                      <span
-                        class="mobile-date"
-                        style="font-family: 'Suisse Int&rsquo;l Mono', monospace, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 18px; color: #6D686E"
-                      >Jan 22, 2026</span>
-                    </td>
-                  </tr>
-                </table>
-              </td>
-            </tr>
-            <tr>
-              <td bgcolor="#ffffff" class="divider">
-                <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr>
-                    <td
-                      bgcolor="#ffffff"
-                      align="center"
-                      valign="top"
-                      style="padding: 0 20px"
-                      class="background-dark mobile-padding"
-                    >
-                      <h1
-                        style="font-family: 'Suisse Works', Georgia, 'Times New Roman', Times, serif; font-weight: normal; font-size: 36px; line-height: 54px"
-                      >AI Agenda</h1>
-                    </td>
-                  </tr>
-                </table>
-              </td>
-            </tr>
-            <tr>
-              <td
-                class="divider"
-                align="center"
-                style="padding-bottom: 16px;padding-top: 4px"
-              >
-                <table border="0" cellpadding="0" cellspacing="0" align="center">
-                  <tr>
-                    <td valign="middle" style="padding-right: 8px;">
-                      <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBk4OyDJ4m3ygOI9MX9I8dvIiOHJPHci3t3WVHkLpD4VlaiTJkZfpo09mwJyoDyVz-2BF5sqEnSG3suwtd1-2BwGhUdx51gNNu9Ay1EIVWwxvBe7l-2Bcw1x0TIQXi-2BAIUPXAE9uwRzEoEiunCDqBYDrCgG7TwuQSjyBzePn00CpBDobhwBA-3D-3DhWoO_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6rthlFPzPNzt1zqYkaAzSKAIxZI8nGcZpoKLhEu9zDjaUSXKRmh0Cmk3jtJq2I1qSPaGydP8OKoZAh7C9Ny55I7spDGcrNUMvBTU-2B5S-2BI3my-2Fei8gadJ8lU1r6PzmA7WogZ1K03RKe1D1-2B-2FNBwX3avQ-3D-3D"
-                         style="text-decoration: none; color: inherit; display: block;">
-                        <img
-                          src="https://tii.imgix.net/production/avatars/1720773/_ZEB8484_4.jpg?w=94&amp;compressed=true"
-                          width="47"
-                          height="47"
-                          style="display: block; border-radius: 47px;"
-                          alt="Stephanie Palazzolo headshot"
-                        />
-                      </a>
-                    </td>
-                    <td valign="middle" style="font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 27px; color: inherit;">
-                      <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBk4OyDJ4m3ygOI9MX9I8dvIiOHJPHci3t3WVHkLpD4VlaiTJkZfpo09mwJyoDyVz-2BF5sqEnSG3suwtd1-2BwGhUdx51gNNu9Ay1EIVWwxvBe7l-2Bcw1x0TIQXi-2BAIUPXAE9uwRzEoEiunCDqBYDrCgG7TwuQSjyBzePn00CpBDobhwBA-3D-3D6eOh_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz60lgyPh4ZSE1Rf6vFdKxsFVXri6nKKFJHQmxLUYnytLI2J3ZzyhUQdMoIaiwmR-2B-2B86A3Ks1-2BKTH-2BD3dEJW4d1CWoQv7iK8lCoLARxOWXRENDvkZat-2BDhHAvswzctQMMwung8-2BLsnJ07eAC-2Fz0TyfPRg-3D-3D"
-                         style="text-decoration: none; color: inherit; font-weight: normal;">
-                        <span class="mobile-byline">By Stephanie Palazzolo</span>
-                      </a>
-                    </td>
-                  </tr>
-                </table>
-              </td>
-            </tr>
-              <tr>
-                <td bgcolor="#ffffff" class="divider">
-                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                    <tr>
-                      <td style="padding: 0 20px" class="background-dark padding">
-                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                          <tr>
-                            <td align="center" style="padding: 0;">
-                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
-  <tr>
-    <td align="center" style="padding: 8px 0; border-top: 1px solid #f0ece5; border-bottom: 1px solid #f0ece5; font-size: 0; line-height: 0;">
-      <span class='supported-by' style="font-family: Verdana, serif !important; font-weight: normal; font-style: normal; font-size: 14px; line-height: 0; color: #6D686E; display: inline-block; vertical-align: middle;">
-        <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" style="display: inline-block;">
-  <tr>
-    <td style="font-family: Verdana, serif !important; font-weight: normal; font-style: normal; font-size: 14px; line-height: 1.7; color: #6D686E; padding: 0;">
-      <span style="line-height: 1.7;">Supported by</span>
-    </td>
-    <td style="padding-left: 6px; padding-right: 0;">
-      <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBktahOKn6t4gN5PLT1hemN-2F9pGrY-2FMRN5ch0BCGDuTz7n23VfhWwMSuAAS8ZB6H2NtyOD2uI7VsO-2FmmamwZQmdlzo-2F5xI0NIl8XxhhLwkx07MwTT3vTkdDYZetVoFv3IRplPTUp80JUrUtoJpWxkrPOKGnN0bto8PH-2F177MDbyXdMq9MnWeLFbINzN1ZFd1toQ-3DbGZG_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6Ff8-2FVxxvC-2FfK0jydO7kTnHGcqUEp3BhsHBS4A1i2f6QfUDe-2FYHbyq26G-2FbzOpJ-2Fzk7Hwm-2BWehK9qOZyLkFvHr-2FBkdW1bJA2KsCI4LSaASfjZsfb6BIaNRUES6cnKqt2bVEohRXsQ8gpvdQiQzplCqw-3D-3D" target="_blank" style="text-decoration: none;">
-        <img src="https://tii.imgix.net/production/advertisements/995/sponsor-995-5wIldEHh.png?pad=2&bg=ffffff"
-          alt="Sponsor Logo"
-          height="21"
-          width="140"
-          style="display: block; height: 21px !important; width: 140px !important; border: 0;"
-          border="0"
-          hspace="0"
-          vspace="0"
-          editable="true"
-          class="mobile-full-width"
-          mso-height-percent="100"
-          mso-width-percent="100"
-          mso-element="field-placeholder"
-          mso-hide-empty="hide"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
-      </span>
-    </td>
-  </tr>
-</table>
-
-                            </td>
-                          </tr>
-                        </table>
-                      </td>
-                    </tr>
-                  </table>
-                </td>
-              </tr>
-            <!-- Email Content -->
-            <tr>
-              <td bgcolor="#ffffff" class="divider format-as-content">
-                <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr>
-                    <td style="padding: 0 20px" class="background-dark padding">
-                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                        <tr>
-                          <td
-                            align="left"
-                            style="padding: 16px 0 0; font-size: 19px; line-height: 32px; color: #000000; font-weight: 400;"
-                          >
-                            <p style="padding-bottom: 32px;">Hello!</p><p style="padding-bottom: 32px;">It seems like every AI researcher these days has lots of ideas around how to combat major shortcomings in the field, such as the <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkayEPumDOht6B6TI0Zt47OZHZmqXXnKTocFHvn7Ln-2FGhKBGkQCesjANkUh-2B6-2Bpp-2B1dmDi51ct2NOUIred-2BHaMlKXJdBko1APckpAjvspCCWfwTLvHSkg1WjFaYnedsx4k-2BLRD0PpdaH4bchViv2skpI8twIr31HgD4mdt7pnzOLp33aP8ti5bBYkziNgEuE-2F0-3DsPuI_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6prK8MLbKr-2Fwf0xs4XwKT1N-2FrUP-2FRdg2ZtTZIbsi3uoZq7WxzHQbgOpkI-2BqoFKutX6Jj8ValtEz0y2YuyHzT2kVL15vob-2Bfsalb4puA2KhLEohIE3SqEKV25j6zJ9-2BujuCNIA2B78imUQXHeLKNTLFQ-3D-3D">“split-brain problem”</a> (in which a model can incorrectly answer a question just because of the way the question is phrased), by developing new models that do <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNGw0TVGQ8IiH7ckzQhnbNNosqzkiIIIH3srqM5u9xFp-2FvUjxugb581GuCOUbPGPBrtznacU8PoICCQyXxngdzf-2FKwUlNj0Q3Hv195tWw-2BbtfRElVxG4bLijU-2BYwMTtEXBKQnH9tXLMj2aWUHfpByAk-2BhXK3KxrSSDItZ0qZ2SCIx-2FuwiBfwuEE7xb-2FoLNhS4vXA_Z_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6dCauvC5Quv1Dg5rQ4VezC8MKgB-2FK5uqkHwOvHwrFqbGgYoeHn07we-2FFxT3coPuHekDDRyhbfjkdERBuhmUFRGVHJS4rKh8OKVEmcoAguuZGg2nVeDjVmWmI3REFfWSIVN6xGBtp7z-2FNb6hGVvYyVfA-3D-3D">“continual learning</a>,” for instance.</p><p style="padding-bottom: 32px;">AI researchers also tell me they’re interested in revamping the model training process. Some researchers, including <b>Amazon’s David Luan</b>, <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkayEPumDOht6B6TI0Zt47OC0eM2Kst4vI581nWJJroEC1fYuSUHLbjywn46apm0rFLUibzFqnzpGaSV4X4nUTEYrZnWELSVZJA979qcrXVzP6Jdb0ynT0ZdjBIG7O-2FPY4adt9HQkQ6gmbVq708iNWhiz-2F1dqi-2B95LehfBnZIyS3-2FdZ0nhDB-2ByFzg0qDgHejoa2LeSVnaUC1lKbFuxbLF7GQo1Zw83CU964jciQVEXjZg-3D-3DnG1Q_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6eUvnfmwmo9UCemXClB5-2BalfdWOnBVJ-2B7hoOxULtQe2hXEG6t-2B5tcf-2BUZuUzDXRIArdgIeqisE55UicYv6APWNQsEaVXd63oUQh0PtS2hkAwHtDHevtztQuDVzqWQL8FbReRm6hliNYCUCUBx9PKGsw-3D-3D">say</a> the current order of steps of <b>pretraining</b> (giving it a broad, general knowledge of the world) before <b>posttraining</b> (honing its knowledge in specific domains) don’t make much sense. </p><p style="padding-bottom: 32px;">This order of steps has become the norm in AI because, in some ways, it makes intuitive sense: humans similarly require a general base of knowledge you learn during childhood before learning more specific skills later on in life.</p><p style="padding-bottom: 32px;">But Luan says that if you know a model will be used for coding or helping with customer refunds, why spend so much effort teaching the model about completely irrelevant topics, like poetry or horticulture? </p><p style="padding-bottom: 32px;">His argument is that it makes more sense to use the pretraining process to expose the model to more curated data related to the task it is destined to handle. The idea is to prepare the model for its eventual purpose. </p><p style="padding-bottom: 32px;">Researchers from a variety of other major developers, including <b>OpenAI</b> and <b>Thinking Machines Lab</b>, agree. Some even think that AI developers should do away with separate teams for the different stages of model training and just consolidate everyone into a single training team.</p><p style="padding-bottom: 32px;">If this comes to fruition, however, it will have important implications for the way AI is developed.</p><p style="padding-bottom: 32px;">Researchers will have to decide what curated data they want to include earlier in the training process, which can affect what the model is and isn’t good at. (For instance, a decision to include more math and code and less prose data during early training could make the model worse at creative writing or speaking warmly to users.) </p><p style="padding-bottom: 32px;">This most likely would lead to a future of many specialized models trained on different datasets, rather than what’s most common today: researchers using the same pretrained model but making tweaks during posttraining to get it to perform better at different tasks.</p><p style="padding-bottom: 32px;">Already, we’re seeing examples of places where such an approach could be helpful. As Sri, Amir and I wrote about <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNPZ4IlvlUGH1Y6TkxFInR9ER-2FYjxrT3h4EkUbsB1ni0fsfWKHr1Rw2wiKFGUodvCYe8NSS4O3sFK-2BNoRlhKf912ahNT9P76GdKm-2FQNroMt0K7xIVxLHouN2TAYmHDW-2BfxR-2BJhncZbtqAFoXysEErDNIHJsK5k5OeoHH86uqDU4zszOqZgB7EyH7YRlcrZcIg4leli_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6KHg2GD5z-2B8R8talZtSCaecNjPSJPgD6s6YfpoDOWv1XeG1VXVNazboEMrBv7Tw-2Fqk9r5MjhLUKaEgxe65dQKW-2BjMPpLyLAsLpglNzCask27tPiwPzJA4Un0tgN6lXX5UGasQhlbDjjykeJ4zfJzqwg-3D-3D">here</a>, one problem OpenAI is facing is that what consumers want out of <b>ChatGPT</b>—help with relatively simple questions and a friend to talk to—doesn’t align with the cutting-edge research the company is doing in areas like reasoning models to get to superintelligence, or AI that can help us colonize Mars or find new cures for diseases.</p><p style="padding-bottom: 32px;">OpenAI is already acknowledging this divide by using a router to direct ChatGPT queries to be handled by different models depending on how complicated they are, and by creating specialized models like <b>GPT-5-Codex</b> (though all of the models are based on the same pretrained model). </p><p style="padding-bottom: 32px;">Doubling down on this by training completely different models for ChatGPT, scientific research or coding, for instance, would require the company to completely revamp its research team.</p><h3 class="email-header">Microsoft Backs Photonics Startup</h3><p style="padding-bottom: 32px;">Investor enthusiasm has been mounting for startups that use light instead of electrons in hardware for data centers—specifically to use light to ferry data among chips in data centers. </p><p style="padding-bottom: 32px;"><b>Neurophos</b> is taking a different tack. The six-year-old startup designs chips that use light to perform the mathematical operations involved in running AI models. And it just raised $110 million in a Series A funding round led by <b>Gates Frontier</b>, <b>Bill Gates’ </b>venture firm, according to <b>Patrick Bowen</b>, co-founder and CEO of Neurophos.</p><p style="padding-bottom: 32px;"><b>M12</b>, <b>Microsoft’s</b> venture firm, also participated in the round. Backing from Microsoft, one of the biggest cloud providers, is a sign of confidence in the technology.</p><p style="padding-bottom: 32px;">“Modern AI inference demands monumental amounts of power and compute,” said <b>Marc Tremblay</b>, corporate vice president and technical fellow of core AI infrastructure at Microsoft in a statement. “We need a breakthrough in compute on par with the leaps we‘ve seen in AI models themselves, which is what Neurophos’ technology and high-talent density team is developing.”</p><p style="padding-bottom: 32px;">The appeal of using light is that it could be <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkayEPumDOht6B6TI0Zt47OM0IsTQI4NRtRtch3OGCwj3W4WntIY2OTWIF-2BvGC9r7CJ4K8Ku7GqXb3kg7m0eCgbB1Ta0V3djYkwv5IVv7aRa-2FudSjj7zJkePQz1-2Bnko-2BuZlHQsS5WeQU2nXXYmjDrcnEx4o3YyukKi5mLVhy9dsTYjknk0cgJmjVetdKCxOW9EDDial0ohYBQOZyyHtV-2FnRKpm8uJa-2BwIYmoN75OOxXPA-3D-3D-HnK_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz67zRlBsIgLfnWRs-2FMok4iD-2BLQAQBOQYtRL2pSSCXahxAhTca9xSuMukr07p3ai3yeW7-2B0kfthxSrLYj7avmWriANlpwvAAPzCPxGn4IaHqJC2YKvWwMaxAk4Gkek7qRvueuGiIvygRn-2B5n717XItBbw-3D-3D">much more energy-efficient</a> than electrons for running AI models. The chip the startup expects to deliver in 2028 will be 50 times as fast and 50 times as efficient as an <b>Nvidia Blackwell</b>, said Bowen. </p><p style="padding-bottom: 32px;">The funding round also included participation from <b>Carbon Direct Capital</b>, <b>Aramco Ventures</b>, <b>Bosch Ventures</b>, <b>Tectonic Ventures</b> <b>and</b> <b>Space Capital</b>, <b>DNX Ventures</b>, <b>Geometry</b>, <b>MetaVC Partners</b>, <b>Morgan Creek Capital</b>, <b>Silicon Catalyst Ventures</b>, <b>Mana Ventures</b> and <b>Gaingel</b>.<i>—Rocket Drew</i></p><p style="padding-bottom: 32px;"><i>Here’s what else is going on…</i></p><h3 class="email-header">Claude Gets a Revamped Constitution</h3><p style="padding-bottom: 32px;"><b>Anthropic</b> yesterday released its new “constitution” for <b>Claude</b>, essentially, a document that provides guidelines for how the model should act and respond in more “gray area” situations. This is the first publicly-released update the company has made to its Claude constitution since it first released the document in 2023.</p><p style="padding-bottom: 32px;">Compared to the original constitution, the updated version is less prescriptive and treats the model more like an intelligent entity with its own sense of good judgment by, for instance, explaining the reasoning behind the rules it provides rather than just listing them outright. Interestingly, the document also leaves room for the possibility that Claude has some sort of “consciousness” or “moral status,” a change from the original document.</p><h3 class="email-header">Overheard</h3><p style="padding-bottom: 32px;"><b>OpenAI</b> CFO <b>Sarah Friar</b> said the company’s custom inference chip is being “taped out”—the final step before manufacturing—and touted the progress of its more than $500 billion <b>Stargate</b> infrastructure project in a panel at the World Economic Forum Wednesday.</p><p style="padding-bottom: 32px;">On Stargate, which was announced one year ago, she said that the project is “well over halfway built out” and OpenAI is already training models on servers at <b>Oracle’s</b> Stargate campus. “It’s gone better than we all dreamed,” she said.</p><h3 class="email-header">Deals and Debuts</h3><p style="padding-bottom: 32px;"><i>See The Information’s <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlCQB76nFfxg1-2FQpKy2WxAqVVBiFYIYi-2BXpT9cSwJ4yHEJTBrr-2BWSyU1Mdh0jZeZC-2B7FmSDP-2FW48-2FmbO8-2Bqb-2FjvAV8xCkGPfOR1WETa6mkImv01NOEZgxoFifavCfHGCg0eukoPsbdZYVefjL0CUgOnN9DoEqOrCa5dSLqKexzWBw-3D-3DJAIU_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6UiUGcL-2BIpb8ppjmsi3YCqueoeAoYH6u-2BIpjpgRAyr5iYCG7Dd1MZ3w8TNm9YyDfclHcb-2B2XUrUxwVurBvfV618sf2bI9MD9ANNjV2OEXebr5PUw02P2Ue7BqvWQ6YvpDj13KEfHxdZunS3RMo7xVCw-3D-3D">Generative AI Database</a> for an exclusive list of private companies and their investors.</i></p><p style="padding-bottom: 32px;"><b>Lightning AI</b>, which offers software for customizing AI models, and data center provider <b>Voltage Park</b> merged into a single company, still called Lightning AI, that is valued at over $2.5 billion.</p><p style="padding-bottom: 32px;">Recommendation app <b>Yelp</b> on Wednesday said it agreed to acquire AI agent startup <b>Hatch</b> for $300 million, or roughly 12 times the startup’s annual recurring revenue.</p><p style="padding-bottom: 32px;"><b>Upscale AI</b>, which provides networking equipment for AI data centers, raised $200 million in a Series A funding round led by <b>Tiger Global</b>, <b>Premji Invest</b> and <b>Xora Innovation</b>.</p><p style="padding-bottom: 32px;"><b>Zanskar</b>, which uses AI to search for geothermal energy, raised $115 million in a Series C funding round led by <b>Spring Lane Capital</b>.</p><p style="padding-bottom: 32px;"><b>AheadComputing</b>, which designs CPU chips for AI data centers, raised $30 million in a seed extension funding round led by <b>Eclipse</b>, <b>Toyota Ventures</b> and <b>Cambium</b>.</p><p style="padding-bottom: 32px;"><b>Google DeepMind</b> is hiring the CEO and several top engineers from <b>Hume AI</b>, a startup developing voice AI models, as part of a licensing agreement. The terms of the deal weren’t disclosed.</p><p style="padding-bottom: 32px;"><b>Apple</b> is developing an AI-powered wearable pin that could be released as early as 2027, The Information <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNBGCK-2FBWPVpI6D8s-2B6lNAjflG48FRzLb1dfAWLjjddvoisMpPl-2Fw9MI1J-2BE-2FpZDwmGqXSGYV1Y2VHRt8Rf-2FBWa8VVd-2BlQF8n49qb4iaHdRxT4HS4jNUtjSfzA35XS3iLMFw2DDsGAncB4MGVrqu-2Bzx26SUtdBP4Iiy91-2B7Sju3nQ-3DlpEv_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz65KnVuHEz6m17lIydacCFtB8vr2gvbM2odotId4j-2FqLnYMdcoLwp4NWSix10CTg2JP0IePQUs8FxLgSK3SmhVLBZVsZ5qDgwR80723rR6Hv-2FhFqIhgM069F9fUhXl9qdqQs2mLuzhwVaGdQFrQAbVQg-3D-3D">reported</a>. Apple plans to bring more conversational capabilities to <b>Siri</b>, turning it more into a chatbot like <b>ChatGPT</b>, Bloomberg reported. Bloomberg also reported that Apple is in talks with <b>Google</b> about using the company’s cloud infrastructure, including its AI chips, tensor processing units, to launch the updated Siri.</p><p style="padding-bottom: 32px;"><b>Amazon</b>-owned primary care chain <b>One Medical</b> said it is launching an AI health assistant.</p><p style="padding-bottom: 32px;"><b>Shopify</b> has told merchants that use its commerce software that it will open up sales through AI chatbots like <b>ChatGPT</b> later this month, according to its site and communications with sellers.</p><p style="padding-bottom: 32px;"><b>Nvidia</b> CEO <b>Jensen Huang</b> is preparing for a trip to China later this month as the company works to regain its footing in this strategically important market, Bloomberg reported, citing a person with knowledge of the plans.</p><p style="padding-bottom: 32px;"><b>Meta</b> CTO <b>Andrew Bosworth</b> said at a press conference that <b>Meta Superintelligence Labs</b> delivered its first AI models internally this month, Reuters reported.</p><p style="padding-bottom: 32px;"><b>The White House Council of Economic Advisers</b> released a report on “Artificial Intelligence and the Great Divergence,” writing that “the advent of generative artificial intelligence based around large language models (LLMs) will initiate a new wave of profound economic transformation in the United States, promising significant boosts to productivity and growth.”</p><p style="padding-bottom: 32px;"><b>YouTube</b> will work on managing AI “slop” videos on the site this year, while adding AI tools to generate short-form videos using your own likeness, CEO <b>Neal Mohan</b> wrote in his annual letter.</p><p style="padding-bottom: 32px;"><b>Microsoft</b> announced <b>Rho-alpha</b>, a new AI model for powering robots, based on its <b>Phi</b> language models.</p><table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="left" style="padding: 16px 0 0;font-size: 19px;line-height: 32px;font-family: Georgia, serif;color: #000;font-weight: 400;">
-<table width="100%" border="0" cellspacing="0" cellpadding="0" class="ad-corporate-container">
-<tr>
-<td align="left" style="font-size: 19px;line-height: 32px;font-family: Georgia, serif;color: #000;font-weight: 400">
-<p style="font-family: Verdana, sans-serif;font-size: 14px;line-height: 18px;color: #6d686e;margin-bottom: 8px;margin-top: 0;padding-top: 32px;padding-bottom: 0 !important;border-top: 1px solid #f0ece5;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
-<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBktahOKn6t4gN5PLT1hemN-2FJjPl6ZYDUPAW8zlixfElG3mYpUCcgyp0rUVIWqJC3hpaPb9Gs2CVn42tNtA4drtIc3o6hJdr5-2BLcFGQam2MDX5sX-2BNPXfDRcE6P7RwEgpyjcQfRWWagtWi6oMwHZ50fNnaW-2Fbx6t5ZZPoxWWIuzyew-3D-3DUoBv_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6CmsWh3uTT9XLxsWOtuzQI1kE8jf-2Bme-2FE-2Bn38QXyAZTkU5-2BPbdGCkH0UfJ3k8NCMs8CzkAU-2BtZHpeHf-2BbjS80ZFyKdRa38pjFBEUIhDpLRWKP8yOWDMIQ0Ku7ejYuCZqU-2BAU1X5oC41WVd8viWBSwJw-3D-3D" style="text-decoration: none; color: #6d686e !important;font-weight: 400 !important;">
-A message from ServiceNow
-</a>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left">
-<figure style="margin: 0 0 16px 0">
-<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBktahOKn6t4gN5PLT1hemN-2FJjPl6ZYDUPAW8zlixfElG3mYpUCcgyp0rUVIWqJC3hpaPb9Gs2CVn42tNtA4drtIc3o6hJdr5-2BLcFGQam2MDX5sX-2BNPXfDRcE6P7RwEgpyjcQfRWWagtWi6oMwHZ50fNnaW-2Fbx6t5ZZPoxWWIuzyew-3D-3Df8_b_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6OA9zH-2BnFkz-2BceXUo0I-2Bi941kZHQP02eNO9gffobYMwQJA5tYJpoSuzAMzeGXx14HLwcEnUh6PBfx8lDjj-2FMzwkEPj-2B3qJg9j1SwVZt2bUjYdj6R4KmUwVXZRnXIynv0zr0keR3a6h1HYle-2F95DJwZQ-3D-3D" style="text-decoration: none;color: #000;display: block;">
-<img src="https://tii.imgix.net/production/advertisements/995/995-DWZJh0Ey.png?w=570" alt="" width="560" border="0" style="width: 100%;max-width: 560px;border: 0;display: block" class="img-max">
-</a>
-</figure><img src="https://ad.doubleclick.net/ddm/trackimp/N1262025.4044696THEINFORMATION/B34737563.436081651;dc_trk_aid=629453755;dc_trk_cid=246694306;ord=1769094029;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?" style="display:none;">
-</td>
-</tr>
-<tr>
-<td align="left">
-<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBktahOKn6t4gN5PLT1hemN-2FJjPl6ZYDUPAW8zlixfElG3mYpUCcgyp0rUVIWqJC3hpaPb9Gs2CVn42tNtA4drtIc3o6hJdr5-2BLcFGQam2MDX5sX-2BNPXfDRcE6P7RwEgpyjcQfRWWagtWi6oMwHZ50fNnaW-2Fbx6t5ZZPoxWWIuzyew-3D-3Diujd_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6YXkDZYpkgBmPLdAeqLh-2F8YY53I-2FfzGkO9BcGvpzHtUKGiiJ1c0knT0edE9tHYzqgNSFilH-2FLjfLlpCuGp-2BG5P6eQVaLcsDv-2FrTFBTiGN3mjTFq3w5WcrQ2E6bE-2FkcL5MeHGkbN0oaOE7JyhP9NJhCw-3D-3D" style="text-decoration: none;color:#000 !important">
-<h3 style="font-family: Verdana, sans-serif;font-weight: 700;font-size: 18px;line-height: 27px;margin: 0 !important;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
-Now your people can AI like they were meant to AI.
-</h3>
-</a>
-</td>
-</tr>
-<tr>
-<td align="left">
-<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBktahOKn6t4gN5PLT1hemN-2FJjPl6ZYDUPAW8zlixfElG3mYpUCcgyp0rUVIWqJC3hpaPb9Gs2CVn42tNtA4drtIc3o6hJdr5-2BLcFGQam2MDX5sX-2BNPXfDRcE6P7RwEgpyjcQfRWWagtWi6oMwHZ50fNnaW-2Fbx6t5ZZPoxWWIuzyew-3D-3DV52t_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6DiHwQ-2F1fk25SYjN4xSMP5NzEMKo07U8zioVQ6Iz7ncDzRLKn8Io0JTJA4aUK7AHOfuVr9ESVUJOQCzprwcQNJsrwj-2BcMbWOMUWFP070oD6o111OaPS9XsmmI3dbFWbae6m5fn9YeR-2FKMZbBLD0AL2A-3D-3D" style="text-decoration: none;font-weight: 400;">
-<p style="font-family: Verdana, sans-serif !important;font-weight: 400;font-size: 18px !important;line-height: 27px !important;margin: 8px 0 0 !important;color: #2f3538;border-bottom: 1px solid #f0ece5 !important;padding-bottom: 32px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
-Introducing the AI Experience by ServiceNow. Most AI is stuck in silos. Trapped in apps. Disconnected from how people actually work. The AI Experience by ServiceNow® works the way people do. It brings text, voice, images, and agents into a single, seamless interface where AI is the new UI. <b style="color: #f32a52;">Learn more</b>
-</p>
-</a>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-<tr>
-<td align="left" style="padding: 48px 0 0;font-size: 19px;line-height: 24px;font-family: Georgia, serif;color: #000;font-weight: 400;">
-<h2 style="font-family: Georgia, Times, serif;font-weight: 400;font-size: 26px;line-height: 36px;margin-bottom: 16px;margin-top: 0;">New From Our Reporters</h2>
-<table border="0" cellspacing="0" cellpadding="0" width="100%" role="presentation" style="border-collapse: collapse;"><tr>
-<!--[if (gte mso 9)|(IE)]>            <td width="164" valign="middle">          <![endif]--><td align="left" width="164" style="width: 164px; padding-right: 16px; vertical-align: top; display: inline-block;" class="responsive-table img-container"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNYoiDzbM-2BKsAbBbqOXAtjTLpyQU8woO8fSB-2FRBtBXxbBSSm4Jkdl4qm-2FT3JzxrincBudlpGRVTj9MXOUoohgDkLIaSGPCZr23q4PBs7eYeeMERMfJHraT-2BpbvGq5odax4kigipqGHmv0dZiTELaJcxk-2Fs9miyZ-2BWn0-2BRwmaLMtpcReN7emUBP9HRpJ8rDE-2Fk3sj8xp2gBY6HA8uWeUQslLA-3D-3DI34W_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6Rb10D21p4Il7L9sCiQ3KRn6VhTKIdnCjhF-2BR1ZJKkhd0GKTD4K9tR7lL2SX0gAmeKtE9s-2BJ5NCQNL0U5Yle-2FYAiB0gNiLxXY8amKjVXSCJ4NCxXkdpFSsAjHg6vO36o1GQe2Pum8U-2BEMCN0msb1kag-3D-3D" target="_blank"><img src="https://tii.imgix.net/production/articles/16440/5ae36d54-84fe-476f-b1ed-313c84a55cdf.png?auto=compress,format&amp;fit=crop&amp;w=560&amp;q=20" width="164" class="img-max" style="display: block; width: 100%; max-width: 164px; height: auto;" border="0" alt=""></a></td>
-<!--[if (gte mso 9)|(IE)]>            <td width="16">&nbsp;</td>            <td valign="middle">          <![endif]--><td align="left" style="font-family: Verdana, sans-serif; line-height: 27px; color: #000000; vertical-align: top; display: inline-block; width: 360px; max-width: 100%;" class="responsive-table">
-<span style="font-family: Verdana, sans-serif; font-size: 14px; color: #f32a52; display: block; margin-bottom: 8px;">Exclusive</span><h4 style="font-family: Verdana, sans-serif; font-size: 18px; line-height: 27px; margin: 0 0 4px;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNYoiDzbM-2BKsAbBbqOXAtjTLpyQU8woO8fSB-2FRBtBXxbBSSm4Jkdl4qm-2FT3JzxrincBudlpGRVTj9MXOUoohgDkLIaSGPCZr23q4PBs7eYeeMERMfJHraT-2BpbvGq5odax4kigipqGHmv0dZiTELaJcxk-2Fs9miyZ-2BWn0-2BRwmaLMtpcReN7emUBP9HRpJ8rDE-2Fk3sj8xp2gBY6HA8uWeUQslLA-3D-3DPBHJ_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6YqwwZTSUWjF1WJWnIdkmrv-2Bnv-2Bah1ID8lolXgCxqeW4HsFbPUWnJxPv1Erj-2FN2Jjwx6uYxu7l7DU-2Bws6RqtitLb6JbQhdBNCCyizmjPnAeDJvBdCKP3iFFlfs7YQEKq-2B-2FWCUwXI4DlUbWwBlYPzwVA-3D-3D" target="_blank" style="text-decoration: none; color: #000 !important; font-weight: 400;">OpenAI Names Former TML Staffer Zoph to Oversee Enterprise Push</a></h4>
-<span style="font-family: Verdana, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">By Stephanie Palazzolo and Erin Woo</span>
-</td>
-<!--[if (gte mso 9)|(IE)]>          </td>          <![endif]-->
-</tr></table>
-<div style="clear: both"></div>
-<br><table align="left" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td style="background: #fec6cc;padding: 1px 0 0; line-height: 0; font-size: 1px"></td></tr></table>
-<br><table border="0" cellspacing="0" cellpadding="0" width="100%" role="presentation" style="border-collapse: collapse;"><tr>
-<!--[if (gte mso 9)|(IE)]>            <td width="164" valign="middle">          <![endif]--><td align="left" width="164" style="width: 164px; padding-right: 16px; vertical-align: top; display: inline-block;" class="responsive-table img-container"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNFPDRVyZ6YfRpU7VFKF84mUaZbM5mJf8pjk0FDUVmdsOcFPy-2B19d1u2jZIYq6PRLHKuR842u5Nl4FG0GRz5Ju53-2FyXJSeCSf8UGUf77KPUFF8BCfgUVWUkALO-2B1EToOV44KKmWyWebXDd0jOUkuUHzkash3E0n2tRmmdZSRqhkuK7QTt4k2NcKaVgXsGRTmyOjqgEWXt2-2Bl6WwXZNjEOd-2Fw-3D-3Db8n9_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6tEB8Gm3RXGO86QqlueV6QyYZ-2F62otQ8jcPikVJ1eaD6TL79AcP4p7uXeFw1LWFVgP4GQPjoZyy1cxtNgoggVoFZT2pGXoldmFv39aVkbqXHqOAPjsV8-2FTemAeVYZL-2BLL8i3ymnJJqxjzrZ-2FusLuoiA-3D-3D" target="_blank"><img src="https://tii.imgix.net/production/articles/16444/517fe562-db64-448f-b2c5-6688d22bd57e.jpg?auto=compress,format&amp;fit=crop&amp;w=560&amp;q=20" width="164" class="img-max" style="display: block; width: 100%; max-width: 164px; height: auto;" border="0" alt=""></a></td>
-<!--[if (gte mso 9)|(IE)]>            <td width="16">&nbsp;</td>            <td valign="middle">          <![endif]--><td align="left" style="font-family: Verdana, sans-serif; line-height: 27px; color: #000000; vertical-align: top; display: inline-block; width: 360px; max-width: 100%;" class="responsive-table">
-<span style="font-family: Verdana, sans-serif; font-size: 14px; color: #f32a52; display: block; margin-bottom: 8px;">Exclusive</span><h4 style="font-family: Verdana, sans-serif; font-size: 18px; line-height: 27px; margin: 0 0 4px;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNFPDRVyZ6YfRpU7VFKF84mUaZbM5mJf8pjk0FDUVmdsOcFPy-2B19d1u2jZIYq6PRLHKuR842u5Nl4FG0GRz5Ju53-2FyXJSeCSf8UGUf77KPUFF8BCfgUVWUkALO-2B1EToOV44KKmWyWebXDd0jOUkuUHzkash3E0n2tRmmdZSRqhkuK7QTt4k2NcKaVgXsGRTmyOjqgEWXt2-2Bl6WwXZNjEOd-2Fw-3D-3Dz4R9_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6Q6imd6svTO4pXWIH-2F0Q27nPPuQOz7swxgYx1nWoMNbw8Ok5-2FbzlH1SZbkl9dEJvX5GJ62-2B7bN0esHF9KQE6BKwoAqxM3AjbuwHG5u4cuP2KR7WK6CM1ZxV64tvMa-2Fi30JBlSJONsp4VGkKkKep3mLA-3D-3D" target="_blank" style="text-decoration: none; color: #000 !important; font-weight: 400;">Anthropic Lowers Gross Margin Projection as Revenue Skyrockets</a></h4>
-<span style="font-family: Verdana, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">By Sri Muppidi</span>
-</td>
-<!--[if (gte mso 9)|(IE)]>          </td>          <![endif]-->
-</tr></table>
-<div style="clear: both"></div>
-<br><table align="left" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td style="background: #fec6cc;padding: 1px 0 0; line-height: 0; font-size: 1px"></td></tr></table>
-<br><table border="0" cellspacing="0" cellpadding="0" width="100%" role="presentation" style="border-collapse: collapse;"><tr>
-<!--[if (gte mso 9)|(IE)]>            <td width="164" valign="middle">          <![endif]--><td align="left" width="164" style="width: 164px; padding-right: 16px; vertical-align: top; display: inline-block;" class="responsive-table img-container"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNBGCK-2FBWPVpI6D8s-2B6lNAjflG48FRzLb1dfAWLjjddvoisMpPl-2Fw9MI1J-2BE-2FpZDwmGqXSGYV1Y2VHRt8Rf-2FBWa8VVd-2BlQF8n49qb4iaHdRxT4HS4jNUtjSfzA35XS3iLMFw2DDsGAncB4MGVrqu-2Bzx26SUtdBP4Iiy91-2B7Sju3nQ-3DZcUN_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6VipAI4jCYbjA3yR7FcHX3MSaF6OIHrE5XUM1HuUxvKrNuxNnXHhhdtU4NAugcf-2F6SPQI5zkn0xsEP2g2mHsLCvINN-2BoSjdkeRpdL7i6Vb5qJB28BJJ40vUXu0mn3keuRLYqOVPtsXJGRwlrtIRMR3Q-3D-3D" target="_blank"><img src="https://tii.imgix.net/production/articles/16439/1ee43bd8-0ea1-4f5b-9fa5-fe647398f6e8.png?auto=compress,format&amp;fit=crop&amp;w=560&amp;q=20" width="164" class="img-max" style="display: block; width: 100%; max-width: 164px; height: auto;" border="0" alt=""></a></td>
-<!--[if (gte mso 9)|(IE)]>            <td width="16">&nbsp;</td>            <td valign="middle">          <![endif]--><td align="left" style="font-family: Verdana, sans-serif; line-height: 27px; color: #000000; vertical-align: top; display: inline-block; width: 360px; max-width: 100%;" class="responsive-table">
-<span style="font-family: Verdana, sans-serif; font-size: 14px; color: #f32a52; display: block; margin-bottom: 8px;">Exclusive</span><h4 style="font-family: Verdana, sans-serif; font-size: 18px; line-height: 27px; margin: 0 0 4px;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNBGCK-2FBWPVpI6D8s-2B6lNAjflG48FRzLb1dfAWLjjddvoisMpPl-2Fw9MI1J-2BE-2FpZDwmGqXSGYV1Y2VHRt8Rf-2FBWa8VVd-2BlQF8n49qb4iaHdRxT4HS4jNUtjSfzA35XS3iLMFw2DDsGAncB4MGVrqu-2Bzx26SUtdBP4Iiy91-2B7Sju3nQ-3DUDhr_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz66fPW9oGw-2FNBCAlzMNUVsRfNfNPu9OQXycHbsf6cxEpa2TSAG6zVVY-2FTI5NHnLg4E4tgrnj7-2FC9w3QgZA2B9XYXGXYaQZ1XWCtFld2Y98ecVnnDpwsD55DNx3QwdEm0IZwGam7V9IiAnZ6N2nRbP8zQ-3D-3D" target="_blank" style="text-decoration: none; color: #000 !important; font-weight: 400;">Apple Developing AI Wearable Pin</a></h4>
-<span style="font-family: Verdana, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">By Wayne Ma and Qianer Liu</span>
-</td>
-<!--[if (gte mso 9)|(IE)]>          </td>          <![endif]-->
-</tr></table>
-<div style="clear: both"></div>
-<br><table align="left" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td style="background: #fec6cc;padding: 1px 0 0; line-height: 0; font-size: 1px"></td></tr></table>
-<br><table border="0" cellspacing="0" cellpadding="0" width="100%" role="presentation" style="border-collapse: collapse;"><tr>
-<!--[if (gte mso 9)|(IE)]>            <td width="164" valign="middle">          <![endif]--><td align="left" width="164" style="width: 164px; padding-right: 16px; vertical-align: top; display: inline-block;" class="responsive-table img-container"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNipKnK6WqatgUoScKFjbn9Np-2BPnkehpBi5TZr9rJe1shrnUXdyeaOuvWWA88au1U2Cq878LboS69MqbuZf0ihjtOq3-2Bagrugv3ZcERhbNmPSptnr1iafdnZviKSM6Iu5bxXhcoomVVUVv9Q-2BFreU3MN-2BqluNYu6Krfmz7idmmImgezjYinuUoIuUBDFQkLHIgmOaL_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz63jHG1TFuUSBjFSyqEqfQKDMUDuLTwVO9pIQlNoIrYwZZ-2FqoR-2BO8KQca3WLiK0p0p-2BdtblsMi82GSnZYPC-2B21ER2LslxKsefXrzyidhfxBknkOqYSs1l1vlopKf-2BDnym5YsZIiYje12VrNvX7FTeYHg-3D-3D" target="_blank"><img src="https://tii.imgix.net/production/articles/16438/0c48b2f2-056f-48e2-86d8-850718e99f9a.jpg?auto=compress,format&amp;fit=crop&amp;w=560&amp;q=20" width="164" class="img-max" style="display: block; width: 100%; max-width: 164px; height: auto;" border="0" alt=""></a></td>
-<!--[if (gte mso 9)|(IE)]>            <td width="16">&nbsp;</td>            <td valign="middle">          <![endif]--><td align="left" style="font-family: Verdana, sans-serif; line-height: 27px; color: #000000; vertical-align: top; display: inline-block; width: 360px; max-width: 100%;" class="responsive-table">
-<span style="font-family: Verdana, sans-serif; font-size: 14px; color: #f32a52; display: block; margin-bottom: 8px;">Deep Research</span><h4 style="font-family: Verdana, sans-serif; font-size: 18px; line-height: 27px; margin: 0 0 4px;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNipKnK6WqatgUoScKFjbn9Np-2BPnkehpBi5TZr9rJe1shrnUXdyeaOuvWWA88au1U2Cq878LboS69MqbuZf0ihjtOq3-2Bagrugv3ZcERhbNmPSptnr1iafdnZviKSM6Iu5bxXhcoomVVUVv9Q-2BFreU3MN-2BqluNYu6Krfmz7idmmImgezjYinuUoIuUBDFQkLHIg445b_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6jrYvXUt-2F-2FdzPFdyvJYSKwme02KEduj36ETM8tl7GcjUOsrq38s5lQO-2BpkBoVDaeAtEz3JgtcDF64qoYW4Hdo2cp9dwalg4YKwgtoeFB8MAYtPB0ygoCm6kOoufjPlVqepZutHgsv89XzrkJfcw6qYw-3D-3D" target="_blank" style="text-decoration: none; color: #000 !important; font-weight: 400;">What the Thinking Machines Shake-Up Reveals About the AI Talent Market</a></h4>
-<span style="font-family: Verdana, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">By The Information Staff</span>
-</td>
-<!--[if (gte mso 9)|(IE)]>          </td>          <![endif]-->
-</tr></table>
-<div style="clear: both"></div>
-<table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top: 40px;"><tr><td style="background: #f0ece5;padding: 1px 0 0; line-height: 0; font-size: 1px"></td></tr></table>
-</td>
-</tr><tr><td align="left" style="padding: 48px 0 0;font-size: 19px;line-height: 24px;font-family: Georgia, serif;color: #000;font-weight: 400;">
-<h2 style="font-family: Georgia, Times, serif;font-weight: 400;font-size: 26px;line-height: 36px;margin-bottom: 16px;margin-top: 0;">Recommended Newsletter</h2>
-<div style="font-family: Verdana, sans-serif;font-weight: 400 !important;font-size: 18px;line-height: 27px;color: #000000 !important">
-<span>Every weekday, The Briefing helps executives get smarter about the latest in tech, media and finance.<span> </span></span><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBnPCXMf7muTnPAGZGawge6JeTCNF-2F1Qxzx0SNyX6z6NQiDkTmNliwwYNbL3rzlfkz3CAPGJri5whPDSIGY-2B4AeS-2BASdvl7RxfaeME-2FRME95VCAaazcALaj0KDOwCGOqwV3Ea9ZPWVRk-2BmbmrB86PlQw2rN-2FtS3rzjvQkvk-2F90WptZiuo-2B-2F6ZKpI8ooH9k4Gp8Uaym9D0VIYM-2BJZnVNXHTzGzomhkpF4eP4gYocm2y6O3-2FgzMKXrR6GUEy4GY8z7To8-3D6Sr9_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6N6KzCCnbbCVms3WLujxkfSFzFhlv1HBltUUk-2F6U3GoMVS9gyyqgSoJvS-2Fj5IHgn8fQCyHzBF5HFT-2FMIofVOyQ-2BQ0J1-2Byn3ydR9r87HBrR3e9xYtUg20gRczOyPXfFfFBQyV1AzneLdC3PCbVoYdAYw-3D-3D" rel="noreferrer" target="_blank" style="text-decoration: underline !important; color: #000000; font-weight: inherit;">Subscribe for free now</a><span>.</span>
-</div>
-<table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top: 48px;"><tr><td style="background: #f0ece5;padding: 1px 0 0; line-height: 0; font-size: 1px"></td></tr></table>
-</td></tr><tr>
-<td align="left" style="padding: 48px 0 0;font-size: 19px;line-height: 24px;font-family: Georgia, serif;font-weight: 400;">
-<h2 style="font-family: Georgia, Times, serif;font-weight: 400;font-size: 26px;line-height: 36px;margin-bottom: 16px;margin-top: 0;">What We’re Reading</h2>
-<h4 style="font-family: Verdana, sans-serif;font-weight: 400 !important;font-size: 18px;line-height: 27px;color: inherit !important">
-<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1R6q2XTiDSqeOT8QZgOWsh0Psz4C3vBIU3OHSbTO6kyKR5wOwc8hdQ-2BvG29MRD1Rfj7FjM9jol3BiUGsoM98qvSIdDWAtROiQEjm0qEGW4kH2fNTfOb5EadIQ0ef0drgbnOCtWME68XFNN85PO-2FNhdCD1v90sBm7C9k-2Fq4fLxjfhPlMZg6jL1zaj1kI5GCysieUvQOUx2MEyLmnoP9jd1KmpYpvMrB4yv7TfXkID3OJMGZsCHMWBgZHAkHplfUmGrQ-3D-3DSHEl_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6Im8jFkDYmS6s9CkQitzc47lMrUta-2FpvTO-2Ffukzeln52FtUUhyXmaT744EoBE4vD86pbTRMz9kiHWgbmvMjkv4pONDky3eySgQaSWPiqyXeiOhEUHqT8UQmZXQKoSLWozKVqLRQUzav0dplRxDJwkDw-3D-3D" style="text-decoration: none;color: inherit !important;font-weight: 400!important;" rel="noreferrer" target="_blank">Colleges Are Letting AI Bots Help Make Decisions on Who to Admit</a><br>
-</h4>
-<hr style="margin: 24px 0;background: #fec6cc;border: none !important;height: 1px;">
-<h4 style="font-family: Verdana, sans-serif;font-weight: 400 !important;font-size: 18px;line-height: 27px;color: inherit !important"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1UhSAYuEHfYWpT-2FI8hDIsPzG7gsc09mET1O1tG7xDkoihbaTniLc0H-2F08icdgwdo1uEJH98kgJ8RDYaD8vZzysQ5e7dAL2hpbWVPUdvR6pGLbBk0UkA5c21DiwDgakZW0TJ1L4E0OpKT-2BNKdiKPJjd-2FSuQ0aYbL3z96oZWufC7huBsXdExT0Kec7k7toco8luQ-3D-3DfNaV_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6bjYEFsbSE7XMPb9dBzHIjulGCWZqNvKfm9RwOOd3ADBEFMHToa960fSm6z5wKY493vOWwJ8I8f9XfuNkAx9mCpM4Yun3Qo9AHsqq1UV90ySD89LbPp8w9XUBR88Xc7IxLafRhlA5QgkuuBbsekuygw-3D-3D" style="text-decoration: none;color: inherit !important;font-weight: 400!important;" rel="noreferrer" target="_blank">Russia, Ukraine and the race for Chinese drone components</a></h4>
-<hr style="margin: 24px 0;background: #fec6cc;border: none !important;height: 1px;">
-<h4 style="font-family: Verdana, sans-serif;font-weight: 400 !important;font-size: 18px;line-height: 27px;color: inherit !important"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1YS045JmKp8RaADA3AFLYX8NJMczn56-2BOxMKtRSh21Z8maXLI46c9aDNMjv-2B1L2HoCILlqNa9WJBsFHl0wqfUMgM7Wbok1ll0UMHMFzHvLAORAgJ3hefA7cfHZyTKm-2F5do8NLjPRF4pSXNZprKFgR8jw-2BAAtPTSG0B0OjcrkQDXiizyY7oeCUiGVZwobXGqHsA-3D-3D0WYz_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6pRHY6MJ0QsQW5Q3gvR4iB9Da35rkoVZ2Izd14zG6vfEQw-2FY2acV8nz-2FTqv0gSzDohQ-2F87bljGYE97N0DPqQl8hvdtxZiMgGmoS-2BisTUSl18kyd7Dtgtl3uSJ65dctT8SasJ0xndfYKyXXkIkTIr-2FiA-3D-3D" style="text-decoration: none;color: inherit !important;font-weight: 400!important;" rel="noreferrer" target="_blank">Thousands of Companies Are Driving China’s AI Boom. A Government Registry Tracks Them All</a></h4>
-<table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top: 48px;"><tr><td style="background: #f0ece5;padding: 1px 0 0;line-height: 0;font-size: 1px"></td></tr></table>
-</td>
-</tr><tr>
-<td align="left" style="padding: 48px 0 0;font-size: 19px;line-height: 24px;font-family: Georgia, serif;color: #000;font-weight: 400;">
-<h2 style="font-family: Georgia, Times, serif;font-weight: 400;font-size: 26px;line-height: 36px;margin-bottom: 16px;margin-top: 0;">Upcoming Events</h2>
-<h4 style="font-family: Verdana, sans-serif;font-weight: 700;font-size: 18px;line-height: 27px;margin-bottom: 8px;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkq0YRel4d1UlCzhUP60d5cN9JfcsH8B7AZpnm5CgYJ8qGqdQLymbGu-2F6FcS9wSYwz7OCv1XkW7vrqjUU4HDeb-2FQO6D2pU87EF8Jh9uFWzcT9b0eUENPHLdLgv2-2FaTA9YuuqtgZWQZlysCtcMinA8RMU9Fc8X3-2BLsqsaYAAmSOBiWC3I6yhOtC5tVBNdLpQFZA-3DJvVS_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6xd-2F2Q9VQ7N5tYDwSB9zZ9UxAu1iUtx26-2F0VD5sHwlF5PJZklrA1bXukb2D-2B5FXYxWhMSRldvLRYpVe6RYdTtSxhbrp9dzivOsePW9GZ0uL8CBYv7aBQtngagJ0Yfhlu1W8cVQpQmoUzVsPM21sWIng-3D-3D" target="_blank" style="text-decoration: none;color: inherit;font-weight: 700;">Wednesday, January 28          — Inside Davos With Jessica Lessin: What Global Leaders Are Focused on Now</a></h4>
-<p style="font-family: Verdana, sans-serif;font-size: 18px;line-height: 27px;font-weight: 400;color: #000;padding: 0!important;">Join The Information Founder and Editor-in-Chief Jessica Lessin for a subscriber-only live session drawing on her reporting from the World Economic Forum in Davos.</p>
-<p style="margin-top: 8px;padding-bottom: 0 !important;font-size: 16px;line-height: 1.5;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkq0YRel4d1UlCzhUP60d5cN9JfcsH8B7AZpnm5CgYJ8qGqdQLymbGu-2F6FcS9wSYwz7OCv1XkW7vrqjUU4HDeb-2FQO6D2pU87EF8Jh9uFWzcT9b0eUENPHLdLgv2-2FaTA9YuuqtgZWQZlysCtcMinA8RMU9Fc8X3-2BLsqsaYAAmSOBiWC3I6yhOtC5tVBNdLpQFZA-3DwD4X_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6j6YBZfc2-2B5V40-2Fo-2F7obSaFHkzxeeVThqGurl-2BRvbLxosZlSkmnYrn9V2iKhBtbKT0YtD1yVoRJhXm9xpWSJ9cheqEEF2ZtGhQLh9-2Bb-2BfTbdwxEpNq-2BmM6mrSwJSQ6eih227jCUKY1x4l7I-2FxYm9twA-3D-3D" target="_blank" style="font-family: Verdana, sans-serif;font-weight: 400;line-height: 24px;font-size: 16px;text-decoration: underline !important;color: #f32a52;margin: 0;">More details</a></p>
-<table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top: 48px;"><tr><td style="background: #f0ece5;padding: 1px 0 0;line-height: 0;font-size: 1px"></td></tr></table>
-</td>
-</tr><p style="margin: 28px 0;padding-bottom: 0 !important;"><i>Thank you for reading the AI Agenda Newsletter! I’d love your feedback, ideas and tips: <a href="mailto:stephanie@theinformation.com">stephanie@theinformation.com</a>.</i></p><p style="margin: 28px 0;padding-bottom: 0 !important;"><i>If you think someone else might enjoy this newsletter, please pass it forward or they can sign up <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkayEPumDOht6B6TI0Zt47OjuB49kvCoiT9KsE5SR4FwWK7aBjMSk95AQSJoGAJrep4GmgTPTDIUuzjhwu2xuhzPwKVqwo8ydtCZMZAipczAHJz5IlF8gar08Mk-2FGAVqGh-2B9dkEBouZC9NHgxChNaKrLPp2ddiJmzRY1GJqUDY5MQ-3D-3DgAmd_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz68n5DhAOHwMtfN5hRWMGgKtcy2gD3K7qGiJOwYcLOqPgqjTjvRG57j5tC1xVWWmkpexdatU5k4wFdtMi1FLhlSOB-2B-2FsS1ldzpc-2F0-2FTPVIURidz3DZjkcfN060ksPVN-2F0xudkn0EgdssJ7YbfjsO8Z6Q-3D-3D">here</a>.</i></p>
-                          </td>
-                        </tr>
-                      </table>
-                    </td>
-                  </tr>
-                </table>
-              </td>
-            </tr>
-            <!-- END Email Content -->
-            <tr>
-  <td bgcolor="#ffffff" class="divider">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td style="padding: 0 20px" class="background-dark padding">
-          <table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tr>
-              <td align="left" style="padding: 48px 0 0;font-size: 18px;line-height: 27px;font-family: Verdana, serif;color: #000;font-weight: 400;">
-                <h2 style="font-family: Georgia, Times, serif;font-weight: 400;font-size: 26px;line-height: 36px;margin-bottom: 16px;margin-top: 0;">
-                  Opportunities
-                </h2>
-                <h4 style="font-family: Verdana, sans-serif;font-size: 18px;line-height: 27px;margin-bottom: 8px;margin-top: 0;">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlgaThIaQhhxP-2B18aQkVacQa-2BbGcb9fvNdGV7qVgiOyEIdSVCJFsORDX2dr1MYHCVQqMElygmvQBgh-2BUlG7u-2BYWJY93t3BXUqDbKCSvOG22nLXW9Ey-2FE4G5Sr-2Fae2oyRjXXcNR2ubVb9SugJm5cJtdaDeK9_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6v8iKCFqAvkT3p1A27IoWHS48oekZe-2BVbbN5s8lujdWbfb4QN7H0OLnkHdVbK1zGlLZSV5PXBQWOCpeUrI60APysfTKOmQbRQNw4qo8vNyfuu3rPr2bak8e7AHXYxop3-2FJ7onS4noN5uaztJYEYDWpw-3D-3D" target="_blank" style="text-decoration: none;color: inherit;font-weight: 700;">
-                    Group subscriptions
-                  </a>
-                </h4>
-                <p style="font-family: Verdana, sans-serif;margin: 8px 0;font-weight: 400;">Empower your teams to stay ahead of market trends with the most trusted tech journalism.</p>
-                <p style="margin: 0;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlgaThIaQhhxP-2B18aQkVacQa-2BbGcb9fvNdGV7qVgiOyEIdSVCJFsORDX2dr1MYHCVQqMElygmvQBgh-2BUlG7u-2BYWJY93t3BXUqDbKCSvOG22nLXW9Ey-2FE4G5Sr-2Fae2oyRjXXcNR2ubVb9SugJm5cJtdadxEk_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6DaQaj-2FXALmRRY2w5C2m0rtYAb4ipYlycc8nnrDAyTFHL-2FKQN8mN3O0QuCXEMAlX7c1rdOx8PBMYcIbHNirKUqfceo28-2B9KIp3VTNRM2TMxMhsi7VXtwixTxdsF6Nrqtf8G6ZWJO9a0S-2FCOIS0XOluQ-3D-3D" target="_blank" style="font-family: Verdana, sans-serif;text-decoration: underline;color: #f32a52;font-weight: 400;line-height:24px;font-size: 16px;">Learn more</a></p>
-                <table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 24px 0"><tr><td style="background: #fec6cc;padding: 1px 0 0;line-height: 0;font-size: 1px"></td></tr></table><br>
-                <h4 style="font-family: Verdana, sans-serif;font-size: 18px;line-height: 27px;margin-bottom: 8px;margin-top: 0;">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkXfGE0AkbtBrzl4aUS5O2KNdNYXa5mgGSNJhsksQ21m75EruhwlHl0VwdpgyNrFiS16S8LmSEMKszbecuYgwpNetAgkveDAG8d5oO5PO0FCx4krnaP1n8qrZB0T4axB8OIXDDSVNE8p8VS7LQpzuIJkBjr_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz62Iebx07QjvhNQRDuoubMEJ6bH4uPL2VlB23LP8cvaOvWWKGOkMjFUkfRLdD6LV8eTnhzf-2BT81CAQK-2FBvTyf-2FvR4-2Bagqq1MGI1UjlDHawh2QLJtP47zBCYACBl7fknZnVAxv8cUKRyIdP7iN1gN7N-2BA-3D-3D" target="_blank" style="text-decoration: none;color: inherit;font-weight: 700;">
-                    Brand partnerships
-                  </a>
-                </h4>
-                <p style="font-family: Verdana, sans-serif;margin: 8px 0;font-weight: 400;">Reach The Information&rsquo;s influential audience with your message.</p>
-                <p style="margin: 0;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkXfGE0AkbtBrzl4aUS5O2KNdNYXa5mgGSNJhsksQ21m75EruhwlHl0VwdpgyNrFiS16S8LmSEMKszbecuYgwpNetAgkveDAG8d5oO5PO0FCx4krnaP1n8qrZB0T4axB8OIXDDSVNE8p8VS7LQpzuIJ38Y6_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6dw3TvoYgeze9RhpyApvzGKTrB89MgGyhc-2FWQY8PuHbRCmacVb4CcPOVzbnvFePV0tOAIakB3-2FU53hcUEQLXDqFxTMKjiwbYcZLsNB1L7TEYXWeEOocKz7H1Mo9cVe6qAcmSrU3lTTb-2BCom-2FGsVF1IA-3D-3D" target="_blank" style="font-family: Verdana, sans-serif;text-decoration: underline;color: #f32a52;font-weight: 400;line-height:24px;font-size: 16px;">Connect with our team</a></p>
-                <table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top: 48px;"><tr><td style="background: #f0ece5;padding: 1px 0 0;line-height: 0;font-size: 1px"></td></tr></table>
-              </td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </td>
-</tr>
-
-            
-<tr>
-  <td bgcolor="#ffffff" class="divider">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td style="padding: 0 20px" class="background-dark padding">
-          <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom: 48px;">
-            <tr>
-              <td align="left" style="padding: 48px 0;font-size: 18px;line-height: 27px;font-family: Verdana, serif;color: #000;font-weight: 400;">
-                <h2 style="font-family: Georgia, Times, serif;font-weight: 400;font-size: 26px;line-height: 36px;margin: 0;">
-                  About AI Agenda
-                </h2>
-                <p style="font-family: Verdana, sans-serif;font-weight: 400;margin-top: 4px;">Stay ahead of the innovation and disruption happening in AI. Stephanie Palazzolo covers the tech, startups, companies and people making headlines.</p>
-                <p style="font-family: Verdana, sans-serif;margin-top: 16px"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBnPCXMf7muTnPAGZGawge6JcbtLKPF-2Brg3fEpToCRmdu-2BFn3d9ehYupUjJbUfwaWi55ktdB86YR35hYLSYy-2FGa6QXK39nCFd-2F9z375buM1fF0nvLr3yzWKDmoAXojrNi42sfCzHfTNNg8xjunWUOLk8A0t1_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6SdQ8tgBAMyJ1EheZFsuzlvdfa377sO-2BeDTJRa8ZVMIiVMMM8IXykocUKsPTnNZP4lEXr0W1uAiI9OpNQQDzVZ-2FKecwlDf3iYFgCNrHu4okTtQXZvzUFdyChPvyjpQhOE3La2a9OZe9GQIwP5Jcg9Kg-3D-3D" target="_blank" style="font-family: Verdana, sans-serif; text-decoration: underline; color: #f32a52;font-size: 16px;line-height: 24px;font-weight: 400">Read the archives</a></p>
-              </td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </td>
-</tr>
-
-            <!-- FOOTER START -->
-            <tr>
-  <td bgcolor="#ffffff" class="background-dark">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <table
-            width="600"
-            border="0"
-            cellspacing="0"
-            cellpadding="0"
-            style="width: 600px; max-width: 600px"
-            bgcolor="#ffffff"
-            class="responsive-table"
-          >
-            <tr>
-              <td
-                align="center"
-                style="padding: 45px 75px; padding-top: 45px !important; padding-bottom: 45px !important; font-family: Suisse Screen, Helvetica, Arial, sans-serif; font-weight: normal; font-size: 12px; line-height: 24px; font-size: 12px !important; line-height: 24px !important; color: #ffffff; background: #2F3538;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;"
-                class="background-dark padding"
-              >
-                <span
-                  style="font-family: 'Suisse Int\'l Mono', monospace, Helvetica, Arial, sans-serif; font-size: 14px; color: #F32A52"
-                >Follow us</span>
-                <table width="227.85" border="0" cellspacing="0" cellpadding="0">
-                  <tr>
-                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
-                      <a
-                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1T2Sl5PeJ-2FG7XEaBvfWxfrQHbwmq5gLU2ojiuowH64rJBj-2BXB6C9UBnLd5uDA0OPkzjJvALNAX05BKspQYMbXWBohuVtiuJHfpWWwfz88Cv23zHXBWQ6b4K1Cf7UxBoDs7Y0yYRejKhJY45FqObexrU-3DS8Rg_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6RKytg24RdtdXIG-2F78u98-2FlWPqaWHcgTbcaWPh-2BT3AjfDEndr0ItCsRnvHLcUZMkeiC1L5lzNOn-2Br2GGXvNrmF6axxagg8XMFDpRq2gUFVdS-2BMTPHH4yFU2q8Fsz4nXWMuCgwMBawdl9-2BI57sDBB3rA-3D-3D"
-                        target="_blank"
-                        style="text-decoration: none;"
-                      >
-                        <img width="32" src="https://tii.imgix.net/global/email/icon-X-v3.png" alt="X" border="0">
-                      </a><br>
-                    </td>
-                    <td width="32" valign="middle"></td>
-                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
-                      <a
-                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1YCFIgUTnTtU9jcXdi5OlS4DnFensodraGNsXFNZLRKsOkUFKt9aKkvfZp-2FSglSxfcQA5R6BJTwq1KR4o1rz281uE5YzM2dIrm1plX7HgGII7KVvuN0Fymaq6n1TqMTOZuXiSE5uR-2Bm7SEAVz2lPM5FF9TbrCyAclvB-2B79ert-2FA9hjh4_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz69W9kOUEepf5Tm-2F6UwwrLKu4ZYyZSKtrmGhWJEthJ-2FB6BRVxXuUFxNkvH18NX0pLJztgSSU6KZNyTO3kDmOxkcUzscEfYxzxc15SxnyrU3DqO1WYcyunYuCB7Mrkir93ZvXzMEYDhqmXtWz-2BCxQ0-2BTw-3D-3D"
-                        target="_blank"
-                        style="text-decoration: none"
-                      >
-                        <img width="32" src="https://tii.imgix.net/global/email/icon-linkedin-v3.png" alt="LinkedIn" border="0">
-                      </a><br>
-                    </td>
-                    <td width="32" valign="middle"></td>
-                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
-                      <a
-                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1dMu7bhLyA2t3R-2B-2Be0O7TUhTGcCztTV72-2BitQZ9RP9u7mPvffDgEtbfIxnCYoxVjmZwU-2F4wJBDbSU1NSG1isg34lEo-2BiWyPOebxPCDHxMyjDDJMMZcSdfaoS8kOMAiSPD53Tpw7stTpBuWVj-2F5ZYhbcqNlO-2BMpABKcPSKwkmOdaNLfNK_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6FjwZhpP-2FYMII1Er6mWN-2FNuX6G4iBcGnk0bs-2FNNL1qfs9PeDb-2BT0TqWE4wTIwUQi9gLzoo2zOdq-2BLOvEhjQsfyP7igZssSKX3LKpfgQSS5sXzyrDoG8QyyWT14nRJQ1xZMVWny1uJf4lQQqWLLoLRKA-3D-3D"
-                        target="_blank"
-                        style="text-decoration: none"
-                      >
-                        <img width="32" src="https://tii.imgix.net/global/email/icon-facebook-v3.png" alt="Facebook" border="0">
-                      </a><br>
-                    </td>
-                    <td width="32" valign="middle"></td>
-                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
-                      <a
-                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1cH8QhuXOWazGIIpzuv5CPjwlNYj84mRAH9436zZAMWljvmgShg1z9AjH54DR-2FJmaxwE0lfdqeO6aF2rnrTc-2B6yV4vQ72eoUKuuQTG8zbqbFrYIbauCx7vKYKVSZneLFkceUyYcNDcnul-2FFgYgd7lLiF-2BAAqgEE1VYa3xbHVBnMcxbfe_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6aQqNgz8a20Y6gV1amBn-2FSjHQnEAXneiuz-2BO98dSrgKRN4bsIvIy6tKybF5ENSqNwmcvVkIvmEXL0tMlQA0uXdagcIVjzl6fgWJTQSvzI12G-2BHrv5vurtjKcDphGVHeZKz48er1R0Zzb9MFJCFdlG2A-3D-3D"
-                        target="_blank"
-                        style="text-decoration: none"
-                      >
-                        <img width="32" src="https://tii.imgix.net/global/email/icon-threads-v3.png" alt="Threads" border="0">
-                      </a><br>
-                    </td>
-                    <td width="32" valign="middle"></td>
-                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
-                      <a
-                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1eYsgqOksHLUoTSKBWk98czesKR7FvhLK0QjueixeWfEymYo67WgCfLTgN9bBamsRxs-2FfbX47PLmDZFfmR9ddZdchG9OlGO7Sr5lS5FAomr83QM3IYSmvkNUm1-2BiqB1o93cIEptmkbjbI31VANFLriD9lZPrWQP55ckBQkcp-2B4cx7mi9_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz61nRT1rs57CSlVCuiASb-2FRB2x9D5DKwVIE5azPkdpamNMl-2FRFI0s-2BuZV-2BREuvMRfybiH6yvOI-2BgizsHMtrPnbLdbO1owmd4AL-2FvCkI4YJ3SXPFTKivKjI7FOpZDy3CsP5W5eu7fExGyd-2FrHvdk41IZA-3D-3D"
-                        target="_blank"
-                        style="text-decoration: none"
-                      >
-                        <img width="32" src="https://tii.imgix.net/global/email/icon-instagram-v3.png" alt="Instagram" border="0">
-                      </a><br>
-                    </td>
-                  </tr>
-                </table>
-                Sent to info@vibexcap.c&#173;om
-                |
-                <a
-                  href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmRyOSkt-2B6tut-2FgIJZjZ88GSa6oVYM0I7-2FTSqls99-2BpFjBk4wPLczKh9A2juBJWw-2FBT8DEq1CWiw5TGRueWrNAzrTCeUlg9d6cqtFrCBcEvQIbM9yGum2wSIT82DhN58t0GP6jVSOnCVIZShsuKCD6lBMnkvnjGHn6otyTo3GuIeTqama2hmGJMADm-2B8ri0HR9G30dGDNdfez1-2BbxtlUqEUfv3IvmY7GODlkVCSQxbfeepwQcyTqVhTYbZ7GOfTsX3xqMu03L8WeWRN7Biq3Xuj-2FDxhcb6RBoBPwjCQexJBC2z-2BGuZLhtMjcJ5S8MYGMYl4CUBdPhlJxoHi5FkzQqSm8q3Aq21LSofM-2FDeaIlUW-2Fw-3D-3DnhUA_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6fQuQJAh5xt-2BtcWmKBftiKxeApUKOdB9smo9fcdyjNfckYyE8TcQxoygE7YqruOPUBXNq6CATlaCWlCfLozGxqlH1-2FQu9OqrCwtm9TiKDqFj52aHRVvU6GP2f7V8bxZJJo5s4Y7JygCpGykPDPLiRMg-3D-3D"
-                  target="_blank"
-                  class="footer-link"
-                >Manage your preferences or unsubscribe</a>
-                |
-                <a
-                  href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1ZwsjdD8U8HPRHZODNtX5742xNsoxaJ40flKf35Cvt1CHBFE8dGLv92qL5h-2BGtShTp2SxIPlu4MrAdMlBQtsNK3jikyGl1eYTmsCEjA2fD08gpM-2FeAwWPe9LH1vaRbB84Qk8CjwN2peqKLBoPo2dMDd2XuR9DgHDp2Uh5JFMNmIMyAHZ_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6JYS7xt-2Fn5DkekQ01dsW-2FCVcEzWKGA7B70JGo8SnDS67UsXcejgCr0-2FCc8oJ48H4uy4Y6v73gT7LEAPJjOqS5i9LnlJUbO7C0eMRIV5gOID42Xr8thmyZnemXQLlgBPjuwO-2FaWsJsbvtPDQ2lE8AFIA-3D-3D"
-                  target="_blank"
-                  class="footer-link"
-                >Help</a>
-                <a href="#" style="color: #ffffff !important; text-decoration: none !important; font-weight: normal !important">The&nbsp;Information &middot;&nbsp;251&nbsp;Rhode&nbsp;Island&nbsp;Street,&nbsp;Suite&nbsp;107,&nbsp;San Francisco,&nbsp;CA&nbsp;94103</a><br>
-                <br>
-                <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmN-2BtioNXgRiKmS6QeiVMUmf1kk36DAm-2FsCscr1R8-2FpHXzZj8DFSUZAew8jPs4IufCcwh7q67p8zylwlC7CzOIf0uXwD8zcvBioupiQyhD-2FXXbKUcEwXOiFXdipjgNiOS8-3DnmKw_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjVdb1ZGqGmVBPgzG1JKqX-2FgkQFNtBKd73-2BevGRAG67srrdKeaV1ss9eiroyzZ-2F8wta-2FUU-2B0PVUY7nccF18lMNgqa2Bv0Hg7ylZU2XdINwBfz11jRAytB0pmD6fH-2FVVAz6WeTEYptJEY-2BcuE29zvAcFjbX-2BHwfy51ib98Wn4IDTqIIZ3KMS7NAu6QFYZeSRJ4kv92-2BX7pWKK7tCad8yaBgy5Rv13h5yOlkOCxepGYoLbxdXutwtaEB49E4A3f5H9yhGpVuFqXyxqlVUDaq3baDow-3D-3D" target="_blank">
-                  <img
-                    alt=""
-                    width="20"
-                    border="0"
-                    src="https://tii.imgix.net/global/email/logo.png"
-                    style="width: 20px; max-width: 20px; height: auto; border: 0"
-                  >
-                </a>
-              </td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </td>
-</tr>
-
-            <!-- FOOTER END -->
-          </table>
-          <!--[if (gte mso 9)|(IE)]>
-            </td>
-          </tr>
-          </table>
-          <![endif]-->
-        </td>
-      </tr>
-    </table>
-  </body>
-</html>
-
-          </tr>
-      </tbody>
-    </table>
-    <!--[if (gte mso 9)|(IE)]>
-          </td>
-        </tr>
-      </table>
-    <![endif]-->
-  <img src="https://url3396.theinformation.com/wf/open?upn=u001.Vk1lvOTnrxw-2FfL8-2BmGyNhxdTSlGmmtgiIYT5kEvVfr3qyjVBUViZuAvnafX6ACbVTM0mI19FcMknDcjh9GmHqZ6zz7trhUWPdMWfYSHg9TQbgEwJmE4HO-2BhYGbabl5L-2B0rPFlhKBJnaWJZWAIkJBhFdOinFQm6Dlj6oCHIkcs1UfdZMD3dO05-2FUVRHq6ZsfOgY6kYwxmzLSjjLGpU9b9eckRmBy7WrbEoAIqfWS0coxqbsShDhnZH1xjbVzM2OuJ5ia2N-2BOmf5WMuDIWcRiXHlpNwiMKjaViTAYYrd8JHnyRXyf0srrPDcRGAH5VToie7sI2F2v-2Bh1CWY-2Fu4VUvjcA-3D-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/></body>
-</html>
-]]></description>
-    <pubDate>Thu, 22 Jan 2026 15:01:18 GMT</pubDate>
-    <guid>19be63a3d261a853</guid>
-    <author>&quot;Stephanie Palazzolo&quot; &lt;hello@theinformation.com&gt;</author>
   </item>
 
   </channel>
