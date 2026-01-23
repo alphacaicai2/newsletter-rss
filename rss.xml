@@ -4,7 +4,675 @@
     <title>Newsletter Feed</title>
     <link>https://your-domain.com/rss.xml</link>
     <description>Newsletter feed</description>
-    <lastBuildDate>Fri, 23 Jan 2026 13:30:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 13:45:16 GMT</lastBuildDate>
+
+  <item>
+    <title>Market share myths 🧠, selling to founders 🤝, power laws accelerate 📈</title>
+    <description><![CDATA[<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html charset=UTF-8"><meta charset="UTF-8"><meta name="viewport" content="width=device-width"><meta name="x-apple-disable-message-reformatting"><title>TLDR Founders</title><meta name="color-scheme" content="light dark"><meta name="supported-color-schemes" content="light dark"><style type="text/css">
+			:root {
+				color-scheme: light dark; supported-color-schemes: light dark;
+			}
+			
+			*,
+			*:after,
+			*:before {
+				-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
+			}
+			
+			* {
+				-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;
+			}
+			
+			html,
+			body,
+			.document {
+				width: 100% !important; height: 100% !important; margin: 0; padding: 0;
+			}
+			
+			body {
+				-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility;
+			}
+			
+			div[style*="margin: 16px 0"] {
+				margin: 0 !important;
+			}
+			
+			table,
+			td {
+				mso-table-lspace: 0pt; mso-table-rspace: 0pt;
+			}
+			
+			table {
+				border-spacing: 0; border-collapse: collapse; table-layout: fixed; margin: 0 auto;
+			}
+			
+			img {
+				-ms-interpolation-mode: bicubic; max-width: 100%; border: 0;
+			}
+			
+			*[x-apple-data-detectors] {
+				color: inherit !important; text-decoration: none !important;
+			}
+			
+			.x-gmail-data-detectors,
+			.x-gmail-data-detectors *,
+			.aBn {
+				border-bottom: 0 !important; cursor: default !important;
+			}
+			
+			.btn {
+				-webkit-transition: all 200ms ease; transition: all 200ms ease;
+			}
+			
+			.btn:hover {
+				background-color: #f67575; border-color: #f67575;
+			}
+			
+			* {
+				font-family: Arial, Helvetica, sans-serif; font-size: 18px;
+			}
+			
+			@media screen and (max-width: 600px) {
+				.container {
+					width: 100%; margin: auto;
+				}
+				.stack {
+					display: block!important; width: 100%!important; max-width: 100%!important;
+				}
+				.btn {
+					display: block; width: 100%; text-align: center;
+				}
+			}
+			
+			body,
+			p,
+			td,
+			tr,
+			.body,
+			table,
+			h1,
+			h2,
+			h3,
+			h4,
+			h5,
+			h6,
+			div,
+			span {
+				background-color: #FEFEFE !important; color: #010101 !important;
+			}
+			
+			@media (prefers-color-scheme: dark) {
+				body,
+				p,
+				td,
+				tr,
+				.body,
+				table,
+				h1,
+				h2,
+				h3,
+				h4,
+				h5,
+				h6,
+				div,
+				span {
+					background-color: #27292D !important; color: #FEFEFE !important;
+				}
+			}
+			
+			a {
+				color: inherit !important; text-decoration: underline !important;
+			}
+
+		</style><!--[if mso | ie]>
+		<style type="text/css">
+			a {
+				background-color: #FEFEFE !important; color: #010101 !important;
+			}
+			@media (prefers-color-scheme: dark) {
+				a {
+					background-color: #27292D !important; color: #FEFEFE !important;
+				}
+			}
+	 </style>
+			<![endif]--></head><body class="">
+
+
+
+
+
+
+
+<div style="display: none; max-height: 0px; overflow: hidden;">Market share is a point estimate, not a scoreboard. When the iPhone launched in 2007, Apple&#039;s share was negligible next to Nokia and BlackBerry&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="display: none; max-height: 0px; overflow: hidden;">
+<br>
+</div>
+
+<table align="center" class="document"><tbody><tr><td valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="container" width="600"><tbody><tr class="inner-body"><td>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr class="header"><td bgcolor="" class="container">
+
+<table width="100%"><tbody><tr><td class="container">
+
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" style="margin-top: 0px;" width="100%"><tbody><tr><td style="padding: 0px;">
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div style="text-align: center;">
+<span style="margin-right: 0px;"><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Ffounders%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/zSYy3WlJoHRxW8uGIHq9EAC-YrvU6GajRXCtJQ-pYJg=441" rel="noopener noreferrer" target="_blank"><span>Sign Up</span></a>
+|<span style="margin-right: 2px; margin-left: 2px;"><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfounders%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/_qJqwt8KUXjCQSr7olxelht5fG8qrS7-7P1DBJeK2OQ=441" rel="noopener noreferrer" target="_blank"><span>Advertise</span></a></span>|<span style="margin-left: 2px;"><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=e2fa961e-f698-11f0-8c06-3f1995955e63%26p=04eb639c-f857-11f0-be7a-d3c30917bbe0%26pt=campaign%26t=1769175077%26s=90b745dcd68f14eb8e17138c24453a546af5404af5ee1775cc847236e6399215/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/0-WqvKlIcnWUpE6wsc6TndAqTwNRc9SZrMp44br8iWo=441"><span>View Online</span></a></span>
+<br>
+</span></div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="text-align: center;"><span data-darkreader-inline-color="" style="--darkreader-inline-color:#3db3ff; color: rgb(51, 175, 255) !important; font-size: 30px;">T</span><span style="font-size: 30px;"><span data-darkreader-inline-color="" style="color: rgb(232, 192, 96) !important; --darkreader-inline-color:#e8c163; font-size:30px;">L</span><span data-darkreader-inline-color="" style="color: rgb(101, 195, 173) !important; --darkreader-inline-color:#6ec7b2; font-size:30px;">D</span></span><span data-darkreader-inline-color="" style="--darkreader-inline-color:#dd6e6e; color: rgb(220, 107, 107) !important; font-size: 30px;">R</span>
+<br>
+</td></tr></tbody></table>
+
+<br>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr id="together-with"><td align="center" height="20" style="vertical-align:middle !important;" valign="middle" width="100%"><strong style="vertical-align:middle !important; height: 100%;">Together With </strong>
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2Fcase-studies%2Fplaid-adds-382k-in-pipeline-with-tldr-campaign-their-best-direct-buy-yet%2F%2F%3Futm_source=tldrfounders%26utm_medium=newsletter%26utm_campaign=primary01232026/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/Zc4Lck3PjwmSC2gdp91NtX0_m0FE4gYPboPnE3cMuBg=441"><img src="https://images.tldr.tech/tldr50.png" valign="middle" style="vertical-align: middle !important; height: 100%;" alt="TLDR"></a></td></tr></tbody></table>
+
+
+<table style="table-layout: fixed; width:100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;">
+<div style="text-align: center;">
+
+<h1><strong>&nbsp;TLDR Founders <span id="date">2026-01-23</span></strong></h1>
+</div>
+</td></tr></tbody></table>
+
+<table style="table-layout: fixed; width:100%;" width="100%"><tbody><tr id="sponsy-copy"><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2Fcase-studies%2Fplaid-adds-382k-in-pipeline-with-tldr-campaign-their-best-direct-buy-yet%2F%2F%3Futm_source=tldrfounders%26utm_medium=newsletter%26utm_campaign=primary01232026/2/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/1bM6fUE-6KBzHd3oFCTU_fG5CS1poV2oTqXe-cd-4WE=441">
+                                    <span>
+                                        <strong>Plaid adds $382k in pipeline with TLDR campaign (Sponsor)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Plaid achieved their best-performing direct buy to date, adding $382k in pipeline, earning 70 leads, and achieving 20.1x ROI. This case study breaks down their strategy, results, and example ads. <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2Fcase-studies%2Fplaid-adds-382k-in-pipeline-with-tldr-campaign-their-best-direct-buy-yet%2F%2F%3Futm_source=tldrfounders%26utm_medium=newsletter%26utm_campaign=primary01232026/3/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/yQausyizjJJH3kc7iuhzlCcnFjHXOkg7jgKUYWWhZjc=441" rel="noopener noreferrer nofollow" target="_blank"><span>Read the Plaid case study.</span></a>
+</span>
+</span>
+</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr>
+<tr bgcolor=""><td class="container">
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td style="padding: 0px;">
+
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><span style="font-size: 36px;">📈</span></div>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;">
+
+<h1><strong>Headlines &amp; Trends</strong></h1>
+</div>
+</div>
+</td></tr></tbody></table>
+
+<table style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.nibzard.com%2Fdisequilibrium%2F%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/QJPhIdE3DkREhNM0CngXa_ZDSuwx-YBtK37zb3JG7P0=441">
+                                    <span>
+                                        <strong>The Disequilibrium Advantage (6 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Startups face two clocks: burn rate and relevance as rapid change shortens runway impact. AI acts as a multiplier, shifting bottlenecks from execution to integration, distribution, and decision-making. Success hinges on building systems that address new constraints, prioritize trust, and focus on measurable outcomes rather than mere output.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FwMEeZH/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/fJ8dMru3H54No5Lea2WHanmNafrpK1gzReS-b8HToU8=441">
+                                    <span>
+                                        <strong>Don't Confuse Market Share with Winning (4 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Market share is a point estimate, not a scoreboard. When the iPhone launched in 2007, Apple's share was negligible next to Nokia and BlackBerry. Today, Apple holds less than 25% of the global smartphone share. No one questions who's winning. DoorDash entered food delivery late, after Grubhub, Seamless, and Caviar. When Uber Eats tried to buy market share with heavy subsidies, DoorDash focused on building a logistics engine for suburban markets that competitors ignored. The pattern across Sequoia's portfolio is consistent: outliers don't chase market share. They build something that the market eventually moves toward.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><span style="font-size: 36px;">🧠</span></div>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;">
+
+<h1><strong>Strategies &amp; Tactics</strong></h1>
+</div>
+</div>
+</td></tr></tbody></table>
+
+
+<table style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fproductpicnic.beehiiv.com%2Fp%2Fyour-problem-framing-is-sabotaging-your-strategy%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/4wlhtsolk2jwH3AFfmYNOsAhzRrpI6Pwzh1PdMpj6Ag=441">
+                                    <span>
+                                        <strong>Your problem framing is sabotaging your strategy (5 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Poor problem framing undermines strategic efforts in tech as companies focus on outputs over customer needs. The "build to learn" approach emphasizes technologies rather than understanding user problems, leading to misguided product metrics. Successful problem design requires collaboration, clear customer-driven objectives, and a focus on solutions that users value.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flindsayamos.substack.com%2Fp%2Fpitch-your-fellow-founder%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/52kA4lMsXixwU-xqMf-v9kcMD8rwnNpLQYZ40XS1Y_o=441">
+                                    <span>
+                                        <strong>Pitch your fellow founder (5 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Founder-led podcasts, newsletters, and livestreams are the most underutilized channels for early-stage startups. These platforms care less about scale and more about perspective. One accounting software startup runs a weekly livestream where founders announce products, share funding news, and talk through what's actually working. The bar for getting on is different than traditional press. You need a news hook, a distinct point of view, or expertise other founders can apply. One AI startup got on with a launch, a three-month demo waitlist, and a yacht party. The pitch was a casual DM.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fg2TiJc/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/OtdHIHsCvkpToPYCVIvZkValbYhUEwrDFJisfXnZX1Y=441">
+                                    <span>
+                                        <strong>On Pricing, Pilots, and Early-Stage Enterprise Startups (5 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Early-stage enterprise AI founders should focus on the type of company they want to build rather than obsessing over specific pricing models. The key tradeoff is between high-volume growth versus high-price, low-volume niches, which shapes GTM strategy, sales motions, and churn risk. Design pilots deliberately with internal champions, scoped outcomes, and clear exit criteria, while pricing based on controllable factors like usage or memory to reduce surprises. Multiple tiers, add-ons, and explicit SLAs give startups leverage with enterprise buyers. Founders should be deliberate and flexible with pricing, as it directly impacts revenue trajectory, fundraising, and scaling speed.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><span style="font-size: 36px;">⚒️</span></div></div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;">
+
+<h1><strong>Tools &amp; Resources</strong></h1>
+</div>
+</div>
+</td></tr></tbody></table>
+
+<table style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfounders%26utm_medium=newsletter%26utm_campaign=secondary01232026/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/Q9P3XsNX_ykr9rCQwIi33NFX5q2Yggk-zQRE2N1zjiU=441">
+                                    <span>
+                                        <strong>Reach real buyers in TLDR instead of fighting for attention on social (Sponsor)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    TLDR puts you in front of your target audience with almost no competition. Each issue features only three advertisers max, giving your message the space it needs to stand out. Millions of developers, product managers, CEOs, and other tech decision makers actually see what you have to say. <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfounders%26utm_medium=newsletter%26utm_campaign=secondary01232026/2/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/fCVbdUECosuH9PzoZJEt6vBtCN6hrexPODC2i1oqsXI=441" rel="noopener noreferrer nofollow" target="_blank"><span>Learn more</span></a> about running a test campaign.
+</span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblink.new%2F%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/bCjjpOiE0MoyJTn7z0wPbBuYvrCPvsoTBWjYSVL_Feg=441">
+                                    <span>
+                                        <strong>Blink Agent Builder (Tool)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Blink Agent Builder is a vibe coding platform that creates AI agents capable of thinking, using tools, and completing tasks end-to-end from simple descriptions.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffimo.ai%2F%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/mRIVLXbtoElZuLsyNWgnb7OyumaBCclVlaCY8z6wAuQ=441">
+                                    <span>
+                                        <strong>Fimo (Tool)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Fimo is a no-code AI-powered website builder that lets users create and evolve websites instantly.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.perfectly.so%2F%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/LpyLzbSyAJYZ9G0gTeVbsDD9PoGZyzVdneBwd-ls7Ss=441">
+                                    <span>
+                                        <strong>Perfectly (Tool)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Fill startup roles with candidates 2x better, 4x faster.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><span style="font-size: 36px;">🎁</span></div></div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><strong><h1>Miscellaneous</h1></strong></div>
+</div>
+</td></tr></tbody></table>
+
+<table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F243Sq2/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/CxxuXM0v8mZg8x0svpWTa3sXq8X_ss_f1pWApuXQHJM=441">
+                                    <span>
+                                        <strong>Agency Is The Last Frontier (12 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Despite unprecedented access to knowledge, tools, and capital, most people fail to act and achieve meaningful outcomes. The limiting factor today is agency, the willingness to start, iterate, and learn by doing. High-agency people close the gap between what's possible and what actually happens. Capital, AI tools, and information are abundant, but action remains rare and is the key differentiator. Stop waiting and begin building now.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FuQkkuF/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/mjVVOAYevPL0xvb08x-69fKmpHPC1x_OFb2RSG5tcUo=441">
+                                    <span>
+                                        <strong>Vertical software already won the context graph (9 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Vertical software companies have been building context graphs, crucial for autonomous agents, by capturing specific business decisions for over a decade. Unlike horizontal platforms with broad, flexible data models, vertical software uses industry-specific ontologies to record reasoning and integrate functions, making decision traces more reconstructible. As AI and embedded services grow, vertical platforms hold a strategic advantage over horizontal SaaS and agent-first startups, with their deeply established context graphs.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><span style="font-size: 36px;">⚡</span></div></div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;">
+
+<h1><strong>Quick Links</strong></h1>
+</div>
+</div>
+</td></tr></tbody></table>
+
+<table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftomtunguz.com%2Fthe-scaffolding-shift%2F%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/WuqAGeXLbuBl4F93clIpA82E6RjqNP5GxrHosBJqx7s=441">
+                                    <span>
+                                        <strong>AI Managing AI (3 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    New startup opportunities have emerged in training the specialists that executives call first.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fvinvashishta.substack.com%2Fp%2Fais-chicken-sandwich-problem%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/8IEhp6bfSnNNO90a9k_XcXT6ZfFaldjzY3TgODFqmsw=441">
+                                    <span>
+                                        <strong>AI's Chicken Sandwich Problem (10 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    A burger chain going all-in on chicken innovation and competition doesn't make sense unless it plans to transition to the chicken model.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.growthmates.news%2Fp%2Fwhy-self-made-generalists-will-shape%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/mt7qLh8lk_i23QA_CudJjzD6dpJ9F00a28jSEzLvAC4=441">
+                                    <span>
+                                        <strong>Why Self-Made Generalists Will Shape the Next Big Thing (5 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Nad Chishtie, Head of Design at Lovable, illustrates the value of being a self-made generalist with expertise across design, coding, and systems thinking.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.productledseo.com%2Fp%2Fblue-ocean-seo-aeo-original-thinking%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/_wLOS6MLs-LA9qe-Mz-NevgAHUKsuBGuC8wwNZESaSk=441">
+                                    <span>
+                                        <strong>Blue Ocean SEO / AEO: Original thinking wins (3 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    By the time users get to Google now, they've already asked ChatGPT the basic questions.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;">
+
+<p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;">
+Love TLDR? Tell your friends and get rewards!
+</p>
+</td></tr>
+<tr><td class="container" style="padding: 0px 10px 15px;">
+<div class="text-block">
+Share your referral link below with friends to get free TLDR swag!
+</div>
+</td></tr>
+<tr><td align="left" style="padding: 10px;">
+<div class="text-block">
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F12bd45dd%2F7/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/nRKklWonf--5dcMe_3mgbo1ykw3JY2szkdiY5ht0Smk=441" style="color: #464ba4; text-decoration: underline;">https://refer.tldr.tech/12bd45dd/7</a>
+</div>
+</td></tr>
+<tr></tr>
+<tr><td align="left" style="padding:5px 10px;">
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_12420c6711e5%2F7/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/tfc6aX5Js-A5L1tAJ9IOiYwbrpEnJ5ylWWJZJ1Q30s0=441" style="font-size: 16px; line-height: 1.6;  padding: 10px 0; display: inline-block;  text-decoration: underline;"><span style="mso-text-raise:13pt; text-decoration: underline;">Track your referrals here.</span></a>
+</td></tr></tbody></table>
+
+
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;">
+
+<p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;">
+Want to advertise in TLDR? 📰
+</p>
+<div class="text-block" style="margin-top: 10px;">
+If your company is interested in reaching an audience of founders, executives, and decision makers, you may want to <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfounders%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/B27g9j0kOCPlKoB358Z7hmsd9KL5IMQOCjVZ5g-b4no=441"><strong><span>advertise with us</span></strong></a>.
+</div>
+<br>
+
+<!-- New "Want to work at TLDR?" section -->
+
+<p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;">
+Want to work at TLDR? 💼
+</p>
+<div class="text-block" style="margin-top: 10px;">
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/ywYWFA_2waeTNzLppnNQVJtbnS65N-zq6Zxfb8zF0fY=441" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"><strong>Apply here</strong></a>,
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/igdl0STArIkRHc-Jw6eNTqRDTAl2ppYEw620nGM8XW0=441" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"><strong>create your own role</strong></a> or send a friend's resume to <a href="mailto:jobs@tldr.tech" style="color: #0000EE; text-decoration: underline;">jobs@tldr.tech</a> and get $1k if we hire them! TLDR is one of <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/RUj9gZLi76ifJ0hw323jSUe_4c3i7-Rj3QgiiPi7bHM=441" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"><strong>Inc.'s Best Bootstrapped businesses</strong></a> of 2025.
+</div>
+<br>
+
+<div class="text-block">
+If you have any comments or feedback, just respond to this email!
+<br>
+<br> Thanks for reading,
+<br>
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fx.com%2Fandrewztan/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/1kkA6iPF0efb7mEKgCc3iwK0aI3UtxZeeevpKqyz1zo=441"><span>Andrew Tan</span></a> &amp; <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fx.com%2Fkevinskyewu/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/j0joWeJyUs3sLkGH4Uu0X-qDx-CbGWzg8QIVGmcP_DQ=441"><span>Kevin Wu</span></a>
+<br>
+<br>
+</div>
+<br>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block" id="testing-id">
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Ffounders%2Fmanage%3Femail=info%2540vibexcap.com/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/DZWd-0J-1fcBwvPt5o3Wtc0TvdLxSUoCHsPNA4P3qgo=441">Manage your subscriptions</a> to our other newsletters on tech, startups, and programming. Or if TLDR Founders isn't for you, please <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=33bb36cf-4024-11ed-9a32-0241b9615763%26lc=e2fa961e-f698-11f0-8c06-3f1995955e63%26p=04eb639c-f857-11f0-be7a-d3c30917bbe0%26pt=campaign%26pv=4%26spa=1769173272%26t=1769175077%26s=bcb3be7692b3ac5b583bee42d25fc47c087c843045cf1f39134dd1df1566fb48/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/nVrS7ZUKudQFsoVn_UeavlFa4kmz_pSM96GNcZRTIkQ=441">unsubscribe</a>.
+<br>
+</div>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+
+
+
+<img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/amv7fBMuXtywc0n1RENfWxtifSCD0XK0mTb2l1P1ptw=441" style="display: none; width: 1px; height: 1px;">
+</body></html>]]></description>
+    <pubDate>Fri, 23 Jan 2026 13:31:17 GMT</pubDate>
+    <guid>19beb0dd6b6f969c</guid>
+    <author>&quot;TLDR Founders&quot; &lt;dan@tldrnewsletter.com&gt;</author>
+  </item>
 
   <item>
     <title>How ChatGPT scaled 📈, design engineering 🎨, making videos programmatically 🎥</title>
@@ -10256,669 +10924,6 @@ If you have any comments or feedback, just respond to this email!
     <pubDate>Thu, 22 Jan 2026 14:47:23 GMT</pubDate>
     <guid>19be62d1e2161fdf</guid>
     <author>&quot;TLDR AI&quot; &lt;dan@tldrnewsletter.com&gt;</author>
-  </item>
-
-  <item>
-    <title>Exclusive: How Apple’s Craig Federighi Went From AI Skeptic to Believer</title>
-    <description><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta charset="utf-8" /> <!-- utf-8 works for most cases -->
-    <meta name="viewport" content="width=device-width" /> <!-- Supported on some email clients -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" /> <!-- Use the latest (edge) version of IE rendering engine -->
-    <title>%title%</title> <!-- The title tag shows in email notifications, like Android 4.4. -->
-    
-    <style>
-    </style>
-    <!--[if mso]>
-      <xml>
-        <o:OfficeDocumentSettings>
-          <o:AllowPNG/>
-          <o:PixelsPerInch>96</o:PixelsPerInch>
-        </o:OfficeDocumentSettings>
-      </xml>
-      <![endif]-->
-      <!--[if lte mso 11]>
-      <style type="text/css">
-        .outlook-group-fix {
-          width:100% !important;
-        }
-      </style>
-    <![endif]-->
-  </head>
-  <body>
-    <table class="container" cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#ffffff" style="max-width: 600px !important; margin: auto;">
-      <tbody>
-        <tr>
-          <td class="content-wrapper main format-content" style="max-width: 600px;">
-            
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
-  <head>
-    <title>With Google Deal, Apple’s Craig Federighi Plots a Cautious Course in AI</title> <!-- The title tag shows in email notifications, like Android 4.4. -->
-    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-    <meta charset="utf-8"> <!-- utf-8 works for most cases -->
-    <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- Supported on some email clients -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- Use the latest (edge) version of IE rendering engine -->
-    <meta name="x-apple-disable-message-reformatting" />
-    <!--[if !mso]><!-->
-    <style>
-  .footer-link {
-    color: #ffffff !important;
-    text-decoration: underline !important;
-    font-weight: normal;
-  }
-  .footer-link:hover {
-    color: $magenta !important;
-  }
-  @media screen and (max-width: 600px) {
-    .responsive-table tr td,
-    .responsive-table tr td ul li,
-    .responsive-table tr td ol li {
-      font-size: inherit;
-      line-height: inherit;
-    }
-
-    .responsive-table {
-      width: 100% !important;
-      max-width: 100% !important;
-    }
-  }
-  @media (prefers-color-scheme: dark) {
-    .background-dark {
-      background: #2f3538 !important;
-      color: #dfdfdf !important;
-    }
-  }
-</style>
-
-    <style type="text/css">
-      body, table, td, a{-webkit-text-size-adjust: 100% !important;-ms-text-size-adjust: 100% !important;}
-      table, td{mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
-      img{-ms-interpolation-mode: bicubic;}
-      img{border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;}
-      table{border-collapse: collapse !important;}
-      body{height: 100% !important;margin: 0 auto !important;padding: 0 !important;width: 100% !important;}
-      a[x-apple-data-detectors] {
-        color: inherit !important;
-        text-decoration: none !important;
-        font-size: inherit !important;
-        font-family: inherit !important;
-        font-weight: inherit !important;
-        line-height: inherit !important;
-      }
-      @media screen and (max-width: 525px) {
-        .mobile-button-container {
-          margin: 0 auto;
-          width: 100% !important;
-        }
-        .mobile-hide {
-          display: none !important;
-          visibility: hidden !important;
-        }
-        .mobile-logo {
-          width: 116px !important;
-        }
-        .mobile-date, .mobile-byline {
-          font-size: 12px !important;
-        }
-      }
-      @media screen and (max-width: 600px) {
-        .responsive-table tr td,
-        .responsive-table tr td ul li,
-        .responsive-table tr td ol li,
-        p {
-          font-size: inherit;
-          line-height: inherit;
-        }
-        h1 {
-          font-size: 26px !important;
-          line-height: 1.4 !important;
-        }
-        .img-max {
-          max-width: 100% !important;
-          width: 100% !important;
-          height: auto !important;
-          display: block !important;
-          margin: 0 auto 16px !important;
-        }
-        .img-container {
-          margin-bottom: 12px !important;
-        }
-        .responsive-table {
-          width: 100% !important;
-          max-width: 100% !important;
-        }
-        .padding {
-          padding-left: 5% !important;
-          padding-right: 5% !important;
-        }
-        .mobile-padding {
-          padding-left: 5% !important;
-          padding-right: 5% !important;
-        }
-        .no-padding {
-          padding: 0 !important;
-        }
-        .mobile-button {
-          font-size: 14px !important;
-          line-height: 1 !important;
-          padding: 16px 32px !important;
-          display: block !important;
-        }
-        .tablet-hide {
-          display: none !important;
-          visibility: hidden !important;
-        }
-      }
-      @media (prefers-color-scheme: dark) {
-        /* Your dark mode styles: */
-        body {
-          background: #2F3538;
-          color: #dfdfdf;
-          background: #2F3538 !important;
-          color: #dfdfdf !important;
-        }
-        .background-dark {
-          background: #2F3538;
-          color: #dfdfdf;
-          background: #2F3538 !important;
-          color: #dfdfdf !important;
-        }
-        h1, h2, h3, h4,
-        p {
-          color: #dfdfdf;
-          color: #dfdfdf !important;
-        }
-        .logo-light {
-          display: none;
-          display: none !important;
-          visibility: hidden;
-          visibility: hidden !important;
-        }
-        .logo-dark {
-          display: block;
-          display: block !important;
-          visibility: visible;
-          visibility: visible !important;
-        }
-      }
-      div[style*="margin: 16px 0"] { margin: 0 !important;}
-      html, body, h1, h2, h3, h4, h5, ul li, ol li { margin: 0;padding: 0;}
-      ul li, ol li { color: #000; }
-      .mobile-button, a, img {
-        transition: color 0.2s, opacity 0.2s;
-      }
-      a:hover {color: #f32a52 !important;}
-      .mobile-button:hover {
-        color: #ffffff !important;
-        background: #f32a52 !important;
-        border: 1px solid #f32a52 !important;
-      }
-      .content-body p {margin-bottom: 24px;-webkit-text-size-adjust: 100% !important;-ms-text-size-adjust: 100% !important;font-size: 19px;}
-      .content-body a {color: #f32a52;font-weight: bold;text-decoration: none;}
-      .content-body a:hover {color: #000 !important;}
-      .takeaway ul {margin-bottom: 0;padding-left: 28px;}
-      .takeaway p:last-of-type,
-      .takeaway li:last-of-type {margin-bottom: 0;}
-    </style>
-    <!--<![endif]-->
-    <!--[if mso]>
-      <xml>
-        <o:OfficeDocumentSettings>
-          <o:AllowPNG/>
-          <o:PixelsPerInch>96</o:PixelsPerInch>
-        </o:OfficeDocumentSettings>
-      </xml>
-    <![endif]-->
-    <!--[if lte mso 11]>
-      <style type="text/css">
-        .outlook-group-fix {
-          width:100% !important;
-        }
-      </style>
-    <![endif]-->
-  </head>
-  <body class="body" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;height: 100% !important;width: 100% !important;margin: 0;padding: 0">
-    <!-- Visually Hidden Preheader Text : BEGIN -->
-<div class="preheader" style="display: none !important;font-size: 1px;line-height: 1px;max-height: 0px;max-width: 0px;opacity: 0;overflow: hidden;mso-hide: all;font-family: sans-serif;color: #fff;">
-  Last fall, Apple’s software chief, Craig Federighi, delivered a warm message to a meeting of the company’s combined software and AI groups. Federighi said he was excited about deeper collaboration between his software team and Apple’s AI group. But then came Federighi’s criticism. He added that he liked moving fast and feeling the “wind at his back,” but in recent years he had felt Apple hadn’t been moving as quickly as he would have liked in AI. Although he wasn’t explicit, some members of Apple’s foundation models team—which builds the underlying software that power the company’s AI features—took his comment as a dig at their group.
-</div>
-
-    <table border="0" align="center" cellpadding="0" cellspacing="0" width="100%" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important">
-      <tr>
-        <td bgcolor="#ffffff" align="center" class="background-dark" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;max-width:600px;">
-          <!--[if (gte mso 9)|(IE)]>
-            <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
-              <tr>
-                <td align="center" width="600">
-          <![endif]-->
-          <table  border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;" class="responsive-table">
-            <div style="display: none !important;font-size: 1px;line-height: 1px;max-height: 0px;max-width: 0px;opacity: 0;overflow: hidden;mso-hide: all;font-family: sans-serif;">
-  
-</div>
-
-            <tr>
-              <td bgcolor="#ffffff" class="divider" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;max-width:600px;">
-                <table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
-                  <tr>
-                    <td bgcolor="#ffffff" align="left" valign="top" style="padding: 24px 20px 0;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" class="mobile-padding background-dark">
-                      <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlvYCYiS-2F03cdUcMOgCPCyBxUkW3btpMf1IiekqWdBbLpHWM5XFZbZjWb97KeKOpSAjClY6CUhBxwq631UOgTTwtuaN-2F9Lhvssj9p2fo3TOYuWiW3sJztJ8Ej4cOaS8jlg-3DW2qQ_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8c2q5mJZ9IWpyu1sBXTWqmm-2BmwrwwpoGHJOv8Fo8yu-2Bl0JMBpFYKYVRWPhWCbZ76AgKmRG6WcjEEv78Dagw5yWjhbYDqDOtQV1nrZfnZ5mksQKBjilC-2FnhEqOm1fYVSwdhnlWuEyMLKm7QT6ZwqEnta" target="_blank" style="text-decoration: none;color: #ffffff;line-height: 0;margin: 0;padding: 0;display: block">
-                        <img alt="The Information logo"
-                          src="https://tii.imgix.net/logos/theinformation/the-information-black-text-logo-white-bg.jpg?pad=20&amp;bg=ffffff"
-                          class="mobile-logo" width="145" border="0" style="width: 145px;max-width: 145px;border: 0" />
-                      </a>
-                    </td>
-                    <td bgcolor="#ffffff" align="right" valign="top" style="padding: 24px 20px 0" class="mobile-padding background-dark">
-                      <span class="mobile-date" style="font-family: 'Suisse Int\'l Mono', monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;color: #6d686e;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%">Jan 22, 2026</span>
-                    </td>
-                  </tr>
-                </table>
-              </td>
-            </tr>
-            <tr>
-              <td bgcolor="#ffffff" class="divider" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;max-width:600px;">
-                <table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;max-width: 600px">
-                  <tr>
-                    <td style="padding: 0 20px" class="background-dark padding">
-                      <table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
-                        <tr>
-                          <td align="left" style="padding: 32px 0;font-size: 19px;line-height: 32px;font-family: 'Noto Serif', Georgia, serif;font-weight: 400;border-bottom: 2px solid #f0ece5;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;max-width: 600px;width: 100%;">
-                            
-                            
-<p class="content-highlight" style="font-family: monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;color: #f32a52;margin-bottom: 8px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
-  Exclusive
-</p>
-
-                            
-<h1 class="content-title" style="font-family: 'Suisse Works', Georgia, 'Times New Roman', Times, serif; font-weight: normal; font-size: 36px; line-height: 54px; margin-bottom: 8px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
-    <a style="color:inherit;text-decoration:none;" universal="true" href="https://url3396.theinformation.com/uni/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNBgsIz8cMoHUqf0HepbVAmF0Jc6XxIT1NpLjqxYM69PZrvBwZp-2BXzIVKBCzY2HYZeZ7WL-2BxpinIj-2Bi1xsuoPEaPjTND5HbUaGMEMoaQtVwTDuBT4Mh-2FTfTgZ8GHh4PIYSFjV48orNcfkCGlf1FhAWLWJsXJLYxSNgaZgAKhJO9os8Umlj0xu-2BvP-2Broecck-2B-2BFZyLlq-2F0bolniNRp2FL2-2FmhTAOz4X02e3K4MrxMY7WiA-3DH24p_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8fxeZjjsOMElhbL0v0epqEFt6vp0OzI4g4xM-2FboPKqwZLY1Ge5Ca3q-2B5cQOkin5jpaQqsmlY3lI1zrBT6IFtUDdyyws-2BS0KL320sX-2BEcb7gVPkYDmNllFO-2FBeRtzmJIxDSuG0ZwqF26OP5Q-2FW9S33Vj">With Google Deal, Apple’s Craig Federighi Plots a Cautious Course in AI</a>
-</h1>
-
-                            
-<p class="content-byline" style="font-family: Helvetica, Arial, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e;margin-bottom: 16px;font-weight: 400;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
-  By <a style="text-decoration: none; color: #6d686e; font-weight: normal;" href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkSxUTH9Nbw3-2FoEa4Sj9JGNb-2Bbk2fFHsUo22QqgeY9q-2Bvd-2B8bLEkeQyUlDa4mm6ywTTxgveh2mNlqNVeASt97aggkKZuRklsy1Zb5sX5rUo-2FKtpblHghSALv4g79APuUO5-2BIwzpzCqj9VL-2BHfYJXd1j-mbI_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8fTksW0pN5xNwr0KCulML5zLU96Lzm-2FvuwxDKnUBRmNmIjngqmr2rJWBnr-2BB1fQpZ-2FaB8zTBT8x2AZZUTZhM9dki3Xq4-2FnjC6ir2hCQ1vRNklqwPsf0nAwhcqY7o40Wg-2BF2HCRlcA5dE2Urm2pxts4N">Aaron Tilley</a> and <a style="text-decoration: none; color: #6d686e; font-weight: normal;" href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlSuoTsGMzG7xWwgPi4mciQr5pjInXhrNlbS-2Btdx5pa5X17pZ-2BzlZi0BJ9wjG2RlJrRvYELKcmDHoZJ3QUNvW3bRiExkQgckUBpFr-2Bz0aUrPZVGGgxKvVH6nEZUv0usCBqxkM7-2B3wFQ-2BMgjjqe-2B55Dt_eiw_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8f0WaQ7mhlvDv1qiT-2FybZumxn5l2R3heGO-2B9ICYkB1n2ezBXsNeGOEiSi9-2Fylnye90Ay7TAuhFhj9fOEQM1KwCVyHDWasbBhO8HsijDChXl3xJ0ALUhKctAO3pD2mrPEWWQrCTH82ihcYEoymtT-2FfXL">Wayne Ma</a>
-</p>
-
-                            
-<div style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;" class="content-body">
-  <p>Last fall, Apple’s software chief, Craig Federighi, delivered a warm message to a meeting of the company’s combined software and AI groups. Federighi said he was excited about deeper collaboration between his software team and Apple’s AI group.</p>
-
-<p>But then came Federighi’s criticism. He added that he liked moving fast and feeling the “wind at his back,” but in recent years he had felt Apple hadn’t been moving as quickly as he would have liked in AI. Although he wasn’t explicit, some members of Apple’s foundation models team&mdash;which builds the underlying software that power the company’s AI features&mdash;took his comment as a dig at their group.</p>
-</div>
-                              
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" style="padding: 0">
-      <table border="0" cellspacing="0" cellpadding="0" class="mobile-button-container">
-        <tr>
-          <td align="center" bgcolor="#f32a52">
-            <a class="button mobile-button" style="font-size: 16px;font-family: Helvetica, Arial, sans-serif;color: #fff;text-decoration: none;padding: 16px 154px;display: inline-block;font-weight: 400;line-height: 16px;border: 1px solid #f32a52;background: #f32a52;border-radius: 4px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;" universal="true" href="https://url3396.theinformation.com/uni/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNBgsIz8cMoHUqf0HepbVAmF0Jc6XxIT1NpLjqxYM69PZrvBwZp-2BXzIVKBCzY2HYZeZ7WL-2BxpinIj-2Bi1xsuoPEaPjTND5HbUaGMEMoaQtVwTD24Tduc4ikkez5a4HqChBDezHFceObnQcs4pHwi5InFyUgTibRiYLzyr2xbU7YLjIZ207RPoHkzLYIc-2FDqCqHTAE6-2Bh2QzS86Y1YgIvu0AFBLMc8BR-2Bj1ilyEwQkrgT3QZMdi1ui8u-2BkW9GZczYXRxupqH_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8eIyfVsfwaeJzZzPSYH6MqRNkNebun-2BmhGG9xLz1tLyTWjfpY2uLSyaxCPsEi5ZuOKbY3luyH0f5D4-2FfjeN-2FwNlC0NpdPkUimD1ny9gfjr-2FWsv60J6xLY5dfej6AFvqrzaOfIwFzu3QAVd0h-2FJOKuzi">
-  <!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->
-  Read the full article
-  <!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->
-</a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-                          </td>
-                        </tr>
-                      </table>
-                    </td>
-                  </tr>
-                </table>
-              </td>
-            </tr>
-              <tr class="takeaway">
-  <td bgcolor="#ffffff" class="divider">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td style="padding: 0 20px" class="background-dark padding">
-          <table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tr>
-              <td align="left" style="padding: 32px 0 48px;font-size: 19px;line-height: 32px;font-family: 'Noto Serif', Georgia, serif;font-weight: 400;border-bottom: 1px solid #f0ece5;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
-                <p style="font-family: 'Suisse Int\'l Mono', monospace, Helvetica, Arial, sans-serif;font-size: 16px;line-height: 18px;color: #f32a52;margin-bottom: 8px;">The Takeaway</p>
-                <ul>
-<li>Apple software chief Craig Federighi now leads AI organization and is known for his frugality.</li>
-<li>The appointment and Apple&#8217;s decision to partner with Google reflects the company&#8217;s cautious approach to AI. </li>
-<li>Future Apple devices, such as a wearable AI pin, depend on Federighi delivering Siri upgrades.</li>
-</ul>
-              </td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </td>
-</tr>
-
-            
-            <tr>
-  <td bgcolor="#ffffff" class="divider">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td style="padding: 0 20px" class="background-dark padding">
-          <table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tr>
-              <td align="left" style="padding: 48px 0;font-size: 19px;line-height: 32px;font-family: 'Noto Serif', Georgia, serif;font-weight: 400;border-bottom: 1px solid #f0ece5;">
-                <h2 style="font-family: 'Suisse Works', Georgia, 'Times New Roman', Times, serif;font-weight: 500;font-size: 26px;line-height: 36px;margin-bottom: 16px;">Popular articles</h2>
-
-                <!--[if (gte mso 9)|(IE)]>
-                <table border="0" cellspacing="0" cellpadding="0" width="164" dir="ltr">
-                <tr>
-                <td width="164" valign="middle">
-                <![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" width="164" class="responsive-table img-container" style="width: 164px"><tr><td style="line-height: 0" class="img-container">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNW7nukzM-2BQURcrppT2ijqCfcPRJ-2FNdA-2BpAVipjwmS1aQ4KJ8eEH9-2B1TnvVV4xWGD2duLYqe7246VyABIzv0hRHr617DxzbUrWMuvnam7cbuVcgOzkDRo9iBfC0izQVgYalBAedoOH3x-2BxChwuautsiSb3F9ENVtt-2FObGru7LnDRkqADjGw7PxIJuXLX1LPL31diyW_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8el7qnsyGSfguNaJ-2FWPd7ZdclBwPrrasWXCyOmA0wrs8WqexsreTkcPrsOhBwkTSOOIEC1fFhsZKmJGkJXXAlADQw-2B78IbMm-2BoSnGwxCDJzFbIyIF35VGLec5iSINpCZT2GSqNcKCZvyokc8gsZOlVQ" target="_blank">
-                    <img alt="" width="164" src="https://tii.imgix.net/production/articles/16414/d6dd21ab-654f-4db0-a757-18fbe0c54165.png?w=560&amp;auto=compress,format&amp;q=20" style="max-width: 164px;margin: 0 20px 0 0!important" class="img-max" border="0" />
-                  </a>
-                </td></tr></table>
-                <!--[if (gte mso 9)|(IE)]>
-                </td>
-                <td width="16">&nbsp;</td>
-                <td width="363" valign="middle" style="font-size: 16px;line-height: 22px;font-family: Georgia, serif;color: #000000">
-                <![endif]-->
-                <div style="width: 360px;float: left" class="responsive-table">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNW7nukzM-2BQURcrppT2ijqCfcPRJ-2FNdA-2BpAVipjwmS1aQ4KJ8eEH9-2B1TnvVV4xWGD2duLYqe7246VyABIzv0hRHr617DxzbUrWMuvnam7cbuVcgOzkDRo9iBfC0izQVgYalBAedoOH3x-2BxChwuautsiSb3F9ENVtt-2FObGru7LnDRkqADjGw7PxIJuXLX1LPL31k61W_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8cHcKVcMJzAPVf7eBboK2VM-2B8KpPicK2OrHJD8P3gP24Z-2BMJET26sHV0krgXTdIolQFNu5dXDI-2FbGsJT-2BaD3I-2Bq9tHL-2BoHzqWwVSOEwaCowBSr0kz6mb38BwstuVtZcP3Eo6rjR8uyIf-2B0Q3Vso0XNk" target="_blank" style="text-decoration: none; color: inherit;">
-                    <span style="font-family: 'Suisse Int\'l', monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;display: block;margin-bottom: 8px;color: #f32a52;">Deals</span>
-                    <h4 style="font-family: 'Suisse Int\'l', Helvetica, Arial, sans-serif;font-size: 18px;line-height: 27px;margin: 0 0 4px;font-weight:500; color: inherit;">
-                      Nine Tech IPO Contenders to Watch This Year
-                    </h4>
-                    <span style="font-family: Helvetica, Arial, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">
-                      By Valida Pau
-                    </span>
-                  </a>
-                </div>
-                <!--[if (gte mso 9)|(IE)]>
-                </td>
-                </tr>
-                </table>
-                <![endif]-->
-                <div style="clear: both"></div>
-                <br><table align="left" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td style="background: #fec6cc;padding: 1px 0 0; line-height: 0; font-size: 1px"></td></tr></table><br>
-                <!--[if (gte mso 9)|(IE)]>
-                <table border="0" cellspacing="0" cellpadding="0" width="164" dir="ltr">
-                <tr>
-                <td width="164" valign="middle">
-                <![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" width="164" class="responsive-table img-container" style="width: 164px"><tr><td style="line-height: 0" class="img-container">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNipKnK6WqatgUoScKFjbn9NIYDJmSBqZcOhDOe4GeplziijOMdPvNc5rG24FwUkvobSYV3espBamXSJx2JJCBqdqp-2BgAU7evZHsmj37C0ZxMXH13FZLiCc-2FNgaU5IjIMhV7lZiD4jkufHMXMruNqulxerN2UJY5S8Hvk4THBxvxqrRIwPXpCp-2B9qoDa4OuGvLpDBcHrFjorBFehRHloAYTb7dOKBswcgx7KqG0i8KISIhvAj0yy7BHRz4iyRTVL5vPId2_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8fZvSIYDWWBzybTHCylCT-2FzhyoNrJIVTo0aQ-2BcWZHaG9BjpHJoNZtE0yB-2FunRLBnOtyWEx2cEjcuqVw2ELXjCaNHBlR1VX8mNlaaSsw85Q-2BYo3g-2B0zeSLNnWtv-2FoqUDWsUh7u1eWARcQTQ-2Bbr819LD9" target="_blank">
-                    <img alt="" width="164" src="https://tii.imgix.net/production/articles/16422/1aa179f8-dbd1-4058-b5a2-ea72a8115472.png?w=560&amp;auto=compress,format&amp;q=20" style="max-width: 164px;margin: 0 20px 0 0!important" class="img-max" border="0" />
-                  </a>
-                </td></tr></table>
-                <!--[if (gte mso 9)|(IE)]>
-                </td>
-                <td width="16">&nbsp;</td>
-                <td width="363" valign="middle" style="font-size: 16px;line-height: 22px;font-family: Georgia, serif;color: #000000">
-                <![endif]-->
-                <div style="width: 360px;float: left" class="responsive-table">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNipKnK6WqatgUoScKFjbn9NIYDJmSBqZcOhDOe4GeplziijOMdPvNc5rG24FwUkvobSYV3espBamXSJx2JJCBqdqp-2BgAU7evZHsmj37C0ZxMXH13FZLiCc-2FNgaU5IjIMhV7lZiD4jkufHMXMruNqulxerN2UJY5S8Hvk4THBxvxqrRIwPXpCp-2B9qoDa4OuGvLpDBcHrFjorBFehRHloAYTb7dOKBswcgx7KqG0i8KISIhvAj0yy7BHRz4iyRTVL5vzWWm_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8dZyDgKhCjR83Y-2Bj4wN4uG-2BHMxXw0QyS-2FUhI0qU4qThKttGlojN9oFdApoXyw0nYnzv5z9j0Aujxkb8-2B2VAfjW80Kw7UKPmohwNmqI2koD8VCFEVVGEeRpXp2KqSIHaK-2Br4TL4rYXZRa-2FC8pFltLjCC" target="_blank" style="text-decoration: none; color: inherit;">
-                    <span style="font-family: 'Suisse Int\'l', monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;display: block;margin-bottom: 8px;color: #f32a52;">Exclusive</span>
-                    <h4 style="font-family: 'Suisse Int\'l', Helvetica, Arial, sans-serif;font-size: 18px;line-height: 27px;margin: 0 0 4px;font-weight:500; color: inherit;">
-                      Thinking Machines Exodus Tests Investor Appetite for a $50 Billion Valuation
-                    </h4>
-                    <span style="font-family: Helvetica, Arial, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">
-                      By Erin Woo and Stephanie Palazzolo
-                    </span>
-                  </a>
-                </div>
-                <!--[if (gte mso 9)|(IE)]>
-                </td>
-                </tr>
-                </table>
-                <![endif]-->
-                <div style="clear: both"></div>
-                <br><table align="left" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td style="background: #fec6cc;padding: 1px 0 0; line-height: 0; font-size: 1px"></td></tr></table><br>
-                <!--[if (gte mso 9)|(IE)]>
-                <table border="0" cellspacing="0" cellpadding="0" width="164" dir="ltr">
-                <tr>
-                <td width="164" valign="middle">
-                <![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" width="164" class="responsive-table img-container" style="width: 164px"><tr><td style="line-height: 0" class="img-container">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNCAMt4ugUQEQQirn6ze2-2BfLVaRHkqmwz30lIvRDHoSri3HDv76fqehWdIfLJKOv5iTCAOaxg0QbgfGFDCxfaVop-2FvOcCl0bUDR61BcDlFjB2JUcpsXmCMyLqq-2FjhKTc0f7ZjvQfxXjxzyJ1EVMpONTjNEKdjkQJkk2SG6wDIXHylQ07B5FsHQ15JbO7oWt2spplK0O1ZFsvZH3fqmtM-2F5vVQ0q-2BNUPYpY6HjPQGWUlSk-3DQtep_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8eWvutV2OYI7TbYXrMw8APrX6qp4-2BGl0z6PyMnCapSdfAR7GLq-2FBvb9iqNWETwVsF-2BlUgClQPw9xDsTAnzc81ASzvAMz4cFbYlmCk9Vni-2FS1hw3Pe6KB37qhfkc6XEUwAVL-2FL37NAEb6KCNBmslGn6h" target="_blank">
-                    <img alt="" width="164" src="https://tii.imgix.net/production/articles/16434/b1598fdc-fa3a-4fd2-8a5a-6e0036f760ec.jpg?w=560&amp;auto=compress,format&amp;q=20" style="max-width: 164px;margin: 0 20px 0 0!important" class="img-max" border="0" />
-                  </a>
-                </td></tr></table>
-                <!--[if (gte mso 9)|(IE)]>
-                </td>
-                <td width="16">&nbsp;</td>
-                <td width="363" valign="middle" style="font-size: 16px;line-height: 22px;font-family: Georgia, serif;color: #000000">
-                <![endif]-->
-                <div style="width: 360px;float: left" class="responsive-table">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNCAMt4ugUQEQQirn6ze2-2BfLVaRHkqmwz30lIvRDHoSri3HDv76fqehWdIfLJKOv5iTCAOaxg0QbgfGFDCxfaVop-2FvOcCl0bUDR61BcDlFjB2JUcpsXmCMyLqq-2FjhKTc0f7ZjvQfxXjxzyJ1EVMpONTjNEKdjkQJkk2SG6wDIXHylQ07B5FsHQ15JbO7oWt2spplK0O1ZFsvZH3fqmtM-2F5vVQ0q-2BNUPYpY6HjPQGWUlSk-3DjlRY_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8fKUc7dEWVzY-2FGGYXrKg8t03wHV-2B9syg9ncug33OHqyfAaeGNB1Qk3lB2tsjXHTt3DFQYy-2Bn-2FT4c-2BLO91-2FbU-2FbNKjrpfeEMVdlt1PKaxadRcYbZzUiWRuOuDQHkInZDhuxfeLqCgacnx1jhNdOye-2B9B" target="_blank" style="text-decoration: none; color: inherit;">
-                    <span style="font-family: 'Suisse Int\'l', monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;display: block;margin-bottom: 8px;color: #f32a52;">Exclusive</span>
-                    <h4 style="font-family: 'Suisse Int\'l', Helvetica, Arial, sans-serif;font-size: 18px;line-height: 27px;margin: 0 0 4px;font-weight:500; color: inherit;">
-                      OpenAI Lines Up Advertisers, Reveals Key Details Ahead of Ads Launch
-                    </h4>
-                    <span style="font-family: Helvetica, Arial, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">
-                      By Catherine Perloff and Sri Muppidi
-                    </span>
-                  </a>
-                </div>
-                <!--[if (gte mso 9)|(IE)]>
-                </td>
-                </tr>
-                </table>
-                <![endif]-->
-                <div style="clear: both"></div>
-                <br><table align="left" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td style="background: #fec6cc;padding: 1px 0 0; line-height: 0; font-size: 1px"></td></tr></table><br>
-                <!--[if (gte mso 9)|(IE)]>
-                <table border="0" cellspacing="0" cellpadding="0" width="164" dir="ltr">
-                <tr>
-                <td width="164" valign="middle">
-                <![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" width="164" class="responsive-table img-container" style="width: 164px"><tr><td style="line-height: 0" class="img-container">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaN-2FvFOhIE1eAwIjwr9iLzvh-2F1EAvYJ7LHMEIqrNT4V4XCYwN1wcTzVuHNLWE5N0Q-2Fn7eR35LzKzEPvzlFlN2gV4wr2lNCL-2B-2FIfq3HM1ij-2FuTbgTeiTgwNRsfZr691th-2FFeSuV75McWqrMskAxjja3wGWi0hbTqrp6gU1eP7ctgmuLVFbb2S-2Bj1luzKWgQk06W0zO20XuB3ehnJtnq0-2F07gBw-3D-3DTnch_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8fO-2BSuIkH0sBDMU5D9XCXa6tVOHgHfQOe9mc-2BWax2zz4k-2BTYE1jBnMcRoBjxb353T-2Fr2CKNs9TCFbHzsFsQiMvmHpm6bX0B11ksQpTfDyTPXMvYuSr01iMKS1HSgY26rdDbEludBI241Qp8NLIwf5dE" target="_blank">
-                    <img alt="" width="164" src="https://tii.imgix.net/production/articles/16423/fe74cb6c-0463-40a7-8ae9-94e5aa6019ad.png?w=560&amp;auto=compress,format&amp;q=20" style="max-width: 164px;margin: 0 20px 0 0!important" class="img-max" border="0" />
-                  </a>
-                </td></tr></table>
-                <!--[if (gte mso 9)|(IE)]>
-                </td>
-                <td width="16">&nbsp;</td>
-                <td width="363" valign="middle" style="font-size: 16px;line-height: 22px;font-family: Georgia, serif;color: #000000">
-                <![endif]-->
-                <div style="width: 360px;float: left" class="responsive-table">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaN-2FvFOhIE1eAwIjwr9iLzvh-2F1EAvYJ7LHMEIqrNT4V4XCYwN1wcTzVuHNLWE5N0Q-2Fn7eR35LzKzEPvzlFlN2gV4wr2lNCL-2B-2FIfq3HM1ij-2FuTbgTeiTgwNRsfZr691th-2FFeSuV75McWqrMskAxjja3wGWi0hbTqrp6gU1eP7ctgmuLVFbb2S-2Bj1luzKWgQk06W0zO20XuB3ehnJtnq0-2F07gBw-3D-3DHpTi_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8c0qAvxokMu51eSdIdEzp7VP5IKxmtCJ3LSGI7Zz1LRZtCs3-2FhCtYHh8awxRR9AP76hK6EDWL7XA-2BDgE6El6R-2FOg4vh0ImV1IqoYp4Rhl-2FGUuODqxJ6fi7PrLmNDwJhYUxgtUqHgOAYNfrkbqRsWw7D" target="_blank" style="text-decoration: none; color: inherit;">
-                    <span style="font-family: 'Suisse Int\'l', monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;display: block;margin-bottom: 8px;color: #f32a52;">Exclusive</span>
-                    <h4 style="font-family: 'Suisse Int\'l', Helvetica, Arial, sans-serif;font-size: 18px;line-height: 27px;margin: 0 0 4px;font-weight:500; color: inherit;">
-                      Google’s Gemini Sees Developer Requests More Than Double in Five Months
-                    </h4>
-                    <span style="font-family: Helvetica, Arial, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">
-                      By Erin Woo
-                    </span>
-                  </a>
-                </div>
-                <!--[if (gte mso 9)|(IE)]>
-                </td>
-                </tr>
-                </table>
-                <![endif]-->
-                <div style="clear: both"></div>
-              </td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </td>
-</tr>
-
-            <tr>
-  <td bgcolor="#ffffff" class="divider">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td style="padding: 0 20px" class="background-dark padding">
-          <table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tr>
-              <td align="left" style="padding: 48px 0 0;font-size: 18px;line-height: 27px;font-family: Verdana, serif;color: #000;font-weight: 400;">
-                <h2 style="font-family: Georgia, Times, serif;font-weight: 400;font-size: 26px;line-height: 36px;margin-bottom: 16px;margin-top: 0;">
-                  Opportunities
-                </h2>
-                <h4 style="font-family: Verdana, sans-serif;font-size: 18px;line-height: 27px;margin-bottom: 8px;margin-top: 0;">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlgaThIaQhhxP-2B18aQkVacQa-2BbGcb9fvNdGV7qVgiOyEIdSVCJFsORDX2dr1MYHCVQqMElygmvQBgh-2BUlG7u-2BYWAL0g281a44LHl-2FQTGwe4Ry97xFDMBppiLSJTZ8mgEhYEVcoVTYZjBmkjzZRQEyX-2BZ_bU_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8d3nsL-2Fs99yBc9DiLqrWw5otegM3ZMOQYo7-2Fw4IDbcqf4Uc40FY0Gb6XLOLaj4T8QraTtMpcRJbNMxJNPgpyDUEfy-2F6z6l-2F69NegJ5ih00gGUYy9cH7w4mzWBNW0u4XGxeRVl0Op7uXAkr03zPCeXAn" target="_blank" style="text-decoration: none;color: inherit;font-weight: 700;">
-                    Group subscriptions
-                  </a>
-                </h4>
-                <p style="font-family: Verdana, sans-serif;margin: 8px 0;font-weight: 400;">Empower your teams to stay ahead of market trends with the most trusted tech journalism.</p>
-                <p style="margin: 0;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlgaThIaQhhxP-2B18aQkVacQa-2BbGcb9fvNdGV7qVgiOyEIdSVCJFsORDX2dr1MYHCVQqMElygmvQBgh-2BUlG7u-2BYWAL0g281a44LHl-2FQTGwe4Ry97xFDMBppiLSJTZ8mgEhYEVcoVTYZjBmkjzZRQEyX-2BNhcf_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8c6Gf-2FksdrSq-2F8tLWS-2F6qdWR5-2BnMvNEqN7R5B3fujCKEdx5Lo9mayQl8vffcy1AeWwqyrG2TdkCeHOiBiQsJ5duIXNmUKO4zFu8MBj-2FdJWPEPB88qnBD6uaAo5ujDef7f94iodoNOK7orlAJBoviB-2FP" target="_blank" style="font-family: Verdana, sans-serif;text-decoration: underline;color: #f32a52;font-weight: 400;line-height:24px;font-size: 16px;">Learn more</a></p>
-                <table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 24px 0"><tr><td style="background: #fec6cc;padding: 1px 0 0;line-height: 0;font-size: 1px"></td></tr></table><br>
-                <h4 style="font-family: Verdana, sans-serif;font-size: 18px;line-height: 27px;margin-bottom: 8px;margin-top: 0;">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkXfGE0AkbtBrzl4aUS5O2KNdNYXa5mgGSNJhsksQ21m75EruhwlHl0VwdpgyNrFiS16S8LmSEMKszbecuYgwpNNwqLnT1D2doSdg-2BicOv3IkHfFL1BHYrMePrGqyLvnUdVs5ebVodJ01ZCMLqnoI1BjOh8_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8cuwFTkceVU3mtT0fPoe39z0V3V0HrbMnvJgIKc-2BEAiGIsdeUgIbE4BaBKO18NKjyzcsX1aIdAqA3SP30cRyFAOYksx6vhb18PTl-2BllN2rJi385EsFeWjhCo-2FSvD5FUtxVM8SdA4Sq8E4QBoRKGKWNk" target="_blank" style="text-decoration: none;color: inherit;font-weight: 700;">
-                    Brand partnerships
-                  </a>
-                </h4>
-                <p style="font-family: Verdana, sans-serif;margin: 8px 0;font-weight: 400;">Reach The Information&rsquo;s influential audience with your message.</p>
-                <p style="margin: 0;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkXfGE0AkbtBrzl4aUS5O2KNdNYXa5mgGSNJhsksQ21m75EruhwlHl0VwdpgyNrFiS16S8LmSEMKszbecuYgwpNNwqLnT1D2doSdg-2BicOv3IkHfFL1BHYrMePrGqyLvnUdVs5ebVodJ01ZCMLqnoI1B0qiY_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8cKpTQSnMuIFL4guHAgCVTWC20qlskXAhB0Ar85YdRmr6cu-2BX1jKt8dfJtjA8AF9dfN19d99oHCtYVsUtCqYsmrAUPr2YDUrz9FP55Q6MqHygGGzsmBaevrUkboFkMgmUuv4cGc3xIxTXjMOLg5K10y" target="_blank" style="font-family: Verdana, sans-serif;text-decoration: underline;color: #f32a52;font-weight: 400;line-height:24px;font-size: 16px;">Connect with our team</a></p>
-                <table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top: 48px;"><tr><td style="background: #f0ece5;padding: 1px 0 0;line-height: 0;font-size: 1px"></td></tr></table>
-              </td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </td>
-</tr>
-
-          </table>
-          <!--[if (gte mso 9)|(IE)]>
-              </td>
-            </tr>
-          </table>
-          <![endif]-->
-        </td>
-      </tr>
-      <tr>
-  <td bgcolor="#ffffff" class="background-dark">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <table
-            width="600"
-            border="0"
-            cellspacing="0"
-            cellpadding="0"
-            style="width: 600px; max-width: 600px"
-            bgcolor="#ffffff"
-            class="responsive-table"
-          >
-            <tr>
-              <td
-                align="center"
-                style="padding: 45px 75px; padding-top: 45px !important; padding-bottom: 45px !important; font-family: Suisse Screen, Helvetica, Arial, sans-serif; font-weight: normal; font-size: 12px; line-height: 24px; font-size: 12px !important; line-height: 24px !important; color: #ffffff; background: #2F3538;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;"
-                class="background-dark padding"
-              >
-                <span
-                  style="font-family: 'Suisse Int\'l Mono', monospace, Helvetica, Arial, sans-serif; font-size: 14px; color: #F32A52"
-                >Follow us</span>
-                <table width="227.85" border="0" cellspacing="0" cellpadding="0">
-                  <tr>
-                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
-                      <a
-                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1T2Sl5PeJ-2FG7XEaBvfWxfrQHbwmq5gLU2ojiuowH64rJBj-2BXB6C9UBnLd5uDA0OPkzjJvALNAX05BKspQYMbXWAsd1wp-2FW-2BxKFjumvkBhL7QLmoN3puc-2FsRfprSj-2BgnnsO9B4teUFrO-2FqbcNZehw72Y-3D6ZBe_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8c1JHWAGqUc-2FkCbCrIro-2FogU9xSU49WsM7oot-2B7U6ASTOTTCnNiF1GlkRW99DNq4-2Bor0ONpyNOtt2pk9dcT8JSQH3JDfWrBtA5iEaAjXad98dG5yTB-2BVf51SaSTCW0KDQsS59vRlcTv1GjUDlgAm1VT"
-                        target="_blank"
-                        style="text-decoration: none;"
-                      >
-                        <img width="32" src="https://tii.imgix.net/global/email/icon-X-v3.png" alt="X" border="0">
-                      </a><br>
-                    </td>
-                    <td width="32" valign="middle"></td>
-                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
-                      <a
-                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1YCFIgUTnTtU9jcXdi5OlS4DnFensodraGNsXFNZLRKsOkUFKt9aKkvfZp-2FSglSxfcQA5R6BJTwq1KR4o1rz281uE5YzM2dIrm1plX7HgGIIHO-2FX9SsnnYYU3-2FP9qz4X1fmi9dqHeZq29IIhtxegWBMXJ-2Fv1OHh25cYsU3BX3L3mIv40_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8fxRZNku3umReqcyuK9453H5VxNCBJ-2Fa2A-2FqW5ABnX0dKB0gqror9JEtEu3E06UaDnFcapFAcSEkzmYEeJG9F9B35lC0dY1IKF-2Frw-2FrqDB20B5LUVGKipVzOVaih1rJZx-2B8od9o4YQUoy9FPTazalKk"
-                        target="_blank"
-                        style="text-decoration: none"
-                      >
-                        <img width="32" src="https://tii.imgix.net/global/email/icon-linkedin-v3.png" alt="LinkedIn" border="0">
-                      </a><br>
-                    </td>
-                    <td width="32" valign="middle"></td>
-                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
-                      <a
-                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1dMu7bhLyA2t3R-2B-2Be0O7TUhTGcCztTV72-2BitQZ9RP9u7mPvffDgEtbfIxnCYoxVjmZwU-2F4wJBDbSU1NSG1isg34lEo-2BiWyPOebxPCDHxMyjDwEBx4Cc6Fd1pWl6cKANZJcyJq9Cd67tC-2FPJk5gOqGrb2YE7Aerut4U9Ct-2BauSFc3sEXM_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8fW60Uj-2FqQlXK53mlgRjvghqXSWYAxOLWmi8uxcSi8SaZP2IyWlbmyOqky1Qcb9TCDDQhX5EsKkNdOaVcJLla-2B8C7d7Liy5UnMt8Pd2YPiUHstYIkcJ1rD-2BEdBkuyMA0xh1TNEsTlvHvwlFBjVEKHVo"
-                        target="_blank"
-                        style="text-decoration: none"
-                      >
-                        <img width="32" src="https://tii.imgix.net/global/email/icon-facebook-v3.png" alt="Facebook" border="0">
-                      </a><br>
-                    </td>
-                    <td width="32" valign="middle"></td>
-                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
-                      <a
-                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1cH8QhuXOWazGIIpzuv5CPjwlNYj84mRAH9436zZAMWljvmgShg1z9AjH54DR-2FJmaxwE0lfdqeO6aF2rnrTc-2B6yV4vQ72eoUKuuQTG8zbqbF1K6F2F7f4ERsRziJFopDgvSJcps2oMYQaE4jxysX312geHAVAqTQCmnHWXJe6wnFmAEK_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8ckHifaHYM-2FIs8TmQSNll6CFLNoclRiAypsIQfa4-2BJK2EF0gEc1rnRqAiQX0qkS1IBX7VYOXYYZ-2FnHLhgwjdBZ5HJq60t2PvLXoouufCdwyIUvnP0rBCWf3-2FJKyqq4dOCxSmdgo0VftYdH16ixAKf5k"
-                        target="_blank"
-                        style="text-decoration: none"
-                      >
-                        <img width="32" src="https://tii.imgix.net/global/email/icon-threads-v3.png" alt="Threads" border="0">
-                      </a><br>
-                    </td>
-                    <td width="32" valign="middle"></td>
-                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
-                      <a
-                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1eYsgqOksHLUoTSKBWk98czesKR7FvhLK0QjueixeWfEymYo67WgCfLTgN9bBamsRxs-2FfbX47PLmDZFfmR9ddZdchG9OlGO7Sr5lS5FAomr8Am2lt6gU-2BbLWl9w-2BTAKysl4gb-2FJrC8HIsoHAEpgOIieUy6hkDp3-2Fe1X4HpLdkZsEwOrY_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8d0Z8z7mmy0VbsqYV5OfjXnkrVaEO83o8Q4lL-2BAhkJ5WtLWS2nP-2FjGqUq3gCJuIBrsSSnvml5pVWFRBiRiSCWa2HRSrojNj3bo9lxO7Yi4DT32zXJD2PeYwaOYK6yOo9uH2n-2Fj468YR5PeLb8l5rsOQ"
-                        target="_blank"
-                        style="text-decoration: none"
-                      >
-                        <img width="32" src="https://tii.imgix.net/global/email/icon-instagram-v3.png" alt="Instagram" border="0">
-                      </a><br>
-                    </td>
-                  </tr>
-                </table>
-                Sent to info@vibexcap.c&#173;om
-                |
-                <a
-                  href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmRyOSkt-2B6tut-2FgIJZjZ88GSa6oVYM0I7-2FTSqls99-2BpFjBk4wPLczKh9A2juBJWw-2FDH7F4QiCHjjhYuhXxVEvZN-2Fo03YPAgvxWQB-2BgAWU1G9PnyGhMTlWT-2FD6PsgTg-2BN4-2Fz6tkjPV6BDzlWRcGvIvdQ7QXuyPBgCLGIrvMTaR4NMv1AZllxR137c-2BsyxSFh3PPekFw3du2nRxYQRAfbC0HUhTKwsMNLJoO-2B5Hubp906i1ikH63pDyBdKQDpSzGiHus0IrqeSF9OZATB1z6qdTU51JdJWdwuL7qPNu3Xr-2BdCRc9Vxt-2BXQghr-2F3P-2Bw5rrfazQ4s-2F8kVNzeQqTvgAktOCXiDj14r0IWYdIF-2FBbwEB-2BUw-3D-3DdOdr_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8cxp0bdQqIaNAB89yeTYXhhPDmN-2FFw23MqAkG5jbK1Cre2KUjA86QY7naYTvLXpUlwrdaHoQ48utHHQR8sU9ChVxLEvrxOfPpgqBhamOEnqoaObfdKl1aZXR-2FJsSImJnUpm-2F3vDFNnLPMoo-2F9kztBX5"
-                  target="_blank"
-                  class="footer-link"
-                >Manage your preferences or unsubscribe</a>
-                |
-                <a
-                  href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1ZwsjdD8U8HPRHZODNtX5742xNsoxaJ40flKf35Cvt1CHBFE8dGLv92qL5h-2BGtShTp2SxIPlu4MrAdMlBQtsNK3jikyGl1eYTmsCEjA2fD088yd7ia62fOm5zFXMTz9IxrskIY7he1Gw4OE87zPtj5n38oKpqjWAliG6HsKFi3uug57d_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8fgM-2FsLWrelFoM5Hj1ui8rl-2BelSiE2qn6oik3j1DSgoWpjDHmX9tVa8Dv0cyaOQEW0tAuQNMNRsafWuoEZcGnMjsx0gvYKv9ttxyWlOB3ru7UMkN8TaAAaKkyl0HH1APgNWzr5KTrzAqA74O0KPaWcm"
-                  target="_blank"
-                  class="footer-link"
-                >Help</a>
-                <a href="#" style="color: #ffffff !important; text-decoration: none !important; font-weight: normal !important">The&nbsp;Information &middot;&nbsp;251&nbsp;Rhode&nbsp;Island&nbsp;Street,&nbsp;Suite&nbsp;107,&nbsp;San Francisco,&nbsp;CA&nbsp;94103</a><br>
-                <br>
-                <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmN-2BtioNXgRiKmS6QeiVMUmf1kk36DAm-2FsCscr1R8-2FpHXzZj8DFSUZAew8jPs4IufDEkERqTNJnf2KAF4CZ7SEMhZksIeidVHSGNq733FBR7znwjVUGxlnikvhxYzixJ-2FY-3DQl_L_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bj-2BYF-2Bk7WWKPufNZMQg6WWmlG6Q1jIYKhNOdqdQzsfleZJIFU5NOijRlk-2BZYKC4qisbJ2SQWowhJ-2BAisgfjmH9daDAuISW7KVmDP7-2FB7eCTOnsn11zTgp9sZ0FDGtyJ9ya4powBfhGVRkSjxagf7j8dIT8ns73JKDifyP4gxagVmD-2BQP5Qo5Lpg-2FwtHQiAi1cmd2eguwZjVZWkKqzYd70exKfGWdxNgygzRLUXb-2BEeVxtkV-2BMsxP-2B7KvCfZf7vrpACDONBediHrOab25ftj3q-2FHSHA7iUb2KxWOk7Bx7273A" target="_blank">
-                  <img
-                    alt=""
-                    width="20"
-                    border="0"
-                    src="https://tii.imgix.net/global/email/logo.png"
-                    style="width: 20px; max-width: 20px; height: auto; border: 0"
-                  >
-                </a>
-              </td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </td>
-</tr>
-
-    </table>
-  </body>
-</html>
-
-          </tr>
-      </tbody>
-    </table>
-    <!--[if (gte mso 9)|(IE)]>
-          </td>
-        </tr>
-      </table>
-    <![endif]-->
-  <img src="https://url3396.theinformation.com/wf/open?upn=u001.Vk1lvOTnrxw-2FfL8-2BmGyNhxdTSlGmmtgiIYT5kEvVfr1vFY5QSfRIs2AD8XouQ1krKJ5nznT-2FpNP4f0VTgAV1OuVGq5Fvt8U2DQXerp5JrqipZHDUrydrliTZdUvplFGlV0pXnvtlyFsgjWKF3dRsxhEz-2BiCXMW8PyqFxBc87KfqfgJhfimt47I7PFfXhZucWUtIo2WtfwOD5TEUNBQeDLinznWbZDgr1GqNYrAPIRSL0yRPhZdb7kSmQNNQhhOfdiqZYPordLVch9VZCXmQMl6-2FSMRBtYM1nwb9iEesBiqhalJfWsEtXyN2lz2chvgP5zIsWmrOJ7LrrTHd80aeChjmrRR-2Fv9HJ-2BcYsPJjNQ4J-2B-2Fl5CqQfrvebMjvd7R90pq" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/></body>
-</html>
-]]></description>
-    <pubDate>Thu, 22 Jan 2026 14:01:51 GMT</pubDate>
-    <guid>19be603c962a8b42</guid>
-    <author>&quot;The Information&quot; &lt;hello@theinformation.com&gt;</author>
   </item>
 
   </channel>
