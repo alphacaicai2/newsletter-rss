@@ -4,7 +4,322 @@
     <title>Newsletter Feed</title>
     <link>https://your-domain.com/rss.xml</link>
     <description>Newsletter feed</description>
-    <lastBuildDate>Fri, 23 Jan 2026 17:15:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 17:30:16 GMT</lastBuildDate>
+
+  <item>
+    <title>I Stopped Reading Code. My Code Reviews Got Better.</title>
+    <description><![CDATA[<!DOCTYPE html>
+<!-- Set the language of your main document. This helps screenreaders use the proper language profile, pronunciation, and accent. --><html lang="en">
+  <head>
+    <!-- The title is useful for screenreaders reading a document. Use your sender name or subject line. -->
+    <title>I Stopped Reading Code. My Code Reviews Got Better.</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Never disable zoom behavior! Fine to set the initial width and scale, but allow users to set their own zoom preferences. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <style>
+      .article{background-color:#fff;color:#2b2b2b;font-family:"Signifier","Palatino","Georgia","Times New Roman",serif;font-size:18px;font-weight:400;line-height:28px;margin:0 auto;max-width:600px;padding:10px 10px 40px 10px}.article code{display:inline-block;padding:4px 8px 0px;min-height:22px;line-height:1;background:#efedea;color:#166e82;border-radius:4px;font-family:"Geist Mono","SFMono-Regular","Menlo","Consolas","Liberation Mono","Courier New",monospace;font-size:16px;font-weight:400;line-height:20px;white-space:nowrap;text-decoration:none;vertical-align:middle}.article h2,.article h3,.article h4,.article h5,.article h6{margin:1em 0px .4em 0px;font-weight:700;line-height:1.25em}.article h2{font-size:30px}.article h3{font-size:28px}.article h4{font-size:24px}.article h5{font-size:20px}.article h6{font-size:18px}.article .pitch{margin:2em 0 3em 0;padding-bottom:1.5em;border-bottom:2px solid #111}.article .pitch .pitch-actions{margin-top:1em;text-align:center}.article .pitch .pitch-actions a.follow-button{display:inline-block;background-color:#111;border:2px solid #111;border-radius:5px;color:#fff;text-decoration:none;padding:5px;margin-bottom:1em;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";font-weight:bold;font-size:16px}.article .pitch .pitch-actions a.email-settings{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";font-size:14px;color:#8c8d91}.logo-img{height:24px;width:84px;display:block;margin-top:1em;margin-bottom:1em}.newsletter-email .post-body img{max-width:100%}.newsletter-email .transcript-link{color:#222}.post-intro{text-align:center;margin:20px 0}.post-intro .publication-brand{text-align:center !important}.post-intro .publication-brand .publication-brand-link{text-decoration:none !important;color:#2b2b2b}.post-intro .publication-brand .publication-brand-link .publication-logo{height:50px;width:50px}.post-intro .publication-brand .publication-brand-link .publication-name{margin:0;font-size:16px;zoom:1 !important;text-decoration:none !important}.post-intro .title{line-height:120%;font-size:30px;margin-bottom:0;font-weight:400}.post-intro .title a{color:#111 !important;text-decoration:none !important;font-size:30px}.post-intro .subtitle{color:#8c8d91;font-size:18px;font-weight:400;line-height:120%;margin:5px 0px 10px 0px}.post-intro .subtitle a{color:#8c8d91 !important;text-decoration:none !important}.post-intro .post-meta{color:#8c8d91;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";font-size:12px;margin:8px 0}.post-intro .post-meta a{color:#8c8d91 !important;text-decoration:none !important}.post-intro .post-cover{max-width:100%}.post-intro figcaption{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";color:#8c8d91;font-size:14px;text-align:center;margin-top:4px}.post-intro figcaption a{color:#8c8d91}.post-body{margin-top:50px}.post-body a{color:#2b2b2b !important;text-decoration:underline !important}.post-body code{display:inline-block;padding:4px 8px 0px;min-height:22px;line-height:1;background:#efedea;color:#166e82;border-radius:4px;font-family:"Geist Mono","SFMono-Regular","Menlo","Consolas","Liberation Mono","Courier New",monospace;font-size:16px;font-weight:400;line-height:20px;white-space:nowrap;text-decoration:none;vertical-align:middle}.post-body .post-preview-warning{font-style:italic}.post-subscribe-pane{max-width:760px;margin:30px auto 0 auto;background:#222;padding:40px 10px 50px 10px;text-align:center;font-size:20px;border-radius:5px}.post-subscribe-pane *{color:#fff}.post-subscribe-pane h3{margin-bottom:30px;font-size:26px;font-weight:normal}.post-subscribe-pane p{margin-top:20px;color:#fff}.post-subscribe-pane * a{color:#fff !important}.post-subscribe-pane .paywall-candidate{padding:0px 40px}.post-subscribe-pane .paywall-candidate p,.post-subscribe-pane .paywall-candidate ul{text-align:left}.post-subscribe-pane .btn.invert{color:#fff !important;text-decoration:none !important}.quill-footnote img.image{display:none}.quill-footnote span.text{display:inline}.quill-tweet{display:block;max-width:520px;margin:1em auto;border:1px solid #e1e8ed;border-radius:5px;line-height:1em;padding:20px 20px 13px 20px}.quill-tweet *{font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",sans-serif}.quill-tweet>span{display:inline-block;width:100%}.quill-tweet a{text-decoration:none !important;font-size:16px;color:#111}.quill-tweet a .tweet-header{margin-bottom:14px}.quill-tweet a .tweet-header img{float:left;display:block;margin:0 8px 0 0 !important;width:36px;height:36px;border-radius:50%}.quill-tweet a .tweet-header .tweet-author-name{display:block;margin-bottom:0;color:#1c2022;font-weight:700;line-height:16px}.quill-tweet a .tweet-header .tweet-author{display:block;color:#697882;font-size:14px;line-height:14px}.quill-tweet a .reply-tweet{font-size:14px;color:#697882;margin-bottom:10px}.quill-tweet a .reply-tweet .reply-tweet-username{font-size:14px;color:#1b95e0}.quill-tweet a span.link{color:#1b95e0}.quill-tweet a .tweet-photo{margin-top:8px;width:100%;border:1px solid #e1e8ed;border-radius:5px;cursor:pointer}.quill-tweet a .tweet-gif-preview span{position:absolute;margin-top:-32px;margin-left:9px;height:22px;padding:5px;background:rgba(55,55,55,.9);color:#fff;border-radius:3px;font-size:12px;font-weight:bold;line-height:12px}.quill-tweet a .tweet-video-preview{position:relative}.quill-tweet a .tweet-video-preview .play{position:absolute;top:0;bottom:0;left:0;right:0;margin:auto;width:64px;height:64px}.quill-tweet a .tweet-poll .tweet-poll-options .tweet-poll-options-label{position:absolute;padding:4px 8px;font-size:14px}.quill-tweet a .tweet-poll .tweet-poll-options .tweet-poll-options-percent{float:right;padding:4px 8px;font-size:14px;font-weight:bold}.quill-tweet a .tweet-poll .tweet-poll-options .tweet-poll-options-progress{background:#71c9f8;height:30px;margin-bottom:8px;border-radius:4px}.quill-tweet a .tweet-poll .tweet-poll-status{font-size:14px;color:#697882}.quill-tweet a .quoted-tweet{margin-top:12px;border:1px solid #e1e8ed;border-radius:4px;padding:10px;font-size:14px}.quill-tweet a .quoted-tweet .quote-tweet-name{font-weight:bold;color:#1c2022;padding-right:5px}.quill-tweet a .quoted-tweet .quote-tweet-username{font-size:14px;color:#697882}.quill-tweet a .tweet-footer{margin-top:10px;font-size:14px;color:#697882}.quill-tweet a .tweet-footer .tweet-date{padding-bottom:10px;margin-bottom:0px !important;font-size:14px;color:#697882}.quill-tweet a .tweet-footer .interaction-wrapper{border-top:1px solid #e1e8ed;padding-top:10px}.quill-tweet a .tweet-footer .interaction-wrapper .interaction{display:inline-block;margin-right:8px}.quill-tweet a .tweet-footer .interaction-wrapper .interaction .count{font-weight:bold;color:#1c2022;text-transform:uppercase}.quill-youtube a{display:block;position:relative}.quill-youtube a img{display:block}.quill-youtube a .play{text-align:right;height:34px;position:absolute;bottom:0;right:0}.quill-youtube a .play img{display:inline;width:134px;height:30px;margin:0px 4px 4px}.post-feedback{text-align:center;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";margin:50px 0}.post-feedback h4{font-size:16px;font-weight:bold;margin-bottom:5px}.post-feedback a{text-decoration:none !important;display:inline-block;background:#e2e3e4;border-radius:100px;font-size:15px;padding:3px 15px;color:#111}.quill-button,.quill-follow,.quill-subscribe{text-align:center;margin-bottom:20px}.quill-button a,.quill-follow a,.quill-subscribe a{display:inline-block;padding:6px 20px;border:2px solid #222;border-radius:5px;background:#222;color:#fff !important;font-weight:bold;text-decoration:none !important;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";font-size:16px}.quill-image-caption{margin-top:8px;font-size:.9em;color:#666;font-style:italic;max-width:80%;margin-left:auto;margin-right:auto;line-height:1.4;text-align:center}body,table,td,a{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}table,td{mso-table-lspace:0pt;mso-table-rspace:0pt}img{-ms-interpolation-mode:bicubic}img{border:0;height:auto;line-height:100%;outline:none;text-decoration:none}table{border-collapse:collapse !important}body{height:100% !important;margin:0 !important;padding:0 !important;width:100% !important;font-family:"Signifier","Palatino","Georgia","Times New Roman",serif;font-feature-settings:"calt","clig","kern","liga","onum","pnum";-webkit-font-smoothing:antialiased;font-size:16px;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}h2,h3,h4,h5,h6{font-weight:400;margin-bottom:0}blockquote{padding-left:15px;margin:15px 0;border-left:3px solid #e2e3e4}footer{border:1px solid #e2e3e4;color:#8c8d91;border-radius:5px;padding:10px;margin-top:50px;font-size:12px;line-height:17px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"}footer p{margin-top:0;color:#8c8d91}footer a{color:#8c8d91 !important;text-decoration:underline !important}footer address{margin-top:10px;color:#8c8d91;font-style:normal}a[x-apple-data-detectors]{color:inherit !important;text-decoration:none !important;font-size:inherit !important;font-family:inherit !important;font-weight:inherit !important;line-height:inherit !important}u+#body a{color:inherit;text-decoration:none;font-size:inherit;font-family:inherit;font-weight:inherit;line-height:inherit}#MessageViewBody a{color:inherit;text-decoration:none;font-size:inherit;font-family:inherit;font-weight:inherit;line-height:inherit}.btn{color:#fff !important}li .title{font-weight:bold}.sample-title{font-weight:bold;margin-bottom:0}ul.samples{margin-top:0}h3.lean{font-weight:500}.survey-email .survey-link{color:#111;text-decoration:underline}
+
+      .btn,.button_to input[type=submit]{display:inline-block;padding:10px 20px;border:2px solid #222;border-radius:5px;background:#222;color:#fff;font-weight:bold;text-decoration:none;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"}.btn.small,.button_to input[type=submit].small{font-size:14px;padding:5px 10px}.btn.outline,.button_to input[type=submit].outline{background:rgba(0,0,0,0);color:#222}.btn.invert,.button_to input[type=submit].invert{background:rgba(0,0,0,0);color:#fff;border-color:#fff}.btn.danger,.button_to input[type=submit].danger{background:#e12e67;border-color:#e12e67}.btn.block,.button_to input[type=submit].block{display:block;text-align:center;width:100%}.btn:disabled,.button_to input[type=submit]:disabled{background:#888;border-color:#888}.publisher-button{border:2px solid #111;background:#fff;color:#111;border-radius:5px;padding:5px 0;display:inline-block;width:100px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";font-weight:bold}.publisher-button:hover{background:#eee;cursor:pointer}@media(max-width: 900px){.publisher-button:hover{background:#fff}}.publisher-button.following{background:#111;color:#fff}.button_to{margin-top:10px}.discord-announce-btn input[type=submit]{background-color:#1523cd;border-color:#1523cd}
+
+      .ea-block.normal{background-color:#f1f1f1;border-radius:5px;margin:70px 0px;padding:10px;font-family:"Signifier","Palatino","Georgia","Times New Roman",serif}.ea-block.normal:first-of-type{margin-top:0px}.ea-block.normal:last-child{margin-bottom:0px}.ea-block.normal h4.ea-block-label{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";text-transform:uppercase;font-size:12px;font-weight:bold;color:#8c8d91;text-align:center;margin:0px}.ea-block.normal .ea-block-inner{font-size:16px;padding:10px}.ea-block.normal .ea-block-inner p{margin-bottom:20px}.ea-block.normal .ea-block-inner p a{color:#2b2b2b}.ea-block.normal .ea-block-inner .quill-block-image{text-align:center}.ea-block.normal .ea-block-footer{text-align:center}.ea-block.normal .ea-block-footer a,.ea-block.normal .ea-block-footer span{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";font-size:14px;color:#8c8d91 !important}.admin-form .advertisement{margin:0px}
+
+    </style>
+
+</head>
+  <body background="#fff">
+    <!-- Some preview text. -->
+      <div class="preview-text" style="display: none; font-size: 1px; color: #333333; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
+          How 13 AI agents reviewing in parallel caught a critical bug I would have otherwise missed
+         ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+      </div>
+
+    <table cellspacing="0" cellpadding="0" border="0" width="100%" align="center" role="presentation"><tr><td>
+      <div class="article" role="article" aria-label="I Stopped Reading Code. My Code Reviews Got Better." lang="en">
+
+          <!-- Main content section. Main is a useful landmark element. -->
+          <main>
+            <a class="logo" href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vIiwicG9zaXRpb24iOjB9">
+              <img class="logo-img" width="84" height="24" src="https://d24ovhgu8s7341.cloudfront.net/static/every-logo.png">
+            </a>
+            
+<div class="newsletter-email">
+  <div class="post-intro">
+      <div class="publication-brand">
+        <a class="publication-brand-link" href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vc291cmNlLWNvZGUiLCJwb3NpdGlvbiI6MX0=">
+            <img class="publication-logo" width="50" height="50" src="https://d24ovhgu8s7341.cloudfront.net/uploads/publication/logo/99/small_Frame_9121.png">
+            <p class="publication-name">Source Code</p>
+        </a>
+      </div>
+    <h1 class="title">
+        <a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vc291cmNlLWNvZGUvaS1zdG9wcGVkLXJlYWRpbmctY29kZS1teS1jb2RlLXJldmlld3MtZ290LWJldHRlciIsInBvc2l0aW9uIjoyfQ==">I Stopped Reading Code. My <span class="hand hand-C">C</span>ode Reviews Got Better.</a>
+    </h1>
+      <h2 class="subtitle">
+          <a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vc291cmNlLWNvZGUvaS1zdG9wcGVkLXJlYWRpbmctY29kZS1teS1jb2RlLXJldmlld3MtZ290LWJldHRlciIsInBvc2l0aW9uIjozfQ==">How 13 AI agents reviewing in parallel caught a critical bug I would have otherwise missed</a>
+      </h2>
+    <div class="post-meta">
+        <p class="byline">by <a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vQGtpZXJhbl8xMzU1IiwicG9zaXRpb24iOjR9">Kieran Klaassen</a></p>
+    </div>
+      <figure>
+        <img class="post-cover" src="https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/3908/full_page_cover_Code_Review_001(2).png" width="600">
+          <figcaption>Midjourney/Every illustration.</figcaption>
+      </figure>
+  </div>
+
+  <div class="post-body">
+    <p><em>Was this newsletter forwarded to you?<a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vYWNjb3VudCIsInBvc2l0aW9uIjo1fQ==" rel="noopener noreferrer" target="_blank"> </a><u><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vYWNjb3VudCIsInBvc2l0aW9uIjo2fQ==" rel="noopener noreferrer" target="_blank">Sign up</a></u> to get it in your inbox.</em></p>
+<p></p>
+<hr class="quill-line">
+<p></p>
+<p>The bug report was deceptively simple: A user noticed that their email signature formatting was off in <strong><u><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vY29yYS5jb21wdXRlciIsInBvc2l0aW9uIjo3fQ==" rel="noopener noreferrer" target="_blank">Cora</a></u></strong>, our AI-powered email assistant. I asked Claude Code to investigate and fix it. By morning, the fix had touched 27 files, and more than 1,000 lines of code had changed. I didn’t write any of them.</p>
+<p>A year ago, I would have spent my afternoon reading that code. Line by line, file by file, squinting at the migration that moved <code>email_signature</code> from one database table to another, Ctrl+F-ing for every instance of our feature flags. </p>
+<p>This time, I spent 15 minutes making decisions, and the code shipped without a single bug.</p>
+<p>Before AI, code review meant reading every line a teammate wrote. You checked for typos, logic errors, and style inconsistencies, the way an editor reviews a manuscript. Now my code reviews no longer involve reading code. And I’ve gotten better at catching problems because of it.</p>
+<p>This is code review done the <u><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vc291cmNlLWNvZGUvbXktYWktaGFkLWFscmVhZHktZml4ZWQtdGhlLWNvZGUtYmVmb3JlLWktc2F3LWl0IiwicG9zaXRpb24iOjh9" rel="noopener noreferrer" target="_blank">compound engineering</a></u> way: Agents review in parallel, findings become decisions, and every correction teaches the system what to catch next time. The signature fix that touched 27 files? Thirteen specialized AI reviewers examined it simultaneously while I made dinner.</p>
+<p>I’ll show you how I set it up, how it caught a critical bug I would have missed, and how you can start—even without custom tooling.</p>
+<h2>The death of manual code review</h2>
+<p>Reading code, even briefly, gave me a sense of the shape of things. I could feel when the codebase was getting too complicated. By letting go of manual review, I worried that I’d lose that clarity, and the architecture would wander off without me.</p>
+<p>But I realized, too, that manual code reviews were no longer sustainable. When a developer writes 200 lines, their manager might spend 20 to 40 minutes reading it. The ratio of time spent writing code to reviewing it holds at 5:1 or 10:1—I can sit down with a cup of coffee, and the coffee will still be warm by the time I finish. AI has broken that ratio. The time it takes to generate code has collapsed, but the time it takes for a human to review code hasn’t. Something had to give.</p>
+<p>The shift from manual review happened slowly. When Claude Code enacted a set of fixes, I’d ask it questions, then read the diff (the line-by-line comparison showing what had changed). When I was satisfied, I’d hold my breath and merge the changes into the main codebase.</p>
+<p>Nothing broke. The code was fine. It turned out that asking Claude to explain its reasoning—what it changed, why, and what might break—caught more than my tired eyes scrolling through diffs.</p>
+<p>After a while, that close read turned into a quick skim. The skim turned into a glance. Eventually I found that by the time I had asked my questions, I’d already hit “merge.”</p>
+<p>I still understood how good the code was—that clarity just came in a different way. Instead of feeling the shape of the code by reading it, I felt it by interrogating Claude Code:</p>
+<ol>
+<li data-list="bullet">
+<span class="ql-ui" contenteditable="false"></span>“Walk me through what you changed and why.”</li>
+<li data-list="bullet">
+<span class="ql-ui" contenteditable="false"></span>“What assumptions did you make?”</li>
+<li data-list="bullet">
+<span class="ql-ui" contenteditable="false"></span>“What would break this?”</li>
+<li data-list="bullet">
+<span class="ql-ui" contenteditable="false"></span>“Why did you ignore the feedback from <code>kieran-reviewer</code>?”</li>
+</ol>
+<p>That last one needs explaining. <code>kieran-reviewer</code> is an AI agent I built—a specialized reviewer trained on my code preferences. It knows, for instance, that I prefer simple queries over complex queries and clear code over clever code. It’s one of 13 reviewers that examine every pull request before I see it.</p>
+<p>Why so many agents? No single reviewer, human or AI, catches everything in a 27-file change. A security expert spots authentication gaps but misses database issues. A performance specialist catches slow queries but ignores style drift. I needed specialists working in parallel, each focused on what they’re good at. Together, they catch what I might miss from a manual review.</p>  <div class="ea-block normal">
+      <h4 class="ea-block-label"></h4>
+      <div class="ea-block-inner">
+<div class="quill-block-image quill-editing" id="quill-block-image-1769006827102" data-source='{"dom_id":"quill-block-image-1769006827102","link":"https://d24ovhgu8s7341.cloudfront.net/uploads/editor/advertisements/934/optimized_3de1259b-cd67-4c17-914e-6601715aef0a.png","image":"https://d24ovhgu8s7341.cloudfront.net/uploads/editor/advertisements/934/optimized_3de1259b-cd67-4c17-914e-6601715aef0a.png","caption":null,"error":null}'><div><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZDI0b3ZoZ3U4czczNDEuY2xvdWRmcm9udC5uZXQvdXBsb2Fkcy9lZGl0b3IvYWR2ZXJ0aXNlbWVudHMvOTM0L29wdGltaXplZF8zZGUxMjU5Yi1jZDY3LTRjMTctOTE0ZS02NjAxNzE1YWVmMGEucG5nIiwicG9zaXRpb24iOjksImFkdmVydGlzZW1lbnRfaWQiOjkzNH0=" target="_blank" rel="noopener noreferrer" data-advertisement-id="934"><img src="https://d24ovhgu8s7341.cloudfront.net/uploads/editor/advertisements/934/optimized_3de1259b-cd67-4c17-914e-6601715aef0a.png" alt="Uploaded image" width="600"></a></div></div>
+<h4><strong>Write at the speed of thought</strong></h4>
+<p>That gap between your brain and your fingers kills momentum. Monologue lets you speak naturally and get perfect text 3x faster, and your tone, vocabulary, and style is kept intact. It auto-learns proper nouns, handles multilingual code-switching mid-sentence, and edits for accuracy. Free 1,000 words to start.</p>
+<div class="quill-button" data-source='{"id":"quill-button-1769006810573","text":"Download Monologue for Mac","url":"https://www.monologue.to/?utm_source=standalonead&amp;source=post_button"}' id="quill-button-1769006810573"><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vd3d3Lm1vbm9sb2d1ZS50by8_dXRtX3NvdXJjZT1zdGFuZGFsb25lYWRcdTAwMjZzb3VyY2U9cG9zdF9idXR0b24iLCJwb3NpdGlvbiI6MTAsImFkdmVydGlzZW1lbnRfaWQiOjkzNH0=" data-advertisement-id="934">Download Monologue for Mac</a></div>
+</div>
+      <div class="ea-block-footer">
+        <a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Im1haWx0bzpzcG9uc29yc2hpcHNAZXZlcnkudG8iLCJwb3NpdGlvbiI6MTF9">Want to sponsor Every? Click here</a><span>.</span>
+</div>
+  </div>
+<h2>Using the compound engineering plugin</h2>
+<p>My system for code review is rolled up into the<a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9FdmVyeUluYy9jb21wb3VuZC1lbmdpbmVlcmluZy1wbHVnaW4iLCJwb3NpdGlvbiI6MTJ9" rel="noopener noreferrer" target="_blank"> </a><u><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9FdmVyeUluYy9jb21wb3VuZC1lbmdpbmVlcmluZy1wbHVnaW4iLCJwb3NpdGlvbiI6MTN9" rel="noopener noreferrer" target="_blank">compound engineering plugin</a></u>. It’s a set of files in your codebase that extend what Claude Code can do. Here’s how it works.</p>
+<p><strong>Slash commands</strong> are shortcuts you type in the terminal—like /workflows:review or /workflows:plan—that trigger workflows. Each workflow is a markdown file with instructions for what Claude should do when you invoke it.</p>
+<p><strong>Agents</strong> are specialized AI workers, each defined in its own markdown file with a persona and focus area.</p>
+<p>For the email signature fix, I ran a single command: <code>/workflows:review</code>, which spun up every agent on its list at once:</p>
+<ol>
+<li data-list="bullet">
+<span class="ql-ui" contenteditable="false"></span><code>kieran-rails-reviewer</code> checks my personal style preferences</li>
+<li data-list="bullet">
+<span class="ql-ui" contenteditable="false"></span><code>code-simplicity-reviewer</code> hunts for over-engineering</li>
+<li data-list="bullet">
+<span class="ql-ui" contenteditable="false"></span><code>data-integrity-guardian</code> validates database changes during migrations (when the structure of your database changes)</li>
+<li data-list="bullet">
+<span class="ql-ui" contenteditable="false"></span><code>security-sentinel</code> checks for authentication bypasses</li>
+<li data-list="bullet">
+<span class="ql-ui" contenteditable="false"></span>Plus nine more, each with a specific focus</li>
+</ol>
+<p>Ten minutes later, they returned with findings ranked by priority.</p>
+<h2>From findings to decisions</h2>
+<p>The agents produce findings. But a list of issues isn’t useful—I need to know what to do about them. So I run the next command: <code>/triage</code></p>
+<p>Triage takes all 13 reviewers’ findings, ranks them by severity, and walks me through each one. It presents every finding in the same way: Here’s the problem, here’s why it matters, now what do you want to do? </p>
+<div class="quill-block-image" id="quill-block-image-1769187253096-jo02bo3gp" data-source='{"dom_id":"quill-block-image-1769187253096-jo02bo3gp","link":"https://d24ovhgu8s7341.cloudfront.net/uploads/editor/posts/3908/optimized_cfd84196-05e0-4bcf-bc41-65787fe2695f.jpeg","image":"https://d24ovhgu8s7341.cloudfront.net/uploads/editor/posts/3908/optimized_cfd84196-05e0-4bcf-bc41-65787fe2695f.jpeg","caption":"An example of what Claude Code shows me during code review, including what the issue is, how severe it is, a description, a proposed solution, estimated effort, and the actionable question: Do you want to add this to the to-do list? (Image courtesy of Kieran Klaassen.)","error":null}'><div>
+<a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZDI0b3ZoZ3U4czczNDEuY2xvdWRmcm9udC5uZXQvdXBsb2Fkcy9lZGl0b3IvcG9zdHMvMzkwOC9vcHRpbWl6ZWRfY2ZkODQxOTYtMDVlMC00YmNmLWJjNDEtNjU3ODdmZTI2OTVmLmpwZWciLCJwb3NpdGlvbiI6MTR9" target="_blank" rel="noopener noreferrer"><img src="https://d24ovhgu8s7341.cloudfront.net/uploads/editor/posts/3908/optimized_cfd84196-05e0-4bcf-bc41-65787fe2695f.jpeg" alt="An example of what Claude Code shows me during code review, including what the issue is, how severe it is, a description, a proposed solution, estimated effort, and the actionable question: Do you want to add this to the to-do list? (Image courtesy of Kieran Klaassen.)" width="600"></a><figcaption class="quill-image-caption">An example of what Claude Code shows me during code review, including what the issue is, how severe it is, a description, a proposed solution, estimated effort, and the actionable question: Do you want to add this to the to-do list? (Image courtesy of Kieran Klaassen.)</figcaption>
+</div></div>
+<p><br></p>
+<p>I can accept the recommendation (and the system creates a task to fix it), skip it (it’s not worth addressing), or provide specific instructions.</p>
+<p>The signature fix surfaced three findings. The first was critical: The code had moved where we store a user setting, but one file still looked for it in the old location. If I’d shipped this, every user who tried to generate a draft response would have hit an error. The fix itself is trivial—point the code at the new location—but I never would have caught it scrolling through diffs.</p>
+<p>The second was cleanup. A chunk of unused code, left over from an earlier approach. It wasn’t  broken, but it was confusing. On the chance that someone did read the code in the future, they would wonder what it was for. I approved this change too.</p>
+<p>The third was a nitpick—a minor redundancy, technically true but harmless. I skipped it. I’ll clean it up next time I’m in that file.</p>
+<p>I got three findings and made three decisions in less than two minutes.</p>
+<p>The critical finding alone justified the review. I never would have caught a mismatched reference on line 31 while scrolling through 1,000 lines at 6 p.m. The agents caught it in seconds.</p>
+<h2>The fix is never the last fix</h2>
+<p>The signature fix should have been simple. I’d make one change and be done. But sometimes when you fix a piece of code, you end up breaking another. This is just as true with human developers as with coding agents.</p>
+<p>In our case, the first version fixed the signature formatting in Gmail, but it broke the plain text version of emails. Some email apps don’t display styled text, and now those users saw raw formatting codes instead of readable text.</p>
+<p>So we fixed that. But the fix for plain text created extra blank lines for users who didn’t have signatures at all. </p>
+<p>So I fixed that too. Then we discovered that when you reply to a heavily-styled marketing email, our formatting rules were leaking into the quoted text. Users saw gibberish like <code>#outlook a { padding: 0; }</code> in their message body.</p>
+<p>I fixed that. Next we found that Cora was now appending your email signature after each suggested draft of an email, instead of just once at the very end. If you generated three options, you’d get three signatures. Which called for another fix.</p>
+<p>Ten versions of the code. Four bugs we introduced while fixing the original. Hence the 27 files and thousand lines of code. Again, this is a normal part of any development process, human or AI. The difference is that here, we can codify our learnings to make sure we don’t make the same mistake next time.</p>
+<h2>The 50/50 rule</h2>
+<p>I spent 15 minutes fixing those bugs. Then I spent another 15 minutes making sure I’d never see them again.</p>
+<p>After the signature mess, we created a document called <code>refactor-email-content-rendering.md</code>. It lives in our codebase, and it captures everything we learned:</p>
+<ol>
+<li data-list="bullet">
+<span class="ql-ui" contenteditable="false"></span>A chart showing every combination of user settings and what should happen in each case, so there would be no more guessing.</li>
+<li data-list="bullet">
+<span class="ql-ui" contenteditable="false"></span>A simple rule about which part of the system handles formatting: “The background process sends styled text. The Gmail connector never converts formats.”</li>
+<li data-list="bullet">
+<span class="ql-ui" contenteditable="false"></span>The exact format Gmail expects for signatures, pulled from actual emails we tested—not what we assumed, but what we verified.</li>
+</ol>
+<p>That document is now part of the project. The next time anyone touches email rendering—whether that’s me, a teammate, or Claude—the AI reads it first.</p>
+<p>In my first weeks using this workflow, Claude presented me with approaches that weren’t necessarily wrong, but didn’t reflect my preferences. What I consider “over-engineered,” another engineer might call “robust.” What I see as a missed pattern, someone else might not use at all. Three months and 50-plus reviews in, Claude’s plans largely reflect how I’d approach problems myself.</p>
+<p>Better AI models make everyone’s output better. But your system gets better because you’re accumulating your own team’s knowledge. Your agents learn your preferences, and your review process reveals your blind spots. That’s where compounding happens.</p>
+<p>So follow the 50/50 rule: Spend half your time reviewing output, half ensuring the lesson sticks.</p>
+<h2>Rethink reviews</h2>
+<p>Most engineers assume they need to read everything. That assumption made sense when humans wrote all the code. But it doesn’t anymore.</p>
+<p>I shipped the email signature fix without reading most of the code. I reviewed findings and made decisions. I looked at screenshots in Gmail. But did I read the implementation details of how we extract email content? No. Did I trace through how the database change handles edge cases? No.</p>
+<p>Yet the feature works. Users get properly formatted signatures. The tests—checks I write alongside every feature to verify the code behaves correctly—all pass. The screenshots look right. It took some time to let go of manual code reviews, but the results speak for themselves.</p>
+<p>The trade I’ve made is that I won’t read every line, but a part of the time I would spend reading code now goes toward making the system smarter. I’m adding test cases for marketing emails stuffed with weird formatting. I’m capturing “when you change where data lives, check every file that reads it” as a rule the agents enforce automatically. This way, the next person who touches this code—human or AI—doesn’t repeat my mistakes.</p>
+<p>If you don’t have the compound engineering plugin yet, start with three questions. Before you approve any AI-generated output—code, documents, or strategy decks—ask the AI:</p>
+<ol>
+<li data-list="ordered">
+<span class="ql-ui" contenteditable="false"></span>What was the hardest decision you made here?</li>
+<li data-list="ordered">
+<span class="ql-ui" contenteditable="false"></span>What alternatives did you reject, and why?</li>
+<li data-list="ordered">
+<span class="ql-ui" contenteditable="false"></span>What are you least confident about?</li>
+</ol>
+<p>That conversation, which takes two minutes, surfaces what a 30-minute unfocused manual check would have missed. The AI knows where the tricky parts are. It just doesn’t volunteer them unless you ask.</p>
+<p>Then apply the 50/50 rule. Spend half of your time fixing the immediate problem and half documenting it, making sure the problem never comes back.</p>
+<p>The 27 files involved in rendering an email signature are waiting for the next feature. I’m still not going to read them all. But when I’m done, the system will know more than it did when I started.</p>
+<p></p>
+<hr class="quill-line">
+<p></p>
+<p><strong><em><u><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vQGtpZXJhbl8xMzU1IiwicG9zaXRpb24iOjE1fQ==" rel="noopener noreferrer" target="_blank">Kieran Klaassen</a></u></em></strong><em> is the general manager of<a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vY29yYS5jb21wdXRlci8iLCJwb3NpdGlvbiI6MTZ9" rel="noopener noreferrer" target="_blank"> </a><u><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vY29yYS5jb21wdXRlci8iLCJwb3NpdGlvbiI6MTd9" rel="noopener noreferrer" target="_blank">Cora</a></u>, Every’s email product. Follow him on X at<a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8veC5jb20va2llcmFua2xhYXNzZW4iLCJwb3NpdGlvbiI6MTh9" rel="noopener noreferrer" target="_blank"> </a><u><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8veC5jb20va2llcmFua2xhYXNzZW4iLCJwb3NpdGlvbiI6MTl9" rel="noopener noreferrer" target="_blank">@kieranklaassen</a></u> or on<a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9raWVyYW4ta2xhYXNzZW4vIiwicG9zaXRpb24iOjIwfQ==" rel="noopener noreferrer" target="_blank"> </a><u><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9raWVyYW4ta2xhYXNzZW4vIiwicG9zaXRpb24iOjIxfQ==" rel="noopener noreferrer" target="_blank">LinkedIn</a></u>.</em></p>
+<p><em>To read more essays like this, subscribe to<a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vc3Vic2NyaWJlIiwicG9zaXRpb24iOjIyfQ==" rel="noopener noreferrer" target="_blank"> </a><u><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vc3Vic2NyaWJlIiwicG9zaXRpb24iOjIzfQ==" rel="noopener noreferrer" target="_blank">Every</a></u>, and follow us on X at<a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly90d2l0dGVyLmNvbS9ldmVyeSIsInBvc2l0aW9uIjoyNH0=" rel="noopener noreferrer" target="_blank"> </a><u><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly90d2l0dGVyLmNvbS9ldmVyeSIsInBvc2l0aW9uIjoyNX0=" rel="noopener noreferrer" target="_blank">@every</a></u> and on<a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9jb21wYW55L2V2ZXJ5aW5jLyIsInBvc2l0aW9uIjoyNn0=" rel="noopener noreferrer" target="_blank"> </a><u><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9jb21wYW55L2V2ZXJ5aW5jLyIsInBvc2l0aW9uIjoyN30=" rel="noopener noreferrer" target="_blank">LinkedIn</a></u>.</em></p>
+<p><em>We<a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vc3R1ZGlvIiwicG9zaXRpb24iOjI4fQ==" rel="noopener noreferrer" target="_blank"> </a><u><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vc3R1ZGlvIiwicG9zaXRpb24iOjI5fQ==" rel="noopener noreferrer" target="_blank">build AI tools</a></u> for readers like you. Write brilliantly with<a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vd3JpdGV3aXRoc3BpcmFsLmNvbS8iLCJwb3NpdGlvbiI6MzB9" rel="noopener noreferrer" target="_blank"> </a></em><strong><em><u><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vd3JpdGV3aXRoc3BpcmFsLmNvbS8iLCJwb3NpdGlvbiI6MzF9" rel="noopener noreferrer" target="_blank">Spiral</a></u></em></strong><em>. Organize files automatically with<a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vbWFrZWl0c3BhcmtsZS5jby8_dXRtX3NvdXJjZT1ldmVyeWZvb3RlciIsInBvc2l0aW9uIjozMn0=" rel="noopener noreferrer" target="_blank"> </a></em><strong><em><u><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vbWFrZWl0c3BhcmtsZS5jby8_dXRtX3NvdXJjZT1ldmVyeWZvb3RlciIsInBvc2l0aW9uIjozM30=" rel="noopener noreferrer" target="_blank">Sparkle</a></u></em></strong><em>. Deliver yourself from email with <u><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vY29yYS5jb21wdXRlci8iLCJwb3NpdGlvbiI6MzR9" rel="noopener noreferrer" target="_blank">Cora</a></u>. Dictate effortlessly with<a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vbW9ub2xvZ3VlLnRvLyIsInBvc2l0aW9uIjozNX0=" rel="noopener noreferrer" target="_blank"> </a></em><strong><em><u><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vbW9ub2xvZ3VlLnRvLyIsInBvc2l0aW9uIjozNn0=" rel="noopener noreferrer" target="_blank">Monologue</a></u></em></strong><em>.</em></p>
+<p><em>We also do AI training, adoption, and innovation for companies.<a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vY29uc3VsdGluZz91dG1fc291cmNlPWVtYWlsZm9vdGVyIiwicG9zaXRpb24iOjM3fQ==" rel="noopener noreferrer" target="_blank"> </a><u><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vY29uc3VsdGluZz91dG1fc291cmNlPWVtYWlsZm9vdGVyIiwicG9zaXRpb24iOjM4fQ==" rel="noopener noreferrer" target="_blank">Work with us</a></u> to bring AI into your organization.</em></p>
+<p><em>Get paid for sharing Every with your friends. Join our<a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkuZ2V0cmV3YXJkZnVsLmNvbS9zaWdudXAiLCJwb3NpdGlvbiI6Mzl9" rel="noopener noreferrer" target="_blank"> </a><u><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkuZ2V0cmV3YXJkZnVsLmNvbS9zaWdudXAiLCJwb3NpdGlvbiI6NDB9" rel="noopener noreferrer" target="_blank">referral program</a></u>.</em></p>
+<p><em>For sponsorship opportunities, reach out to sponsorships@every.to.</em></p>
+<p><em>Help us scale the only subscription you need to stay at the edge of AI. Explore<a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vd3d3Lm5vdGlvbi5zby9Kb2JzLUV2ZXJ5LTI1Y2NhNGYzNTVhYzgwYzVhZDZlZTdhNmU5M2Q2YjRlP3B2cz0yMSIsInBvc2l0aW9uIjo0MX0=" rel="noopener noreferrer" target="_blank"> </a><u><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vd3d3Lm5vdGlvbi5zby9Kb2JzLUV2ZXJ5LTI1Y2NhNGYzNTVhYzgwYzVhZDZlZTdhNmU5M2Q2YjRlP3B2cz0yMSIsInBvc2l0aW9uIjo0Mn0=" rel="noopener noreferrer" target="_blank">open roles at Every</a></u>.</em></p>
+<div class="quill-button" data-source='{"id":"quill-button-1769187301610","text":"Subscribe","url":"https://every.to/subscribe?source=post_button"}' id="quill-button-1769187301610"><a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vc3Vic2NyaWJlP3NvdXJjZT1wb3N0X2J1dHRvbiIsInBvc2l0aW9uIjo0M30=">Subscribe</a></div>
+
+
+      <div class="post-feedback">
+        <h4>What did you think of this post?</h4>
+        <div class="feedback-options">
+            <a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vc291cmNlLWNvZGUvaS1zdG9wcGVkLXJlYWRpbmctY29kZS1teS1jb2RlLXJldmlld3MtZ290LWJldHRlci9mZWVkYmFjaz9yYXRpbmc9YW1hemluZ1x1MDAyNmhhc2g9JXJlY2lwaWVudC5oYXNoJSIsInBvc2l0aW9uIjo0NH0=">
+              Amazing
+            </a>
+            <a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vc291cmNlLWNvZGUvaS1zdG9wcGVkLXJlYWRpbmctY29kZS1teS1jb2RlLXJldmlld3MtZ290LWJldHRlci9mZWVkYmFjaz9yYXRpbmc9Z29vZFx1MDAyNmhhc2g9JXJlY2lwaWVudC5oYXNoJSIsInBvc2l0aW9uIjo0NX0=">
+              Good
+            </a>
+            <a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vc291cmNlLWNvZGUvaS1zdG9wcGVkLXJlYWRpbmctY29kZS1teS1jb2RlLXJldmlld3MtZ290LWJldHRlci9mZWVkYmFjaz9yYXRpbmc9bWVoXHUwMDI2aGFzaD0lcmVjaXBpZW50Lmhhc2glIiwicG9zaXRpb24iOjQ2fQ==">
+              Meh
+            </a>
+            <a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vc291cmNlLWNvZGUvaS1zdG9wcGVkLXJlYWRpbmctY29kZS1teS1jb2RlLXJldmlld3MtZ290LWJldHRlci9mZWVkYmFjaz9yYXRpbmc9YmFkXHUwMDI2aGFzaD0lcmVjaXBpZW50Lmhhc2glIiwicG9zaXRpb24iOjQ3fQ==">
+              Bad
+            </a>
+        </div>
+      </div>
+
+      
+  </div>
+
+  <div class="mt-10 px-4 sm:px-0" style="margin-top: 40px; padding: 0 15px;">
+
+  <!-- 2. What is included section -->
+  <div style="width: 100%; border-top: 1px dashed #000000; margin: 15px 0;"></div>
+  <div style="text-align: center; margin-bottom: 15px;">
+      <h3 style="font-family: serif; font-weight: normal; font-size: 24px; margin-bottom: 5px;">Get More Out Of Your Subscription</h3>
+      <p style="font-family: sans-serif; font-size: 16px; font-weight: normal; margin-top: 0;">Try our AI tools for ultimate productivity</p>
+  </div>
+
+  <!-- 3. Card with gif banner and link with utm tags -->
+  <div style="width: 100%; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-bottom: 30px;">
+    <!-- Banner GIF with link -->
+    <div style="width: 100%; height: auto; border-bottom: 1px solid #dddddd; border-top-left-radius: 10px; border-top-right-radius: 10px; overflow: hidden;">
+      <a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vcHJvZHVjdHM_dXRtX3NvdXJjZT1lbWFpbFx1MDAyNnV0bV9tZWRpdW09cG9zdF9wYXl3YWxsXHUwMDI2dXRtX2NhbXBhaWduPXBheXdhbGxfZ2lmIiwicG9zaXRpb24iOjQ4fQ==" target="_blank">
+        <img src="https://every.to/paywall/ai_tools_showcase.gif" alt="AI Tools Showcase" style="width: 100%; height: auto; display: block;">
+      </a>
+    </div>
+    
+    <!-- 4. Mobile-style content sections -->
+    <div style="width: 100%; padding: 15px; background-color: #f8f8f8; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; box-sizing: border-box;">
+      <!-- Front-row access section -->
+      <div style="display: table; width: 100%; margin-bottom: 15px;">
+        <div style="display: table-cell; width: 33%; vertical-align: top; padding-right: 8px;">
+          <div style="display: flex; align-items: start; margin-bottom: 4px;">
+            <img src="https://every.to/paywall/pencil.png" alt="Pencil" style="width: 14px; height: 14px; margin-right: 4px;">
+            <span style="font-family: sans-serif; font-size: 11px; line-height: 1.2; font-weight: 600;">Front-row access to the future of AI</span>
+          </div>
+        </div>
+        
+        <div style="display: table-cell; width: 67%; vertical-align: top;">
+          <div style="margin-bottom: 6px; line-height: 1;">
+            <img src="https://every.to/paywall/check.png" alt="Check" style="width: 12px; height: 12px; margin-right: 2px; vertical-align: middle;">
+            <span style="font-family: sans-serif; font-size: 11px; line-height: 1.2;">In-depth reviews of new models on release day</span>
+          </div>
+          <div style="margin-bottom: 6px; line-height: 1;">
+            <img src="https://every.to/paywall/check.png" alt="Check" style="width: 12px; height: 12px; margin-right: 2px; vertical-align: middle;">
+            <span style="font-family: sans-serif; font-size: 11px; line-height: 1.2;">Playbooks and guides for putting AI to work</span>
+          </div>
+          <div style="margin-bottom: 6px; line-height: 1;">
+            <img src="https://every.to/paywall/check.png" alt="Check" style="width: 12px; height: 12px; margin-right: 2px; vertical-align: middle;">
+            <span style="font-family: sans-serif; font-size: 11px; line-height: 1.2;">Prompts and use cases for builders</span>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Divider -->
+      <div style="width: 100%; height: 1px; border-top: 1px dashed #dddddd; margin: 10px 0;"></div>
+      
+      <!-- Bundle of AI software section -->
+      <div style="display: table; width: 100%;">
+        <div style="display: table-cell; width: 33%; vertical-align: top; padding-right: 8px;">
+          <div style="display: flex; align-items: start; margin-bottom: 4px;">
+            <img src="https://every.to/paywall/sparks.png" alt="Sparks" style="width: 14px; height: 14px; margin-right: 4px;">
+            <span style="font-family: sans-serif; font-size: 11px; font-weight: 600; line-height: 1;">Bundle of AI software</span>
+          </div>
+        </div>
+        
+        <div style="display: table-cell; width: 67%; vertical-align: top;">
+          <div style="margin-bottom: 6px; line-height: 1;">
+            <img src="https://every.to/paywall/app_icons/sparkle.png" alt="Sparkle" style="width: 14px; height: 14px; border-radius: 2px; margin-right: 2px; vertical-align: middle;">
+            <span style="font-family: sans-serif; font-size: 11px; line-height: 1.2;"><strong>Sparkle:</strong> Organize your Mac with AI</span>
+          </div>
+          <div style="margin-bottom: 6px; line-height: 1;">
+            <img src="https://every.to/paywall/app_icons/cora.png" alt="Cora" style="width: 14px; height: 14px; border-radius: 2px; margin-right: 2px; vertical-align: middle;">
+            <span style="font-family: sans-serif; font-size: 11px; line-height: 1.2;"><strong>Cora:</strong> The most human way to do email</span>
+          </div>
+          <div style="margin-bottom: 6px; line-height: 1;">
+            <img src="https://every.to/paywall/app_icons/spiral.png" alt="Spiral" style="width: 14px; height: 14px; border-radius: 2px; margin-right: 2px; vertical-align: middle;">
+            <span style="font-family: sans-serif; font-size: 11px; line-height: 1.2;"><strong>Spiral:</strong> Repurpose your content endlessly</span>
+          </div>
+          <div style="margin-bottom: 6px; line-height: 1;">
+            <img src="https://every.to/paywall/app_icons/monologue.png" alt="Monologue" style="width: 14px; height: 14px; border-radius: 2px; margin-right: 2px; vertical-align: middle;">
+            <span style="font-family: sans-serif; font-size: 11px; line-height: 1.2;"><strong>Monologue:</strong> Effortless voice dictation for your Mac</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div> 
+
+  
+</div>
+
+          </main>
+
+          <!-- Footer information. Footer is a useful landmark element. -->
+          <footer>
+              <!-- This link uses descriptive text to inform the user what will happen with the link is tapped. -->
+              <!-- It also uses inline styles since some email clients won't render embedded styles from the head. -->
+              <p>
+                  You received this email because you signed up for emails from <a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8iLCJwb3NpdGlvbiI6NDl9">Every</a>. No longer interested in receiving emails from us? Click here to <a href="https://every.to/emails/click/ed86a33a35e615cf1fcbce2979112d7acd5c92bfb325300a311a43694ae80c4a/eyJzdWJqZWN0IjoiSSBTdG9wcGVkIFJlYWRpbmcgQ29kZS4gTXkgQ29kZSBSZXZpZXdzIEdvdCBCZXR0ZXIuIiwicG9zdF9pZCI6MzkwOCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8vdW5zdWJzY3JpYmU_cG9zdD1pLXN0b3BwZWQtcmVhZGluZy1jb2RlLW15LWNvZGUtcmV2aWV3cy1nb3QtYmV0dGVyXHUwMDI2aGFzaD0lcmVjaXBpZW50Lmhhc2glIiwicG9zaXRpb24iOjUwfQ==">unsubscribe</a>.
+              </p>
+
+              <!-- The address element does exactly what it says. By default, it is block-level and italicizes text. You can override this behavior inline. -->
+              <address>
+                  221 Canal St 5th floor, New York, NY 10013
+              </address>
+          </footer>
+
+      </div>
+    </td></tr></table>
+  <img width="1" height="1" alt="" src="http://email.mg.every.to/o/eJwkxTGWhCAMANDTDB2-hCiagsPEEFwKBx_y3J3bbzHVz6kw4y7OEq6RcWNaFveTVluYooIQslDOUDadC6mghCBErqYAIQIGwjUw0gQxKhalIoFAmV8znMdkj_XPNJrrqb5Le83w1N3-VK5J2-lGuto9PDFsbqTq79Guy7LvJrm-D68tmz8_X7s91X5vf7ThdxvDuntS-A8AAP__6j87vw"></body>
+</html>
+
+]]></description>
+    <pubDate>Fri, 23 Jan 2026 17:29:13 GMT</pubDate>
+    <guid>19bebe7c13807916</guid>
+    <author>&quot;Every&quot; &lt;hello@every.to&gt;</author>
+  </item>
 
   <item>
     <title>The math on AI agents doesn’t add up</title>
@@ -9430,81 +9745,6 @@ Uncover the 5 major trends you need to define your business strategy in 2026 in 
     <pubDate>Thu, 22 Jan 2026 18:30:56 GMT</pubDate>
     <guid>19be6f9ed90e54b5</guid>
     <author>&quot;Amir Efrati&quot; &lt;hello@theinformation.com&gt;</author>
-  </item>
-
-  <item>
-    <title>Every&apos;s Vibe Code Camp is live—tune in now</title>
-    <description><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-<style>.ck-link { text-decoration: underline; }</style>
-<style>.ck-link { text-decoration: underline; }</style>
-<style>.ck-link { text-decoration: underline; }</style>
-<style>.ck-link { text-decoration: underline; }</style>
-<style>@media only screen { .email * { word-break: break-word; } }
-@media screen and (max-width: 384px) { .mail-message-content { width: 414px !important; } }
-@media only screen { .email * { word-break: break-word; } }
-@media screen and (max-width: 384px) { .mail-message-content { width: 414px !important; } }
-@media only screen { .email * { word-break: break-word; } }
-@media screen and (max-width: 384px) { .mail-message-content { width: 414px !important; } }
-@media only screen { .email * { word-break: break-word; } }
-@media screen and (max-width: 384px) { .mail-message-content { width: 414px !important; } }
-@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size:50px !important; }  }
-@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size:50px !important; }  }
-@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size:50px !important; }  }</style>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<style>email-button:hover{background-color:#3d3d3d}</style>
-</head>
-<body style="margin:0;padding:0;-webkit-font-smoothing:antialiased;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%">
-<div style="background-color:#ffffff"><table role="presentation" cellpadding="0" cellspacing="0" class="email" style="border-collapse:separate;mso-table-lspace:0pt;mso-table-rspace:0pt;background-color:#ffffff;padding-left:0px;width:100%" bgcolor="#ffffff"><tbody><tr>
-<td style="vertical-align:top"><div class="email-container thin" style="margin:0 auto;padding:30px 0;padding-left:20px;padding-right:20px;max-width:600px;padding-top:30px;padding-left:20px;padding-bottom:30px;padding-right:20px;margin:0 auto;max-width:600px">
-<div class="email-header" style="padding-left:20px"><table cellpadding="0" cellspacing="0" style="border-collapse:separate;mso-table-lspace:0pt;mso-table-rspace:0pt;width:100%;margin:0 auto"><tbody><tr><td style="vertical-align:top">
-<p style="margin:1em 0;line-height:1.5em;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;color:#3d3d3d;font-size:18px;line-height:1.5;display:none;text-align:center" class="">​</p>
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse:separate;mso-table-lspace:0pt;mso-table-rspace:0pt;text-align:left;table-layout:fixed;float:none" class="email-image"><tbody><tr><td align="left" style="vertical-align:top"><figure style="margin:1em 0;margin-top:12px;margin-bottom:12px;margin-left:0;margin-right:0;max-width:84px;width:100%"><a style="color:#0875c1;display:block" href="https://0ab9ee3d.click.convertkit-mail2.com/4zu99dp2gzbehpw852oixh6kd8l77a5hgnozn/vqh3hrhompqggwbg/aHR0cHM6Ly9ldmVyeS50bw==" target="_blank" rel="noopener noreferrer" class="kit-image-link" url-id="1826392028"><img src="https://embed.filekitcdn.com/e/bfLygWVy5wXtA4fp3F9dS9/3gy6MvYbhLua2dCVkdQ6Rz?w=800&amp;fit=max" alt="" width="84" height="auto" style="display:block;height:auto;line-height:100%;outline:none;-webkit-text-decoration:none;text-decoration:none;max-width:100%;border:0 none;border-radius:4px 4px 4px 4px;width:84px;height:auto;object-fit:contain"></a><figcaption style="margin-top:0.4em;font-size:0.8em;text-align:center;display:none">​</figcaption></figure></td></tr></tbody></table>
-<p class="" style="margin:1em 0;line-height:1.5em;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;color:#3d3d3d;font-size:18px;line-height:1.5;display:none">​</p>
-</td></tr></tbody></table></div>
-<!--[if mso]><center><table cellpadding="0" cellspacing="0" align="center" style="" width="600" bgcolor="#ffffff"><tr><td><![endif]--><div style="background-color:#ffffff;border-radius:4px;overflow:hidden;max-width:600;margin:0px auto"><table bgcolor="#ffffff" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:separate;mso-table-lspace:0pt;mso-table-rspace:0pt;table-layout:fixed"><tbody><tr><td style="vertical-align:top;padding:20px">
-<div class="email-body" style="background-color:#ffffff">
-<div class="email-content">
-<!--[if mso]><style>.button-table { padding: 12px 0 }</style><![endif]--><table cellpadding="0" cellspacing="0" style="border-collapse:separate;mso-table-lspace:0pt;mso-table-rspace:0pt;width:100%;margin:0 auto"><tbody><tr><td style="vertical-align:top">
-<p class="" style="margin:1em 0;line-height:1.5em;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;color:#3d3d3d;font-size:18px;line-height:1.5">Hi Info,</p>
-<p class="" style="margin:1em 0;line-height:1.5em;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;color:#3d3d3d;font-size:18px;line-height:1.5">We've been vibe coding with experts for hours, and thousands of viewers have joined us to watch them push the limits of what's possible. Don't miss the rest of this stacked lineup.<br>​<br>Still to come:</p>
-<ul class="unordered_list" style="margin:1em 0;margin-left:1em;padding:0;line-height:1.5em;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;color:#3d3d3d;font-size:18px;line-height:1.5;list-style-position:outside !important">
-<li class="list_item" style="padding:0 0 0 1em;margin:0;margin-left:1em"><span>​<a href="https://0ab9ee3d.click.convertkit-mail2.com/4zu99dp2gzbehpw852oixh6kd8l77a5hgnozn/l2hehmhlq3drrdh6/aHR0cHM6Ly94LmNvbS9PZmZpY2lhbExvZ2FuSw==" target="_blank" class="ck-link" rel="noopener noreferrer" style="color:#0875c1" url-id="1826392029"><strong>Logan Kilpatrick</strong></a>​</span></li>
-<li class="list_item" style="padding:0 0 0 1em;margin:0;margin-left:1em"><span>​<a href="https://0ab9ee3d.click.convertkit-mail2.com/4zu99dp2gzbehpw852oixh6kd8l77a5hgnozn/m2h7h5h328leexam/aHR0cHM6Ly94LmNvbS9rZXZpbnJvc2U=" target="_blank" class="ck-link" rel="noopener noreferrer" style="color:#0875c1" url-id="1826392030"><strong>Kevin Rose</strong></a> and <a href="https://0ab9ee3d.click.convertkit-mail2.com/4zu99dp2gzbehpw852oixh6kd8l77a5hgnozn/dpheh0hed02553sm/aHR0cHM6Ly94LmNvbS9raWVyYW5rbGFhc3Nlbg==" target="_blank" class="ck-link" rel="noopener noreferrer" style="color:#0875c1" url-id="1826392031"><strong>Kieran Klaassen</strong></a> </span></li>
-<li class="list_item" style="padding:0 0 0 1em;margin:0;margin-left:1em"><span>​<a href="https://0ab9ee3d.click.convertkit-mail2.com/4zu99dp2gzbehpw852oixh6kd8l77a5hgnozn/e0hph7h7m0d459u8/aHR0cHM6Ly94LmNvbS90cnEyMTI=" target="_blank" class="ck-link" rel="noopener noreferrer" style="color:#0875c1" url-id="1826392032"><strong>Thariq Shihipar</strong></a>​</span></li>
-</ul>
-<!--[if !mso]>--><table width="100%" style="border-collapse:separate;mso-table-lspace:0pt;mso-table-rspace:0pt"><tbody><tr><td align="center" style="vertical-align:top"><a class="email-button" href="https://0ab9ee3d.click.convertkit-mail2.com/4zu99dp2gzbehpw852oixh6kd8l77a5hgnozn/7qh7h8h9doxz3ktz/aHR0cHM6Ly93d3cueW91dHViZS5jb20vbGl2ZS81WUJqbGw5WEpsdz9zaT1pZUUxSFFrRUlaSkJNZ0F0" target="_blank" rel="noopener noreferrer" style="color:#0875c1;margin-bottom:0.5em;border:0 none;font-size:18px;line-height:1.5;background-color:#3d3d3d;color:#ffffff;border-radius:4px;border-color:#3d3d3d;background-color:#3d3d3d;box-sizing:border-box;border-style:solid;color:#ffffff;display:inline-block;width:auto;text-align:center;text-decoration:none;padding:12px 20px;margin-top:8px;margin-bottom:8px;font-size:16px;border-radius:4px 4px 4px 4px" url-id="1826392033">Tune in now</a></td></tr></tbody></table>
-<!--<![endif]--><!--[if mso]><table class="button-table" width="100%" border="0" cellSpacing="0" cellPadding="0" style="margin-top:8px;margin-bottom:8px"><tr><td align="center"><table border="0" cellSpacing="0" cellPadding="0" width="auto"><tr><td align="center" bgcolor="#3d3d3d" style="background-color:#3d3d3d;overflow:hidden;padding:12px 20px"><a class="email-button" href="https://www.youtube.com/live/5YBjll9XJlw?si=ieE1HQkEIZJBMgAt" target="_blank" rel="noopener noreferrer" style="background-color:inherit;display:inline-block;text-decoration:none;margin:0;color:#ffffff;font-size:16px" data-ck-element="button">Tune in now</a></td></tr></table></td></tr></table><![endif]--><table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse:separate;mso-table-lspace:0pt;mso-table-rspace:0pt;text-align:center;table-layout:fixed;float:none" class="email-image"><tbody><tr><td align="center" style="vertical-align:top"><figure style="margin:1em 0;margin-top:12px;margin-bottom:12px;margin-left:0;margin-right:0;max-width:800px;width:100%"><a style="color:#0875c1;display:block" href="https://0ab9ee3d.click.convertkit-mail2.com/4zu99dp2gzbehpw852oixh6kd8l77a5hgnozn/7qh7h8h9doxz3ktz/aHR0cHM6Ly93d3cueW91dHViZS5jb20vbGl2ZS81WUJqbGw5WEpsdz9zaT1pZUUxSFFrRUlaSkJNZ0F0" target="_blank" rel="noopener noreferrer" class="kit-image-link" url-id="1826392033"><img src="https://media.discordapp.net/attachments/1431081963778736220/1463952598175318067/coverrwaousdf.png?ex=6973b39a&amp;is=6972621a&amp;hm=6b01421fd6c1fe4101d312b19c8a3755d6a105dc6e4d07d4945def11abdb7eb8&amp;=&amp;format=webp&amp;quality=lossless&amp;width=3024&amp;height=1177" alt="Image" height="auto" style="display:block;height:auto;line-height:100%;outline:none;-webkit-text-decoration:none;text-decoration:none;max-width:100%;border:0 none;border-radius:4px 4px 4px 4px;height:auto;object-fit:contain"></a></figure></td></tr></tbody></table>
-<p class="" style="margin:1em 0;line-height:1.5em;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;color:#3d3d3d;font-size:18px;line-height:1.5">After watching experts operate at the frontier of the space, join us on tomorrow at 12 p.m. ET for <strong>Agent-native Camp. </strong><a href="https://0ab9ee3d.click.convertkit-mail2.com/4zu99dp2gzbehpw852oixh6kd8l77a5hgnozn/owhkhqhwxr0o56bv/aHR0cHM6Ly94LmNvbS9kYW5zaGlwcGVy" target="_blank" class="ck-link" rel="noopener noreferrer" style="color:#0875c1" url-id="1826392034"><strong>Dan Shipper</strong></a> and the Every team will walk you through <a href="https://0ab9ee3d.click.convertkit-mail2.com/4zu99dp2gzbehpw852oixh6kd8l77a5hgnozn/z2hghnhe53mw07up/aHR0cHM6Ly9ldmVyeS50by9ndWlkZXMvYWdlbnQtbmF0aXZlP3NvdXJjZT1nby1hZ2VudC1uYXRpdmU=" target="_blank" class="ck-link" rel="noopener noreferrer" style="color:#0875c1" url-id="1826392035">agent-native architecture</a> from first principles to working products—how it works, why it matters, and how to use it effectively. This one's for paid subscribers only.</p>
-<!--[if !mso]>--><table width="100%" style="border-collapse:separate;mso-table-lspace:0pt;mso-table-rspace:0pt"><tbody><tr><td align="center" style="vertical-align:top"><a class="email-button" href="https://0ab9ee3d.click.convertkit-mail2.com/4zu99dp2gzbehpw852oixh6kd8l77a5hgnozn/p8heh9h4rzpx85sq/aHR0cHM6Ly9ldmVyeS50by9jb3Vyc2VzL2FnZW50LW5hdGl2ZS1jYW1wL3B1cmNoYXNl" target="_blank" rel="noopener noreferrer" style="color:#0875c1;margin-bottom:0.5em;border:0 none;font-size:18px;line-height:1.5;background-color:#3d3d3d;color:#ffffff;border-radius:4px;border-color:#3d3d3d;background-color:#3d3d3d;box-sizing:border-box;border-style:solid;color:#ffffff;display:inline-block;width:auto;text-align:center;text-decoration:none;padding:12px 20px;margin-top:8px;margin-bottom:8px;font-size:16px;border-radius:4px 4px 4px 4px" url-id="1826392036">RSVP for Agent-native Camp</a></td></tr></tbody></table>
-<!--<![endif]--><!--[if mso]><table class="button-table" width="100%" border="0" cellSpacing="0" cellPadding="0" style="margin-top:8px;margin-bottom:8px"><tr><td align="center"><table border="0" cellSpacing="0" cellPadding="0" width="auto"><tr><td align="center" bgcolor="#3d3d3d" style="background-color:#3d3d3d;overflow:hidden;padding:12px 20px"><a class="email-button" href="https://every.to/courses/agent-native-camp/purchase" target="_blank" rel="noopener noreferrer" style="background-color:inherit;display:inline-block;text-decoration:none;margin:0;color:#ffffff;font-size:16px" data-ck-element="button">RSVP for Agent-native Camp</a></td></tr></table></td></tr></table><![endif]--><p class="" style="margin:1em 0;line-height:1.5em;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;color:#3d3d3d;font-size:18px;line-height:1.5">Once you upgrade and RSVP, you will receive an email with the session link. <br>​<br>From now until February 13, new paid Every subscribers get their first 30 days free. Upgrade now to join tomorrow's Agent-native Camp and all of our upcoming events.</p>
-<!--[if !mso]>--><table width="100%" style="border-collapse:separate;mso-table-lspace:0pt;mso-table-rspace:0pt"><tbody><tr><td align="center" style="vertical-align:top"><a class="email-button" href="https://0ab9ee3d.click.convertkit-mail2.com/4zu99dp2gzbehpw852oixh6kd8l77a5hgnozn/x0hph6hekw43xlf5/aHR0cHM6Ly9ldmVyeS50by9zdWJzY3JpYmU=" target="_blank" rel="noopener noreferrer" style="color:#0875c1;margin-bottom:0.5em;border:0 none;font-size:18px;line-height:1.5;background-color:#3d3d3d;color:#ffffff;border-radius:4px;border-color:#3d3d3d;background-color:#3d3d3d;box-sizing:border-box;border-style:solid;color:#ffffff;display:inline-block;width:auto;text-align:center;text-decoration:none;padding:12px 20px;margin-top:8px;margin-bottom:8px;font-size:16px;border-radius:4px 4px 4px 4px" url-id="1826392037">Start your free trial</a></td></tr></tbody></table>
-<!--<![endif]--><!--[if mso]><table class="button-table" width="100%" border="0" cellSpacing="0" cellPadding="0" style="margin-top:8px;margin-bottom:8px"><tr><td align="center"><table border="0" cellSpacing="0" cellPadding="0" width="auto"><tr><td align="center" bgcolor="#3d3d3d" style="background-color:#3d3d3d;overflow:hidden;padding:12px 20px"><a class="email-button" href="https://every.to/subscribe" target="_blank" rel="noopener noreferrer" style="background-color:inherit;display:inline-block;text-decoration:none;margin:0;color:#ffffff;font-size:16px" data-ck-element="button">Start your free trial</a></td></tr></table></td></tr></table><![endif]--><p class="" style="margin:1em 0;line-height:1.5em;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;color:#3d3d3d;font-size:18px;line-height:1.5">Hope to see you there,<br>The Every team</p>
-</td></tr></tbody></table>
-</div>
-<div class="email-body-footer" style="border-top:1px dotted #888;padding:20px;font-family:Helvetica,Arial,sans-serif;color:#aaa;font-size:12px;padding:10px;border:1px solid #e2e3e4;margin-top:50px"><table cellpadding="0" cellspacing="0" style="border-collapse:separate;mso-table-lspace:0pt;mso-table-rspace:0pt;width:100%;margin:0 auto"><tbody><tr><td style="vertical-align:top">
-<p class="" style="margin:1em 0;line-height:1.5em;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;color:#3d3d3d;font-size:18px;line-height:1.5;font-size:12px;color:#8c8d91">You received this email because you signed up for emails from <a href="https://0ab9ee3d.click.convertkit-mail2.com/4zu99dp2gzbehpw852oixh6kd8l77a5hgnozn/vqh3hrhompqggwbg/aHR0cHM6Ly9ldmVyeS50bw==" target="_blank" class="ck-link" rel="noopener noreferrer" style="color:#0875c1" url-id="1826392028">Every</a>. No longer interested in receiving emails from us? Click here to <a href="https://0ab9ee3d.click.convertkit-mail2.com/4zu99dp2gzbehpw852oixh6kd8l77a5hgnozn/6qheh8hlx73o02ho/aHR0cHM6Ly9ldmVyeS50by91bnN1YnNjcmliZT9oYXNoPWVkODZhMzNhMzVlNjE1Y2YxZmNiY2UyOTc5MTEyZDdhY2Q1YzkyYmZiMzI1MzAwYTMxMWE0MzY5NGFlODBjNGE=" target="_blank" class="ck-link" rel="noopener noreferrer" style="color:#0875c1" url-id="1826392038">unsubscribe</a>.</p>
-<p class="" style="margin:1em 0;line-height:1.5em;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;color:#3d3d3d;font-size:18px;line-height:1.5;font-size:12px;color:#8c8d91">123 Nevins St, #2, Brooklyn, NY 11217</p>
-</td></tr></tbody></table></div>
-</div>
-<div class="email-footer"><table cellpadding="0" cellspacing="0" style="border-collapse:separate;mso-table-lspace:0pt;mso-table-rspace:0pt;width:100%;margin:0 auto"><tbody><tr><td style="vertical-align:top">
-<div></div>
-<div><span style="display: none;">https://0ab9ee3d.unsubscribe.convertkit-mail2.com/4zu99dp2gzbehpw852oixh6kd8l77a5hgnozn</span></div>
-</td></tr></tbody></table></div>
-</td></tr></tbody></table></div>
-<!--[if mso]></td></tr></table></center><![endif]-->
-</div></td>
-<td style="vertical-align:top"></td>
-</tr></tbody></table></div>
-<!-- -->
-<img src="https://0ab9ee3d.open.convertkit-mail2.com/4zu99dp2gzbehpw852oixh6kd8l77a5hgnozn" alt="" style="border:0 none;display:block;height:auto;line-height:100%;outline:none;-webkit-text-decoration:none;text-decoration:none;max-width:100%">
-</body>
-</html>
-]]></description>
-    <pubDate>Thu, 22 Jan 2026 18:23:29 GMT</pubDate>
-    <guid>19be6f2dce473d0a</guid>
-    <author>&quot;Every&quot; &lt;hello@every.to&gt;</author>
   </item>
 
   </channel>
