@@ -4,7 +4,670 @@
     <title>Newsletter Feed</title>
     <link>https://your-domain.com/rss.xml</link>
     <description>Newsletter feed</description>
-    <lastBuildDate>Sun, 25 Jan 2026 15:00:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 15:15:21 GMT</lastBuildDate>
+
+  <item>
+    <title>I Let AI Analyze My Davos Reporting Trip. Here’s What It Missed</title>
+    <description><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" /> <!-- utf-8 works for most cases -->
+    <meta name="viewport" content="width=device-width" /> <!-- Supported on some email clients -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" /> <!-- Use the latest (edge) version of IE rendering engine -->
+    <title>%title%</title> <!-- The title tag shows in email notifications, like Android 4.4. -->
+    
+    <style>
+    </style>
+    <!--[if mso]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if lte mso 11]>
+      <style type="text/css">
+        .outlook-group-fix {
+          width:100% !important;
+        }
+      </style>
+    <![endif]-->
+  </head>
+  <body>
+    <table class="container" cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#ffffff" style="max-width: 600px !important; margin: auto;">
+      <tbody>
+        <tr>
+          <td class="content-wrapper main format-content" style="max-width: 600px;">
+            
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
+  <head>
+    <title>I Let AI Analyze My Davos Reporting Trip. Here’s What It Missed</title> <!-- The title tag shows in email notifications, like Android 4.4. -->
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta charset="utf-8"> <!-- utf-8 works for most cases -->
+    <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- Supported on some email clients -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- Use the latest (edge) version of IE rendering engine -->
+    <meta name="x-apple-disable-message-reformatting" />
+    <!--[if !mso]><!-->
+    <style>
+  .footer-link {
+    color: #ffffff !important;
+    text-decoration: underline !important;
+    font-weight: normal;
+  }
+  .footer-link:hover {
+    color: $magenta !important;
+  }
+  @media screen and (max-width: 600px) {
+    .responsive-table tr td,
+    .responsive-table tr td ul li,
+    .responsive-table tr td ol li {
+      font-size: inherit;
+      line-height: inherit;
+    }
+
+    .responsive-table {
+      width: 100% !important;
+      max-width: 100% !important;
+    }
+  }
+  @media (prefers-color-scheme: dark) {
+    .background-dark {
+      background: #2f3538 !important;
+      color: #dfdfdf !important;
+    }
+  }
+</style>
+
+    <style type="text/css">
+      body, table, td, a{-webkit-text-size-adjust: 100% !important;-ms-text-size-adjust: 100% !important;}
+      table, td{mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+      img{-ms-interpolation-mode: bicubic;}
+      img{border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;}
+      table{border-collapse: collapse !important;}
+      body{height: 100% !important;margin: 0 auto !important;padding: 0 !important;width: 100% !important;}
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+      @media screen and (max-width: 525px) {
+        .mobile-button-container {
+          margin: 0 auto;
+          width: 100% !important;
+        }
+        .mobile-hide {
+          display: none !important;
+          visibility: hidden !important;
+        }
+        .mobile-logo {
+          width: 116px !important;
+        }
+        .mobile-date, .mobile-byline {
+          font-size: 12px !important;
+        }
+      }
+      @media screen and (max-width: 600px) {
+        .responsive-table tr td,
+        .responsive-table tr td ul li,
+        .responsive-table tr td ol li,
+        p {
+          font-size: inherit;
+          line-height: inherit;
+        }
+        h1 {
+          font-size: 26px !important;
+          line-height: 1.4 !important;
+        }
+        .img-max {
+          max-width: 100% !important;
+          width: 100% !important;
+          height: auto !important;
+          display: block !important;
+          margin: 0 auto 16px !important;
+        }
+        .img-container {
+          margin-bottom: 12px !important;
+        }
+        .responsive-table {
+          width: 100% !important;
+          max-width: 100% !important;
+        }
+        .padding {
+          padding-left: 5% !important;
+          padding-right: 5% !important;
+        }
+        .mobile-padding {
+          padding-left: 5% !important;
+          padding-right: 5% !important;
+        }
+        .no-padding {
+          padding: 0 !important;
+        }
+        .mobile-button {
+          font-size: 14px !important;
+          line-height: 1 !important;
+          padding: 16px 32px !important;
+          display: block !important;
+        }
+        .tablet-hide {
+          display: none !important;
+          visibility: hidden !important;
+        }
+      }
+      @media (prefers-color-scheme: dark) {
+        /* Your dark mode styles: */
+        body {
+          background: #2F3538;
+          color: #dfdfdf;
+          background: #2F3538 !important;
+          color: #dfdfdf !important;
+        }
+        .background-dark {
+          background: #2F3538;
+          color: #dfdfdf;
+          background: #2F3538 !important;
+          color: #dfdfdf !important;
+        }
+        h1, h2, h3, h4,
+        p {
+          color: #dfdfdf;
+          color: #dfdfdf !important;
+        }
+        .logo-light {
+          display: none;
+          display: none !important;
+          visibility: hidden;
+          visibility: hidden !important;
+        }
+        .logo-dark {
+          display: block;
+          display: block !important;
+          visibility: visible;
+          visibility: visible !important;
+        }
+      }
+      div[style*="margin: 16px 0"] { margin: 0 !important;}
+      html, body, h1, h2, h3, h4, h5, ul li, ol li { margin: 0;padding: 0;}
+      ul li, ol li { color: #000; }
+      .mobile-button, a, img {
+        transition: color 0.2s, opacity 0.2s;
+      }
+      a:hover {color: #f32a52 !important;}
+      .mobile-button:hover {
+        color: #ffffff !important;
+        background: #f32a52 !important;
+        border: 1px solid #f32a52 !important;
+      }
+      .content-body p {margin-bottom: 24px;-webkit-text-size-adjust: 100% !important;-ms-text-size-adjust: 100% !important;font-size: 19px;}
+      .content-body a {color: #f32a52;font-weight: bold;text-decoration: none;}
+      .content-body a:hover {color: #000 !important;}
+      .takeaway ul {margin-bottom: 0;padding-left: 28px;}
+      .takeaway p:last-of-type,
+      .takeaway li:last-of-type {margin-bottom: 0;}
+    </style>
+    <!--<![endif]-->
+    <!--[if mso]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+    <![endif]-->
+    <!--[if lte mso 11]>
+      <style type="text/css">
+        .outlook-group-fix {
+          width:100% !important;
+        }
+      </style>
+    <![endif]-->
+  </head>
+  <body class="body" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;height: 100% !important;width: 100% !important;margin: 0;padding: 0">
+    <!-- Visually Hidden Preheader Text : BEGIN -->
+<div class="preheader" style="display: none !important;font-size: 1px;line-height: 1px;max-height: 0px;max-width: 0px;opacity: 0;overflow: hidden;mso-hide: all;font-family: sans-serif;color: #fff;">
+  Earlier this week, I found myself with time to kill in an airport lounge ahead of my flight back to San Francisco from the World Economic Forum in Davos, Switzerland. So I did what any bleary-eyed tech editor who felt totally wiped out from dozens of interviews and events would do: I parked myself in an oversize lounge chair, booted up the airport Wi-Fi and decided to see if Claude Cowork, Anthropic’s new AI productivity tool, could write a presentation I planned to give, summarizing the trip. Specifically, I wanted to see how the AI would analyze transcripts from most of my conversations, pull out the key themes and put them in a slide deck for a presentation I intended to give Pro subscribers to The Information in the coming days.
+</div>
+
+    <table border="0" align="center" cellpadding="0" cellspacing="0" width="100%" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important">
+      <tr>
+        <td bgcolor="#ffffff" align="center" class="background-dark" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;max-width:600px;">
+          <!--[if (gte mso 9)|(IE)]>
+            <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
+              <tr>
+                <td align="center" width="600">
+          <![endif]-->
+          <table  border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;" class="responsive-table">
+            <div style="display: none !important;font-size: 1px;line-height: 1px;max-height: 0px;max-width: 0px;opacity: 0;overflow: hidden;mso-hide: all;font-family: sans-serif;">
+  
+</div>
+
+            <tr>
+              <td bgcolor="#ffffff" class="divider" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;max-width:600px;">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
+                  <tr>
+                    <td bgcolor="#ffffff" align="left" valign="top" style="padding: 24px 20px 0;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" class="mobile-padding background-dark">
+                      <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlvYCYiS-2F03cdUcMOgCPCyBxUkW3btpMf1IiekqWdBbLpHWM5XFZbZjWb97KeKOpSBwSDb0hOES7I9bOOK5lFqrd-2F1wWeJyzfXlo6cJhH9EDPKnKDA-2FYIB5kWmpnSmRl3I-3DcUEi_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVzfLol8zKBZalyGNBnNshMpUmoSrREoSYeCI89DN6NfTNQ1q8rYCCgX3tXTbDjfYKoEY9G5m5I3cpUPS1rL0svKj-2FkiJ9t1oLow2KE2W7Yg1nUqPMDBFG30BNuEZf0GtEj5QKt0fxk0beWRnN5sAtAk" target="_blank" style="text-decoration: none;color: #ffffff;line-height: 0;margin: 0;padding: 0;display: block">
+                        <img alt="The Information logo"
+                          src="https://tii.imgix.net/logos/theinformation/the-information-black-text-logo-white-bg.jpg?pad=20&amp;bg=ffffff"
+                          class="mobile-logo" width="145" border="0" style="width: 145px;max-width: 145px;border: 0" />
+                      </a>
+                    </td>
+                    <td bgcolor="#ffffff" align="right" valign="top" style="padding: 24px 20px 0" class="mobile-padding background-dark">
+                      <span class="mobile-date" style="font-family: 'Suisse Int\'l Mono', monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;color: #6d686e;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%">Jan 24, 2026</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td bgcolor="#ffffff" class="divider" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;max-width:600px;">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;max-width: 600px">
+                  <tr>
+                    <td style="padding: 0 20px" class="background-dark padding">
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
+                        <tr>
+                          <td align="left" style="padding: 32px 0;font-size: 19px;line-height: 32px;font-family: 'Noto Serif', Georgia, serif;font-weight: 400;border-bottom: 2px solid #f0ece5;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;max-width: 600px;width: 100%;">
+                            
+                            
+<p class="content-highlight" style="font-family: monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;color: #f32a52;margin-bottom: 8px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
+  The Takeaway
+</p>
+
+                            
+<h1 class="content-title" style="font-family: 'Suisse Works', Georgia, 'Times New Roman', Times, serif; font-weight: normal; font-size: 36px; line-height: 54px; margin-bottom: 8px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
+    <a style="color:inherit;text-decoration:none;" universal="true" href="https://url3396.theinformation.com/uni/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNCzBvlKU4canw0Gj5kGortyKCbMOI5DQfaJDo86S6lkjtqHmTWKBI6vpP2u4Zg9GUflyn7nXQl8BMnOmQHs4-2BXnOhSczcwkYCp3ZYAHYI0hssROs3OYx0Gs22YoEHAdmFEOVluQ6naN3QeDKCKWo6-2FJuXdyiOPOPDvrJmCTSYomWYIdQuIO2zGY14N3Ulicz9YWjBYR6MPMb4m8tAaQDhTg-3D-3DYXe9_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVzl4NgJNsitnEWcRCY4Cw5tTtC-2BZrtfVOl62REQhcDGmIJDNxEmTz0n6dYbtbUHydQkcH-2BtkJ5sxTgLpWBYG-2BblnlqahlOi9irTZZDMQ8P7E6cZLYuYV6OYd338PJ-2FxkVuhzyLO72qGXah5rqMozJOK">I Let AI Analyze My Davos Reporting Trip. Here’s What It Missed</a>
+</h1>
+
+                            
+<p class="content-byline" style="font-family: Helvetica, Arial, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e;margin-bottom: 16px;font-weight: 400;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
+  By <a style="text-decoration: none; color: #6d686e; font-weight: normal;" href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBm7BI9ko3YAPsg1gT8v0iL3z6AOQL0QuZC4Z1oz9QfXpVLu4hLe6v8aIqzx2veaELkdR6pGBv-2FelCHMYQhKmInkxKj-2FnhnYqng-2F-2BIpmd5Z3RV-2BI2oHS8iHoAzCzSkjNJMHGTEmn7h0uXzMFJEhdaaWR9rvl_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVwH7BUzWapdP5dn4Gl-2FOUjzDOO9P5G6-2FFHJfdyogKg-2B9bvQK3rmbJ-2FQyW-2FqxiO9N5Q4R21m68-2FxnZrZUptYsIcr-2FybusbKfVwMuFMLCZAMmrRAVYE0-2F3IvGtnX9-2F5F7Z1bn3-2F-2FT1-2BiHnhnzOUCUWb93">Jessica E. Lessin</a>
+</p>
+
+                            
+<div style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;" class="content-body">
+  <p>Earlier this week, I found myself with time to kill in an airport lounge ahead of my flight back to San Francisco from the World Economic Forum in Davos, Switzerland.</p>
+
+<p>So I did what any bleary-eyed tech editor who felt totally wiped out from dozens of interviews and events would do: I parked myself in an oversize lounge chair, booted up the airport Wi-Fi and decided to see if Claude Cowork, Anthropic’s new AI productivity tool, could write a presentation I planned to give, summarizing the trip.</p>
+
+<p>Specifically, I wanted to see how the AI would analyze transcripts from most of my conversations, pull out the key themes and put them in a slide deck for a <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkq0YRel4d1UlCzhUP60d5cN9JfcsH8B7AZpnm5CgYJ8qGqdQLymbGu-2F6FcS9wSYww-2BkyyTsQ46vpDVwXHQe9Sv3dlCRt259agceuaEW-2Bt7zeuRvSlnr7jzhXESXpZGIBobQfZ4YR2nk1o5i5iIrJwMmYuFDtoAEso40su3rh-2FrJTlVc5869V9GjSbvYBQOydg-3DUtIE_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVw0LKk9cFpQEJJJLniWAiqjC3O3fUlB3EAy3XCxZjzdFYs0KIdLbqBOqSlbJbzwb4sxjtjxRbWSao7xHfS9Cgb5yJeMaTSeVe8jeL96tywIKBNwoh8kZLQnfwZ85CDXKtyuQs1XhGhzzo-2F7k-2FumVspD">presentation I intended to give Pro subscribers to The Information</a> in the coming days.</p>
+
+<p>I learned a ton of lessons.</p>
+</div>
+                              
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" style="padding: 0">
+      <table border="0" cellspacing="0" cellpadding="0" class="mobile-button-container">
+        <tr>
+          <td align="center" bgcolor="#f32a52">
+            <a class="button mobile-button" style="font-size: 16px;font-family: Helvetica, Arial, sans-serif;color: #fff;text-decoration: none;padding: 16px 154px;display: inline-block;font-weight: 400;line-height: 16px;border: 1px solid #f32a52;background: #f32a52;border-radius: 4px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;" universal="true" href="https://url3396.theinformation.com/uni/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNCzBvlKU4canw0Gj5kGortyKCbMOI5DQfaJDo86S6lkjtqHmTWKBI6vpP2u4Zg9GUflyn7nXQl8BMnOmQHs4-2BXrU6tOvnmc3dWuT3nqqFU9lXr59H8TDjWXeGJ6TurGHbtVx4lYhaDxnQqVYgyKtyd7l-2BSicke3UGySJOO8o-2B5qAlBeGbnQh8mrUaC3nQKEG6-2BqBXhVjG-2FvrSI5PLiOZR-2FkjMHdsGCQ4XyDsWYDqwHmw-3DtXQB_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVyAMU3ZIz-2FNCZ-2BZup9-2BEyEyM2s1SE3URdpN2KjfCncQg1BIxEKmpskhbou6TuqIzGcWRH6W7LAuKPsZ7-2FKlNtogkANXSIKNa0QQGqUFZwx0MBRcX28XNfqb26HAOVU4-2Flku0NG5hqXd5srDTo98hKME">
+  <!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->
+  Read the full article
+  <!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->
+</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+              <tr class="takeaway">
+  <td bgcolor="#ffffff" class="divider">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td style="padding: 0 20px" class="background-dark padding">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td align="left" style="padding: 32px 0 48px;font-size: 19px;line-height: 32px;font-family: 'Noto Serif', Georgia, serif;font-weight: 400;border-bottom: 1px solid #f0ece5;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
+                <p style="font-family: 'Suisse Int\'l Mono', monospace, Helvetica, Arial, sans-serif;font-size: 16px;line-height: 18px;color: #f32a52;margin-bottom: 8px;">The Takeaway</p>
+                <ul><li>The AI just summarized everything that was said, without any insight into whether it was new or important. My brain was looking for the delta—the change.</li><li>Claude’s slides were not necessarily bad or wrong. They just offered very little of value if you had opened a single technology news website in the last year. </li></ul>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+            
+            <tr>
+  <td bgcolor="#ffffff" class="divider">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td style="padding: 0 20px" class="background-dark padding">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td align="left" style="padding: 48px 0;font-size: 19px;line-height: 32px;font-family: 'Noto Serif', Georgia, serif;font-weight: 400;border-bottom: 1px solid #f0ece5;">
+                <h2 style="font-family: 'Suisse Works', Georgia, 'Times New Roman', Times, serif;font-weight: 500;font-size: 26px;line-height: 36px;margin-bottom: 16px;">Popular articles</h2>
+
+                <!--[if (gte mso 9)|(IE)]>
+                <table border="0" cellspacing="0" cellpadding="0" width="164" dir="ltr">
+                <tr>
+                <td width="164" valign="middle">
+                <![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" width="164" class="responsive-table img-container" style="width: 164px"><tr><td style="line-height: 0" class="img-container">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkayEPumDOht6B6TI0Zt47ONk9Dg6JQ7ej5NGpHG78-2FXKpBXKhcX1-2BF6ofMa1Yza58xAK-2BOgAUOpkmaLD0h-2F0jX-2FeAo-2BtfVW7KpwenBdW6dAE4RNezb7XXTbRQA2B3DyKbItwsi6N3hZPDW76wL3ckRXtqSs4jRua1ix4kFhU0gRXXh2oMSZCPsF2Yh1MB8RRJCIDatEB-2Bdr93enOZrMJpdGkBL4FZ2Mj9natfIsBwJgMtw-2BI1kIIv0TFh8hGCrgaWJu8mrInXH0LKWMIuTEQ4kaXgu_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVw524NlZU2AsBw1-2FP3ElFs3SuQ8jcnCD0xU8ka6X6SOoLHR9LUB61HL4Mjv4KPj5uhyt0GUIxHPQOx6ga0zMi0LtKMG3r-2FBpvsW2-2BF1R-2F-2F62e0mFFW3HWUUFoUS44TaCfqnGX89538VvyF4HYEWpRvi" target="_blank">
+                    <img alt="" width="164" src="https://tii.imgix.net/production/articles/16447/e8ae4191-6f5a-400d-b29e-9835e38b34a3-SJfaks.png?w=560&amp;auto=compress,format&amp;q=20" style="max-width: 164px;margin: 0 20px 0 0!important" class="img-max" border="0" />
+                  </a>
+                </td></tr></table>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                <td width="16">&nbsp;</td>
+                <td width="363" valign="middle" style="font-size: 16px;line-height: 22px;font-family: Georgia, serif;color: #000000">
+                <![endif]-->
+                <div style="width: 360px;float: left" class="responsive-table">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkayEPumDOht6B6TI0Zt47ONk9Dg6JQ7ej5NGpHG78-2FXKpBXKhcX1-2BF6ofMa1Yza58xAK-2BOgAUOpkmaLD0h-2F0jX-2FeAo-2BtfVW7KpwenBdW6dAE4RNezb7XXTbRQA2B3DyKbItwsi6N3hZPDW76wL3ckRXtqSs4jRua1ix4kFhU0gRXXh2oMSZCPsF2Yh1MB8RRJCIDatEB-2Bdr93enOZrMJpdGkBL4FZ2Mj9natfIsBwJgMtw-2BI1kIIv0TFh8hGCrgaWJu8mrInXH0LKWMIuTEQ4k-85v_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVxs0oIyqhGws6P4dZgYBUfYVY98B7ikUSjLDgCLGXDXUuz3V185CDAPWF961UX7G1KBoiuyswYqGIGwUMDtyoPs10fIpdlKOmiV1UQdFs1hovfVB2j6hcVqrIiCPr0mFrfgFd3xK82BOCLls-2By-2FKtgs" target="_blank" style="text-decoration: none; color: inherit;">
+                    <span style="font-family: 'Suisse Int\'l', monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;display: block;margin-bottom: 8px;color: #f32a52;">Applied AI</span>
+                    <h4 style="font-family: 'Suisse Int\'l', Helvetica, Arial, sans-serif;font-size: 18px;line-height: 27px;margin: 0 0 4px;font-weight:500; color: inherit;">
+                      OpenAI Plans to Take a Cut of Customers’ AI-Aided Discoveries
+                    </h4>
+                    <span style="font-family: Helvetica, Arial, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">
+                      By Amir Efrati
+                    </span>
+                  </a>
+                </div>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                </tr>
+                </table>
+                <![endif]-->
+                <div style="clear: both"></div>
+                <br><table align="left" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td style="background: #fec6cc;padding: 1px 0 0; line-height: 0; font-size: 1px"></td></tr></table><br>
+                <!--[if (gte mso 9)|(IE)]>
+                <table border="0" cellspacing="0" cellpadding="0" width="164" dir="ltr">
+                <tr>
+                <td width="164" valign="middle">
+                <![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" width="164" class="responsive-table img-container" style="width: 164px"><tr><td style="line-height: 0" class="img-container">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNFPDRVyZ6YfRpU7VFKF84mUaZbM5mJf8pjk0FDUVmdsOcFPy-2B19d1u2jZIYq6PRLHKuR842u5Nl4FG0GRz5Ju566fzL2Oa-2BuOpPIbQGvjmJgB40v5poK0pKdnMtxbpCfMGiKVqj0P69Yf8I442IdgrEvwnTMpc7fx9Mnq7PaShsAkTRTvU12Cwdu5Oob4aab-2FBg67h-2B1rBVFePpd0wfJ48OdeN8Kv1aMV0mGZ19Vye4A-3DWNuB_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVyzX-2FgKGAbwTf6VwwVvhVgyvpiGHmQrm13eNIu8BtXwgSr17WoA-2BF6YqE5cQB1KjZhhslvggsBrvihU14RcY63ECsImjzhWvBtIhciTwA6FsvlnPmQXQyJwjTYzdZga7RukCsk2NXJYKkwnYIdSWuG1" target="_blank">
+                    <img alt="" width="164" src="https://tii.imgix.net/production/articles/16444/517fe562-db64-448f-b2c5-6688d22bd57e.jpg?w=560&amp;auto=compress,format&amp;q=20" style="max-width: 164px;margin: 0 20px 0 0!important" class="img-max" border="0" />
+                  </a>
+                </td></tr></table>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                <td width="16">&nbsp;</td>
+                <td width="363" valign="middle" style="font-size: 16px;line-height: 22px;font-family: Georgia, serif;color: #000000">
+                <![endif]-->
+                <div style="width: 360px;float: left" class="responsive-table">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNFPDRVyZ6YfRpU7VFKF84mUaZbM5mJf8pjk0FDUVmdsOcFPy-2B19d1u2jZIYq6PRLHKuR842u5Nl4FG0GRz5Ju566fzL2Oa-2BuOpPIbQGvjmJgB40v5poK0pKdnMtxbpCfMGiKVqj0P69Yf8I442IdgrEvwnTMpc7fx9Mnq7PaShsAkTRTvU12Cwdu5Oob4aab-2FBg67h-2B1rBVFePpd0wfJ48OdeN8Kv1aMV0mGZ19Vye4A-3D4jq6_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVy51LRfO4sZlcPGJwsIU8Li8kgLesBh8NBmUX-2ByNkJ7hogW6ikZundO945ldYac0DHS8TLXxtNBMtL9GVrpMfUh2ZwD6UPCUZJ-2Ffye8k9wEtdV-2BkaLaJ4E8gHmhTBrOHS-2FRZ60nn4lcsr74x6kqMc38" target="_blank" style="text-decoration: none; color: inherit;">
+                    <span style="font-family: 'Suisse Int\'l', monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;display: block;margin-bottom: 8px;color: #f32a52;">Exclusive</span>
+                    <h4 style="font-family: 'Suisse Int\'l', Helvetica, Arial, sans-serif;font-size: 18px;line-height: 27px;margin: 0 0 4px;font-weight:500; color: inherit;">
+                      Anthropic Lowers Gross Margin Projection as Revenue Skyrockets
+                    </h4>
+                    <span style="font-family: Helvetica, Arial, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">
+                      By Sri Muppidi
+                    </span>
+                  </a>
+                </div>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                </tr>
+                </table>
+                <![endif]-->
+                <div style="clear: both"></div>
+                <br><table align="left" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td style="background: #fec6cc;padding: 1px 0 0; line-height: 0; font-size: 1px"></td></tr></table><br>
+                <!--[if (gte mso 9)|(IE)]>
+                <table border="0" cellspacing="0" cellpadding="0" width="164" dir="ltr">
+                <tr>
+                <td width="164" valign="middle">
+                <![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" width="164" class="responsive-table img-container" style="width: 164px"><tr><td style="line-height: 0" class="img-container">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNCAMt4ugUQEQQirn6ze2-2BfLVaRHkqmwz30lIvRDHoSri3HDv76fqehWdIfLJKOv5iTCAOaxg0QbgfGFDCxfaVop-2FvOcCl0bUDR61BcDlFjB2JUcpsXmCMyLqq-2FjhKTc0f7ZjvQfxXjxzyJ1EVMpONTjNEKdjkQJkk2SG6wDIXHymt1V7uGr56uxX-2BbuhtYgaxY98qK8IIQGZ5H3Zts17DkKd4Rk9wrtuv79HZieOSgaE-3DBPDN_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVwD2lZZfPavblYC5VnbGkyrvkvm3-2BEVjYJgS0pACZLXC4vrizim-2BFrDX-2FuWJf0pWw4AD4l55pWEKJI2V3hwqmAbxaUgpEbjLslFYLvMP1-2Fh3PEOky5OG5P3OQxMf36abajy9jU2mlAG8yBuqsgEw0pe" target="_blank">
+                    <img alt="" width="164" src="https://tii.imgix.net/production/articles/16434/b1598fdc-fa3a-4fd2-8a5a-6e0036f760ec.jpg?w=560&amp;auto=compress,format&amp;q=20" style="max-width: 164px;margin: 0 20px 0 0!important" class="img-max" border="0" />
+                  </a>
+                </td></tr></table>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                <td width="16">&nbsp;</td>
+                <td width="363" valign="middle" style="font-size: 16px;line-height: 22px;font-family: Georgia, serif;color: #000000">
+                <![endif]-->
+                <div style="width: 360px;float: left" class="responsive-table">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNCAMt4ugUQEQQirn6ze2-2BfLVaRHkqmwz30lIvRDHoSri3HDv76fqehWdIfLJKOv5iTCAOaxg0QbgfGFDCxfaVop-2FvOcCl0bUDR61BcDlFjB2JUcpsXmCMyLqq-2FjhKTc0f7ZjvQfxXjxzyJ1EVMpONTjNEKdjkQJkk2SG6wDIXHymt1V7uGr56uxX-2BbuhtYgaxY98qK8IIQGZ5H3Zts17DkKd4Rk9wrtuv79HZieOSgaE-3Dl2gM_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVwc6fu4E6rxTKCT71S3BpNEZOwyqXVBkOPdFo52fpsUTOfhr9-2BW-2BHhC9O7QdUD2KpBFGcVlIrcTMMZv1umUtf1OhVZjP80C5VM0QWD3pZtO8njyu3dEvRo4W3u5q6QYAq280BiGsTNMYnl1hX4-2BUGGM" target="_blank" style="text-decoration: none; color: inherit;">
+                    <span style="font-family: 'Suisse Int\'l', monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;display: block;margin-bottom: 8px;color: #f32a52;">Exclusive</span>
+                    <h4 style="font-family: 'Suisse Int\'l', Helvetica, Arial, sans-serif;font-size: 18px;line-height: 27px;margin: 0 0 4px;font-weight:500; color: inherit;">
+                      OpenAI Lines Up Advertisers, Reveals Key Details Ahead of Ads Launch
+                    </h4>
+                    <span style="font-family: Helvetica, Arial, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">
+                      By Catherine Perloff and Sri Muppidi
+                    </span>
+                  </a>
+                </div>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                </tr>
+                </table>
+                <![endif]-->
+                <div style="clear: both"></div>
+                <br><table align="left" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td style="background: #fec6cc;padding: 1px 0 0; line-height: 0; font-size: 1px"></td></tr></table><br>
+                <!--[if (gte mso 9)|(IE)]>
+                <table border="0" cellspacing="0" cellpadding="0" width="164" dir="ltr">
+                <tr>
+                <td width="164" valign="middle">
+                <![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" width="164" class="responsive-table img-container" style="width: 164px"><tr><td style="line-height: 0" class="img-container">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaN-2FvFOhIE1eAwIjwr9iLzvh-2F1EAvYJ7LHMEIqrNT4V4XCYwN1wcTzVuHNLWE5N0Q-2Fn7eR35LzKzEPvzlFlN2gV4wr2lNCL-2B-2FIfq3HM1ij-2FuTbgTeiTgwNRsfZr691th-2FFeSuV75McWqrMskAxjja3wGW21dC3Ve4b6ONT3-2FXWDnq2YvmRLlSBk8lztVqUWZ6P5kKZjzEdTM7MoGi2ahvPVvA-3D-3DCq3g_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVyc0xjgfdoLB3PmuW0fhGjHVeN6yH-2BKXg0aTfAhCrT61ijskXKEcAlspQl3ppc-2B0xozuHLB4k53LzHtlE5WbFwFG4rHktrBiGhyjBIiLOEnfRowF86nWIW7XaxkNUjq68l08Qt0RTrw44-2FTPiHuqUqW" target="_blank">
+                    <img alt="" width="164" src="https://tii.imgix.net/production/articles/16423/fe74cb6c-0463-40a7-8ae9-94e5aa6019ad.png?w=560&amp;auto=compress,format&amp;q=20" style="max-width: 164px;margin: 0 20px 0 0!important" class="img-max" border="0" />
+                  </a>
+                </td></tr></table>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                <td width="16">&nbsp;</td>
+                <td width="363" valign="middle" style="font-size: 16px;line-height: 22px;font-family: Georgia, serif;color: #000000">
+                <![endif]-->
+                <div style="width: 360px;float: left" class="responsive-table">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaN-2FvFOhIE1eAwIjwr9iLzvh-2F1EAvYJ7LHMEIqrNT4V4XCYwN1wcTzVuHNLWE5N0Q-2Fn7eR35LzKzEPvzlFlN2gV4wr2lNCL-2B-2FIfq3HM1ij-2FuTbgTeiTgwNRsfZr691th-2FFeSuV75McWqrMskAxjja3wGW21dC3Ve4b6ONT3-2FXWDnq2YvmRLlSBk8lztVqUWZ6P5kKZjzEdTM7MoGi2ahvPVvA-3D-3DQp93_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVwXju166p4DbEoKHV5qpPDk3RTzVS708Lt5SLHsFZ-2BIqmULzs92kcV2vS-2BOMs4ZNWP7oRN1WuSDmqegDh9Lsn3FMCy8-2BfWn9jMOo3wdPfu22-2FgCaIAdcVm01oBhFw-2BxvbMyWuOzW8TByBs5r8jwLG7D" target="_blank" style="text-decoration: none; color: inherit;">
+                    <span style="font-family: 'Suisse Int\'l', monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;display: block;margin-bottom: 8px;color: #f32a52;">Exclusive</span>
+                    <h4 style="font-family: 'Suisse Int\'l', Helvetica, Arial, sans-serif;font-size: 18px;line-height: 27px;margin: 0 0 4px;font-weight:500; color: inherit;">
+                      Google’s Gemini Sees Developer Requests More Than Double in Five Months
+                    </h4>
+                    <span style="font-family: Helvetica, Arial, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">
+                      By Erin Woo
+                    </span>
+                  </a>
+                </div>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                </tr>
+                </table>
+                <![endif]-->
+                <div style="clear: both"></div>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+            <tr>
+  <td bgcolor="#ffffff" class="divider">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td style="padding: 0 20px" class="background-dark padding">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td align="left" style="padding: 48px 0 0;font-size: 18px;line-height: 27px;font-family: Verdana, serif;color: #000;font-weight: 400;">
+                <h2 style="font-family: Georgia, Times, serif;font-weight: 400;font-size: 26px;line-height: 36px;margin-bottom: 16px;margin-top: 0;">
+                  Opportunities
+                </h2>
+                <h4 style="font-family: Verdana, sans-serif;font-size: 18px;line-height: 27px;margin-bottom: 8px;margin-top: 0;">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlgaThIaQhhxP-2B18aQkVacQa-2BbGcb9fvNdGV7qVgiOyEIdSVCJFsORDX2dr1MYHCVQqMElygmvQBgh-2BUlG7u-2BYWdWo0CLjz6sVmon05jOFY8bZhDyCg4hSbBbAPttSSMyAR9-2BMcEd81LUbZIpPTVa7PzJFl_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVyVSXrjBISxinOso8fmdNgU5VHtUSjpII2e17jTcQEvZh2DkuUHflI9UeNpSDSGQ0l-2BRG1CprUXGLNNXY2VfldkTdq5ozHFnnIobgnxX40eJNP-2FVdBxW7YWd1Oc2-2B5Z6Qe2kcpuRii8MM-2FdXwaWKDVC" target="_blank" style="text-decoration: none;color: inherit;font-weight: 700;">
+                    Group subscriptions
+                  </a>
+                </h4>
+                <p style="font-family: Verdana, sans-serif;margin: 8px 0;font-weight: 400;">Empower your teams to stay ahead of market trends with the most trusted tech journalism.</p>
+                <p style="margin: 0;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlgaThIaQhhxP-2B18aQkVacQa-2BbGcb9fvNdGV7qVgiOyEIdSVCJFsORDX2dr1MYHCVQqMElygmvQBgh-2BUlG7u-2BYWdWo0CLjz6sVmon05jOFY8bZhDyCg4hSbBbAPttSSMyAR9-2BMcEd81LUbZIpPTVa7PrQep_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVxnMDax5b-2Fv-2BoBn-2FkqoD7sQOkjOxH69pQuiQYEXddH7rTQ4-2F7uw1drab3ZrVvNq9uGfACL2lvtRiYulEtHx30WUeowB6L5ZjISkPoYIeBGcEAAxotpldtWiDOMVHHX3fxHoZQGDjwC2VXZFW5awwXAg" target="_blank" style="font-family: Verdana, sans-serif;text-decoration: underline;color: #f32a52;font-weight: 400;line-height:24px;font-size: 16px;">Learn more</a></p>
+                <table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 24px 0"><tr><td style="background: #fec6cc;padding: 1px 0 0;line-height: 0;font-size: 1px"></td></tr></table><br>
+                <h4 style="font-family: Verdana, sans-serif;font-size: 18px;line-height: 27px;margin-bottom: 8px;margin-top: 0;">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkXfGE0AkbtBrzl4aUS5O2KNdNYXa5mgGSNJhsksQ21m75EruhwlHl0VwdpgyNrFiS16S8LmSEMKszbecuYgwpNdOPbVucBt28xIehgCi9dx0jb8gYNYMCSYCufnCqGU-2F9MGxigdnOGfBA-2B4bmhq2TSNMyS_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVxAufREy-2BKqtZuqTjBAtKqObpBLFDqPlxgCy1i98rdMvBK0ypO0zTXJekexmM8GTD4-2FIH77KqJszphHdo-2FFuQ7F5q6ZAitCUlGTjMZ-2BoGAc0r5K1RAK-2Fw86x6MD-2BZFI3ut92wQX6B4sth9q-2FkDO1Ow9" target="_blank" style="text-decoration: none;color: inherit;font-weight: 700;">
+                    Brand partnerships
+                  </a>
+                </h4>
+                <p style="font-family: Verdana, sans-serif;margin: 8px 0;font-weight: 400;">Reach The Information&rsquo;s influential audience with your message.</p>
+                <p style="margin: 0;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkXfGE0AkbtBrzl4aUS5O2KNdNYXa5mgGSNJhsksQ21m75EruhwlHl0VwdpgyNrFiS16S8LmSEMKszbecuYgwpNdOPbVucBt28xIehgCi9dx0jb8gYNYMCSYCufnCqGU-2F9MGxigdnOGfBA-2B4bmhq2TScETu_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVyYuI5NfkSDMHn21lmBvtg2N-2FSnTffQWxR6R0xfywKmu-2F8hWvmvBIYM43H0sAuO2yP4qkuyLK-2Bg-2BpSoSXS7-2BRsLuOIZAXTm77XJU3T2JNLFYRvWKMH7bvep1GiKNisNLiBwhLZt2qbSODTW7E4Saeqy" target="_blank" style="font-family: Verdana, sans-serif;text-decoration: underline;color: #f32a52;font-weight: 400;line-height:24px;font-size: 16px;">Connect with our team</a></p>
+                <table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top: 48px;"><tr><td style="background: #f0ece5;padding: 1px 0 0;line-height: 0;font-size: 1px"></td></tr></table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+          </table>
+          <!--[if (gte mso 9)|(IE)]>
+              </td>
+            </tr>
+          </table>
+          <![endif]-->
+        </td>
+      </tr>
+      <tr>
+  <td bgcolor="#ffffff" class="background-dark">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <table
+            width="600"
+            border="0"
+            cellspacing="0"
+            cellpadding="0"
+            style="width: 600px; max-width: 600px"
+            bgcolor="#ffffff"
+            class="responsive-table"
+          >
+            <tr>
+              <td
+                align="center"
+                style="padding: 45px 75px; padding-top: 45px !important; padding-bottom: 45px !important; font-family: Suisse Screen, Helvetica, Arial, sans-serif; font-weight: normal; font-size: 12px; line-height: 24px; font-size: 12px !important; line-height: 24px !important; color: #ffffff; background: #2F3538;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;"
+                class="background-dark padding"
+              >
+                <span
+                  style="font-family: 'Suisse Int\'l Mono', monospace, Helvetica, Arial, sans-serif; font-size: 14px; color: #F32A52"
+                >Follow us</span>
+                <table width="227.85" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1T2Sl5PeJ-2FG7XEaBvfWxfrQHbwmq5gLU2ojiuowH64rJBj-2BXB6C9UBnLd5uDA0OPkzjJvALNAX05BKspQYMbXWDL0MnbFlRvZeKAMCTnDPGIGz8gf7A4hfApLe6GYNkXtkcPgrD1Po3vEZzY-2FdwkV6k-3DiU3h_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVxAQYSUioyIMN5OY3Npd1i6grCBAlwxF6DXcQGNveiY6qnasAi3cLSwjyqN9u5cH-2FNg-2BMJTM5sC4A7Y3ma65PK939lEa1359zUlG5gcXkrhSn9OVAXpnDsYjtoibzbHji-2Bih7rO6hBmcsaNDZCEtrSi"
+                        target="_blank"
+                        style="text-decoration: none;"
+                      >
+                        <img width="32" src="https://tii.imgix.net/global/email/icon-X-v3.png" alt="X" border="0">
+                      </a><br>
+                    </td>
+                    <td width="32" valign="middle"></td>
+                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1YCFIgUTnTtU9jcXdi5OlS4DnFensodraGNsXFNZLRKsOkUFKt9aKkvfZp-2FSglSxfcQA5R6BJTwq1KR4o1rz281uE5YzM2dIrm1plX7HgGIIPuVWTG5OriyC6swfi2qJ6unthYuFlmmBd2j-2F0yD83EMUtbTLNnDZHdP7eLhujKRLGIx4_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVy6z4Io-2FaVuCc1VsJ0UzO-2F1ViPs7vTW-2BB4WkRnocF8gOGSXwaBUaltRi94DGuvN2fuvGbdt-2BJjLi1m8ffIKkIYRvvDaDwOAXcC1cJguWxWYq8W4HO5URGspZY2IjzTqxYwOybNdmJCBcRktJAbIwlOF"
+                        target="_blank"
+                        style="text-decoration: none"
+                      >
+                        <img width="32" src="https://tii.imgix.net/global/email/icon-linkedin-v3.png" alt="LinkedIn" border="0">
+                      </a><br>
+                    </td>
+                    <td width="32" valign="middle"></td>
+                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1dMu7bhLyA2t3R-2B-2Be0O7TUhTGcCztTV72-2BitQZ9RP9u7mPvffDgEtbfIxnCYoxVjmZwU-2F4wJBDbSU1NSG1isg34lEo-2BiWyPOebxPCDHxMyjDI9Zr37IYREpHcRRHjimfc6-2BEa2kt1S0kVBAs-2BA-2BkeBn86tEjBbHaDYYG-2BTPqkP71oWxj_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVyRuGx5F6d2Vxf40HAYd0FTwHFKIN1YdnFUfubIq1puUJC9hB9msjYV4MQjOhnRvWymURtMKMGu52EAIpXWsc6Qrg-2BNfhSarp01ezwJ8bXxxvakU0Ieb6SqIAbNBEWxouYsYtRMVpfUZzIBMHVxWlLK"
+                        target="_blank"
+                        style="text-decoration: none"
+                      >
+                        <img width="32" src="https://tii.imgix.net/global/email/icon-facebook-v3.png" alt="Facebook" border="0">
+                      </a><br>
+                    </td>
+                    <td width="32" valign="middle"></td>
+                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1cH8QhuXOWazGIIpzuv5CPjwlNYj84mRAH9436zZAMWljvmgShg1z9AjH54DR-2FJmaxwE0lfdqeO6aF2rnrTc-2B6yV4vQ72eoUKuuQTG8zbqbF67En73o3b21SXrG5NVoMhLektUmV9UxoEZ5PhP0B6k8702fAyhaBlivzdQhFJTVrqlTm_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVyAHvRTHmBZQZt3M4VO9WRvNIda-2BQ429ZoognVEGo3CsbA6INQPlaLsv6NCGQQmJnDsttxgmdgY5otX74NMFDKhLNJHLCG7XduKyjr8ouzz0bWaI1bPUXxqPwiZ0RVG2Vfvf7rYn0fc-2Fn9obFWS2m8Q"
+                        target="_blank"
+                        style="text-decoration: none"
+                      >
+                        <img width="32" src="https://tii.imgix.net/global/email/icon-threads-v3.png" alt="Threads" border="0">
+                      </a><br>
+                    </td>
+                    <td width="32" valign="middle"></td>
+                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1eYsgqOksHLUoTSKBWk98czesKR7FvhLK0QjueixeWfEymYo67WgCfLTgN9bBamsRxs-2FfbX47PLmDZFfmR9ddZdchG9OlGO7Sr5lS5FAomr8TPCGRwoL11OF6zG9Prg0SddAyjG19NPt3oURLofGv08okttQhrBYRxfszTkp4Y8d4f0Q_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVz-2BG3YHI-2BtYWb8yYRrtCUBiFsRUCSa8aVS1S9C-2Bdfjxr6BrB4UnrLw9tnnJY3RTusgbFJMYpvEur-2FUy8onVKJk9kPp0FEVeStMT5gLVVJTbZkks21pMRW3-2F-2F9TXjVm7fcbHQ7ZvTLLDkQUNE6a-2FLChf"
+                        target="_blank"
+                        style="text-decoration: none"
+                      >
+                        <img width="32" src="https://tii.imgix.net/global/email/icon-instagram-v3.png" alt="Instagram" border="0">
+                      </a><br>
+                    </td>
+                  </tr>
+                </table>
+                Sent to info@vibexcap.c&#173;om
+                |
+                <a
+                  href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmRyOSkt-2B6tut-2FgIJZjZ88GSa6oVYM0I7-2FTSqls99-2BpFjBk4wPLczKh9A2juBJWw-2FBk3NxI5JrfRz-2FV3dkiRdAblQ-2FDRglNlBRxlUC7cq0WMOwKzVvuEr-2Bx-2B-2FWB9SR80eR-2BLrTMsMorRU6sohcMCMg-2BYNhh8cpDOLIb7lvTGxCeR7sLRANrOKFJ-2FKkMQKkw-2FmFf4yQluI9LJC33Aqm-2BhgLUVxMDpJdX3D0L-2Fo6hnzZ1112-2F8U7PTXlrnGjZDDLeeyhU-2BzV4k4hZTML7pk-2FEAmFt15jbJ-2BsgQArVQz0EXGwYExHn7D0WVC3cc05bJUkkDVW1rN8q7DirMZq4mZ0cU3C0cTJ8yiby2HFK9XTLZVJU3g-3D-3D_REY_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVxwQf2S4TLdSqn6Z1-2FiHqollubMuOiLX-2FePHZ9QRwVUIl-2FNSY6V7u6Bvii-2FXaIQ4q39X0bg-2Fx4AJIx-2F49FO7-2FwD9Y72TQQHeflg-2Bw47foJ-2FK08hRz-2Bf9W9aB5M4KD6dUbQXiPUrDwqTI1-2F0q1YkKJNE"
+                  target="_blank"
+                  class="footer-link"
+                >Manage your preferences or unsubscribe</a>
+                |
+                <a
+                  href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1ZwsjdD8U8HPRHZODNtX5742xNsoxaJ40flKf35Cvt1CHBFE8dGLv92qL5h-2BGtShTp2SxIPlu4MrAdMlBQtsNK3jikyGl1eYTmsCEjA2fD08TqyLZXCFDW2-2BYFqE3YRmnvJkRt5NnKAnmYbsbPIC-2F7mdVptYQdD-2F0P-2FF8R3noPtTL5bC_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVw-2BWdA8DilDrltJxQqGcWE6IQa3B9-2BLbwlx4H-2BsEKIn6RgPuF-2FYxp8FDW3qcs1l1N7nyvDzVZ7Mci-2FqjUUfKMs-2BGuR0QjeGubvi1xJpPIRVcVGT7VkELTSmqXasTkPV4Z3nxZMEXonKjs8cevLAil7T"
+                  target="_blank"
+                  class="footer-link"
+                >Help</a>
+                <a href="#" style="color: #ffffff !important; text-decoration: none !important; font-weight: normal !important">The&nbsp;Information &middot;&nbsp;251&nbsp;Rhode&nbsp;Island&nbsp;Street,&nbsp;Suite&nbsp;107,&nbsp;San Francisco,&nbsp;CA&nbsp;94103</a><br>
+                <br>
+                <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmN-2BtioNXgRiKmS6QeiVMUmf1kk36DAm-2FsCscr1R8-2FpHXzZj8DFSUZAew8jPs4IufDx-2BxinJsY5DH4MWi2tZk5vYpUjJJkXw590oCbKHQ4Z-2FgfKMNTxXqrvuGYYoOF1yu4-3DhFkw_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2BstxFVpZ-2BqbGJhIeJUP83RyNqy7ri8iQ1-2BLpbtQVm2Ot-2FVcH6U7fvD-2F6PszcAoGbBdOa8e-2B-2B02o1GaNxZ77uMuiqVQNauy0oPaa36tgcM1knVHxW1miFdDxwTw3e7PUGumnTrG16P-2FmdumpUZxA-2FKVyYlUm-2BGYBg7cvgoYK-2F-2BNzln8SqXYl1O9rhB0uCHs3OAyBt9rKGDFaj6jG2eVGIRrq3D4um-2FdJkIUvQf9xpbgeH476LO4ThK1rAQiMVMr95ZK0UkKNCN1z-2FLNsr7rY-2BWcDSYkpzPthr3wFN3Et0djty" target="_blank">
+                  <img
+                    alt=""
+                    width="20"
+                    border="0"
+                    src="https://tii.imgix.net/global/email/logo.png"
+                    style="width: 20px; max-width: 20px; height: auto; border: 0"
+                  >
+                </a>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+    </table>
+  </body>
+</html>
+
+          </tr>
+      </tbody>
+    </table>
+    <!--[if (gte mso 9)|(IE)]>
+          </td>
+        </tr>
+      </table>
+    <![endif]-->
+  <img src="https://url3396.theinformation.com/wf/open?upn=u001.Vk1lvOTnrxw-2FfL8-2BmGyNhxdTSlGmmtgiIYT5kEvVfr1vFY5QSfRIs2AD8XouQ1krKJ5nznT-2FpNP4f0VTgAV1OtsLw0H91Kg8RheVINT6hNo0NYyxTDvfU2Z-2BFRQma2C-2FMG2QJUowMPQia-2FOQFh-2Ftl1sMSt9fEswdBCCu-2B1zkcznPMPxsqTHvpw8Qh-2Fogm6QdCc3yQHDcuQ-2BptusXsFqrYXntyL1KXMR-2FVnu1z3bHqeiNU4xmR5OVz1k-2Bl1AtpAN4qDt79fdhylvWLzWMRYA4swtWh0hDNTyfnNJchJQmQoGa2-2B0tCpp7dDXA8gv2HINzsD1zHYF9CMhzPzB-2FT7yQ0TyJIyYZ2DViC5eFqHBvXYU1MsmnFNcpy-2BA5sGmytUOA" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/></body>
+</html>
+]]></description>
+    <pubDate>Sun, 25 Jan 2026 15:00:48 GMT</pubDate>
+    <guid>19bf5ac9bfc546fa</guid>
+    <author>&quot;The Information&quot; &lt;hello@theinformation.com&gt;</author>
+  </item>
 
   <item>
     <title>Welcome to the Chinese century</title>
@@ -8762,602 +9425,6 @@ If you have any comments or feedback, just respond to this email!
     <pubDate>Fri, 23 Jan 2026 13:31:17 GMT</pubDate>
     <guid>19beb0dd6b6f969c</guid>
     <author>&quot;TLDR Founders&quot; &lt;dan@tldrnewsletter.com&gt;</author>
-  </item>
-
-  <item>
-    <title>How ChatGPT scaled 📈, design engineering 🎨, making videos programmatically 🎥</title>
-    <description><![CDATA[<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html charset=UTF-8"><meta charset="UTF-8"><meta name="viewport" content="width=device-width"><meta name="x-apple-disable-message-reformatting"><title>TLDR Dev</title><meta name="color-scheme" content="light dark"><meta name="supported-color-schemes" content="light dark"><style type="text/css">
-			:root {
-				color-scheme: light dark; supported-color-schemes: light dark;
-			}
-			
-			*,
-			*:after,
-			*:before {
-				-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
-			}
-			
-			* {
-				-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;
-			}
-			
-			html,
-			body,
-			.document {
-				width: 100% !important; height: 100% !important; margin: 0; padding: 0;
-			}
-			
-			body {
-				-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility;
-			}
-			
-			div[style*="margin: 16px 0"] {
-				margin: 0 !important;
-			}
-			
-			table,
-			td {
-				mso-table-lspace: 0pt; mso-table-rspace: 0pt;
-			}
-			
-			table {
-				border-spacing: 0; border-collapse: collapse; table-layout: fixed; margin: 0 auto;
-			}
-			
-			img {
-				-ms-interpolation-mode: bicubic; max-width: 100%; border: 0;
-			}
-			
-			*[x-apple-data-detectors] {
-				color: inherit !important; text-decoration: none !important;
-			}
-			
-			.x-gmail-data-detectors,
-			.x-gmail-data-detectors *,
-			.aBn {
-				border-bottom: 0 !important; cursor: default !important;
-			}
-			
-			.btn {
-				-webkit-transition: all 200ms ease; transition: all 200ms ease;
-			}
-			
-			.btn:hover {
-				background-color: #f67575; border-color: #f67575;
-			}
-			
-			* {
-				font-family: Arial, Helvetica, sans-serif; font-size: 18px;
-			}
-			
-			@media screen and (max-width: 600px) {
-				.container {
-					width: 100%; margin: auto;
-				}
-				.stack {
-					display: block!important; width: 100%!important; max-width: 100%!important;
-				}
-				.btn {
-					display: block; width: 100%; text-align: center;
-				}
-			}
-			
-			body,
-			p,
-			td,
-			tr,
-			.body,
-			table,
-			h1,
-			h2,
-			h3,
-			h4,
-			h5,
-			h6,
-			div,
-			span {
-				background-color: #FEFEFE !important; color: #010101 !important;
-			}
-			
-			@media (prefers-color-scheme: dark) {
-				body,
-				p,
-				td,
-				tr,
-				.body,
-				table,
-				h1,
-				h2,
-				h3,
-				h4,
-				h5,
-				h6,
-				div,
-				span {
-					background-color: #27292D !important; color: #FEFEFE !important;
-				}
-			}
-			
-			a {
-				color: inherit !important; text-decoration: underline !important;
-			}
-
-		</style><!--[if mso | ie]>
-		<style type="text/css">
-			a {
-				background-color: #FEFEFE !important; color: #010101 !important;
-			}
-			@media (prefers-color-scheme: dark) {
-				a {
-					background-color: #27292D !important; color: #FEFEFE !important;
-				}
-			}
-	 </style>
-			<![endif]--></head><body class="">
-
-
-
-<div style="display: none; max-height: 0px; overflow: hidden;">OpenAI scaled PostgreSQL to support 800 million ChatGPT users and millions of queries per second for its predominantly read-heavy workloads&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;</div>
-<div style="display: none; max-height: 0px; overflow: hidden;">
-<br>
-</div>
-
-<table align="center" class="document"><tbody><tr><td valign="top">
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" class="container" width="600"><tbody><tr class="inner-body"><td>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr class="header"><td bgcolor="" class="container">
-
-<table width="100%"><tbody><tr><td class="container">
-
-
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" style="margin-top: 0px;" width="100%"><tbody><tr><td style="padding: 0px;">
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div style="text-align: center;">
-<span style="margin-right: 0px;"><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fdev%3Futm_source=tldrdev/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/yW_1xWP7pmeFYPnEDF0hQ8U2WUuweJwiRcAfJgzV3tc=441" rel="noopener noreferrer" target="_blank"><span>Sign Up</span></a>
-|<span style="margin-right: 2px; margin-left: 2px;"><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/xMBmsyVfhwYow5AY2WEcc5LsQ4TiwI-i1t63J2RWfFs=441" rel="noopener noreferrer" target="_blank"><span>Advertise</span></a></span>|<span style="margin-left: 2px;"><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=e2fa637e-f698-11f0-baac-d93cb24936e1%26p=07475ee4-f83d-11f0-a05c-0d1dd39aab01%26pt=campaign%26t=1769171417%26s=d178f8dd90291e001eb0d106a85ea8a36b36a508d056e3678d038d83a811eb1e/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/AjzXpoV9SWapkvcE-mqsIctvjZ_JJXMMu4u-kP6YlKE=441"><span>View Online</span></a></span>
-<br>
-</span></div>
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="text-align: center;"><span data-darkreader-inline-color="" style="--darkreader-inline-color:#3db3ff; color: rgb(51, 175, 255) !important; font-size: 30px;">T</span><span style="font-size: 30px;"><span data-darkreader-inline-color="" style="color: rgb(232, 192, 96) !important; --darkreader-inline-color:#e8c163; font-size:30px;">L</span><span data-darkreader-inline-color="" style="color: rgb(101, 195, 173) !important; --darkreader-inline-color:#6ec7b2; font-size:30px;">D</span></span><span data-darkreader-inline-color="" style="--darkreader-inline-color:#dd6e6e; color: rgb(220, 107, 107) !important; font-size: 30px;">R</span>
-<br>
-</td></tr></tbody></table>
-
-<br>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr id="together-with"><td align="center" height="20" style="vertical-align:middle !important;" valign="middle" width="100%"><strong style="vertical-align:middle !important; height: 100%;">Together With </strong>
-<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.clerk.com%2FEo5RiSs/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/3AnExT1m_VxJ2Okbw5T0AaRwrBPwCVv2fgG7MMwT9Js=441"><img src="https://images.tldr.tech/clerk.png" valign="middle" style="vertical-align: middle !important; height: 100%;" alt="Clerk"></a></td></tr></tbody></table>
-
-
-<table style="table-layout: fixed; width:100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;">
-<div style="text-align: center;">
-
-<h1><strong>&nbsp;TLDR Dev <span id="date">2026-01-23</span></strong></h1>
-</div>
-</td></tr></tbody></table>
-
-<table style="table-layout: fixed; width:100%;" width="100%"><tbody><tr id="sponsy-copy"><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.clerk.com%2FEo5RiSs/2/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/k5cwv23zXs-SGuWpZzdrwT2pAnxgkDaNJIG-Z4IxzO0=441">
-                                    <span>
-                                        <strong>Clerk MCP Server (Public Beta) (Sponsor)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    The Clerk MCP server gives AI coding assistants direct access to current docs, patterns, and best practices. Prompt naturally, get accurate implementations.<p></p><p>Build prompts like:</p><ul><li>"Set up a B2B SaaS with organizations and role-based permissions"</li><li>"Add Clerk middleware to my API"</li><li>"Build a waitlist with user metadata"</li></ul><p><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.clerk.com%2FEo5RiSs/3/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/H5a3Va22HRVJ1RB3kOII-8-VWcIRcRS7guyUuF49NSM=441" rel="noopener noreferrer nofollow" target="_blank"><span>Try it today</span></a> and share your feedback.
-
-
-</p>
-</span></span></div>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-</td></tr>
-<tr bgcolor=""><td class="container">
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td style="padding: 0px;">
-
-
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;"><span style="font-size: 36px;">🧑‍💻</span></div>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;">
-
-<h1><strong>Articles &amp; Tutorials</strong></h1>
-</div>
-</div>
-</td></tr></tbody></table>
-
-<table style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FEO1VtL/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/-BMb0Xe7L5fS-5E6neO1Nd7B8XGLJH3nq4gYWXJ29yA=441">
-                                    <span>
-                                        <strong>Scaling PostgreSQL to power 800 million ChatGPT users (14 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    OpenAI scaled PostgreSQL to support 800 million ChatGPT users and millions of queries per second for its predominantly read-heavy workloads. To achieve this, its team offloaded write-heavy operations to sharded systems like Azure Cosmos DB and implemented application and query optimizations. Their architecture uses a single primary Azure PostgreSQL instance and nearly 50 global read replicas.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.nucleate.dev%2Fblog%2Fwhat-is-a-design-engineer%3Futm_source=tldrdev/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/TN2PI3s1t9EoONPbc-B1ce8mPlELd4QLqEVToTSII-I=441">
-                                    <span>
-                                        <strong>What is a Design Engineer? (5 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    A design engineer bridges the gap between design and frontend development, creating software that not only works perfectly but also feels great to use. They directly implement designs in code, build and maintain design systems, and add in the critical final details of UI polish, like micro-interactions and animations.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Feieio.games%2Fblog%2Fssh-sends-100-packets-per-keystroke%2F%3Futm_source=tldrdev/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/0tBAPVhVgvtX8aQTBrlb6w3nmaHxe3t2tJupy9NG1j4=441">
-                                    <span>
-                                        <strong>Why does SSH send 100 packets per keystroke? (9 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    A developer building a high-performance SSH game found that a single keystroke generated over 100 small packets. The root cause was identified as OpenSSH's keystroke timing obfuscation feature, which sends "chaff" packets to disguise typing patterns. By patching Go's SSH library to disable the `ping@openssh.com` extension server-side, the developer achieved a dramatic &gt;50% reduction in CPU and bandwidth. LLMs assisted in the debugging process.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;"><span style="font-size: 36px;">🧠</span></div>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;">
-
-<h1><strong>Opinions &amp; Advice</strong></h1>
-</div>
-</div>
-</td></tr></tbody></table>
-
-
-<table style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frselbach.com%2Fyour-sub-is-now-my-weekend-project%3Futm_source=tldrdev/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/t6qwzkUQ67a6LjG99sUCbv3EWA7CF3XhHQEN7crLKGw=441">
-                                    <span>
-                                        <strong>Your App Subscription Is Now My Weekend Project (3 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    This dev replaced his subscription apps, like Wispr Flow and Loom, by vibecoding his own personal alternatives. Despite having no prior macOS development experience, he quickly created custom applications that perfectly suited his specific needs for free. However, these apps are not production-ready, but rather perfect for personal projects.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.fabiandietrich.com%2Fblog%2Ffirst-year-in-sales.html%3Futm_source=tldrdev/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/VU96MFpSN1qbuVGAr-KZECP7e1yNKrUdGbrXwGYr4Uc=441">
-                                    <span>
-                                        <strong>My first year in sales as a technical founder (10 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    A technical founder had a challenging but rewarding first year in sales. High-touch sales are vital for bootstrapped SaaS growth. Their best channel was their LinkedIn B2B sales funnel, with disciplined discovery calls.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;"><span style="font-size: 36px;">🚀</span></div></div>
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;">
-
-<h1><strong>Launches &amp; Tools</strong></h1>
-</div>
-</div>
-</td></tr></tbody></table>
-
-<table style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.remotion.dev%2Fdocs%2Fai%2Fskills%3Futm_source=tldrdev/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/e5aiMfKuboGrWALkdUxtLt4IFVYkH-JxbKS1X6lK2Zo=441">
-                                    <span>
-                                        <strong>Remotion Agent Skills (Website)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Remotion Agent Skills allow videos to be made programmatically with coding agents like Claude Code.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.val.town%2Ftownie-v5%3Futm_source=tldrdev/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/vgCvNm8mTFl3B8kc1tJ0wBJPrYI8tM3tMsLS1raV_fQ=441">
-                                    <span>
-                                        <strong>Townie's back in town! (3 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Townie v5 is an AI agent powered by Claude 4.5 designed to integrate directly into the browser alongside the code editor. The agent can perform nearly any action a user can, including managing code, files, versions, and databases, allowing for the rapid scaffolding of features or full-stack applications.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;"><span style="font-size: 36px;">🎁</span></div></div>
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;"><strong><h1>Miscellaneous</h1></strong></div>
-</div>
-</td></tr></tbody></table>
-
-<table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmodal.com%2Fblog%2Fgpu-health%3Futm_source=tldrdev/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/l6_26YjNBLtX_YOJk7bgDMRvd5fdtXwrNRNUgMRLCfI=441">
-                                    <span>
-                                        <strong>Keeping 20,000 GPUs healthy (11 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Modal runs a globally distributed pool of over 20,000 GPUs across multiple cloud providers. Its approach begins with instance type testing and selection, evaluating performance and reliability differences between cloud hyperscalers. This is followed by machine image preparation and automated boot checks to guarantee GPU health before customer workloads begin. Throughout an instance's life, Modal performs continuous passive and active healthchecking.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcodegood.co%2Fwriting%2Fcontext-collapse-problem%3Futm_source=tldrdev/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/IY34g2s1ZtoCCCsw5ZrvXzyymX5QVixGy4sdaPByDl0=441">
-                                    <span>
-                                        <strong>The Context Collapse Problem (11 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    AI coding assistants deliver productivity gains on new projects but underperform on legacy codebases, a "context collapse problem" caused by the invisibility of institutional knowledge and historical decisions. Good solutions include treating documentation as infrastructure, incrementally restructuring code for AI legibility, and initially using senior engineers as "human context bridges.”
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;"><span style="font-size: 36px;">⚡</span></div></div>
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;">
-
-<h1><strong>Quick Links</strong></h1>
-</div>
-</div>
-</td></tr></tbody></table>
-
-<table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwalters.app%2Fblog%2Fcomposing-apis-clis%3Futm_source=tldrdev/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/VioVF5HYmFt0JfkK188jpq0x7Gl2Jw3beTxerrlGXKE=441">
-                                    <span>
-                                        <strong>The best code is no code: composing APIs and CLIs in the era of LLMs (8 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    LLMs should use composable shell commands and CLI tools, interpreting existing API standards or reverse-engineering them, to interact with services.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhugodaniel.com%2Fposts%2Fclaude-code-banned-me%2F%3Futm_source=tldrdev/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/cMGlZ9_ubmas2XjumbMfsj6n-iMvMGnBFN8pqS4PhjU=441">
-                                    <span>
-                                        <strong>I was banned from Claude for scaffolding a CLAUDE.md file (6 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    A Claude power user was banned without warning or explanation after using two Claude instances in a loop to scaffold a `CLAUDE.md` file containing system-like instructions, an activity they suspect triggered prompt injection detection.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Falvaromontoro.com%2Fblog%2F68091%2Fcss-optical-illusions%3Futm_source=tldrdev/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/THQa2MmkLSEWNQ6MoHIfMHoG8ZoVltqaWkoHMYHvpA4=441">
-                                    <span>
-                                        <strong>CSS Optical Illusions (16 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    This is a collection of over 50 optical illusions and interactive demos coded with CSS and HTML.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.exe.dev%2Fssh-host-header%3Futm_source=tldrdev/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/BAa_7t45mTbg950qq5AtGtm3HKRARzUpVU6lZ1GcDP8=441">
-                                    <span>
-                                        <strong>SSH has no Host header (3 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    To route SSH connections to multiple VMs sharing IPv4 addresses, exe.dev assigns each VM a unique IP from a pool relative to its owner, then identifies the target VM using the incoming IP address and the user's public key, as SSH doesn't have a Host header equivalent.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;">
-
-<p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;">
-Love TLDR? Tell your friends and get rewards!
-</p>
-</td></tr>
-<tr><td class="container" style="padding: 0px 10px 15px;">
-<div class="text-block">
-Share your referral link below with friends to get free TLDR swag!
-</div>
-</td></tr>
-<tr><td align="left" style="padding: 10px;">
-<div class="text-block">
-<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F5a9a5532%2F3/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/sE6f3AQCf2-qnfn7TJjmjmeqOVKrhWTsjIQoos_e5jU=441" style="color: #464ba4; text-decoration: underline;">https://refer.tldr.tech/5a9a5532/3</a>
-</div>
-</td></tr>
-<tr></tr>
-<tr><td align="left" style="padding:5px 10px;">
-<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_1d8a09957bbe%2F3/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/qraR-eNBJQShLNy4PANjNMJOrqOk0AlpJ4xjjG3kqvk=441" style="font-size: 16px; line-height: 1.6;  padding: 10px 0; display: inline-block;  text-decoration: underline;"><span style="mso-text-raise:13pt; text-decoration: underline;">Track your referrals here.</span></a>
-</td></tr></tbody></table>
-
-
-
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;">
-
-<p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;">
-Want to advertise in TLDR? 📰
-</p>
-<div class="text-block" style="margin-top: 10px;">
-If your company is interested in reaching an audience of web developers and engineering decision makers, you may want to <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/qiBYW0_QNBroUlNIVwmJhxqkqX5eM376vB1RuKp3HKA=441"><strong><span>advertise with us</span></strong></a>.
-</div>
-<br>
-
-<!-- New "Want to work at TLDR?" section -->
-
-<p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;">
-Want to work at TLDR? 💼
-</p>
-<div class="text-block" style="margin-top: 10px;">
-<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/m8zd1D2IS0GSHMZSNe234pa5b_NUNjneVztkhxT9R-Q=441" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"><strong>Apply here</strong></a>,
-<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/169U4__bsewpIp4ZeQRCIWQADkS-Tbjs25zc-DxA4r8=441" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"><strong>create your own role</strong></a> or send a friend's resume to <a href="mailto:jobs@tldr.tech" style="color: #0000EE; text-decoration: underline;">jobs@tldr.tech</a> and get $1k if we hire them! TLDR is one of <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/VsQ0T08W-7meOQ1GX4bj8gwumVknBmb8Yzy57wyGGR4=441" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"><strong>Inc.'s Best Bootstrapped businesses</strong></a> of 2025.
-</div>
-<br>
-
-<div class="text-block">
-If you have any comments or feedback, just respond to this email!
-<br>
-<br> Thanks for reading,
-<br>
-<span>Priyam Mohanty</span>, <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/Fv_nwGVHFa_9eWuOI2fB1oXmoMZgk87pnsH_u4DXico=441"><span>Jenny Xu</span></a> &amp; <span>Ceora Ford</span>
-<br>
-<br>
-</div>
-<br>
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block" id="testing-id">
-<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fdev%2Fmanage%3Femail=info%2540vibexcap.com/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/-OWN4J9m2VKSVs-gaaS9XcESqBo_akez17oSqQ5j5fw=441">Manage your subscriptions</a> to our other newsletters on tech, startups, and programming. Or if TLDR Dev isn't for you, please <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=e2fa637e-f698-11f0-baac-d93cb24936e1%26p=07475ee4-f83d-11f0-a05c-0d1dd39aab01%26pt=campaign%26pv=4%26spa=1769169686%26t=1769171417%26s=01ad24622206426fcf43968916108f6418de75f76a321757d25736e2d06578dd/1/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/zQJnCleCADH7ayy_D-dNFhTwSWbe0G7rd0Mw4j0xV-Q=441">unsubscribe</a>.
-<br>
-</div>
-</td></tr></tbody></table>
-
-
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-
-
-
-<img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019bead5795f-46120489-fccf-44b6-b08a-58ab8dc1612e-000000/4VslQ_IOHlGo0mT9j3MMx0tEJUKThXSobEjA9WFzeQU=441" style="display: none; width: 1px; height: 1px;">
-</body></html>]]></description>
-    <pubDate>Fri, 23 Jan 2026 12:30:17 GMT</pubDate>
-    <guid>19bead5f2cbc746e</guid>
-    <author>&quot;TLDR Dev&quot; &lt;dan@tldrnewsletter.com&gt;</author>
   </item>
 
   </channel>
