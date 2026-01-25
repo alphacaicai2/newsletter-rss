@@ -4,7 +4,219 @@
     <title>Newsletter Feed</title>
     <link>https://your-domain.com/rss.xml</link>
     <description>Newsletter feed</description>
-    <lastBuildDate>Sun, 25 Jan 2026 15:30:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 15:45:16 GMT</lastBuildDate>
+
+  <item>
+    <title>AI Frontiers on TechCrunch</title>
+    <description><![CDATA[
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>AI Frontiers</title>
+        
+<style>
+            body {
+                font-family: Arial, sans-serif;
+                color: #333;
+                line-height: 1.6;
+                margin: 0;
+                padding: 0;
+            }
+            .container {
+                max-width: 600px;
+                margin: 0 auto;
+                padding: 20px;
+            }
+            .header {
+                font-size: 24px;
+                font-weight: bold;
+                color: #333;
+                margin-bottom: 10px;
+            }
+            .story-meta {
+                font-size: 14px;
+                color: #666;
+                margin-bottom: 15px;
+            }
+            .story-link, .hn-link {
+                color: #FF6F61;
+                text-decoration: none;
+            }
+            .story-content {
+                margin: 20px 0;
+            }
+            .story-content h3 {
+                font-size: 18px;
+                color: #444;
+                margin: 15px 0 10px 0;
+            }
+            .story-content p {
+                font-size: 16px;
+                color: #555;
+                margin: 10px 0;
+            }
+            .story-divider {
+                border: 0;
+                border-top: 1px solid #eee;
+                margin: 30px 0;
+            }
+            .footer {
+                font-size: 14px;
+                color: #888;
+                margin-top: 30px;
+                border-top: 1px solid #ddd;
+                padding-top: 20px;
+                text-align: center;
+            }
+            .footer a {
+                color: #4F46E5;
+                text-decoration: none;
+            }
+            .digest-header {
+                text-align: center;
+                margin-bottom: 30px;
+            }
+            .digest-title {
+                font-size: 28px;
+                color: #4F46E5;
+                margin-bottom: 10px;
+            }
+            .digest-date {
+                color: #666;
+                font-size: 16px;
+            }
+            .content-section {
+                margin: 15px 0;
+            }
+            
+            .content-section p {
+                margin: 10px 0;
+                line-height: 1.6;
+            }
+            
+            .digest-list {
+                margin: 10px 0;
+                padding-left: 20px;
+                list-style: none;  /* Remove default bullets */
+            }
+            
+            .digest-list li {
+                margin: 8px 0;
+                line-height: 1.6;
+                position: relative;
+                list-style-type: none;  /* Remove default bullets */
+                padding-left: 20px;
+                color: #555;  /* Match the regular text color */
+            }
+            
+            .digest-list li:before {
+                content: "•";
+                position: absolute;
+                left: 0;
+                color: #555;  /* Match the text color */
+            }
+            /* For nested lists */
+            .digest-list .digest-list {
+                margin-top: 5px;
+                margin-bottom: 5px;
+            }
+            
+            /* Ensure proper spacing between sections */
+            .story-content h3 {
+                margin-top: 25px;
+                margin-bottom: 15px;
+            }
+        </style>
+    
+    </head>
+    <body>
+        <div class="container">
+            <div class="digest-header">
+                <div class="digest-title">AI Frontiers on TechCrunch</div>
+                <div class="digest-date">January 25, 2026</div>
+            </div>
+            
+        <div class="section">
+            <div class="header">Tech CEOs boast and bicker about AI at Davos</div>
+            <div class="story-meta">
+                
+                    • Article: <a href="https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/" class="story-link">https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/</a> <br>
+                    
+                    
+                    • Text-to-Speech audio: <a href="https://audios.aicrafter.info/28397f18-8a02-4bd8-98fa-349b0ffea4d2.mp3" class="story-link">Listen</a> <br>
+                    • AI-generated podcast: <a href="https://audios.aicrafter.info/d235ba5c-bb50-4aab-9e10-952a754d4585.mp3" class="story-link">Listen</a> <br>
+    
+                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
+            </div>
+             
+            <div class="story-content">
+                <h3>Article Summary:</h3>
+                <div class="content-section"><ul class='digest-list'><li>• AI dominated discussions at Davos, with CEOs like Elon Musk, Satya Nadella, Jensen Huang, and Dario Amodei debating its transformative potential and risks. Tensions surfaced as leaders criticized competitors and partners, highlighting the intense competition in the AI space.</li><li>• Anthropic CEO Dario Amodei criticized U.S. policies allowing Nvidia to export chips to China, likening AI data centers to "a country full of geniuses," sparking debates on geopolitics, trade, and AI ethics.</li><li>• Nvidia's Jensen Huang emphasized the need for more investment in AI infrastructure, while Microsoft’s Satya Nadella pushed for broader AI adoption to avoid a potential "bubble," underscoring the race to expand AI's global reach.</li><li>#AI #TechLeadership #Davos2023 #Innovation</li></ul></div>
+            </div>
+    
+            
+        </div>
+        <hr class="story-divider">
+        
+        <div class="section">
+            <div class="header">Former Googlers seek to captivate kids with an AI-powered learning app</div>
+            <div class="story-meta">
+                
+                    • Article: <a href="https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/" class="story-link">https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/</a> <br>
+                    
+                    
+                    • Text-to-Speech audio: <a href="https://audios.aicrafter.info/29f860ed-7125-4e2e-90c5-f83eab1e402e.mp3" class="story-link">Listen</a> <br>
+                    • AI-generated podcast: <a href="https://audios.aicrafter.info/a9c4d768-bc9e-42f3-a472-11e3536abf91.mp3" class="story-link">Listen</a> <br>
+    
+                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
+            </div>
+             
+            <div class="story-content">
+                <h3>Article Summary:</h3>
+                <div class="content-section"><ul class='digest-list'><li>• Sparkli, founded by ex-Google employees, uses generative AI to create immersive, interactive learning experiences for children aged 5-12. The app offers dynamic expeditions on topics like financial literacy and entrepreneurship, combining audio, video, quizzes, and games to engage young learners.</li><li>• The platform prioritizes safety, banning sensitive content and addressing emotional topics with educational guidance. It also includes a teacher module for tracking progress and assigning homework, inspired by Duolingo’s engaging design.</li><li>• Sparkli raised $5 million in pre-seed funding led by Swiss venture firm Founderful, marking the firm’s first edtech investment. The startup plans to expand globally and launch consumer access by mid-2026.</li></ul></div>
+            </div>
+    
+            
+        </div>
+        <hr class="story-divider">
+        
+        <div class="section">
+            <div class="header">A new test for AI labs: Are you even trying to make money?</div>
+            <div class="story-meta">
+                
+                    • Article: <a href="https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/" class="story-link">https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/</a> <br>
+                    
+                    
+                    • Text-to-Speech audio: <a href="https://audios.aicrafter.info/0aff8fa5-4d1a-41e2-9fe6-f989e9d9864d.mp3" class="story-link">Listen</a> <br>
+                    • AI-generated podcast: <a href="https://audios.aicrafter.info/dd21d459-d38a-4920-b14e-a6634a639a61.mp3" class="story-link">Listen</a> <br>
+    
+                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
+            </div>
+             
+            <div class="story-content">
+                <h3>Article Summary:</h3>
+                <div class="content-section"><ul class='digest-list'><li>• A five-level scale was introduced to assess AI labs' commercial ambitions, ranging from Level 1 (pure research focus) to Level 5 (actively generating significant revenue). OpenAI and Anthropic are firmly at Level 5, while newer labs often hover between Levels 2 and 4.</li><li>• Humans& is positioned at Level 3, with plans to redefine workplace tools like Slack and Google Docs but lacking specific product commitments. Thinking Machines Lab faces internal challenges, raising doubts about its Level 4 status. World Labs, led by Fei-Fei Li, has progressed to Level 4 by shipping a world-generating model with strong demand in gaming and special effects.</li><li>• Safe Superintelligence, founded by Ilya Sutskever, remains at Level 1, focused on scientific research with no commercial products. However, its $3 billion funding suggests potential for future pivots depending on research outcomes.</li></ul></div>
+            </div>
+    
+            
+        </div>
+        <hr class="story-divider">
+        
+            <div class="footer">
+                <p>
+                    Built with ❤️ by <a href="https://dannyzheng.me">dannyzheng.me</a><br>
+                </p>
+            </div>
+        </div>
+    </body>
+    </html>
+    ]]></description>
+    <pubDate>Sun, 25 Jan 2026 15:35:32 GMT</pubDate>
+    <guid>19bf5cc9fd766ccc</guid>
+    <author>&quot;AI Frontiers&quot; &lt;newsletter.digest@aicrafter.info&gt;</author>
+  </item>
 
   <item>
     <title>I Let AI Analyze My Davos Reporting Trip. Here’s What It Missed</title>
@@ -8757,674 +8969,6 @@ If you have any comments or feedback, just respond to this email!
     <pubDate>Fri, 23 Jan 2026 14:00:46 GMT</pubDate>
     <guid>19beb28e5a90185f</guid>
     <author>&quot;The Information&quot; &lt;hello@theinformation.com&gt;</author>
-  </item>
-
-  <item>
-    <title>Market share myths 🧠, selling to founders 🤝, power laws accelerate 📈</title>
-    <description><![CDATA[<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html charset=UTF-8"><meta charset="UTF-8"><meta name="viewport" content="width=device-width"><meta name="x-apple-disable-message-reformatting"><title>TLDR Founders</title><meta name="color-scheme" content="light dark"><meta name="supported-color-schemes" content="light dark"><style type="text/css">
-			:root {
-				color-scheme: light dark; supported-color-schemes: light dark;
-			}
-			
-			*,
-			*:after,
-			*:before {
-				-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
-			}
-			
-			* {
-				-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;
-			}
-			
-			html,
-			body,
-			.document {
-				width: 100% !important; height: 100% !important; margin: 0; padding: 0;
-			}
-			
-			body {
-				-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility;
-			}
-			
-			div[style*="margin: 16px 0"] {
-				margin: 0 !important;
-			}
-			
-			table,
-			td {
-				mso-table-lspace: 0pt; mso-table-rspace: 0pt;
-			}
-			
-			table {
-				border-spacing: 0; border-collapse: collapse; table-layout: fixed; margin: 0 auto;
-			}
-			
-			img {
-				-ms-interpolation-mode: bicubic; max-width: 100%; border: 0;
-			}
-			
-			*[x-apple-data-detectors] {
-				color: inherit !important; text-decoration: none !important;
-			}
-			
-			.x-gmail-data-detectors,
-			.x-gmail-data-detectors *,
-			.aBn {
-				border-bottom: 0 !important; cursor: default !important;
-			}
-			
-			.btn {
-				-webkit-transition: all 200ms ease; transition: all 200ms ease;
-			}
-			
-			.btn:hover {
-				background-color: #f67575; border-color: #f67575;
-			}
-			
-			* {
-				font-family: Arial, Helvetica, sans-serif; font-size: 18px;
-			}
-			
-			@media screen and (max-width: 600px) {
-				.container {
-					width: 100%; margin: auto;
-				}
-				.stack {
-					display: block!important; width: 100%!important; max-width: 100%!important;
-				}
-				.btn {
-					display: block; width: 100%; text-align: center;
-				}
-			}
-			
-			body,
-			p,
-			td,
-			tr,
-			.body,
-			table,
-			h1,
-			h2,
-			h3,
-			h4,
-			h5,
-			h6,
-			div,
-			span {
-				background-color: #FEFEFE !important; color: #010101 !important;
-			}
-			
-			@media (prefers-color-scheme: dark) {
-				body,
-				p,
-				td,
-				tr,
-				.body,
-				table,
-				h1,
-				h2,
-				h3,
-				h4,
-				h5,
-				h6,
-				div,
-				span {
-					background-color: #27292D !important; color: #FEFEFE !important;
-				}
-			}
-			
-			a {
-				color: inherit !important; text-decoration: underline !important;
-			}
-
-		</style><!--[if mso | ie]>
-		<style type="text/css">
-			a {
-				background-color: #FEFEFE !important; color: #010101 !important;
-			}
-			@media (prefers-color-scheme: dark) {
-				a {
-					background-color: #27292D !important; color: #FEFEFE !important;
-				}
-			}
-	 </style>
-			<![endif]--></head><body class="">
-
-
-
-
-
-
-
-<div style="display: none; max-height: 0px; overflow: hidden;">Market share is a point estimate, not a scoreboard. When the iPhone launched in 2007, Apple&#039;s share was negligible next to Nokia and BlackBerry&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div style="display: none; max-height: 0px; overflow: hidden;">
-<br>
-</div>
-
-<table align="center" class="document"><tbody><tr><td valign="top">
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" class="container" width="600"><tbody><tr class="inner-body"><td>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr class="header"><td bgcolor="" class="container">
-
-<table width="100%"><tbody><tr><td class="container">
-
-
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" style="margin-top: 0px;" width="100%"><tbody><tr><td style="padding: 0px;">
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div style="text-align: center;">
-<span style="margin-right: 0px;"><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Ffounders%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/zSYy3WlJoHRxW8uGIHq9EAC-YrvU6GajRXCtJQ-pYJg=441" rel="noopener noreferrer" target="_blank"><span>Sign Up</span></a>
-|<span style="margin-right: 2px; margin-left: 2px;"><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfounders%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/_qJqwt8KUXjCQSr7olxelht5fG8qrS7-7P1DBJeK2OQ=441" rel="noopener noreferrer" target="_blank"><span>Advertise</span></a></span>|<span style="margin-left: 2px;"><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=e2fa961e-f698-11f0-8c06-3f1995955e63%26p=04eb639c-f857-11f0-be7a-d3c30917bbe0%26pt=campaign%26t=1769175077%26s=90b745dcd68f14eb8e17138c24453a546af5404af5ee1775cc847236e6399215/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/0-WqvKlIcnWUpE6wsc6TndAqTwNRc9SZrMp44br8iWo=441"><span>View Online</span></a></span>
-<br>
-</span></div>
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="text-align: center;"><span data-darkreader-inline-color="" style="--darkreader-inline-color:#3db3ff; color: rgb(51, 175, 255) !important; font-size: 30px;">T</span><span style="font-size: 30px;"><span data-darkreader-inline-color="" style="color: rgb(232, 192, 96) !important; --darkreader-inline-color:#e8c163; font-size:30px;">L</span><span data-darkreader-inline-color="" style="color: rgb(101, 195, 173) !important; --darkreader-inline-color:#6ec7b2; font-size:30px;">D</span></span><span data-darkreader-inline-color="" style="--darkreader-inline-color:#dd6e6e; color: rgb(220, 107, 107) !important; font-size: 30px;">R</span>
-<br>
-</td></tr></tbody></table>
-
-<br>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr id="together-with"><td align="center" height="20" style="vertical-align:middle !important;" valign="middle" width="100%"><strong style="vertical-align:middle !important; height: 100%;">Together With </strong>
-<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2Fcase-studies%2Fplaid-adds-382k-in-pipeline-with-tldr-campaign-their-best-direct-buy-yet%2F%2F%3Futm_source=tldrfounders%26utm_medium=newsletter%26utm_campaign=primary01232026/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/Zc4Lck3PjwmSC2gdp91NtX0_m0FE4gYPboPnE3cMuBg=441"><img src="https://images.tldr.tech/tldr50.png" valign="middle" style="vertical-align: middle !important; height: 100%;" alt="TLDR"></a></td></tr></tbody></table>
-
-
-<table style="table-layout: fixed; width:100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;">
-<div style="text-align: center;">
-
-<h1><strong>&nbsp;TLDR Founders <span id="date">2026-01-23</span></strong></h1>
-</div>
-</td></tr></tbody></table>
-
-<table style="table-layout: fixed; width:100%;" width="100%"><tbody><tr id="sponsy-copy"><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2Fcase-studies%2Fplaid-adds-382k-in-pipeline-with-tldr-campaign-their-best-direct-buy-yet%2F%2F%3Futm_source=tldrfounders%26utm_medium=newsletter%26utm_campaign=primary01232026/2/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/1bM6fUE-6KBzHd3oFCTU_fG5CS1poV2oTqXe-cd-4WE=441">
-                                    <span>
-                                        <strong>Plaid adds $382k in pipeline with TLDR campaign (Sponsor)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Plaid achieved their best-performing direct buy to date, adding $382k in pipeline, earning 70 leads, and achieving 20.1x ROI. This case study breaks down their strategy, results, and example ads. <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2Fcase-studies%2Fplaid-adds-382k-in-pipeline-with-tldr-campaign-their-best-direct-buy-yet%2F%2F%3Futm_source=tldrfounders%26utm_medium=newsletter%26utm_campaign=primary01232026/3/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/yQausyizjJJH3kc7iuhzlCcnFjHXOkg7jgKUYWWhZjc=441" rel="noopener noreferrer nofollow" target="_blank"><span>Read the Plaid case study.</span></a>
-</span>
-</span>
-</div>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-</td></tr>
-<tr bgcolor=""><td class="container">
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td style="padding: 0px;">
-
-
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;"><span style="font-size: 36px;">📈</span></div>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;">
-
-<h1><strong>Headlines &amp; Trends</strong></h1>
-</div>
-</div>
-</td></tr></tbody></table>
-
-<table style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.nibzard.com%2Fdisequilibrium%2F%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/QJPhIdE3DkREhNM0CngXa_ZDSuwx-YBtK37zb3JG7P0=441">
-                                    <span>
-                                        <strong>The Disequilibrium Advantage (6 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Startups face two clocks: burn rate and relevance as rapid change shortens runway impact. AI acts as a multiplier, shifting bottlenecks from execution to integration, distribution, and decision-making. Success hinges on building systems that address new constraints, prioritize trust, and focus on measurable outcomes rather than mere output.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FwMEeZH/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/fJ8dMru3H54No5Lea2WHanmNafrpK1gzReS-b8HToU8=441">
-                                    <span>
-                                        <strong>Don't Confuse Market Share with Winning (4 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Market share is a point estimate, not a scoreboard. When the iPhone launched in 2007, Apple's share was negligible next to Nokia and BlackBerry. Today, Apple holds less than 25% of the global smartphone share. No one questions who's winning. DoorDash entered food delivery late, after Grubhub, Seamless, and Caviar. When Uber Eats tried to buy market share with heavy subsidies, DoorDash focused on building a logistics engine for suburban markets that competitors ignored. The pattern across Sequoia's portfolio is consistent: outliers don't chase market share. They build something that the market eventually moves toward.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;"><span style="font-size: 36px;">🧠</span></div>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;">
-
-<h1><strong>Strategies &amp; Tactics</strong></h1>
-</div>
-</div>
-</td></tr></tbody></table>
-
-
-<table style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fproductpicnic.beehiiv.com%2Fp%2Fyour-problem-framing-is-sabotaging-your-strategy%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/4wlhtsolk2jwH3AFfmYNOsAhzRrpI6Pwzh1PdMpj6Ag=441">
-                                    <span>
-                                        <strong>Your problem framing is sabotaging your strategy (5 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Poor problem framing undermines strategic efforts in tech as companies focus on outputs over customer needs. The "build to learn" approach emphasizes technologies rather than understanding user problems, leading to misguided product metrics. Successful problem design requires collaboration, clear customer-driven objectives, and a focus on solutions that users value.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flindsayamos.substack.com%2Fp%2Fpitch-your-fellow-founder%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/52kA4lMsXixwU-xqMf-v9kcMD8rwnNpLQYZ40XS1Y_o=441">
-                                    <span>
-                                        <strong>Pitch your fellow founder (5 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Founder-led podcasts, newsletters, and livestreams are the most underutilized channels for early-stage startups. These platforms care less about scale and more about perspective. One accounting software startup runs a weekly livestream where founders announce products, share funding news, and talk through what's actually working. The bar for getting on is different than traditional press. You need a news hook, a distinct point of view, or expertise other founders can apply. One AI startup got on with a launch, a three-month demo waitlist, and a yacht party. The pitch was a casual DM.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fg2TiJc/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/OtdHIHsCvkpToPYCVIvZkValbYhUEwrDFJisfXnZX1Y=441">
-                                    <span>
-                                        <strong>On Pricing, Pilots, and Early-Stage Enterprise Startups (5 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Early-stage enterprise AI founders should focus on the type of company they want to build rather than obsessing over specific pricing models. The key tradeoff is between high-volume growth versus high-price, low-volume niches, which shapes GTM strategy, sales motions, and churn risk. Design pilots deliberately with internal champions, scoped outcomes, and clear exit criteria, while pricing based on controllable factors like usage or memory to reduce surprises. Multiple tiers, add-ons, and explicit SLAs give startups leverage with enterprise buyers. Founders should be deliberate and flexible with pricing, as it directly impacts revenue trajectory, fundraising, and scaling speed.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;"><span style="font-size: 36px;">⚒️</span></div></div>
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;">
-
-<h1><strong>Tools &amp; Resources</strong></h1>
-</div>
-</div>
-</td></tr></tbody></table>
-
-<table style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfounders%26utm_medium=newsletter%26utm_campaign=secondary01232026/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/Q9P3XsNX_ykr9rCQwIi33NFX5q2Yggk-zQRE2N1zjiU=441">
-                                    <span>
-                                        <strong>Reach real buyers in TLDR instead of fighting for attention on social (Sponsor)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    TLDR puts you in front of your target audience with almost no competition. Each issue features only three advertisers max, giving your message the space it needs to stand out. Millions of developers, product managers, CEOs, and other tech decision makers actually see what you have to say. <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfounders%26utm_medium=newsletter%26utm_campaign=secondary01232026/2/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/fCVbdUECosuH9PzoZJEt6vBtCN6hrexPODC2i1oqsXI=441" rel="noopener noreferrer nofollow" target="_blank"><span>Learn more</span></a> about running a test campaign.
-</span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblink.new%2F%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/bCjjpOiE0MoyJTn7z0wPbBuYvrCPvsoTBWjYSVL_Feg=441">
-                                    <span>
-                                        <strong>Blink Agent Builder (Tool)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Blink Agent Builder is a vibe coding platform that creates AI agents capable of thinking, using tools, and completing tasks end-to-end from simple descriptions.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffimo.ai%2F%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/mRIVLXbtoElZuLsyNWgnb7OyumaBCclVlaCY8z6wAuQ=441">
-                                    <span>
-                                        <strong>Fimo (Tool)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Fimo is a no-code AI-powered website builder that lets users create and evolve websites instantly.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.perfectly.so%2F%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/LpyLzbSyAJYZ9G0gTeVbsDD9PoGZyzVdneBwd-ls7Ss=441">
-                                    <span>
-                                        <strong>Perfectly (Tool)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Fill startup roles with candidates 2x better, 4x faster.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;"><span style="font-size: 36px;">🎁</span></div></div>
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;"><strong><h1>Miscellaneous</h1></strong></div>
-</div>
-</td></tr></tbody></table>
-
-<table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F243Sq2/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/CxxuXM0v8mZg8x0svpWTa3sXq8X_ss_f1pWApuXQHJM=441">
-                                    <span>
-                                        <strong>Agency Is The Last Frontier (12 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Despite unprecedented access to knowledge, tools, and capital, most people fail to act and achieve meaningful outcomes. The limiting factor today is agency, the willingness to start, iterate, and learn by doing. High-agency people close the gap between what's possible and what actually happens. Capital, AI tools, and information are abundant, but action remains rare and is the key differentiator. Stop waiting and begin building now.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FuQkkuF/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/mjVVOAYevPL0xvb08x-69fKmpHPC1x_OFb2RSG5tcUo=441">
-                                    <span>
-                                        <strong>Vertical software already won the context graph (9 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Vertical software companies have been building context graphs, crucial for autonomous agents, by capturing specific business decisions for over a decade. Unlike horizontal platforms with broad, flexible data models, vertical software uses industry-specific ontologies to record reasoning and integrate functions, making decision traces more reconstructible. As AI and embedded services grow, vertical platforms hold a strategic advantage over horizontal SaaS and agent-first startups, with their deeply established context graphs.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;"><span style="font-size: 36px;">⚡</span></div></div>
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;">
-
-<h1><strong>Quick Links</strong></h1>
-</div>
-</div>
-</td></tr></tbody></table>
-
-<table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftomtunguz.com%2Fthe-scaffolding-shift%2F%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/WuqAGeXLbuBl4F93clIpA82E6RjqNP5GxrHosBJqx7s=441">
-                                    <span>
-                                        <strong>AI Managing AI (3 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    New startup opportunities have emerged in training the specialists that executives call first.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fvinvashishta.substack.com%2Fp%2Fais-chicken-sandwich-problem%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/8IEhp6bfSnNNO90a9k_XcXT6ZfFaldjzY3TgODFqmsw=441">
-                                    <span>
-                                        <strong>AI's Chicken Sandwich Problem (10 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    A burger chain going all-in on chicken innovation and competition doesn't make sense unless it plans to transition to the chicken model.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.growthmates.news%2Fp%2Fwhy-self-made-generalists-will-shape%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/mt7qLh8lk_i23QA_CudJjzD6dpJ9F00a28jSEzLvAC4=441">
-                                    <span>
-                                        <strong>Why Self-Made Generalists Will Shape the Next Big Thing (5 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Nad Chishtie, Head of Design at Lovable, illustrates the value of being a self-made generalist with expertise across design, coding, and systems thinking.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.productledseo.com%2Fp%2Fblue-ocean-seo-aeo-original-thinking%3Futm_source=tldrfounders/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/_wLOS6MLs-LA9qe-Mz-NevgAHUKsuBGuC8wwNZESaSk=441">
-                                    <span>
-                                        <strong>Blue Ocean SEO / AEO: Original thinking wins (3 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    By the time users get to Google now, they've already asked ChatGPT the basic questions.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-
-
-
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;">
-
-<p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;">
-Love TLDR? Tell your friends and get rewards!
-</p>
-</td></tr>
-<tr><td class="container" style="padding: 0px 10px 15px;">
-<div class="text-block">
-Share your referral link below with friends to get free TLDR swag!
-</div>
-</td></tr>
-<tr><td align="left" style="padding: 10px;">
-<div class="text-block">
-<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F12bd45dd%2F7/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/nRKklWonf--5dcMe_3mgbo1ykw3JY2szkdiY5ht0Smk=441" style="color: #464ba4; text-decoration: underline;">https://refer.tldr.tech/12bd45dd/7</a>
-</div>
-</td></tr>
-<tr></tr>
-<tr><td align="left" style="padding:5px 10px;">
-<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_12420c6711e5%2F7/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/tfc6aX5Js-A5L1tAJ9IOiYwbrpEnJ5ylWWJZJ1Q30s0=441" style="font-size: 16px; line-height: 1.6;  padding: 10px 0; display: inline-block;  text-decoration: underline;"><span style="mso-text-raise:13pt; text-decoration: underline;">Track your referrals here.</span></a>
-</td></tr></tbody></table>
-
-
-
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;">
-
-<p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;">
-Want to advertise in TLDR? 📰
-</p>
-<div class="text-block" style="margin-top: 10px;">
-If your company is interested in reaching an audience of founders, executives, and decision makers, you may want to <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfounders%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/B27g9j0kOCPlKoB358Z7hmsd9KL5IMQOCjVZ5g-b4no=441"><strong><span>advertise with us</span></strong></a>.
-</div>
-<br>
-
-<!-- New "Want to work at TLDR?" section -->
-
-<p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;">
-Want to work at TLDR? 💼
-</p>
-<div class="text-block" style="margin-top: 10px;">
-<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/ywYWFA_2waeTNzLppnNQVJtbnS65N-zq6Zxfb8zF0fY=441" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"><strong>Apply here</strong></a>,
-<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/igdl0STArIkRHc-Jw6eNTqRDTAl2ppYEw620nGM8XW0=441" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"><strong>create your own role</strong></a> or send a friend's resume to <a href="mailto:jobs@tldr.tech" style="color: #0000EE; text-decoration: underline;">jobs@tldr.tech</a> and get $1k if we hire them! TLDR is one of <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/RUj9gZLi76ifJ0hw323jSUe_4c3i7-Rj3QgiiPi7bHM=441" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"><strong>Inc.'s Best Bootstrapped businesses</strong></a> of 2025.
-</div>
-<br>
-
-<div class="text-block">
-If you have any comments or feedback, just respond to this email!
-<br>
-<br> Thanks for reading,
-<br>
-<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fx.com%2Fandrewztan/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/1kkA6iPF0efb7mEKgCc3iwK0aI3UtxZeeevpKqyz1zo=441"><span>Andrew Tan</span></a> &amp; <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fx.com%2Fkevinskyewu/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/j0joWeJyUs3sLkGH4Uu0X-qDx-CbGWzg8QIVGmcP_DQ=441"><span>Kevin Wu</span></a>
-<br>
-<br>
-</div>
-<br>
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block" id="testing-id">
-<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Ffounders%2Fmanage%3Femail=info%2540vibexcap.com/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/DZWd-0J-1fcBwvPt5o3Wtc0TvdLxSUoCHsPNA4P3qgo=441">Manage your subscriptions</a> to our other newsletters on tech, startups, and programming. Or if TLDR Founders isn't for you, please <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=33bb36cf-4024-11ed-9a32-0241b9615763%26lc=e2fa961e-f698-11f0-8c06-3f1995955e63%26p=04eb639c-f857-11f0-be7a-d3c30917bbe0%26pt=campaign%26pv=4%26spa=1769173272%26t=1769175077%26s=bcb3be7692b3ac5b583bee42d25fc47c087c843045cf1f39134dd1df1566fb48/1/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/nVrS7ZUKudQFsoVn_UeavlFa4kmz_pSM96GNcZRTIkQ=441">unsubscribe</a>.
-<br>
-</div>
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-
-
-
-
-<img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019beb0d51ba-ef545b21-5d66-45e5-ad78-b2672e79cb60-000000/amv7fBMuXtywc0n1RENfWxtifSCD0XK0mTb2l1P1ptw=441" style="display: none; width: 1px; height: 1px;">
-</body></html>]]></description>
-    <pubDate>Fri, 23 Jan 2026 13:31:17 GMT</pubDate>
-    <guid>19beb0dd6b6f969c</guid>
-    <author>&quot;TLDR Founders&quot; &lt;dan@tldrnewsletter.com&gt;</author>
   </item>
 
   </channel>
