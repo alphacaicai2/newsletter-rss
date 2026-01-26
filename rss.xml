@@ -4,7 +4,741 @@
     <title>Newsletter Feed</title>
     <link>https://your-domain.com/rss.xml</link>
     <description>Newsletter feed</description>
-    <lastBuildDate>Mon, 26 Jan 2026 16:00:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 16:15:17 GMT</lastBuildDate>
+
+  <item>
+    <title>Five Takeaways From ‘Data Center Davos’</title>
+    <description><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" /> <!-- utf-8 works for most cases -->
+    <meta name="viewport" content="width=device-width" /> <!-- Supported on some email clients -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" /> <!-- Use the latest (edge) version of IE rendering engine -->
+    <title>%title%</title> <!-- The title tag shows in email notifications, like Android 4.4. -->
+    
+    <style>
+    </style>
+    <!--[if mso]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if lte mso 11]>
+      <style type="text/css">
+        .outlook-group-fix {
+          width:100% !important;
+        }
+      </style>
+    <![endif]-->
+  </head>
+  <body>
+    <table class="container" cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#ffffff" style="max-width: 600px !important; margin: auto;">
+      <tbody>
+        <tr>
+          <td class="content-wrapper main format-content" style="max-width: 600px;">
+            
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>AI Infrastructure</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="x-apple-disable-message-reformatting"/>
+    <style type="text/css">
+  body, table, td, a{-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;}
+  table, td{mso-table-lspace: 0pt; mso-table-rspace: 0pt;}
+  img{-ms-interpolation-mode: bicubic;}
+  img{border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none;}
+  table{border-collapse: collapse !important;}
+  body{height: 100% !important; margin: 0 auto !important; padding: 0 !important; width: 100% !important;}
+  p {font-family: 'Noto Serif', Georgia, serif; padding-bottom: 28px;}
+  a {
+    color: #f32a52;
+    font-weight: bold;
+  }
+  a:hover {color: #f32a52 !important;}
+  h1, h2, h3 {
+    line-height: 1.4 !important;
+    font-weight: 500;
+    font-family: 'Suisse Works', Georgia, serif;
+  }
+  h1, h2 {
+    font-size: 26px;
+  }
+  ul, ol {
+    margin-top: 0;
+  }
+  li {
+    font-family: 'Noto Serif', Georgia, serif;
+    font-size: 19px !important;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.7 !important;
+    margin-top: 12px;
+    Margin-Top: 12px;
+  }
+  hr {
+    border: 1px solid #f32a52;
+  }
+  a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+  }
+  .ad-corporate-container td {
+    padding: 0 !important;
+  }
+  @media screen and (max-width: 525px) {
+    .mobile-button-container {
+      margin: 0 auto;
+      width: 100% !important;
+    }
+    .mobile-hide {
+      display: none !important;
+    }
+    .mobile-logo {
+      width: 116px !important;
+    }
+    .mobile-date, .mobile-byline, .supported-by {
+      font-size: 12px !important;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    .responsive-table tr td,
+    .responsive-table tr td ul li,
+    .responsive-table tr td ol li,
+    p {
+      font-size: inherit;
+      line-height: inherit;
+    }
+    .img-max {
+      max-width: 100% !important;
+      width: 100% !important;
+      height: auto !important;
+      display: block !important;
+      margin: 0 auto 16px !important;
+    }
+    .img-container {
+      margin-bottom: 12px !important;
+    }
+    .responsive-table {
+      width: 100% !important;
+      max-width: 100% !important;
+    }
+    .padding {
+      padding-left: 5% !important;
+      padding-right: 5% !important;
+    }
+    .mobile-padding {
+      padding-left: 5% !important;
+      padding-right: 5% !important;
+    }
+    .no-padding {
+      padding: 0 !important;
+    }
+    .mobile-button {
+      font-size: 14px !important;
+      line-height: 1 !important;
+      padding: 16px 32px !important;
+      display: block !important;
+    }
+    .tablet-hide {
+      display: none !important;
+      visibility: hidden !important;
+    }
+  }
+  @media (prefers-color-scheme: dark) {
+    /* Your dark mode styles: */
+    body {
+      background: #2F3538;
+      color: #dfdfdf;
+      background: #2F3538 !important;
+      color: #dfdfdf !important;
+    }
+    .background-dark {
+      background: #2F3538;
+      color: #dfdfdf;
+      background: #2f3538 !important;
+      color: #dfdfdf !important;
+    }
+    h1, h2, h3, h4,
+    p {
+      color: #dfdfdf;
+      color: #dfdfdf !important;
+    }
+    p a {
+      color: #f32a52;
+    }
+    .logo-light {
+      display: none;
+      display: none !important;
+      visibility: hidden;
+      visibility: hidden !important;
+    }
+    .logo-dark {
+      display: block;
+      display: block !important;
+      visibility: visible;
+      visibility: visible !important;
+    }
+    .format-as-content li {
+      color: #dfdfdf !important;
+    }
+  }
+  .format-as-content h2, .format-as-content h3 {font-family: Georgia, Times, serif;font-weight: 400;font-size: 26px;line-height: 36px;margin-bottom: 26px;margin-top: 0}
+  .format-as-content a {
+    color: #f32a52;
+    text-decoration: none !important;
+    font-weight: 400;
+  }
+  .format-as-content p {font-size: 19px;padding-bottom: 28px !important;}
+  .format-as-content li {
+    color: #000;
+  }
+  .format-as-content p + a {display: block;margin-bottom: 24px !important;}
+  .format-as-content section > hr {
+    margin-top: 0;
+    margin-bottom: 24px;
+  }
+  div[style*="margin: 16px 0"] { margin: 0 !important; }
+  html, body, h1, h2, h3, h4, h5, p, ul li, ol li { margin: 0; padding: 0; }
+  .mobile-button, a, img {
+    transition: color 0.2s, opacity 0.2s;
+  }
+  a:hover {
+    color: #f32a52 !important;
+  }
+  .button-link {
+    color: #ffffff !important;
+    text-decoration: none;
+  }
+  .button-link:hover {
+    background-color: #fec6cc !important;
+  }
+  .mobile-button:hover {
+    color: #ffffff !important;
+    background: #ea685e !important;
+    border: 2px solid #ea685e !important;
+  }
+  
+</style>
+
+    <style>
+  .footer-link {
+    color: #ffffff !important;
+    text-decoration: underline !important;
+    font-weight: normal;
+  }
+  .footer-link:hover {
+    color: $magenta !important;
+  }
+  @media screen and (max-width: 600px) {
+    .responsive-table tr td,
+    .responsive-table tr td ul li,
+    .responsive-table tr td ol li {
+      font-size: inherit;
+      line-height: inherit;
+    }
+
+    .responsive-table {
+      width: 100% !important;
+      max-width: 100% !important;
+    }
+  }
+  @media (prefers-color-scheme: dark) {
+    .background-dark {
+      background: #2f3538 !important;
+      color: #dfdfdf !important;
+    }
+  }
+</style>
+
+  </head>
+  <body class="body" style="margin: 0 !important; padding: 0 !important">
+    <div
+      style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden"
+    >
+      <!-- Visually Hidden Preheader Text : BEGIN -->
+<div class="preheader" style="display: none !important;font-size: 1px;line-height: 1px;max-height: 0px;max-width: 0px;opacity: 0;overflow: hidden;mso-hide: all;font-family: sans-serif;color: #fff;">
+  Last week, the data center industry migrated temporarily to Hawaii for the Pacific Telecommunications Council conference. The event—like Davos except warmer—is typically where deal talks in the data center business begin and the priorities for the year are set.  The sector’s power brokers are coming off a wild 12 months, bookended by the announcement—during last year’s conference—of the $500 billion Stargate data center project, and by the largest transaction in the industry’s history, the $40 billion acquisition of Aligned Data Centers last fall by a group led by BlackRock. Aligned CEO Andrew Schaap was omnipresent last week, along with senior financiers from Goldman Sachs, Citizens Bank, Apollo and Macquarie. OpenAI arrived with a sizable delegation, including executive Peter Hoeschele and, notably, a large number of lawyers.
+</div>
+
+    </div>
+    <table
+      border="0"
+      cellpadding="0"
+      cellspacing="0"
+      width="100%"
+    >
+      <tr>
+        <td bgcolor="#ffffff" align="center" class="background-dark">
+          <!--[if (gte mso 9)|(IE)]>
+            <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
+              <tr>
+                <td align="center" width="600">
+          <![endif]-->
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            style="max-width: 600px"
+            class="responsive-table"
+          >
+            <tr>
+              <td bgcolor="#ffffff" class="divider">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td
+                      bgcolor="#ffffff"
+                      align="left"
+                      valign="top"
+                      style="padding: 24px 20px"
+                      class="background-dark mobile-padding"
+                    >
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlvYCYiS-2F03cdUcMOgCPCyBxUkW3btpMf1IiekqWdBbLpHWM5XFZbZjWb97KeKOpSA6Jj3ni-2BJ474BUj0GZRvksj6xDWbq6ZI6kUeffcbmO0NHtChlZ13BrdYeetUkx-2FpM-3Dz6Ii_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyWgWHENGhXuR9imb-2BxyPDj3rcCXwh7baVMIfBR5qsMj7ntywNyhx1lRSNyjV9-2FWz0kjZ-2BMB3UHyRNI-2BLyIwmUAiY3OjObnfoIW-2FMdGMOEydRJwTHiEZE9lMqryr6RzQ6Gghi0Elr6DAqUoueHB4lmuA-3D-3D"
+                        target="_blank"
+                        style="text-decoration: none; color: #ffffff; line-height: 0; margin: 0; padding: 0; display: block"
+                      >
+                        <img
+                          alt="The Information logo"
+                          src="https://tii.imgix.net/logos/theinformation/the-information-black-text-logo-white-bg.jpg?pad=20&amp;bg=ffffff"
+                          class="mobile-logo"
+                          width="145"
+                          border="0"
+                          style="width: 145px; max-width: 145px; border: 0"
+                        />
+                      </a>
+                    </td>
+                    <td
+                      bgcolor="#ffffff"
+                      align="right"
+                      valign="top"
+                      style="padding: 24px 20px"
+                      class="background-dark mobile-padding"
+                    >
+                      <span
+                        class="mobile-date"
+                        style="font-family: 'Suisse Int&rsquo;l Mono', monospace, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 18px; color: #6D686E"
+                      >Jan 26, 2026</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td bgcolor="#ffffff" class="divider">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td
+                      bgcolor="#ffffff"
+                      align="center"
+                      valign="top"
+                      style="padding: 0 20px"
+                      class="background-dark mobile-padding"
+                    >
+                      <h1
+                        style="font-family: 'Suisse Works', Georgia, 'Times New Roman', Times, serif; font-weight: normal; font-size: 36px; line-height: 54px"
+                      >AI Infrastructure</h1>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td
+                class="divider"
+                align="center"
+                style="padding-bottom: 16px;padding-top: 4px"
+              >
+                <table border="0" cellpadding="0" cellspacing="0" align="center">
+                  <tr>
+                    <td valign="middle" style="padding-right: 8px;">
+                      <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkj2M0QuhMcs4xlavSrUYLdBYB1PuVQVIzSWlHqoXue8cqPGLsHUE7jpiaSELPTklQm7BT62SMNIe0UlGjUq5WZ0zMuBaIjm6MJBhwstqJkiDFvspw-2FnvJqm-2FOsN313r2HbPn0t-2BsZA21x-2BlokmitQ-2FToYz2ER-2B5zF0chrVhhOvsg-3D-3D7I-4_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyBvYuLHRLvJcZ8wLZYMA3Sro8UP0nAHbgOEvGhSNSsw46XArh-2F9Tril6DTyAek25lJlXH3FNfaWhctluhIKBJehOKGUd0t-2F5KH0AcD0LOGOEuDjDSrVkbkkVMj8Ivs-2F3EyIKC0lh3zB5x-2BTmcPRDMNg-3D-3D"
+                         style="text-decoration: none; color: inherit; display: block;">
+                        <img
+                          src="https://tii.imgix.net/production/avatars/1518951/Screenshot_2024-01-03_at_2.30.36_PM.png?w=94&amp;compressed=true"
+                          width="47"
+                          height="47"
+                          style="display: block; border-radius: 47px;"
+                          alt="Anissa Gardizy headshot"
+                        />
+                      </a>
+                    </td>
+                    <td valign="middle" style="font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 27px; color: inherit;">
+                      <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkj2M0QuhMcs4xlavSrUYLdBYB1PuVQVIzSWlHqoXue8cqPGLsHUE7jpiaSELPTklQm7BT62SMNIe0UlGjUq5WZ0zMuBaIjm6MJBhwstqJkiDFvspw-2FnvJqm-2FOsN313r2HbPn0t-2BsZA21x-2BlokmitQ-2FToYz2ER-2B5zF0chrVhhOvsg-3D-3DEkT6_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyxsPxFZrnZCOPzeVLp-2FwPkNPZw2Nxkbuu5St5Sm0PLsNAAZLSWvfB9b-2BJzsbOfeHF-2Fsqq8pFynRSearixtD4UBAuDltfOFLKmntcETA8Y-2BHIvtJYsxlNXv0o-2Bm8iF2wXMMGOKSG7y5ml1AiSyZQcirg-3D-3D"
+                         style="text-decoration: none; color: inherit; font-weight: normal;">
+                        <span class="mobile-byline">By Anissa Gardizy</span>
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+              <tr>
+                <td bgcolor="#ffffff" class="divider">
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td style="padding: 0 20px" class="background-dark padding">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td align="center" style="padding: 0;">
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+  <tr>
+    <td align="center" style="padding: 8px 0; border-top: 1px solid #f0ece5; border-bottom: 1px solid #f0ece5; font-size: 0; line-height: 0;">
+      <span class='supported-by' style="font-family: Verdana, serif !important; font-weight: normal; font-style: normal; font-size: 14px; line-height: 0; color: #6D686E; display: inline-block; vertical-align: middle;">
+        <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" style="display: inline-block;">
+  <tr>
+    <td style="font-family: Verdana, serif !important; font-weight: normal; font-style: normal; font-size: 14px; line-height: 1.7; color: #6D686E; padding: 0;">
+      <span style="line-height: 1.7;">Supported by</span>
+    </td>
+    <td style="padding-left: 6px; padding-right: 0;">
+      <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBktahOKn6t4gN5PLT1hemN-2FFbt2brgNfc-2FOpW5iZ-2F4JR3fkLXyJmNFiZT6fWLQSe9QuU1SkC6ly5k2hYaidmVfFePOU410JvZSVj2s4OE1lbhL3Nzwk0-2F1LHPEd8EAv-2BHL-2FNpISoLGArUIMd5PagVVxI4vbmekQmrOMTdLY5KXlaI1xSNjDb4NJLue3VxpN8aqTvO-2BBpRU9sgnwioYCR-2BbkIx2E_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyoB8m-2FeNxF7VBz2mDr-2BXwVphZcKa8u2JWzwQzsRPouxThvtSjvOadg1-2BUoFrQxzlk6GcYInjes5jRvS0wn0XIps-2FxKDbtP-2B1Hse9bRhf8uhGYmxqO16uFzEPQ3E9vg3zbVtSsMgRwqMsaC5rQEcq3Nw-3D-3D" target="_blank" style="text-decoration: none;">
+        <img src="https://tii.imgix.net/production/advertisements/890/sponsor-890-34Y3q5y3.png?pad=2&bg=ffffff"
+          alt="Sponsor Logo"
+          height="50"
+          width="131"
+          style="display: block; height: 50px !important; width: 131px !important; border: 0;"
+          border="0"
+          hspace="0"
+          vspace="0"
+          editable="true"
+          class="mobile-full-width"
+          mso-height-percent="100"
+          mso-width-percent="100"
+          mso-element="field-placeholder"
+          mso-hide-empty="hide"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+      </span>
+    </td>
+  </tr>
+</table>
+
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            <!-- Email Content -->
+            <tr>
+              <td bgcolor="#ffffff" class="divider format-as-content">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td style="padding: 0 20px" class="background-dark padding">
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td
+                            align="left"
+                            style="padding: 16px 0 0; font-size: 19px; line-height: 32px; color: #000000; font-weight: 400;"
+                          >
+                            <p style="padding-bottom: 32px;">Last week, the data center industry migrated temporarily to Hawaii for the Pacific Telecommunications Council conference. The event—like Davos except warmer—is typically where deal talks in the data center business begin and the priorities for the year are set. </p><p style="padding-bottom: 32px;">The sector’s power brokers are coming off a wild 12 months, bookended by the announcement—during last year’s conference—of the $500 billion Stargate data center project, and by the largest transaction in the industry’s history, the $40 billion acquisition of Aligned Data Centers last fall by a group led by BlackRock.</p><p style="padding-bottom: 32px;">Aligned CEO Andrew Schaap was omnipresent last week, along with senior financiers from Goldman Sachs, Citizens Bank, Apollo and Macquarie. OpenAI arrived with a sizable delegation, including executive Peter Hoeschele and, notably, a large number of lawyers.</p><p style="padding-bottom: 32px;">Here’s what people were talking about at the event. </p><p style="padding-bottom: 32px;"><b>2026 Will Be About Execution, Not Announcements </b></p><p style="padding-bottom: 32px;">The Stargate plan kicked off a wave of similarly ambitious declarations throughout 2025, with companies pledging hundreds of billions of dollars for AI infrastructure and racing to lock up gigawatts of power. </p><p style="padding-bottom: 32px;">I think that era is ending. Data center CEOs say that 2026 will be judged less by what companies announce and more by what they actually deliver. This raises stakes for developers that have made big promises. </p><p style="padding-bottom: 32px;">With deadlines approaching for projects, delays could mean developers start losing their customers, either because they walk away or because competitors come in to salvage stalled projects. I’ve heard that investors, as well as cloud providers, are crafting their data center deals to include favorable “step-in rights,” meaning they could take over projects if their developer is struggling or costs are rising. </p><p style="padding-bottom: 32px;">The focus on execution this year could mean that top data center executives will be in high demand, similar to the <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaN1YFNbcu3qAZoU-2FJ7L0tYGsYkpBxrSGYs6namEGcBAFCip51unb11TfwjEU7eWWZK7a-2FAHsdgTCONjDip4DgxZOk6fFh-2FMFdHOLL2PPSYGdSqPKaB9IM3HGw1-2BE-2BRwk-2B2b5Quinq6HA8pNUuyk-2FcgHRs-2BypuDqCGnPmuzgPXI-2FddJskruhJwqrngVefY2lJa-2FsL2g_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCydRyUjd3gZ-2BZCX7J2-2F0IxUGr8IppYofF0VCDbLr58ayVJiSi9f0IiTYaXsAyp2Y7qIkS67tMKBECTRds0y0cSzAtjnCC2sOiYn6oYoJhM2kmLtMVgRNZeJtJX7Mi7lNR9cKJPNl9GdgFQ-2FgnKycuyxw-3D-3D">talent wars over AI researchers</a>. </p><p style="padding-bottom: 32px;">“Some people will be delayed, and the customer will live with it,” one data center CEO told me. “Some people are going to be delayed, and their project is going to fail.”</p><p style="padding-bottom: 32px;">That’s not to say the optimism is gone. Mai tais flowed freely, dozens of restaurants were booked for private events, and Alicia Keys even performed a small concert. </p><p style="padding-bottom: 32px;"><b>Google’s TPUs Emerging as a Threat </b></p><p style="padding-bottom: 32px;">For years, Nvidia’s graphics processing units were the unquestioned, default choice for large-scale AI data centers. But several executives told me that Google’s tensor processing units have become part of infrastructure planning conversations.</p><p style="padding-bottom: 32px;">Everyone also senses that Google is aggressively pushing its chip, a trend we’ve written about <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNmSfHHtiIOnEBjKDFUseBas5-2BIezmNg-2Fq0ncdH8WGAvWKcUSwDzXoodhyrS7rhGnk8-2FjvR7eKhJLQyRVJw-2B0hVd0pLekk8IfRTKR0gBXOxFnoDxn1j2LG2CDqkKNthW5IypO6Q2iIcKX57UZQBi8yHOag9i5K-2FkG9eHz-2FZd5u2lPOR-2Fbt7Fw7Fdy02Ry07uwTqtAr_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyTpKHgS59L87uNUJzVmZCIu-2BR04KYc3K3I0W-2FP76DE6wFXlEm79Ecg-2BfrHIqUY8w261slqticnuj-2BG7fdSkuIfC4A-2B2KdKopiqeycxnePWErMywXAQaf8-2FcKtxK9ex9AwVvo05poCQupinWurofqTYQ-3D-3D">here</a> and <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNWXl60hhr-2BLIzW7hqvAOLJjImfa6xe-2BZuviMnNFQ3U7-2Fvdsr-2BqjgwVmDct8a98eMuMku4OVGC7o6WI-2BrrapmFH9WQ6vJP7RLxAU-2B6nqIs4DnK4FLqNkHJYMzjhel9o8p2oGzAKBdH22LyPQOxBoOrDIPduKPwpGub-2FMW8BMKJ7OQ-3DnagG_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCycqZsnJJ3GOLpIs-2BrDzzMg9Hp4OOXudWODBu0O5GCZ5loJUOYvhm1fogUiCVmTvXA4Wuu0SP7nNEW1mlkq23NTDorG2n-2F87x8cCsqX-2B5eQPBMRHJXDKVEbU0UtUjQ4ROrYcIs-2BeunNHsAgSrUtqIHPQ-3D-3D">here</a>. </p><p style="padding-bottom: 32px;">Data center investors in particular like Google’s approach. It is backstopping the debt and leases of certain TPU facilities so that new entrants such as Fluidstack can more easily get financing. A few people told me they think that might put more pressure on Nvidia to do the same thing. (While Nvidia leases back some of its chips from cloud providers and invests in companies that buy its chips, it hasn’t broadly guaranteed data center project debt or facility leases.)</p><p style="padding-bottom: 32px;">Also new this year was talk of the cloud startups focusing on Google’s TPUs. Last year was dominated by cloud startups such as CoreWeave, Crusoe and Lambda that primarily focus on GPUs from Nvidia. </p><p style="padding-bottom: 32px;"><b>Local Pushback Is Becoming a Real Risk</b></p><p style="padding-bottom: 32px;">Some executives said power availability isn’t their biggest concern anymore. Instead, they’re worried about community resistance to data centers. </p><p style="padding-bottom: 32px;">That context made OpenAI’s recent announcement about developing “community plans” for its Stargate campuses feel less surprising. The move followed a similar effort by Microsoft and reflects mounting concerns—from water usage to electricity prices—about the impact of data centers. </p><p style="padding-bottom: 32px;">Industry veteran Hunter Newby, who focuses on expanding internet connectivity, told me he’s largely stopped using the words “data center” when speaking with local communities, given its growing negative connotation. (“Cloud pod,” anyone?)</p><p style="padding-bottom: 32px;"><b>New Players Hit the Beach</b></p><p style="padding-bottom: 32px;">PTC is often seen as a reunion of industry veterans. This year, a wave of startups crashed the party, sometimes with audacious plans. </p><p style="padding-bottom: 32px;">Power developer American Terawatt emerged from stealth mode, advertising that it would have 600 megawatts of capacity available by the end of this year, though it didn’t say where. </p><p style="padding-bottom: 32px;">It was also the first time I heard anyone casually invoke the word “terawatt”—a unit 1,000 times larger than a gigawatt—in a data center context, which is an apt illustration of where the industry’s ambitions have gone.</p><p style="padding-bottom: 32px;"><b>Who’s Looking for Data Center Capacity</b></p><p style="padding-bottom: 32px;">Multiple attendees told me they came to Hawaii hoping to secure capacity for near-term projects, only to leave empty-handed. Still, it was interesting to hear who was doing the asking and who they were talking to.</p><p style="padding-bottom: 32px;">For instance, OpenAI was taking meetings last week with “colocation providers,” which essentially offer pre-built data centers to which customers can bring their own server hardware. Today, OpenAI rents its capacity from cloud providers that own the servers. </p><p style="padding-bottom: 32px;">I also heard last week that the Chinese hyperscalers, including ByteDance, are talking to cloud providers such as Oracle about renting cloud capacity in the U.S. for AI. This is particularly interesting given my colleague Qianer Liu’s recent reporting that the Chinese government is <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNdH28CpFw-2Bc6UvE9FPvU8KzVbmriqjsWJcekXLnsQ1lN7k6jTs1W2LA3IJC9uf0mhCb-2Fn2iUJFMwxJ5SR14eYJHhHkmIk0sBt1CvTffeHgqwA5oFLWJxgyGgBPtvnqvLbreRiBmyHR99ZvtG4wAgYW8q7Q8kUrWfZ4XneFvoZIV0SpjEjxlJVTZ-2Bh2TnDApq9ANVkogtJcPlKNVGRlAJC3g-3D-3D2hzu_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyiwSXPTRfBc0gxLkXo88cuj0bfp1Nigkd499mlE7fPIFWn3fc0y0fK-2FE73PBZQrR55DAHH8zei1ofcoRFn-2BXRyx93Xt85drqLOuiRXz0wFqvsJsDAxGCv5AfFJAinvEOttG3WlAcOxmzaWlA0MwW3fA-3D-3D">restricting companies from buying Nvidia chips</a>. Maybe those firms will rent the capacity in the U.S. instead?</p><p style="padding-bottom: 32px;"><b>In other news:</b></p><ul>
+<li>SoftBank Group <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1R6q2XTiDSqeOT8QZgOWsh0Psz4C3vBIU3OHSbTO6kyKzyyF-2Fx2o4UlFWYxxBEeH7jgIxx166J81iuq-2FZZ6ESpXqA-2F-2FO7c12mqS5UCYOBswEE9gDY4O1wbw9ymiNg2KMYy8OT5zVJ1HKNjzTCInwbyl6cxuzSqq4-2BsdYrexNMFeGN8tWyS5gbS2zaoS6DyjrQ7C-2F6p-2BxCFjIiVJ0K4fnJzBNVpIR09FCNuYkQQdGwdqoiGceCeYGIamCs4sXYLvL9C0MtJgNT-2F-2FgEzlbo6mU020-3Dc7MS_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyCr9bBAodbEhPeCx4PIzoylqJEN-2B-2FF3Se5kuyZEf0UfTcCN-2FMqoNqPbFkp8c8SWsE0wQAlR-2FwvsqHP784SEmNtWohpkj6kLnrWJLw3zkp9Kraf08mz3HVStl29Kq-2BWHLGBqAHG1kPtIqRH-2BeBNUPeiw-3D-3D">halted talks</a> about a potential acquisition of data center operator Switch, Bloomberg reported. </li>
+<li>My colleague Ken Brown wrote about “<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkayEPumDOht6B6TI0Zt47Ov85Hwl-2FnffXx5i2gzWy9ew4jkzZMSZXeGQKb8W14EvGkoWAMB1jCq6IE2EDsTMoq-2Fx9BqjBi9I0LjodWHioFgH838I12gBOoO6xVIecSkMwJqZ067FFu29s34IxBDISYNXlY5K8sfaYe6O-2Fzj-2BwbpMcdgRK2xPNlqMDRIIZ2x90jwJsqLfcT2ZLNCHUu-2F36q0nWN_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCybmysSQC1idKf78GgFQu5IYy7QkyhyLRUmw1xZkJR5CmaNHwvKUvmL0GDFU1zHtB4LuCvepnWXhZuWbyHu6pmTiDZWcAuHeR6HJhLDC-2FSiaDQqQVd9mpd9bI358m-2FqWUVDrCasvqHDydAuuX-2FwzaFGQ-3D-3D">data center inflation</a>” and why it matters.</li>
+<li>Bytedance has been <a href="https://url3396.theinformation.com/ls/click?upn=u001.WFKOTYpwN-2B-2B6Yq30JhHjeZ3ZKRwgh1eDJD-2FI2F-2BYimZPQMA-2BWccvcaqqSgsKYTUIr6XIaDctl9QFfKaowptcxKXzab9SXi7la52NoMclwVLPy9ek-2BYu1Coj6eexEn1HOyvNA4Ktye-2F-2F70OuaOWvAIVciJpEJJooznY-2Bj1lawUe4O5rVFfFadqhu6Wlg8DVkkg4OoTLAp7Zz6-2BKzqMLQ258XAl1MwplGDzNBn1isWNFG09kaunwIfhADNXZc4ciwVR6Yn_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyoolhv6-2FCHxlZw-2Bfqaxtr9na5nnfHHXzfoEygKNxxN50dUZFiZ3guvbGoQVDWN1rbZDcvaCxoocaa9WgLhrKETU7UpCgEhR-2FUVr0jASQym-2FLMoxkvU0zDtRWu4APS9rpVrgFu9OaJWuUpYaIlmwi6rw-3D-3D">expanding its cloud business</a> in China, known as “Volcano Engine,” The Financial Times reported. </li>
+<li>Construction at Meta’s “Hyperion” data center in Richland Parish, Louisiana, has garnered attention from the local sheriff’s office, which is focusing on managing the increase in commercial truck traffic. Officials say that they have <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1Zh-2BbwhB95Dq89bkDcyS2Y5x6W2aEUsZouJPP1-2BhUEeyaDrknFacRaMXAb-2FUrVsedNHawGzB3No7qd9VvG13HKDlm2zGOKgJR68hbhF0avMCr4bWFTdulZfdAlBHKGxgJ7O9iw-2FrufiXZIyo-2BhzCaQDJQvJaX5xV7EMmqTifinhZXbGe7oBWRZbYGW5Ao-2BQCVFXBpTP6zH2BL6W3a-2FnuftqX93OTn1Cu-2F5cIBVLee75UGIjTZISMDo6vnB3oM-2FL3SU-2FSJ3k5wnW1zOKm43rX5-2B4-3DkQTK_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyGEjseEQrJE-2Bbfm66Hjqqvn4MAmRdr5xp-2F3W3rFxYErdo3HKEH5yJHI1Sr-2B8jAGkLOcbNGmobOJ9wiafPIB8zagezK25kB1FN2tgIV-2FcfNS-2BfxvVJbZ3WU2xK7J2I0H5yMvVmn-2BcKB6zcaXgiPMztWQ-3D-3D">detained and released</a> some workers to U.S. Immigration and Customs Enforcement.<br>
+</li>
+</ul><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="left" style="padding: 16px 0 0;font-size: 19px;line-height: 32px;font-family: Georgia, serif;color: #000;font-weight: 400;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="ad-corporate-container">
+<tr>
+<td align="left" style="font-size: 19px;line-height: 32px;font-family: Georgia, serif;color: #000;font-weight: 400">
+<p style="font-family: Verdana, sans-serif;font-size: 14px;line-height: 18px;color: #6d686e;margin-bottom: 8px;margin-top: 0;padding-top: 32px;padding-bottom: 0 !important;border-top: 1px solid #f0ece5;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
+<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBktahOKn6t4gN5PLT1hemN-2FFVCvSV-2Bam88KqjcIsDVSWWgj8nB1bmlWQslGBaoUL4R79SveAaVv76OQWTh-2FRlLWoUJZ-2FZOt6mEIg96LcdoX9Y1gPaEkGZZZ3IDdGMUuajY2maaAUfa-2FoeXNM3dlUdTVBLiDkBm3ty01xTpEcDunWA-3D-3DJsqh_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyRwb0BbKP03b2R3vBHLR3burDqUrvm-2FDGokPCV4R-2FUtT4MnWSEwJhxckChVayREsfeECjfUW8f7Godho7vGdtWzqwlNVZxSISz0iG2T2UzLQ9QoB9ayLNaT3NGsDJCff5-2BX6nhlowL5UwRimyQpZiQw-3D-3D" style="text-decoration: none; color: #6d686e !important;font-weight: 400 !important;">
+A message from Nebius
+</a>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<figure style="margin: 0 0 16px 0">
+<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBktahOKn6t4gN5PLT1hemN-2FFVCvSV-2Bam88KqjcIsDVSWWgj8nB1bmlWQslGBaoUL4R79SveAaVv76OQWTh-2FRlLWoUJZ-2FZOt6mEIg96LcdoX9Y1gPaEkGZZZ3IDdGMUuajY2maaAUfa-2FoeXNM3dlUdTVBLiDkBm3ty01xTpEcDunWA-3D-3DrwJE_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyG6GRmTK7-2FFWenL38muURf6e6nULpQIPQAff4OiIodivCkNbCLc9w2ugjzn41jmS7-2FvwRc2ucr-2B0pAF3WHBXc2NokDibCVjbm5vw8hTeN77WlO4XwvmhpOQcA3FTHcmhRAztB-2FWAS7-2FkiGyDxv-2F093A-3D-3D" style="text-decoration: none;color: #000;display: block;">
+<img src="https://tii.imgix.net/production/advertisements/890/890-vLE6msab.jpg?w=570" alt="" width="560" border="0" style="width: 100%;max-width: 560px;border: 0;display: block" class="img-max">
+</a>
+</figure>
+</td>
+</tr>
+<tr>
+<td align="left">
+<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBktahOKn6t4gN5PLT1hemN-2FFVCvSV-2Bam88KqjcIsDVSWWgj8nB1bmlWQslGBaoUL4R79SveAaVv76OQWTh-2FRlLWoUJZ-2FZOt6mEIg96LcdoX9Y1gPaEkGZZZ3IDdGMUuajY2maaAUfa-2FoeXNM3dlUdTVBLiDkBm3ty01xTpEcDunWA-3D-3D2mDf_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyZ0A2T0N-2FJhrroDh7OaN8YjKt77v0zB7bd8EeDiBr6qKcnDbnaEM0vLhnWRaLltcKd7-2BFu5jOQ-2B8-2BAWcLur8ATMiNIkiLQykaegPAVp2UCGnZrEDqxbCWt7aT-2BR2jf5LRhQiBaK3vd5hXCVIUK8efbw-3D-3D" style="text-decoration: none;color:#000 !important">
+<h3 style="font-family: Verdana, sans-serif;font-weight: 700;font-size: 18px;line-height: 27px;margin: 0 !important;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
+AI is redefining infrastructure. Nebius is redefining cloud.
+</h3>
+</a>
+</td>
+</tr>
+<tr>
+<td align="left">
+<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBktahOKn6t4gN5PLT1hemN-2FFVCvSV-2Bam88KqjcIsDVSWWgj8nB1bmlWQslGBaoUL4R79SveAaVv76OQWTh-2FRlLWoUJZ-2FZOt6mEIg96LcdoX9Y1gPaEkGZZZ3IDdGMUuajY2maaAUfa-2FoeXNM3dlUdTVBLiDkBm3ty01xTpEcDunWA-3D-3DJg8T_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyFTkb2kJJkgcc8WaM9ciElABJbHNl4cGFGNJ-2Bl-2FOicQj6LTaMJb-2Fb8em60XKxSanTZagSJRf1Qj9ZRm8rJy59pj24jZ7d0vXhcCzqdVAv9mAh9EkmSPAHYDmkRZCVPJ50Ck9-2FjMtr-2F0LjVZB77AUt0w-3D-3D" style="text-decoration: none;font-weight: 400;">
+<p style="font-family: Verdana, sans-serif !important;font-weight: 400;font-size: 18px !important;line-height: 27px !important;margin: 8px 0 0 !important;color: #2f3538;border-bottom: 1px solid #f0ece5 !important;padding-bottom: 32px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
+The AI era is here, but you're stuck choosing between general-purpose clouds or bare metal that sacrifices simplicity for power. Nebius brings both. Purpose-built for AI from silicon to software, Nebius delivers hyperscaler flexibility with supercomputer performance. Every layer engineered for AI workloads — eliminating friction, reducing costs and risk — so your team can build and deploy at scale. <b style="color: #f32a52;">The ultimate AI cloud.</b>
+</p>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<tr>
+<td align="left" style="padding: 48px 0 0;font-size: 19px;line-height: 24px;font-family: Georgia, serif;color: #000;font-weight: 400;">
+<h2 style="font-family: Georgia, Times, serif;font-weight: 400;font-size: 26px;line-height: 36px;margin-bottom: 16px;margin-top: 0;">New From Our Reporters</h2>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" role="presentation" style="border-collapse: collapse;"><tr>
+<!--[if (gte mso 9)|(IE)]>            <td width="164" valign="middle">          <![endif]--><td align="left" width="164" style="width: 164px; padding-right: 16px; vertical-align: top; display: inline-block;" class="responsive-table img-container"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNBGCK-2FBWPVpI6D8s-2B6lNAjflG48FRzLb1dfAWLjjddvoisMpPl-2Fw9MI1J-2BE-2FpZDwmGqXSGYV1Y2VHRt8Rf-2FBWa8VVd-2BlQF8n49qb4iaHdRxSYktiEWpeGjDvlbwBq0nD2QyRQaQ9HRJAMFEpe0qyhRirZSOUHeutZ-2F4DRT83nGGs-3D4tT6_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyzvyoVhPhYcCJ5ca-2F1AjFUBpvX-2FrPPw2vudweZidaRgM3BoC94UwrTQvU3NWCgiNhCULd0lwj7M12-2B3G0Ce62yGB2f7MaZcbpNmzD4-2F8mhywWw4ReGgNkRxX0iXN98VwvF0ig8uIWJX-2BweHQ2zMjzHA-3D-3D" target="_blank"><img src="https://tii.imgix.net/production/articles/16439/1ee43bd8-0ea1-4f5b-9fa5-fe647398f6e8.png?auto=compress,format&amp;fit=crop&amp;w=560&amp;q=20" width="164" class="img-max" style="display: block; width: 100%; max-width: 164px; height: auto;" border="0" alt=""></a></td>
+<!--[if (gte mso 9)|(IE)]>            <td width="16">&nbsp;</td>            <td valign="middle">          <![endif]--><td align="left" style="font-family: Verdana, sans-serif; line-height: 27px; color: #000000; vertical-align: top; display: inline-block; width: 360px; max-width: 100%;" class="responsive-table">
+<span style="font-family: Verdana, sans-serif; font-size: 14px; color: #f32a52; display: block; margin-bottom: 8px;">Exclusive</span><h4 style="font-family: Verdana, sans-serif; font-size: 18px; line-height: 27px; margin: 0 0 4px;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNBGCK-2FBWPVpI6D8s-2B6lNAjflG48FRzLb1dfAWLjjddvoisMpPl-2Fw9MI1J-2BE-2FpZDwmGqXSGYV1Y2VHRt8Rf-2FBWa8VVd-2BlQF8n49qb4iaHdRxSYktiEWpeGjDvlbwBq0nD2QyRQaQ9HRJAMFEpe0qyhRirZSOUHeutZ-2F4DRT83nGGs-3Dmkbb_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyjBMOwG0aDvcKLJyVanmwi-2BaJWU05ZTUCiBGocsouCzGCLq-2FchvhOVdpzP9scv3LfogcqVSX-2FECstqCJD7pRGvOi8Vq7yENIU2VD6Edaal7SK9ObrxTylX-2FldyR8mQ-2Fz22h9GztEi-2Baz9jI-2FzJqszJg-3D-3D" target="_blank" style="text-decoration: none; color: #000 !important; font-weight: 400;">Apple Developing AI Wearable Pin</a></h4>
+<span style="font-family: Verdana, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">By Wayne Ma and Qianer Liu</span>
+</td>
+<!--[if (gte mso 9)|(IE)]>          </td>          <![endif]-->
+</tr></table>
+<div style="clear: both"></div>
+<br><table align="left" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td style="background: #fec6cc;padding: 1px 0 0; line-height: 0; font-size: 1px"></td></tr></table>
+<br><table border="0" cellspacing="0" cellpadding="0" width="100%" role="presentation" style="border-collapse: collapse;"><tr>
+<!--[if (gte mso 9)|(IE)]>            <td width="164" valign="middle">          <![endif]--><td align="left" width="164" style="width: 164px; padding-right: 16px; vertical-align: top; display: inline-block;" class="responsive-table img-container"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaN-2FAASoDgQOXjI6QYol1Sa4FInb583ORDedpNKwGF5YriW-2BAfI4unaagfLbbvzuTYEEOoOnTGR5XWt7MBaEUGNGEuOD1Bfbkk-2F-2BdGcls4mAAMbJF80CI3sn6HZT-2FOz-2FULSZQyK89L8-2FPvvNuSLmcw6YQOZTNxJOAytoWDORghpPGs-3Dbj-y_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyDbf-2BsbwVhLnVhdY7iAgR6tw5TPBxUQ5OdyNOSPuHSDuAaQjSgfXK8EtD0ZRb3WWZjVWXImaJrlqE7QsxWQd0Hd57-2Fz-2F8PjRrnyQaKr3b60tE-2B9ewhuZhVnOUwN40FNOCP0MOREfjogoqeKbG7jECTg-3D-3D" target="_blank"><img src="https://tii.imgix.net/production/articles/16453/5812ec88-7300-463d-a7dd-16f03c701c15.jpg?auto=compress,format&amp;fit=crop&amp;w=560&amp;q=20" width="164" class="img-max" style="display: block; width: 100%; max-width: 164px; height: auto;" border="0" alt=""></a></td>
+<!--[if (gte mso 9)|(IE)]>            <td width="16">&nbsp;</td>            <td valign="middle">          <![endif]--><td align="left" style="font-family: Verdana, sans-serif; line-height: 27px; color: #000000; vertical-align: top; display: inline-block; width: 360px; max-width: 100%;" class="responsive-table">
+<span style="font-family: Verdana, sans-serif; font-size: 14px; color: #f32a52; display: block; margin-bottom: 8px;">The Big Read</span><h4 style="font-family: Verdana, sans-serif; font-size: 18px; line-height: 27px; margin: 0 0 4px;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaN-2FAASoDgQOXjI6QYol1Sa4FInb583ORDedpNKwGF5YriW-2BAfI4unaagfLbbvzuTYEEOoOnTGR5XWt7MBaEUGNGEuOD1Bfbkk-2F-2BdGcls4mAAMbJF80CI3sn6HZT-2FOz-2FULSZQyK89L8-2FPvvNuSLmcw6YQOZTNxJOAytoWDORghpPGs-3DU8j9_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyH9bcVyCYrec4gIK4ZU8wm-2B9W8DEfNHCbftR4ECSuW8B-2FybJE-2B8rhp6szL5htorhoB0PrHLkaPLi08p5ny9Nt-2B-2FvbirdTXY9F5hxU-2FHHQIwDTilwO3gyRxkcnT7APuluCT4ZbZXCUDF3jnniTAfDmMw-3D-3D" target="_blank" style="text-decoration: none; color: #000 !important; font-weight: 400;">How Greg and Anna Brockman Became MAGA Megadonors</a></h4>
+<span style="font-family: Verdana, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">By Jemima McEvoy, Stephanie Palazzolo and Sylvia Varnham O'Regan</span>
+</td>
+<!--[if (gte mso 9)|(IE)]>          </td>          <![endif]-->
+</tr></table>
+<div style="clear: both"></div>
+<br><table align="left" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td style="background: #fec6cc;padding: 1px 0 0; line-height: 0; font-size: 1px"></td></tr></table>
+<br><table border="0" cellspacing="0" cellpadding="0" width="100%" role="presentation" style="border-collapse: collapse;"><tr>
+<!--[if (gte mso 9)|(IE)]>            <td width="164" valign="middle">          <![endif]--><td align="left" width="164" style="width: 164px; padding-right: 16px; vertical-align: top; display: inline-block;" class="responsive-table img-container"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNdIuCrLXINYKlCG2jAEhQIUgZihNPFmQLYzT6cX5AbgNNoE37oV1UA-2B2guIZCT9pDOCb89vr1RpoqV1z-2FtOSdVWO42kYYx94P2ZlHtWtzV2YDJpRi3LJXjHoP6SNBRjeIX8uXa9Yiavc2nDI9WB3gHSDrybYvaDszjdZs45YIPe19CNgQGIiNaR0E6ORYobnUY_nG_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyp67IqwvBBSGc2Qw-2FZ7cdFPayZIaBW92ZXXRoIQncmHGxbF3srB67JV8ogNb-2BebKjXiNjVH7RiWwgc1Zf8pfG8eMALb3cHgwuJDlpjRAJUydc5OHeDtwJhm4gk4xxuKBq-2BlFk7sLvsuJ6O00GtLhH8A-3D-3D" target="_blank"><img src="https://tii.imgix.net/production/articles/16452/35af497f-6750-4d79-8433-e6c23430a6f8.png?auto=compress,format&amp;fit=crop&amp;w=560&amp;q=20" width="164" class="img-max" style="display: block; width: 100%; max-width: 164px; height: auto;" border="0" alt=""></a></td>
+<!--[if (gte mso 9)|(IE)]>            <td width="16">&nbsp;</td>            <td valign="middle">          <![endif]--><td align="left" style="font-family: Verdana, sans-serif; line-height: 27px; color: #000000; vertical-align: top; display: inline-block; width: 360px; max-width: 100%;" class="responsive-table">
+<span style="font-family: Verdana, sans-serif; font-size: 14px; color: #f32a52; display: block; margin-bottom: 8px;">Exclusive</span><h4 style="font-family: Verdana, sans-serif; font-size: 18px; line-height: 27px; margin: 0 0 4px;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNdIuCrLXINYKlCG2jAEhQIUgZihNPFmQLYzT6cX5AbgNNoE37oV1UA-2B2guIZCT9pDOCb89vr1RpoqV1z-2FtOSdVWO42kYYx94P2ZlHtWtzV2YDJpRi3LJXjHoP6SNBRjeIX8uXa9Yiavc2nDI9WB3gHSDrybYvaDszjdZs45YIPe19CNgQGIiNaR0E6ORYobnUqzzc_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCy6IMg1jkCljdi0lkReOXM8o3fhw7hBCkJSYs7eFQ54mPCvUnKojzaVnypS-2FgR3AO2EynDXckJ4lwSllDJSnAJAWCXmIOVM3skn9vaN7KIQ-2BiPI8aBdNl-2BhCDXkY-2FpBEvQWpuQmSM4P5FZJqEy38Drmw-3D-3D" target="_blank" style="text-decoration: none; color: #000 !important; font-weight: 400;">Crypto Exchanges Want to Trade U.S. Stocks Everywhere</a></h4>
+<span style="font-family: Verdana, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">By Yueqi Yang</span>
+</td>
+<!--[if (gte mso 9)|(IE)]>          </td>          <![endif]-->
+</tr></table>
+<div style="clear: both"></div>
+<table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top: 40px;"><tr><td style="background: #f0ece5;padding: 1px 0 0; line-height: 0; font-size: 1px"></td></tr></table>
+</td>
+</tr>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <!-- END Email Content -->
+            <tr>
+  <td bgcolor="#ffffff" class="divider">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td style="padding: 0 20px" class="background-dark padding">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td align="left" style="padding: 48px 0 0;font-size: 18px;line-height: 27px;font-family: Verdana, serif;color: #000;font-weight: 400;">
+                <h2 style="font-family: Georgia, Times, serif;font-weight: 400;font-size: 26px;line-height: 36px;margin-bottom: 16px;margin-top: 0;">
+                  Opportunities
+                </h2>
+                <h4 style="font-family: Verdana, sans-serif;font-size: 18px;line-height: 27px;margin-bottom: 8px;margin-top: 0;">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlgaThIaQhhxP-2B18aQkVacQa-2BbGcb9fvNdGV7qVgiOyEIdSVCJFsORDX2dr1MYHCVQqMElygmvQBgh-2BUlG7u-2BYWyuP0AoEA4SDS3Na7p0RNhKCtDCph6a8VXYfJJf1hzxVpvvzR8mT9NRoZKxC2SBM-2Fxs0h_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyqQJ-2FQ45fUcwT6blxaW-2Flt7E8q64bcqpFUkGVwfZ4wN6qG3LoFcwBTBQ0daRvRoBUQStbdGzORNocF-2BW1C6gjELNKA5LtbLT4vJdE6mhin83Qnhvjwk5GUI6KNCa4QmCIBOpkLMbrgxXSwmEO16r0CQ-3D-3D" target="_blank" style="text-decoration: none;color: inherit;font-weight: 700;">
+                    Group subscriptions
+                  </a>
+                </h4>
+                <p style="font-family: Verdana, sans-serif;margin: 8px 0;font-weight: 400;">Empower your teams to stay ahead of market trends with the most trusted tech journalism.</p>
+                <p style="margin: 0;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlgaThIaQhhxP-2B18aQkVacQa-2BbGcb9fvNdGV7qVgiOyEIdSVCJFsORDX2dr1MYHCVQqMElygmvQBgh-2BUlG7u-2BYWyuP0AoEA4SDS3Na7p0RNhKCtDCph6a8VXYfJJf1hzxVpvvzR8mT9NRoZKxC2SBM-2FpJ0L_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCy7STluWdWXY1EFGqQZgGEXodRtEN7afJJZCQGABaLVKuKOEdGYPYs0mLsbc9WurRnMmlFLeni6vTzW16IlqrqSOaV-2Ble6W8u9I111S66G1ttHG-2BcjUbTUkmfJt3NRwg-2FaQmWTR6yNRXtct16p1ZpSAw-3D-3D" target="_blank" style="font-family: Verdana, sans-serif;text-decoration: underline;color: #f32a52;font-weight: 400;line-height:24px;font-size: 16px;">Learn more</a></p>
+                <table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 24px 0"><tr><td style="background: #fec6cc;padding: 1px 0 0;line-height: 0;font-size: 1px"></td></tr></table><br>
+                <h4 style="font-family: Verdana, sans-serif;font-size: 18px;line-height: 27px;margin-bottom: 8px;margin-top: 0;">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkXfGE0AkbtBrzl4aUS5O2KNdNYXa5mgGSNJhsksQ21m75EruhwlHl0VwdpgyNrFiS16S8LmSEMKszbecuYgwpNQedudCBGeSYb-2BjbkYe6ZBcRT05-2BQn6I0y8v-2BM56SxXHKARRazZOz5BTDha3z-2BlbNg0x0_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCysBAVggdZvYGbNMk6MvtlazsvFgoe4nYtCFidkvp74zS-2FbqqQf3bHu7VWTC5oWeGoPLe57tTN7GCScBKp7f3bRu9em87hrPE0ySr9m5N4vPWKF3xl7dvP0yPBy-2BbGJrw4tLw1O9XJaFUjEjWiE4wP0w-3D-3D" target="_blank" style="text-decoration: none;color: inherit;font-weight: 700;">
+                    Brand partnerships
+                  </a>
+                </h4>
+                <p style="font-family: Verdana, sans-serif;margin: 8px 0;font-weight: 400;">Reach The Information&rsquo;s influential audience with your message.</p>
+                <p style="margin: 0;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkXfGE0AkbtBrzl4aUS5O2KNdNYXa5mgGSNJhsksQ21m75EruhwlHl0VwdpgyNrFiS16S8LmSEMKszbecuYgwpNQedudCBGeSYb-2BjbkYe6ZBcRT05-2BQn6I0y8v-2BM56SxXHKARRazZOz5BTDha3z-2BlbNOQNd_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCycH-2B0tOrLX6Us-2B2soyW9rew5WOk0BcO41ON00tP-2BnCaGWh6C23WsYnGjm3yF4yMZU-2BfVCK7CTgofd8tXsJAiJnKdfyhLXJoOi2115xEgKapH0QcFbZm2Kw1Ms1aI1BOFJCKPO80OdL6TUS-2BM4Wv1bDA-3D-3D" target="_blank" style="font-family: Verdana, sans-serif;text-decoration: underline;color: #f32a52;font-weight: 400;line-height:24px;font-size: 16px;">Connect with our team</a></p>
+                <table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top: 48px;"><tr><td style="background: #f0ece5;padding: 1px 0 0;line-height: 0;font-size: 1px"></td></tr></table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+            
+<tr>
+  <td bgcolor="#ffffff" class="divider">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td style="padding: 0 20px" class="background-dark padding">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom: 48px;">
+            <tr>
+              <td align="left" style="padding: 48px 0;font-size: 18px;line-height: 27px;font-family: Verdana, serif;color: #000;font-weight: 400;">
+                <h2 style="font-family: Georgia, Times, serif;font-weight: 400;font-size: 26px;line-height: 36px;margin: 0;">
+                  About AI Infrastructure
+                </h2>
+                <p style="font-family: Verdana, sans-serif;font-weight: 400;margin-top: 4px;">Stay ahead of the AI infrastructure wars. Anissa Gardizy and Ann Davis Vaughan cover how tech titans are disrupting the energy sector and becoming accidental industrial giants to compete on the AI model battlefield.</p>
+                <p style="font-family: Verdana, sans-serif;margin-top: 16px"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBnPCXMf7muTnPAGZGawge6JXXgqCQn5SFVn5EWNEgTLsRPMpkenPdJ50e1sodpVveeilEuakASqFR934Zjb-2B9kmHSrLgEG6S8ri-2BsqJ4hczcDGQKnubhvh6b5VUpAo-2BjM-2FC6srhD9TJu5eL5-2FdtaUZTfDauwYM7sX4XxzAZSRSP6w-3D-3DZIgH_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyo1dCEnRnjgTmKvQH8Aw-2BrbxdKBddqRhxj-2BlaASCCDyNVvcUBWJog27sa0uYhdsB8ywR-2FfnoG8o6P8WtDEgecPU7GcZsnMRcLNOCPc75-2FWD0N0v9JeymqLpt86hpgiaiYdLcMW3S27QtEHfCjCgD1-2Fg-3D-3D" target="_blank" style="font-family: Verdana, sans-serif; text-decoration: underline; color: #f32a52;font-size: 16px;line-height: 24px;font-weight: 400">Read the archives</a></p>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+            <!-- FOOTER START -->
+            <tr>
+  <td bgcolor="#ffffff" class="background-dark">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <table
+            width="600"
+            border="0"
+            cellspacing="0"
+            cellpadding="0"
+            style="width: 600px; max-width: 600px"
+            bgcolor="#ffffff"
+            class="responsive-table"
+          >
+            <tr>
+              <td
+                align="center"
+                style="padding: 45px 75px; padding-top: 45px !important; padding-bottom: 45px !important; font-family: Suisse Screen, Helvetica, Arial, sans-serif; font-weight: normal; font-size: 12px; line-height: 24px; font-size: 12px !important; line-height: 24px !important; color: #ffffff; background: #2F3538;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;"
+                class="background-dark padding"
+              >
+                <span
+                  style="font-family: 'Suisse Int\'l Mono', monospace, Helvetica, Arial, sans-serif; font-size: 14px; color: #F32A52"
+                >Follow us</span>
+                <table width="227.85" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1T2Sl5PeJ-2FG7XEaBvfWxfrQHbwmq5gLU2ojiuowH64rJBj-2BXB6C9UBnLd5uDA0OPkzjJvALNAX05BKspQYMbXWC9RmnyqoXOMRCJz4Fqy0X-2F-2F2ITaStCRGgikexQzQnYjUG9yfm82Xryvfm5TQSk2-2F8-3DU5Oz_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCy1Ow-2BtCEn3i-2BHhmCKqBeh3qCBS2Aok534IrsAvk81eVE8Had-2FkVF8SFq1BM9V-2BynsBA0WpIkWiimNolKlbB7YdFJ5H-2FCDDBIqM3vVCaWpQ9fAVhS2KHbTBOcA46mQJeApjM-2BiqSsruBbSFoh6lJKd9A-3D-3D"
+                        target="_blank"
+                        style="text-decoration: none;"
+                      >
+                        <img width="32" src="https://tii.imgix.net/global/email/icon-X-v3.png" alt="X" border="0">
+                      </a><br>
+                    </td>
+                    <td width="32" valign="middle"></td>
+                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1YCFIgUTnTtU9jcXdi5OlS4DnFensodraGNsXFNZLRKsOkUFKt9aKkvfZp-2FSglSxfcQA5R6BJTwq1KR4o1rz281uE5YzM2dIrm1plX7HgGIIeu0NkNeaX-2BM2nuq4nZ6QKXc30zVmXxDxY4GddWkNVcgbZWt3r7L1Lkj92QD06Fg-2BGoP4_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCySezQL5aSrFL1ycbJaLv6wW1Z-2FbAJO2Edpdxm-2BvO5-2BS76IpZD0V8Rp4cAce-2FTwovWMwISfIkv-2FvoEcuAkS9t8v0C0YAWK531TivudzjAwMVKT7XmDwxG-2Fd0DYHnLVH0UzZqplYvIIM8Z7XxiNKgfHxA-3D-3D"
+                        target="_blank"
+                        style="text-decoration: none"
+                      >
+                        <img width="32" src="https://tii.imgix.net/global/email/icon-linkedin-v3.png" alt="LinkedIn" border="0">
+                      </a><br>
+                    </td>
+                    <td width="32" valign="middle"></td>
+                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1dMu7bhLyA2t3R-2B-2Be0O7TUhTGcCztTV72-2BitQZ9RP9u7mPvffDgEtbfIxnCYoxVjmZwU-2F4wJBDbSU1NSG1isg34lEo-2BiWyPOebxPCDHxMyjDBGBfED71T5-2F6rgN1qGt-2Fr3kydR-2FOrOvVNDNS111pfVTbxS-2FXSlzi7ZNpcf4QtGheIedB_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCynCJrRpKflcjjjB9ZCay3awIKBGfcUPqhHLgCHvb48BzZVATkBLsb4LMve52wjLcPRL-2FXx7r1leRwFeC2995Iz6fqhG98Sfi9H29w2WqYoID-2Bc4owkIhDLxMKDTi34xpZj0IOMpbGUz-2FZmb-2BJExtF3A-3D-3D"
+                        target="_blank"
+                        style="text-decoration: none"
+                      >
+                        <img width="32" src="https://tii.imgix.net/global/email/icon-facebook-v3.png" alt="Facebook" border="0">
+                      </a><br>
+                    </td>
+                    <td width="32" valign="middle"></td>
+                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1cH8QhuXOWazGIIpzuv5CPjwlNYj84mRAH9436zZAMWljvmgShg1z9AjH54DR-2FJmaxwE0lfdqeO6aF2rnrTc-2B6yV4vQ72eoUKuuQTG8zbqbFxQtLaJ-2BV7Rv-2BHnUKou4EhsElPN5kl9fm29XG4vYEAtd8AsNb1wZRcHW5fPU1juZLpY1T_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyqkYE0dZvHQ3xG-2F5ebEqrBQQVXtYU-2BvVjOhlk6bR6gwPaEedUGw1sUdjtR3MaWNIE5miCtEwQ3digruoh9Bo8eWNBwlkte95Ok-2By-2BEpnp1K4GnFk61YWEs3ld47qv1BupoGbLHlwRSEnyme0EVv7HcA-3D-3D"
+                        target="_blank"
+                        style="text-decoration: none"
+                      >
+                        <img width="32" src="https://tii.imgix.net/global/email/icon-threads-v3.png" alt="Threads" border="0">
+                      </a><br>
+                    </td>
+                    <td width="32" valign="middle"></td>
+                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1eYsgqOksHLUoTSKBWk98czesKR7FvhLK0QjueixeWfEymYo67WgCfLTgN9bBamsRxs-2FfbX47PLmDZFfmR9ddZdchG9OlGO7Sr5lS5FAomr8bOrVkpmgS8Wcc5JPB5Czj-2FvcBGmAqq2ZR81zIqyHSRDrpQE4Hz74TM62PT1jKQRahfcu_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyOCLFq9T0omkby-2FqKAxrVUpjxOFXzqHdjl7C3mCRRhj6HDqTecjw-2B-2F8OO3hDbB3FP6knrVb-2Brt9ZAQAaZRCCsxayu2z-2FWFc2nIRc5LZp0l49JMvHnHto6Lxq6o7kcrCP1VZQ-2BPt7Sm-2BJv45dheHLDmQ-3D-3D"
+                        target="_blank"
+                        style="text-decoration: none"
+                      >
+                        <img width="32" src="https://tii.imgix.net/global/email/icon-instagram-v3.png" alt="Instagram" border="0">
+                      </a><br>
+                    </td>
+                  </tr>
+                </table>
+                Sent to info@vibexcap.c&#173;om
+                |
+                <a
+                  href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmRyOSkt-2B6tut-2FgIJZjZ88GSa6oVYM0I7-2FTSqls99-2BpFjBk4wPLczKh9A2juBJWw-2FB8AE1KKuxNahfOaLhZu14178tZNXq12eUu5ONgT8h9X0LNijeSEsjuo-2BCyDBhPCP2qO92wAFykFu2ZtQCfY2IHlifm0xAqXOU0ztFrfqMWt1D7xX4q4v2bB0fHeWgz57hkm1BNs6mnXuKw3xRO0leeEBRRvq2vI-2FLPcgZ6WaZhsi9VLTrkMhrqN2NjBqTfH1tCdOEGfmVsM8641GOnuqV5H0yLPSwz6E39cTMvpHsQ1pswwoJsqcX3MqiBgEeYWrYQpyS7jOxqUxeA4cbgKz1CdDsX5ZRSF2axCgWdXLMfAQ-3D-3DDWao_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyqJGFFYZI0CB6AmGBS0YA3PzO8Wct9273-2FH1Seu8j1EvENYuGG-2BdxHF2bz-2BLfgB2wSH2tJrJVIKBvoQFoyS56XSQMKvVoXXONYgW-2BL83R-2F3gA7RMAOHjcrxe6-2BWhjViwnnPQckYJNxA3k4YrqDju0iA-3D-3D"
+                  target="_blank"
+                  class="footer-link"
+                >Manage your preferences or unsubscribe</a>
+                |
+                <a
+                  href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1ZwsjdD8U8HPRHZODNtX5742xNsoxaJ40flKf35Cvt1CHBFE8dGLv92qL5h-2BGtShTp2SxIPlu4MrAdMlBQtsNK3jikyGl1eYTmsCEjA2fD08nD6NDOfmL9eiTK2ucRH-2BVEpoBHf7ZYa6qlJaELubAjmBV1rs753rGNZD3shKzhiyjCnN_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCy9ToIChqpzeiicelcd7bbo1pVhZxGBQ9iuylx93stCJBrsjyj30QOih-2F9XvEHK6xd1LTrEwLmgLZdW8-2BUiDgo6vhe2s3c6GQ29cP-2BwnI-2Ff65wHKrJs1c-2Bd6JgCeTAJRKBG520hdEGMHzT66fxq9-2Fx5Q-3D-3D"
+                  target="_blank"
+                  class="footer-link"
+                >Help</a>
+                <a href="#" style="color: #ffffff !important; text-decoration: none !important; font-weight: normal !important">The&nbsp;Information &middot;&nbsp;251&nbsp;Rhode&nbsp;Island&nbsp;Street,&nbsp;Suite&nbsp;107,&nbsp;San Francisco,&nbsp;CA&nbsp;94103</a><br>
+                <br>
+                <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmN-2BtioNXgRiKmS6QeiVMUmf1kk36DAm-2FsCscr1R8-2FpHXzZj8DFSUZAew8jPs4IufCyk90GsnE-2FNxa2dhIoK7MrijB43LXKd7nbUM8bcPOzkc3cptBJhW9Xudyh1U6s5rk-3DPz6Z_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjcvjV4k-2BxmZo9725SbahlqMt5gtTZB7P-2BqfYocKk2apiF2pOFSEXGXG3qA3hyv-2BQqzyKvJXczbJjMd7sp5cb9f8CiX8anFvwTb6FgAUpHA-2Bte2ZQ8Kj-2F9TWf46YVngQCyAaYPZrVqqZzU-2FLHwK6L1oy1Te8eODNnsPWbT7XbAli3tXmO3oDkIbSgOXm7i4JhrPNxMPvLgjjmzoTe-2FIt7hyJdWcwveYN6poTEHDQSLe5lsiiPpmJEb-2BP4C19Xlx6IKs80GLO-2BsbHEs9jUJJ2aZQA-3D-3D" target="_blank">
+                  <img
+                    alt=""
+                    width="20"
+                    border="0"
+                    src="https://tii.imgix.net/global/email/logo.png"
+                    style="width: 20px; max-width: 20px; height: auto; border: 0"
+                  >
+                </a>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+            <!-- FOOTER END -->
+          </table>
+          <!--[if (gte mso 9)|(IE)]>
+            </td>
+          </tr>
+          </table>
+          <![endif]-->
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+          </tr>
+      </tbody>
+    </table>
+    <!--[if (gte mso 9)|(IE)]>
+          </td>
+        </tr>
+      </table>
+    <![endif]-->
+  <img src="https://url3396.theinformation.com/wf/open?upn=u001.Vk1lvOTnrxw-2FfL8-2BmGyNhxdTSlGmmtgiIYT5kEvVfr3qyjVBUViZuAvnafX6ACbVgh49n9La0jji4n-2FiycsvFt9FaCMFeUWmxPXU8U1KnArqTEHqwKgzhYMh36ZM-2BrggZ9pjzNAD6Yqcbx-2B0IsYlfQ-2F3BPc5L-2B3mzOGUSs-2BAVxzHWp5XJ4SQAE9YKrgbpHh3KqOjFlTeSxss3hA-2BHZ5GZUAcP56ZhQlXksAlHg-2BDC1vl-2ByW0v4EdqMym0fCWJdshbfY-2BY40JtfPzNh9OlDfZg7cjrWBLT34XhHUlqBHgFFGJWJoTj72nkwL7HtR9ar9fTU-2FVi-2BZbGu3LSbfiTWo3Aw-3D-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/></body>
+</html>
+]]></description>
+    <pubDate>Mon, 26 Jan 2026 16:01:45 GMT</pubDate>
+    <guid>19bfb0a9d37036dd</guid>
+    <author>&quot;Anissa Gardizy&quot; &lt;hello@theinformation.com&gt;</author>
+  </item>
 
   <item>
     <title>How I Use Claude Code to Ship Like a Team of Five</title>
@@ -10142,218 +10876,6 @@ If you have any comments or feedback, just respond to this email!
     <pubDate>Sun, 25 Jan 2026 16:01:15 GMT</pubDate>
     <guid>19bf5e3cbf0c0b3d</guid>
     <author>&quot;The Information&quot; &lt;hello@theinformation.com&gt;</author>
-  </item>
-
-  <item>
-    <title>AI Frontiers on TechCrunch</title>
-    <description><![CDATA[
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>AI Frontiers</title>
-        
-<style>
-            body {
-                font-family: Arial, sans-serif;
-                color: #333;
-                line-height: 1.6;
-                margin: 0;
-                padding: 0;
-            }
-            .container {
-                max-width: 600px;
-                margin: 0 auto;
-                padding: 20px;
-            }
-            .header {
-                font-size: 24px;
-                font-weight: bold;
-                color: #333;
-                margin-bottom: 10px;
-            }
-            .story-meta {
-                font-size: 14px;
-                color: #666;
-                margin-bottom: 15px;
-            }
-            .story-link, .hn-link {
-                color: #FF6F61;
-                text-decoration: none;
-            }
-            .story-content {
-                margin: 20px 0;
-            }
-            .story-content h3 {
-                font-size: 18px;
-                color: #444;
-                margin: 15px 0 10px 0;
-            }
-            .story-content p {
-                font-size: 16px;
-                color: #555;
-                margin: 10px 0;
-            }
-            .story-divider {
-                border: 0;
-                border-top: 1px solid #eee;
-                margin: 30px 0;
-            }
-            .footer {
-                font-size: 14px;
-                color: #888;
-                margin-top: 30px;
-                border-top: 1px solid #ddd;
-                padding-top: 20px;
-                text-align: center;
-            }
-            .footer a {
-                color: #4F46E5;
-                text-decoration: none;
-            }
-            .digest-header {
-                text-align: center;
-                margin-bottom: 30px;
-            }
-            .digest-title {
-                font-size: 28px;
-                color: #4F46E5;
-                margin-bottom: 10px;
-            }
-            .digest-date {
-                color: #666;
-                font-size: 16px;
-            }
-            .content-section {
-                margin: 15px 0;
-            }
-            
-            .content-section p {
-                margin: 10px 0;
-                line-height: 1.6;
-            }
-            
-            .digest-list {
-                margin: 10px 0;
-                padding-left: 20px;
-                list-style: none;  /* Remove default bullets */
-            }
-            
-            .digest-list li {
-                margin: 8px 0;
-                line-height: 1.6;
-                position: relative;
-                list-style-type: none;  /* Remove default bullets */
-                padding-left: 20px;
-                color: #555;  /* Match the regular text color */
-            }
-            
-            .digest-list li:before {
-                content: "•";
-                position: absolute;
-                left: 0;
-                color: #555;  /* Match the text color */
-            }
-            /* For nested lists */
-            .digest-list .digest-list {
-                margin-top: 5px;
-                margin-bottom: 5px;
-            }
-            
-            /* Ensure proper spacing between sections */
-            .story-content h3 {
-                margin-top: 25px;
-                margin-bottom: 15px;
-            }
-        </style>
-    
-    </head>
-    <body>
-        <div class="container">
-            <div class="digest-header">
-                <div class="digest-title">AI Frontiers on TechCrunch</div>
-                <div class="digest-date">January 25, 2026</div>
-            </div>
-            
-        <div class="section">
-            <div class="header">Tech CEOs boast and bicker about AI at Davos</div>
-            <div class="story-meta">
-                
-                    • Article: <a href="https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/" class="story-link">https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/</a> <br>
-                    
-                    
-                    • Text-to-Speech audio: <a href="https://audios.aicrafter.info/28397f18-8a02-4bd8-98fa-349b0ffea4d2.mp3" class="story-link">Listen</a> <br>
-                    • AI-generated podcast: <a href="https://audios.aicrafter.info/d235ba5c-bb50-4aab-9e10-952a754d4585.mp3" class="story-link">Listen</a> <br>
-    
-                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
-            </div>
-             
-            <div class="story-content">
-                <h3>Article Summary:</h3>
-                <div class="content-section"><ul class='digest-list'><li>• AI dominated discussions at Davos, with CEOs like Elon Musk, Satya Nadella, Jensen Huang, and Dario Amodei debating its transformative potential and risks. Tensions surfaced as leaders criticized competitors and partners, highlighting the intense competition in the AI space.</li><li>• Anthropic CEO Dario Amodei criticized U.S. policies allowing Nvidia to export chips to China, likening AI data centers to "a country full of geniuses," sparking debates on geopolitics, trade, and AI ethics.</li><li>• Nvidia's Jensen Huang emphasized the need for more investment in AI infrastructure, while Microsoft’s Satya Nadella pushed for broader AI adoption to avoid a potential "bubble," underscoring the race to expand AI's global reach.</li><li>#AI #TechLeadership #Davos2023 #Innovation</li></ul></div>
-            </div>
-    
-            
-        </div>
-        <hr class="story-divider">
-        
-        <div class="section">
-            <div class="header">Former Googlers seek to captivate kids with an AI-powered learning app</div>
-            <div class="story-meta">
-                
-                    • Article: <a href="https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/" class="story-link">https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/</a> <br>
-                    
-                    
-                    • Text-to-Speech audio: <a href="https://audios.aicrafter.info/29f860ed-7125-4e2e-90c5-f83eab1e402e.mp3" class="story-link">Listen</a> <br>
-                    • AI-generated podcast: <a href="https://audios.aicrafter.info/a9c4d768-bc9e-42f3-a472-11e3536abf91.mp3" class="story-link">Listen</a> <br>
-    
-                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
-            </div>
-             
-            <div class="story-content">
-                <h3>Article Summary:</h3>
-                <div class="content-section"><ul class='digest-list'><li>• Sparkli, founded by ex-Google employees, uses generative AI to create immersive, interactive learning experiences for children aged 5-12. The app offers dynamic expeditions on topics like financial literacy and entrepreneurship, combining audio, video, quizzes, and games to engage young learners.</li><li>• The platform prioritizes safety, banning sensitive content and addressing emotional topics with educational guidance. It also includes a teacher module for tracking progress and assigning homework, inspired by Duolingo’s engaging design.</li><li>• Sparkli raised $5 million in pre-seed funding led by Swiss venture firm Founderful, marking the firm’s first edtech investment. The startup plans to expand globally and launch consumer access by mid-2026.</li></ul></div>
-            </div>
-    
-            
-        </div>
-        <hr class="story-divider">
-        
-        <div class="section">
-            <div class="header">A new test for AI labs: Are you even trying to make money?</div>
-            <div class="story-meta">
-                
-                    • Article: <a href="https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/" class="story-link">https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/</a> <br>
-                    
-                    
-                    • Text-to-Speech audio: <a href="https://audios.aicrafter.info/0aff8fa5-4d1a-41e2-9fe6-f989e9d9864d.mp3" class="story-link">Listen</a> <br>
-                    • AI-generated podcast: <a href="https://audios.aicrafter.info/dd21d459-d38a-4920-b14e-a6634a639a61.mp3" class="story-link">Listen</a> <br>
-    
-                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
-            </div>
-             
-            <div class="story-content">
-                <h3>Article Summary:</h3>
-                <div class="content-section"><ul class='digest-list'><li>• A five-level scale was introduced to assess AI labs' commercial ambitions, ranging from Level 1 (pure research focus) to Level 5 (actively generating significant revenue). OpenAI and Anthropic are firmly at Level 5, while newer labs often hover between Levels 2 and 4.</li><li>• Humans& is positioned at Level 3, with plans to redefine workplace tools like Slack and Google Docs but lacking specific product commitments. Thinking Machines Lab faces internal challenges, raising doubts about its Level 4 status. World Labs, led by Fei-Fei Li, has progressed to Level 4 by shipping a world-generating model with strong demand in gaming and special effects.</li><li>• Safe Superintelligence, founded by Ilya Sutskever, remains at Level 1, focused on scientific research with no commercial products. However, its $3 billion funding suggests potential for future pivots depending on research outcomes.</li></ul></div>
-            </div>
-    
-            
-        </div>
-        <hr class="story-divider">
-        
-            <div class="footer">
-                <p>
-                    Built with ❤️ by <a href="https://dannyzheng.me">dannyzheng.me</a><br>
-                </p>
-            </div>
-        </div>
-    </body>
-    </html>
-    ]]></description>
-    <pubDate>Sun, 25 Jan 2026 15:35:32 GMT</pubDate>
-    <guid>19bf5cc9fd766ccc</guid>
-    <author>&quot;AI Frontiers&quot; &lt;newsletter.digest@aicrafter.info&gt;</author>
   </item>
 
   </channel>
