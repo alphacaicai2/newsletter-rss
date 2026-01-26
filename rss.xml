@@ -4,7 +4,651 @@
     <title>Newsletter Feed</title>
     <link>https://your-domain.com/rss.xml</link>
     <description>Newsletter feed</description>
-    <lastBuildDate>Mon, 26 Jan 2026 11:45:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 12:00:16 GMT</lastBuildDate>
+
+  <item>
+    <title>Inside Apple AI 📱, ChatGPT lead shrinks 📉, Claude Code&apos;s hidden feature 👨‍💻</title>
+    <description><![CDATA[<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html charset=UTF-8"><meta charset="UTF-8"><meta name="viewport" content="width=device-width"><meta name="x-apple-disable-message-reformatting"><title>TLDR</title><meta name="color-scheme" content="light dark"><meta name="supported-color-schemes" content="light dark"><style type="text/css">
+			:root {
+				color-scheme: light dark; supported-color-schemes: light dark;
+			}
+			
+			*,
+			*:after,
+			*:before {
+				-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
+			}
+			
+			* {
+				-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;
+			}
+			
+			html,
+			body,
+			.document {
+				width: 100% !important; height: 100% !important; margin: 0; padding: 0;
+			}
+			
+			body {
+				-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility;
+			}
+			
+			div[style*="margin: 16px 0"] {
+				margin: 0 !important;
+			}
+			
+			table,
+			td {
+				mso-table-lspace: 0pt; mso-table-rspace: 0pt;
+			}
+			
+			table {
+				border-spacing: 0; border-collapse: collapse; table-layout: fixed; margin: 0 auto;
+			}
+			
+			img {
+				-ms-interpolation-mode: bicubic; max-width: 100%; border: 0;
+			}
+			
+			*[x-apple-data-detectors] {
+				color: inherit !important; text-decoration: none !important;
+			}
+			
+			.x-gmail-data-detectors,
+			.x-gmail-data-detectors *,
+			.aBn {
+				border-bottom: 0 !important; cursor: default !important;
+			}
+			
+			.btn {
+				-webkit-transition: all 200ms ease; transition: all 200ms ease;
+			}
+			
+			.btn:hover {
+				background-color: #f67575; border-color: #f67575;
+			}
+			
+			* {
+				font-family: Arial, Helvetica, sans-serif; font-size: 18px;
+			}
+			
+			@media screen and (max-width: 600px) {
+				.container {
+					width: 100%; margin: auto;
+				}
+				.stack {
+					display: block!important; width: 100%!important; max-width: 100%!important;
+				}
+				.btn {
+					display: block; width: 100%; text-align: center;
+				}
+			}
+			
+			body,
+			p,
+			td,
+			tr,
+			.body,
+			table,
+			h1,
+			h2,
+			h3,
+			h4,
+			h5,
+			h6,
+			div,
+			span {
+				background-color: #FEFEFE !important; color: #010101 !important;
+			}
+			
+			@media (prefers-color-scheme: dark) {
+				body,
+				p,
+				td,
+				tr,
+				.body,
+				table,
+				h1,
+				h2,
+				h3,
+				h4,
+				h5,
+				h6,
+				div,
+				span {
+					background-color: #27292D !important; color: #FEFEFE !important;
+				}
+			}
+			
+			a {
+				color: inherit !important; text-decoration: underline !important;
+			}
+
+		</style><!--[if mso | ie]>
+		<style type="text/css">
+			a {
+				background-color: #FEFEFE !important; color: #010101 !important;
+			}
+			@media (prefers-color-scheme: dark) {
+				a {
+					background-color: #27292D !important; color: #FEFEFE !important;
+				}
+			}
+	 </style>
+			<![endif]--></head><body class="">
+
+
+
+<div style="display: none; max-height: 0px; overflow: hidden;">Apple&#039;s AI efforts have resulted in a Google partnership, management changes, and two new versions of Siri. Apple is planning an announcement&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;</div>
+
+<div style="display: none; max-height: 0px; overflow: hidden;">
+<br>
+</div>
+
+<table align="center" class="document"><tbody><tr><td valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="container" width="600"><tbody><tr class="inner-body"><td>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr class="header"><td bgcolor="" class="container">
+
+<table width="100%"><tbody><tr><td class="container">
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" style="margin-top: 0px;" width="100%"><tbody><tr><td style="padding: 0px;">
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div style="text-align: center;">
+<span style="margin-right: 0px;"><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/jsnEGPqnQDGbLISt0RGSJp0_edQfSUVnmGGTE7Nr1kw=441" rel="noopener noreferrer" target="_blank"><span>Sign Up</span></a>
+<span>|</span><span style="margin-right: 2px; margin-left: 2px;"><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/jzM1sgA4dP4Kehx3-yDGFx_9K31idN0yzBUgdNJkfPo=441" rel="noopener noreferrer" target="_blank"><span>Advertise</span></a></span><span>|</span><span style="margin-left: 2px;"><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=d88fa1a6-f698-11f0-8745-1fdc0695ba1c%26p=71cc34b0-fa9a-11f0-b945-4d109c362b34%26pt=campaign%26t=1769428571%26s=6c1fe4303f83b306857c9f28b66e5c0329a96e4933ddba5b84ae931c024517f8/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/AJAHlOPCGWNMd3ihx6FrBocEtNeTx-JY9qx2J1ugo6c=441"><span>View Online</span></a></span>
+<br>
+</span></div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="text-align: center;"><span data-darkreader-inline-color="" style="--darkreader-inline-color:#3db3ff; color: rgb(51, 175, 255) !important; font-size: 30px;">T</span><span style="font-size: 30px;"><span data-darkreader-inline-color="" style="color: rgb(232, 192, 96) !important; --darkreader-inline-color:#e8c163; font-size:30px;">L</span><span data-darkreader-inline-color="" style="color: rgb(101, 195, 173) !important; --darkreader-inline-color:#6ec7b2; font-size:30px;">D</span></span><span data-darkreader-inline-color="" style="--darkreader-inline-color:#dd6e6e; color: rgb(220, 107, 107) !important; font-size: 30px;">R</span>
+<br>
+</td></tr></tbody></table>
+
+<br>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr id="together-with"><td align="center" height="20" style="vertical-align:middle !important;" valign="middle" width="100%"><strong style="vertical-align:middle !important; height: 100%;">Together With </strong>
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnebius.com%2Fservices%2Ftoken-factory%3Futm_source=yoloco%26utm_medium=newsletter-tldr%26utm_campaign=influencer_collaboration_tf/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/QC-z2DZoRVJ_azYQ-L9R8I8cqGdH54_XTekFHobnZW8=441"><img src="https://images.tldr.tech/nebius2.png" valign="middle" style="vertical-align: middle !important; height: 100%;" alt="Nebius"></a></td></tr></tbody></table>
+
+<table style="table-layout: fixed; width:100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;">
+<div style="text-align: center;">
+
+<h1><strong>TLDR <span id="date">2026-01-26</span></strong></h1>
+</div>
+</td></tr></tbody></table>
+
+<table style="table-layout: fixed; width:100%;" width="100%"><tbody><tr id="sponsy-copy"><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnebius.com%2Fservices%2Ftoken-factory%3Futm_source=yoloco%26utm_medium=newsletter-tldr%26utm_campaign=influencer_collaboration_tf/2/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/5IyZ6xWZyJz1oiMhHaQSCjmoH-t1G2__uA019zMRwZ0=441">
+                                    <span>
+                                        <strong>Production inference for open-source LLMs (Sponsor)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnebius.com%2Fservices%2Ftoken-factory%3Futm_source=yoloco%26utm_medium=newsletter-tldr%26utm_campaign=influencer_collaboration_tf/3/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/J49ueVQS-CFqV2mxE1dlmBJs7S5i4EWERfYgMbCHKRA=441" rel="noopener noreferrer nofollow" target="_blank"><span>Nebius Token Factory</span></a> is built for teams running open-source LLMs in real products. We deliver managed inference with explicit control over execution paths: speculative decoding, cache-aware routing, and post-training tuned to real traffic. Predictable tail latency, stable cost, and production-grade systems for AI that actually ships.
+
+<p></p>
+
+<p><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnebius.com%2Fservices%2Ftoken-factory%3Futm_source=yoloco%26utm_medium=newsletter-tldr%26utm_campaign=influencer_collaboration_tf/4/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/7pttrcvhLfqQyE7F8sM5s1iAlLyAnqRTp8plf20TBy8=441" rel="noopener noreferrer nofollow" target="_blank"><span>Build inference that holds at scale →</span></a>
+
+
+</p>
+</span></span></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr>
+<tr bgcolor=""><td class="container">
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td style="padding: 0px;">
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><span style="font-size: 36px;">📱</span></div></div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;">
+
+<h1><strong>Big Tech &amp; Startups</strong></h1>
+</div>
+</div>
+</td></tr></tbody></table>
+
+<table style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F9Gm6MC/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/Eclr9-u7LZWi0Nj8gDR1wQ-CiFOAmcnhjMAsSqNSi9U=441">
+                                    <span>
+                                        <strong>Inside Apple's AI Shake-Up and Its Plans for Two New Versions of Siri (18 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Apple's AI efforts have resulted in a Google partnership, management changes, and two new versions of Siri. The company had considered partnering with OpenAI or Anthropic, but Anthropic wanted too much money, and OpenAI was actively poaching Apple engineers. Google was willing to agree to a financial structure Apple deemed reasonable, and its technology had improved significantly in recent months. Apple is planning an announcement for the second half of February that will include demonstrations of the new Siri.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fppc.land%2Fchatgpts-lead-shrinks-as-gemini-surges-in-ai-traffic-war%2F%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/Z1DGwCa1xxof7d_aVDVO__xOUnF6h2Rng7dXLfiaZMs=441">
+                                    <span>
+                                        <strong>ChatGPT's lead shrinks as Gemini surges in AI traffic war (9 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    ChatGPT's worldwide traffic declined in January as Google's Gemini's traffic increased. The shift marks a significant acceleration of competitive pressure. ChatGPT had a commanding share last year, but its dominance eroded over the course of the year. Gemini's growth reflects Google's systematic integration across its services and devices, which creates a distribution advantage through existing userbases.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><span style="font-size: 36px;">🚀</span></div>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;">
+
+<h1><strong>Science &amp; Futuristic Technology</strong></h1>
+</div>
+</div>
+</td></tr></tbody></table>
+
+<table style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fspace%2F2026%2F01%2Fblue-origin-makes-impressive-strides-with-reuse-next-launch-will-refly-booster%2F%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/9oa4L5n99gQ7fbv2mtwticwSPQv-BLaxez0wN546CoE=441">
+                                    <span>
+                                        <strong>Blue Origin makes impressive strides with reuse—next launch will refly booster (2 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    The next launch of Blue Origin's New Glenn rocket will carry an AST SpaceMobile large communications satellite into low-Earth orbit. The mission will use a refurbished booster from New Glenn's second mission. It will launch from Cape Canaveral Space Force Station no earlier than late February. Blue Origin's turnaround time for the rocket (less than four months) is impressive, even for a well-capitalized program.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.nbcnews.com%2Fhealth%2Fhealth-news%2Fharmful-cholesterol-levels-cut-half-one-time-gene-editing-drug-early-t-rcna242320%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/AK4coRToawk5xeWwT8t2t-S8yagKdS0UugnVELFbSqM=441">
+                                    <span>
+                                        <strong>Harmful cholesterol levels cut in half with one-time gene editing drug in early trial (6 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    A new experimental drug uses CRISPR to manipulate a single gene in the liver that normally boosts cholesterol levels. The approach works after one dose, helping people lower their levels of cholesterol and other fats in the blood permanently. While a Phase 1 clinical trial showed that the treatment is effective, its long-term safety is unknown. There are already safe and effective medications that can control cholesterol and fats, but patients tend to stop using them within a year due to side effects.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><span style="font-size: 36px;">💻</span></div></div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;">
+
+<h1><strong>Programming, Design &amp; Data Science</strong></h1>
+</div>
+</div>
+</td></tr></tbody></table>
+
+<table style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.granola.ai%2F%3Fvia=adops-tldr-tech%26dub_id=hofOr9MUxEqv3XzA%26utm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/Z6TICbBnsjAHTzxeXb9sTJeGpkv8892y9FFCAnTeqb0=441">
+                                    <span>
+                                        <strong>Is your AI notetaker missing the big picture? (Sponsor)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    AI meeting notes often miss the point or drown you in details. <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.granola.ai%2F%3Fvia=adops-tldr-tech%26dub_id=hofOr9MUxEqv3XzA/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/8Z6oC6L7_UCMc1ZnWCyBsQ6xjfsyHmTb7ZCGCQ4S0G0=441" rel="noopener noreferrer nofollow" target="_blank"><span>Granola</span></a> follows your lead: By enriching your raw meeting notes, it focuses on what you know is relevant. Built for Mac and iPhone, Granola listens in on calls — without an awkward meeting bot — and captures every detail. <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.granola.ai%2F%3Fvia=adops-tldr-tech%26dub_id=hofOr9MUxEqv3XzA/2/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/rs2hHiIKewIh7JeO6K4kOlNzipUBctwBJjFqsoiENo4=441" rel="noopener noreferrer nofollow" target="_blank"><span>Try Granola for free in your next meeting&nbsp;</span></a>
+</span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmaggieappleton.com%2Fgastown%2F%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/9CmB6JdS26J1Fut5O0mN_Uo9eM8u0VO47i6O7QMNFnk=441">
+                                    <span>
+                                        <strong>Gas Town's Agent Patterns, Design Bottlenecks, and Vibecoding at Scale (32 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Gas Town is a provocative piece of speculative design, but its design is too poorly thought through to persist. The problems with Gas Town will undoubtedly show up in the next generation of development tools. Thoughtful design, critical thinking, user research, and planning and coordination within teams will become more important as the pace of software development speeds up. The most valuable tools will help people think more clearly, plan more carefully, and keep the quality bar high.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgist.github.com%2Fmccun934%2Ffc0779bcf2d47fcb65969e5a4208c9cf%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/oW96SZV2pvMw2-AywCvFEEgmtikbm20MBZkBmUmLF38=441">
+                                    <span>
+                                        <strong>Claude Code TeammateTool - Source Code Analysis (12 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    TeammateTool is an existing-but-hidden functionality found in the Claude Code v2.1.19 binary. While it is fully implemented, it is gated behind feature flags. The tool could potentially be used to review PRs through multiple perspectives, build complete features with specialized agents for each layer, investigate a production bug from multiple angles, and more. This post documents what has been discovered about the feature.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><span style="font-size: 36px;">🎁</span></div></div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><strong><h1>Miscellaneous</h1></strong></div>
+</div>
+</td></tr></tbody></table>
+
+<table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FEAFH2I/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/k6ZY9bA6USJ2G84Mci_Qn6-6us2JtaV-mTQoAhVO12I=441">
+                                    <span>
+                                        <strong>The Warner Bros. Bidding War Is Over (11 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Netflix has agreed to buy Warner Bros. Discovery's studio and streaming business in an all-cash deal for $27.75 a share. The deal has been unanimously approved by Warner Bros.' board, and shareholders will vote on it in the next couple of months. The deal could be blocked by regulators, and Paramount could still increase its offer, but it previously said that the last bid was final.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fcars%2F2026%2F01%2Ftesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd%2F%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/X1qxvREpO8tAktMEqFW1xjzV9TqrB7hGMktfuqygqfU=441">
+                                    <span>
+                                        <strong>Tesla kills Autopilot, locks lane-keeping behind $99/month fee (4 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Tesla will start to charge $99 per month for its Full Self-Driving (FSD) subscription starting on February 14. The capability can be bought for a one-time fee of $8,000 until then. The $99 per month price will rise as FSD's capabilities improve. Tesla's falling profit margins, declining sales, and loss of emissions credits may be pushing the company to find other sources of regular income.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><span style="font-size: 36px;">⚡</span></div></div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;">
+
+<h1><strong>Quick Links</strong></h1>
+</div>
+</div>
+</td></tr></tbody></table>
+
+<table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2F3b21aaf8-dea5-4127-be71-602d30e5001e%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/26dXoto9gE11Ki5NWFhKPdVz5aNjKSpTx3kDIN4FBTM=441">
+                                    <span>
+                                        <strong>TLDR is hiring a Senior Software Engineer, Applied AI ($200k-$300k, Fully Remote)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    As the first engineer on TLDR's new Applied AI team, you'll build AI agents and composable Claude Skills to let non-technical teammates create their own AI workflows.&nbsp;<a class="c-link" href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2F3b21aaf8-dea5-4127-be71-602d30e5001e/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/o4fnBJCWBuVkrM-AAf_8rJPoFvC6wEbiyQSNgAgV4yg=441" rel="noopener noreferrer" target="_blank"><span>Learn more</span></a>.
+</span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FzZrZ2P/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/Vqs6RhXYj52izeidGruW5LNWYKSk49Zh6KHQc9d9T8g=441">
+                                    <span>
+                                        <strong>Lessons from Building AI Agents for Financial Services (34 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Advice on building agents from someone with two years of experience building AI agents for financial services.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fswizec.com%2Fblog%2Fthe-future-of-software-engineering-is-sre%2F%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/yFtWfvA-oOw5BIFN6mRGt_DwT6NpM2iWIBPRByOUkN4=441">
+                                    <span>
+                                        <strong>The future of software engineering is SRE (6 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Software engineering is about keeping code running over time as systems change.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Falbedo.com%2Fpost%2Fclarity-1-what-worked-and-where-we-go-next%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/9p-4-m6oMGIdaZ2T4krU7gJqa3dZ3ZzwjSuiDG1NfHI=441">
+                                    <span>
+                                        <strong>Clarity-1: What Worked, and Where We Go Next (22 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Clarity-1 proved sustainable orbit operations in VLEO, validated its mid-size, high-performance Precision bus, and validated 98% of the technology required to capture 10 cm resolution visible imagery and 2-meter thermal infrared imagery.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fben1777.substack.com%2Fp%2Fvimeos-slow-fade-an-engineers-front%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/CorkoRVRZtCpI88BLd25PCGKR7UH0Myn9WLyeAei9Rg=441">
+                                    <span>
+                                        <strong>Vimeo's Slow Fade: An Engineer's Front-Row Seat to the Fall of a Web Icon (42 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Vimeo, which started before YouTube in 2004, was acquired by Bending Spoons in September last year.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.androidauthority.com%2Fgoogle-sideloading-android-high-friction-process-3633468%2F%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/_qezuIPvSrjnVSxXzT-0S0BPTGGVGL5Lbo3wR_azjE0=441">
+                                    <span>
+                                        <strong>Google confirms 'high-friction' sideloading flow is coming to Android (2 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Google is introducing extra steps when sideloading to ensure users understand the risks of installing apps from unverified developers.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnotes.nora.codes%2Fatproto-again%2F%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/offBmH5gXFb-oMLqmoxI7Xhrk5mHcQrOzW1mX5pLzQA=441">
+                                    <span>
+                                        <strong>I Was Right About ATProto Key Management (6 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    A centralized burn can completely prevent users from interacting with people using Bluesky.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;">
+
+<p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;">
+Love TLDR? Tell your friends and get rewards!
+</p>
+</td></tr>
+<tr><td class="container" style="padding: 0px 10px 15px;">
+<div class="text-block">
+Share your referral link below with friends to get free TLDR swag!
+</div>
+</td></tr>
+<tr><td align="left" style="padding: 10px;">
+<div class="text-block">
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F3faf287b%2F/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/E9PYuIO1ZloCLF2OsxYXA5vInH_4HsaJRz4vknBjJHw=441" style="color: #464ba4; text-decoration: underline;">https://refer.tldr.tech/3faf287b/</a>
+</div>
+</td></tr>
+<tr></tr>
+<tr><td align="left" style="padding:5px 10px;">
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_20e4b943114b%2F1/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/Z2dQluFjAFCjH9edC-U1vbJ2VmApu845b_Qgw_osXbY=441" style="font-size: 16px; line-height: 1.6;  padding: 10px 0; display: inline-block;  text-decoration: underline;"><span style="mso-text-raise:13pt; text-decoration: underline;">Track your referrals here.</span></a>
+</td></tr></tbody></table>
+
+
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;">
+
+<p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;">
+Want to advertise in TLDR? 📰
+</p>
+<div class="text-block" style="margin-top: 10px;">
+If your company is interested in reaching an audience of tech executives, decision-makers and engineers, you may want to <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/W9hmvajzjeb1hqsodushC6uXe_p8WIJ_3gg81K5QwBQ=441"><strong><span>advertise with us</span></strong></a>.
+</div>
+<br>
+
+<!-- New "Want to work at TLDR?" section -->
+
+<p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;">
+Want to work at TLDR? 💼
+</p>
+<div class="text-block" style="margin-top: 10px;">
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/5MP9pSM7mBXSM9SovG-Tp_Es8PTkZDsJHPLKTKpl3KM=441" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"><strong>Apply here</strong></a>,
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/d2lXjc7E9L0aVY6KLHOtRlkkqS0cyCh7tkHWs2WHTYE=441" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"><strong>create your own role</strong></a> or send a friend's resume to <a href="mailto:jobs@tldr.tech" style="color: #0000EE; text-decoration: underline;">jobs@tldr.tech</a> and get $1k if we hire them! TLDR is one of <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/MJAEfC98v4_kgLCDiswt-eKXCrkZJ7U4IRbjchPWj7M=441" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"><strong>Inc.'s Best Bootstrapped businesses</strong></a> of 2025.
+</div>
+<br>
+
+<div class="text-block">
+If you have any comments or feedback, just respond to this email!
+<br>
+<br> Thanks for reading,
+<br>
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2Ftldrdan/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/jfx-05OViNm0aYSiguAEAccuBIglV11OEurCY2Ai8nw=441"><span>Dan Ni</span></a> &amp; <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2FSteveFlanders22/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/xG13sWFNfxE8FoQULtAilQ6KbLjW9t3M05mBbbqNvLY=441"><span>Stephen Flanders</span></a>
+<br>
+<br>
+</div>
+<br>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block" id="testing-id">
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Ftech%2Fmanage%3Femail=info%2540vibexcap.com/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/DHnRaR2xvz-yRuOUTD030HrTmYTsbC4G_6h-jre_MzA=441">Manage your subscriptions</a> to our other newsletters on tech, startups, and programming. Or if TLDR isn't for you, please <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=d88fa1a6-f698-11f0-8745-1fdc0695ba1c%26p=71cc34b0-fa9a-11f0-b945-4d109c362b34%26pt=campaign%26pv=4%26spa=1769425283%26t=1769428571%26s=85aeaaf2819556a89da5526856bf97267c76371318aa5ef0898624793423c2e9/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/fhtxwsVPF9t0EvJP3jc8omb8iE9NTOv8Wh7MgN_co0M=441">unsubscribe</a>.
+<br>
+</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+
+
+<img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/1aln4T_pDI-LbQCaGmNSpLfb_YGfFicYKjKc60y-fLQ=441" style="display: none; width: 1px; height: 1px;">
+</body></html>]]></description>
+    <pubDate>Mon, 26 Jan 2026 11:56:11 GMT</pubDate>
+    <guid>19bfa29c1f1da582</guid>
+    <author>&quot;TLDR&quot; &lt;dan@tldrnewsletter.com&gt;</author>
+  </item>
 
   <item>
     <title>📊 Anthropic expands its Excel AI push</title>
@@ -7869,422 +8513,6 @@ style="margin:0;margin-bottom:16px">You’re receiving this email because you si
     ]]></description>
     <pubDate>Fri, 23 Jan 2026 15:45:40 GMT</pubDate>
     <guid>19beb88ee4e4cda1</guid>
-    <author>&quot;AI Frontiers&quot; &lt;newsletter.digest@aicrafter.info&gt;</author>
-  </item>
-
-  <item>
-    <title>AI Frontiers on Hacker News</title>
-    <description><![CDATA[
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>AI Frontiers</title>
-        
-<style>
-            body {
-                font-family: Arial, sans-serif;
-                color: #333;
-                line-height: 1.6;
-                margin: 0;
-                padding: 0;
-            }
-            .container {
-                max-width: 600px;
-                margin: 0 auto;
-                padding: 20px;
-            }
-            .header {
-                font-size: 24px;
-                font-weight: bold;
-                color: #333;
-                margin-bottom: 10px;
-            }
-            .story-meta {
-                font-size: 14px;
-                color: #666;
-                margin-bottom: 15px;
-            }
-            .story-link, .hn-link {
-                color: #FF6F61;
-                text-decoration: none;
-            }
-            .story-content {
-                margin: 20px 0;
-            }
-            .story-content h3 {
-                font-size: 18px;
-                color: #444;
-                margin: 15px 0 10px 0;
-            }
-            .story-content p {
-                font-size: 16px;
-                color: #555;
-                margin: 10px 0;
-            }
-            .story-divider {
-                border: 0;
-                border-top: 1px solid #eee;
-                margin: 30px 0;
-            }
-            .footer {
-                font-size: 14px;
-                color: #888;
-                margin-top: 30px;
-                border-top: 1px solid #ddd;
-                padding-top: 20px;
-                text-align: center;
-            }
-            .footer a {
-                color: #4F46E5;
-                text-decoration: none;
-            }
-            .digest-header {
-                text-align: center;
-                margin-bottom: 30px;
-            }
-            .digest-title {
-                font-size: 28px;
-                color: #4F46E5;
-                margin-bottom: 10px;
-            }
-            .digest-date {
-                color: #666;
-                font-size: 16px;
-            }
-            .content-section {
-                margin: 15px 0;
-            }
-            
-            .content-section p {
-                margin: 10px 0;
-                line-height: 1.6;
-            }
-            
-            .digest-list {
-                margin: 10px 0;
-                padding-left: 20px;
-                list-style: none;  /* Remove default bullets */
-            }
-            
-            .digest-list li {
-                margin: 8px 0;
-                line-height: 1.6;
-                position: relative;
-                list-style-type: none;  /* Remove default bullets */
-                padding-left: 20px;
-                color: #555;  /* Match the regular text color */
-            }
-            
-            .digest-list li:before {
-                content: "•";
-                position: absolute;
-                left: 0;
-                color: #555;  /* Match the text color */
-            }
-            /* For nested lists */
-            .digest-list .digest-list {
-                margin-top: 5px;
-                margin-bottom: 5px;
-            }
-            
-            /* Ensure proper spacing between sections */
-            .story-content h3 {
-                margin-top: 25px;
-                margin-bottom: 15px;
-            }
-        </style>
-    
-    </head>
-    <body>
-        <div class="container">
-            <div class="digest-header">
-                <div class="digest-title">AI Frontiers on Hacker News</div>
-                <div class="digest-date">January 23, 2026</div>
-            </div>
-            
-        <div class="section">
-            <div class="header">I was banned from Claude for scaffolding a Claude.md file?</div>
-            <div class="story-meta">
-                
-                    • Article: <a href="https://hugodaniel.com/posts/claude-code-banned-me/" class="story-link">https://hugodaniel.com/posts/claude-code-banned-me/</a> <br>
-                    • HN Discussion: <a href="https://news.ycombinator.com/item?id=46723384" class="hn-link">https://news.ycombinator.com/item?id=46723384</a> <br>
-                    • Score: 616 <br>
-                    • Text-to-Speech audio: <a href="https://audios.aicrafter.info/e5e7626a-06e3-4f18-8a8e-d2255d5a7572.mp3" class="story-link">Listen</a> <br>
-                    • AI-generated podcast: <a href="https://audios.aicrafter.info/d8c5fcc8-3f4a-4c95-af67-cfda37b93e32.mp3" class="story-link">Listen</a> <br>
-    
-                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
-            </div>
-             
-            <div class="story-content">
-                <h3>Article Summary:</h3>
-                <div class="content-section"><ul class='digest-list'><li>• A developer using Anthropic's Claude AI for personal coding projects faced an account ban after automating prompts resembling system instructions, triggering moderation heuristics. The ban occurred without warning or explanation, highlighting the opaque nature of AI moderation systems.</li><li>• The developer's project involved running two Claude instances to iterate on scaffolding tools, but the process was flagged as a violation, possibly due to prompt injection concerns. The incident underscores challenges in using AI tools for advanced automation.</li><li>• Following the ban, the developer received a refund but no communication or support from Anthropic. The experience raises concerns about AI safety protocols prioritizing extreme caution over user engagement and accuracy.</li></ul></div>
-            </div>
-    
-             
-            <div class="story-content">
-                <h3>Discussion Highlights:</h3>
-                <div class="content-section"><ul class='digest-list'><li>1. **Main Topics and Themes**:</li><li>• **Service Reliability and Customer Support**: Many commenters shared frustrations with Anthropic's Claude service becoming unreliable, with issues such as flakiness, failed prompts, and unresponsiveness. A recurring theme was the lack of adequate customer support, which often consists of automated responses or an AI bot, with human escalation being rare or ineffective.</li><li>• **Account Bans and Lack of Transparency**: Several users reported being banned from Claude without clear explanations or recourse, sometimes after seemingly innocuous actions like using a VPN or submitting certain prompts. The lack of transparency in the banning process and appeals system was widely criticized.</li><li>• **Prompt Injection and Automation Concerns**: The discussion included speculation about bans being triggered by activities perceived as prompt injection or automation misuse, such as using Claude to modify its own behavior or scaffolding projects.</li><li>• **Alternatives to Claude**: Commenters debated other LLMs like ChatGPT, Gemini, and open-source models such as GLM, Mistral, and locally hosted solutions. Some expressed preference for open-source models to avoid corporate control and censorship.</li><li>• **Ethical and Systemic Issues**: The conversation touched on broader concerns about corporate control over AI tools, lack of accountability, and the implications of centralized AI systems on users' freedom and livelihoods.</li><li></li><li>2. **Significant Agreements and Disagreements**:</li><li>• **Agreement**: There was widespread consensus that Anthropic's customer support and transparency need significant improvement. Many commenters agreed that the lack of human support and unclear banning policies create a poor user experience.</li><li>• **Disagreement**: Opinions varied on the viability of alternatives to Claude. Some praised open-source models for independence, while others argued they lag behind proprietary models in quality and reliability. There was also debate over whether Anthropic's bans were justified or overly harsh.</li><li>• **Mixed Sentiments on AI Moderation**: While some supported strict moderation for safety, others criticized the over-reliance on automated systems and the lack of human oversight.</li><li></li><li>3. **Overall Sentiment**:</li><li>• The sentiment was predominantly negative, with many users expressing frustration, disappointment, and distrust toward Anthropic's handling of Claude's reliability and support issues. Some commenters were optimistic about alternatives, while others were skeptical of their capabilities.</li><li></li><li>4. **Unique Insights and Contributions**:</li><li>• **Local Models as a Solution**: Several commenters advocated for running local LLMs to avoid corporate restrictions and bans, emphasizing the importance of decentralization in AI.</li><li>• **Anthropic's Strategic Risk**: One commenter highlighted the potential damage to Anthropic's reputation if it doesn't trust its own AI for customer support, questioning why corporate clients should rely on Claude.</li><li>• **Broader Implications**: Commenters discussed the risks of centralized AI tools potentially barring users from industries or workflows, likening it to monopolistic control.</li><li></li><li>5. **Recurring Issues**:</li><li>• **Token Usage and Costs**: Users reported dissatisfaction with unclear token limits and pricing, particularly for high-cost plans like Claude Max.</li><li>• **Automation and Prompt Injection**: Many commenters speculated that Anthropic's automated systems flagged benign actions as malicious, leading to bans.</li><li>• **Calls for Regulation**: Some commenters advocated for legal frameworks to prevent arbitrary bans and ensure accountability in AI services.</li><li></li><li>6. **Notable Comments**:</li><li>• A commenter highlighted the chilling effect of Anthropic's banning practices on developers, discouraging investment in Claude-specific tools.</li><li>• Another user suggested prompt injection techniques could be exploited maliciously to ban organizations from AI tools.</li><li>• Discussions on open-source models like Mistral and GLM provided valuable insights into alternatives to proprietary LLMs.</li><li></li><li>In summary, the discussion underscored dissatisfaction with Anthropic's service reliability, customer support, and banning policies, while exploring alternatives and raising broader concerns about corporate control in AI.</li></ul></div>
-            </div>
-    
-        </div>
-        <hr class="story-divider">
-        
-        <div class="section">
-            <div class="header">Proton Spam and the AI Consent Problem</div>
-            <div class="story-meta">
-                
-                    • Article: <a href="https://dbushell.com/2026/01/22/proton-spam/" class="story-link">https://dbushell.com/2026/01/22/proton-spam/</a> <br>
-                    • HN Discussion: <a href="https://news.ycombinator.com/item?id=46729368" class="hn-link">https://news.ycombinator.com/item?id=46729368</a> <br>
-                    • Score: 290 <br>
-                    • Text-to-Speech audio: <a href="https://audios.aicrafter.info/cc716815-f43a-4b85-91b2-6cde41b14dd9.mp3" class="story-link">Listen</a> <br>
-                    • AI-generated podcast: <a href="https://audios.aicrafter.info/ce06c03b-9cff-4450-9f24-102c29398a38.mp3" class="story-link">Listen</a> <br>
-    
-                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
-            </div>
-             
-            <div class="story-content">
-                <h3>Article Summary:</h3>
-                <div class="content-section"><ul class='digest-list'><li>• Proton sent an email promoting its AI feature, Lumo, to a user who had explicitly opted out of Lumo-related communications, raising concerns about privacy and consent. The email was labeled as part of the "Proton for Business" newsletter, which the user disputes as misleading.</li><li>• The incident highlights broader issues within the AI industry, where companies often disregard user preferences and consent, pushing AI into products and services without explicit approval. This trend is criticized for undermining trust and violating ethical standards.</li><li>• The user calls out Proton's handling of the situation, emphasizing the growing problem of non-consent in tech, especially within the AI sector, which frequently sidesteps privacy laws and user autonomy.</li></ul></div>
-            </div>
-    
-             
-            <div class="story-content">
-                <h3>Discussion Highlights:</h3>
-                <div class="content-section"><ul class='digest-list'><li>1. **Main Topics of Discussion**:</li><li>• **Proton's Marketing Practices**: Many commenters criticized Proton's intrusive marketing emails, particularly around their AI product "Lumo." Users expressed frustration over receiving promotional emails despite opting out, with some suggesting this behavior undermines trust in the company.</li><li>• **AI and Consent**: The broader issue of AI being forcefully integrated into products and services without user consent was heavily discussed. Commenters noted that AI marketing often disregards user preferences, reflecting a trend of non-consensual implementation across the tech industry.</li><li>• **Comparison to Competitors**: Several commenters highlighted their dissatisfaction with Proton's overall suite of products, including email and VPN services, and shared positive experiences with alternatives like Fastmail and Tutanota.</li><li>• **Ethics and Accountability in Tech**: Commenters debated the ethical implications of marketing practices and the lack of consumer protection in the tech industry, pointing out that GDPR enforcement is limited outside of Europe.</li><li>• **Broader Tech Industry Trends**: Some commenters linked Proton's behavior to a larger trend of "enshittification," where companies prioritize profit over user experience and trust as they scale.</li><li></li><li>2. **Significant Agreements and Disagreements**:</li><li>• **Agreement**: Many commenters agreed that Proton's marketing practices, particularly around AI, are problematic and erode trust. There was consensus that non-consensual marketing emails are unethical and frustrating.</li><li>• **Disagreement**: While most criticized Proton, a few defended the company, arguing that the issue might stem from technical errors or misclassification rather than malice. Others felt the complaints were exaggerated and suggested unsubscribing was a simple solution.</li><li>• **AI-Specific Criticism**: Some commenters believed the issue is specific to AI hype and marketing, while others argued this behavior is typical of marketing teams in general, regardless of the product being promoted.</li><li></li><li>3. **Overall Sentiment**:</li><li>• The discussion was largely negative, with commenters expressing dissatisfaction with Proton's marketing practices and broader trends in the tech industry. Frustration and distrust were common sentiments, especially regarding AI-related marketing and lack of respect for user preferences.</li><li></li><li>4. **Unique Insights**:</li><li>• Several commenters shared personal experiences with Proton and other companies, highlighting issues like slow product development, poor customer support, and misleading marketing practices.</li><li>• A commenter provided a detailed perspective on how internal conflicts between support and marketing teams might lead to such incidents, offering insight into corporate dynamics.</li><li>• Comparisons to competitors like Fastmail and Tutanota revealed that users prioritize simplicity, reliability, and trust in their choice of email providers.</li><li></li><li>5. **Key Takeaways**:</li><li>• Proton's marketing practices, particularly around AI, have led to significant user frustration and loss of trust.</li><li>• The tech industry's disregard for user consent in marketing and product integration is a widespread issue, with AI being a focal point.</li><li>• Many users are considering or have already switched to competitors due to dissatisfaction with Proton's products and practices.</li><li>• Ethical concerns and lack of accountability in tech marketing were recurring themes in the discussion.</li></ul></div>
-            </div>
-    
-        </div>
-        <hr class="story-divider">
-        
-        <div class="section">
-            <div class="header">Meet the Alaska Student Arrested for Eating an AI Art Exhibit</div>
-            <div class="story-meta">
-                
-                    • Article: <a href="https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/" class="story-link">https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/</a> <br>
-                    • HN Discussion: <a href="https://news.ycombinator.com/item?id=46719465" class="hn-link">https://news.ycombinator.com/item?id=46719465</a> <br>
-                    • Score: 97 <br>
-                    • Text-to-Speech audio: <a href="https://audios.aicrafter.info/68e94b08-b5e4-4f29-be8a-9b795801c751.mp3" class="story-link">Listen</a> <br>
-                    • AI-generated podcast: <a href="https://audios.aicrafter.info/e159c66b-2b87-49b3-baa8-890925798b89.mp3" class="story-link">Listen</a> <br>
-    
-                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
-            </div>
-             
-            <div class="story-content">
-                <h3>Article Summary:</h3>
-                <div class="content-section"><ul class='digest-list'><li>• University of Alaska Fairbanks student Graham Granger protested AI-generated art by tearing and eating pieces of an exhibit, criticizing AI for undermining the creative process and relying on other artists' work without consent.</li><li>• Granger views AI as a valuable tool but believes it has no place in art, arguing that the lack of human effort and inability to process criticism devalues the art form and harms genuine artists.</li><li>• The incident, initially intended to spark campus-wide discussion, gained international attention, with Granger standing by his actions despite facing legal consequences.</li></ul></div>
-            </div>
-    
-             
-            <div class="story-content">
-                <h3>Discussion Highlights:</h3>
-                <div class="content-section"><ul class='digest-list'><li>1. **Main Topic**: The discussion revolves around an incident where an individual ate an AI-generated art exhibit as a form of protest, sparking debates about the validity of AI art, artistic expression, and the ethics of such protests.</li><li></li><li>2. **Themes and Points of Discussion**:</li><li>• **Protest and Impact**: Some commenters debated the effectiveness of the protest, with comparisons made to other acts of defiance, such as slashing oil truck tires. Opinions varied on whether targeting AI art was the right approach, with suggestions that companies like OpenAI or MidJourney might be more appropriate targets.</li><li>• **AI Art as a Medium**: There was significant discussion about the artistic value of AI-generated works. Some criticized AI art as low-effort and lacking in value compared to traditional art, while others acknowledged its potential to explore new creative ideas, such as "AI psychosis" and identity formation.</li><li>• **Artistic Impulses**: Several commenters reflected on the impulsive nature of the act, with some defending impulsivity as part of artistic expression and others dismissing it as misguided or unnecessary.</li><li>• **Legal and Ethical Considerations**: The conversation touched on the legal consequences of the protest, with discussions about pressing charges and the role of victims in prosecution. Some questioned the necessity of pursuing legal action for such a minor incident.</li><li>• **Cultural Context**: Comparisons were made to historical protests against new technologies in art, such as the backlash against mass-produced color printers. This led to broader reflections on how society values art and the artist's role in its creation.</li><li></li><li>3. **Disagreements**:</li><li>• **Value of AI Art**: Opinions were divided on whether AI-generated art should be considered legitimate. Critics dismissed it as lacking artistic merit, while others argued that it is a valid medium deserving of exploration.</li><li>• **Protest Justification**: Some supported the protest as a form of direct action, while others saw it as counterproductive or ineffective in achieving meaningful change.</li><li>• **Sentiment Toward AI**: While some commenters expressed frustration and negativity toward AI's role in art, others called for a more informed understanding of the technology and its potential.</li><li></li><li>4. **Overall Sentiment**:</li><li>• The discussion was mixed, with a blend of humor, skepticism, and critical analysis. While some commenters expressed frustration with AI art and the protest, others took a more lighthearted or philosophical approach to the topic.</li><li></li><li>5. **Notable Insights**:</li><li>• The act of eating the AI art exhibit was compared to performance art and other provocative artistic gestures, such as the infamous banana at Art Basel.</li><li>• Commenters highlighted the growing tension between traditional and AI-driven artistic practices, reflecting broader societal debates about technology and creativity.</li><li>• Some pointed out the media's role in sensationalizing such incidents and fostering polarized opinions about AI.</li><li></li><li>6. **Humorous Contributions**:</li><li>• Several commenters added humor to the discussion, with jokes about eating AI art and its "nutritional value" or comparing it to other absurd artistic protests.</li><li></li><li>7. **Calls for Nuance**:</li><li>• A few commenters emphasized the need for a deeper understanding of AI tools and their capabilities, urging critics to move beyond surface-level judgments.</li></ul></div>
-            </div>
-    
-        </div>
-        <hr class="story-divider">
-        
-        <div class="section">
-            <div class="header">Show HN: I've been using AI to analyze every supplement on the market</div>
-            <div class="story-meta">
-                
-                    • Article: <a href="https://pillser.com/" class="story-link">https://pillser.com/</a> <br>
-                    • HN Discussion: <a href="https://news.ycombinator.com/item?id=46719423" class="hn-link">https://news.ycombinator.com/item?id=46719423</a> <br>
-                    • Score: 77 <br>
-                    
-                    
-    
-                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
-            </div>
-             
-            <div class="story-content">
-                <h3>Article Summary:</h3>
-                <div class="content-section"><ul class='digest-list'><li>No relevant content found</li></ul></div>
-            </div>
-    
-             
-            <div class="story-content">
-                <h3>Discussion Highlights:</h3>
-                <div class="content-section"><ul class='digest-list'><li>1. **Technical Insights on AI and Supplements**: The discussion includes comments about using AI to analyze and evaluate supplements. A commenter shared their journey of building internal evaluations to assess LLMs' performance, noting significant improvements in newer models like Opus 4.5. Others praised the use of AI but highlighted limitations, such as the inability to physically test products for ingredient accuracy or contamination. The project founder expressed aspirations to expand into lab testing and high-quality supplement production.</li><li></li><li>2. **Regulatory Concerns**: Multiple commenters discussed the lack of oversight in the U.S. supplement industry, likening it to a "wild west." Issues like labeling inaccuracies and ingredient purity were raised, with suggestions that supplements should be regulated similarly to food. International comparisons (e.g., Australia) and niche concerns like pet food regulations were also mentioned.</li><li></li><li>3. **Monetization Strategies**: Monetization was a recurring topic. The founder shared plans to rely on affiliate revenue rather than ads, citing affiliate commissions of 5-10%. Commenters encouraged exploring alternative models, referencing Examine.com as an example. Some raised concerns about legal challenges from companies demanding product removal, with the founder emphasizing transparency and resilience against such threats.</li><li></li><li>4. **Data Accuracy and Bugs**: Several comments identified data errors and site bugs, such as incorrect pricing and search issues. The founder acknowledged these issues and shared plans to prioritize fixes and improve data evaluations, especially for powdered supplements. They also expressed appreciation for feedback and the importance of building a community for ongoing improvement.</li><li></li><li>5. **Sentiment Toward Supplements**: Commenters expressed mixed views on supplements. While some highlighted their importance for hard-to-get nutrients like Vitamin K2 and magnesium, others warned about risks like toxicity and emphasized eating real food. The founder agreed that many supplement sales are driven by marketing rather than science, reinforcing their goal to make the process more evidence-based.</li><li></li><li>6. **Community Engagement**: The founder actively engaged with commenters, seeking feedback on prioritizing data, addressing errors, and discussing future directions. They expressed enthusiasm for building a community to guide the project’s development and shared contact information for further collaboration.</li><li></li><li>7. **Legal and Market Challenges**: Concerns about legal threats from supplement companies were discussed, with commenters advising against removing products under pressure. The founder noted their improved ability to handle such challenges and highlighted the vast market size of supplements, aiming to carve a niche by offering comprehensive data and comparisons.</li><li></li><li>8. **Unique Features and Suggestions**: Commenters appreciated innovative features like AI responses triggered by adding a “?” to searches. Suggestions included expanding the dataset to cover the EU market and refining search functionality to avoid misleading results.</li><li></li><li>Overall, the discussion was constructive, with a mix of technical insights, critiques, and suggestions for improvement. Sentiment ranged from optimism about the project's potential to skepticism about AI's role in the supplement industry. The founder demonstrated openness to feedback and a clear vision for future growth.</li></ul></div>
-            </div>
-    
-        </div>
-        <hr class="story-divider">
-        
-        <div class="section">
-            <div class="header">Why I don't have fun with Claude Code</div>
-            <div class="story-meta">
-                
-                    • Article: <a href="https://brennan.io/2026/01/23/claude-code/" class="story-link">https://brennan.io/2026/01/23/claude-code/</a> <br>
-                    • HN Discussion: <a href="https://news.ycombinator.com/item?id=46730671" class="hn-link">https://news.ycombinator.com/item?id=46730671</a> <br>
-                    • Score: 72 <br>
-                    • Text-to-Speech audio: <a href="https://audios.aicrafter.info/da54a253-f0fe-4e5e-a2fa-b6e69e20b531.mp3" class="story-link">Listen</a> <br>
-                    • AI-generated podcast: <a href="https://audios.aicrafter.info/6b30814a-e677-4c4d-a183-a801d45f9708.mp3" class="story-link">Listen</a> <br>
-    
-                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
-            </div>
-             
-            <div class="story-content">
-                <h3>Article Summary:</h3>
-                <div class="content-section"><ul class='digest-list'><li>• AI coding tools like Claude Code and Codex are revolutionizing software development by automating tasks, allowing users to quickly create features or projects. However, not all developers embrace this shift, as some value the process of coding and learning over just the end result.</li><li>• For product-focused developers, these tools are transformative, enabling faster iterations and results by acting as "managers" of AI systems. But for others, like the author, the joy lies in understanding and building systems, which AI automation can diminish.</li><li>• The discussion highlights the importance of aligning tools with personal goals. Tasks where the process matters, such as learning or skill-building, may require a hands-on approach, while AI tools can be reserved for automating less valued, repetitive tasks.</li></ul></div>
-            </div>
-    
-             
-            <div class="story-content">
-                <h3>Discussion Highlights:</h3>
-                <div class="content-section"><ul class='digest-list'><li>1. **General Sentiment and Themes**:</li><li>• The discussion revolves around the use of AI coding agents, such as Claude Code, and their impact on software development.</li><li>• Opinions are split between those who view AI tools as valuable assistants that enhance productivity and those who express concern about their implications for craftsmanship and understanding in coding.</li><li>• The overall sentiment is mixed, with many commenters acknowledging the utility of AI tools while expressing varying levels of skepticism or enthusiasm.</li><li></li><li>2. **Key Points of Agreement**:</li><li>• AI tools are effective for automating repetitive or tedious tasks, such as refactoring, improving test coverage, or handling boilerplate code.</li><li>• Many commenters value AI tools for augmenting their coding process, enabling faster iterations, exploring alternatives, and providing insights on unfamiliar concepts.</li><li>• There is consensus that AI tools are helpful for personal projects, learning, and speeding up development workflows, but their reliability and accuracy require careful human oversight.</li><li></li><li>3. **Key Points of Disagreement**:</li><li>• Some commenters argue that reliance on AI tools diminishes the value of understanding and creating software, while others counter that these tools are merely a means to save time and focus on higher-level problem-solving.</li><li>• A few express concerns about AI-generated code introducing subtle bugs and liabilities, leading to frustration and increased debugging efforts.</li><li>• There is debate over whether using AI tools trivializes the craft of coding or simply shifts focus to different aspects of software development.</li><li></li><li>4. **Unique Insights**:</li><li>• Several commenters liken the use of AI tools to the adoption of power tools in craftsmanship, emphasizing that the goals of automation and manual creation are not necessarily opposed.</li><li>• Some view AI coding agents as "coding buddies" that enhance learning and experimentation, while others compare them to tools that democratize programming by lowering barriers to entry.</li><li>• A recurring theme is the trade-off between time savings and maintaining deep engagement with the code, with some commenters advocating for balancing both aspects.</li><li></li><li>5. **Concerns About Industry Impact**:</li><li>• A few commenters raise concerns about AI tools potentially reducing the need for developers or lowering the skill level required for software changes, leading to job insecurity.</li><li>• There is anxiety about the broader implications of AI tools on the software development profession, with some fearing a shift toward commoditization or factory-level production.</li><li></li><li>6. **Notable Analogies and Comparisons**:</li><li>• AI coding tools are compared to other technologies that automate tasks people don’t value doing, such as cars for transportation or Python for simplifying programming.</li><li>• The debate is likened to discussions in other creative domains, such as music, where automation and craftsmanship coexist but sometimes lead to polarized opinions.</li><li></li><li>7. **Overall Sentiment**:</li><li>• While many commenters appreciate the practical benefits of AI tools, such as saving time and enabling faster iterations, there is a strong undercurrent of concern about losing the creative and intellectual engagement that comes with manual coding.</li><li>• The discussion reflects a balance between pragmatism and idealism, with individuals expressing diverse perspectives based on their personal experiences and values.</li></ul></div>
-            </div>
-    
-        </div>
-        <hr class="story-divider">
-        
-        <div class="section">
-            <div class="header">White House defends sharing AI image showing arrested woman crying</div>
-            <div class="story-meta">
-                
-                    • Article: <a href="https://www.bbc.co.uk/news/live/ce9yydgmzdvt" class="story-link">https://www.bbc.co.uk/news/live/ce9yydgmzdvt</a> <br>
-                    • HN Discussion: <a href="https://news.ycombinator.com/item?id=46731865" class="hn-link">https://news.ycombinator.com/item?id=46731865</a> <br>
-                    • Score: 71 <br>
-                    • Text-to-Speech audio: <a href="https://audios.aicrafter.info/bff5036c-6a6b-4e79-b658-67be0384594a.mp3" class="story-link">Listen</a> <br>
-                    • AI-generated podcast: <a href="https://audios.aicrafter.info/56fbfaa2-5071-421b-ba16-50b28e06021c.mp3" class="story-link">Listen</a> <br>
-    
-                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
-            </div>
-             
-            <div class="story-content">
-                <h3>Article Summary:</h3>
-                <div class="content-section"><ul class='digest-list'><li>• Experts have identified AI editing in an image shared by the White House, altering the expression of a woman arrested during a protest in Minnesota. The manipulated image shows her crying, contrasting with the original where she appeared expressionless.</li><li>• Hany Farid, a computer science professor, criticized the use of AI-generated content by the White House, calling it "deceptive" and harmful to public trust in official communications.</li><li>• The White House defended its actions via a post by deputy communications director Kaelan Dorr, emphasizing law enforcement and dismissing concerns over the manipulated image.</li></ul></div>
-            </div>
-    
-             
-            <div class="story-content">
-                <h3>Discussion Highlights:</h3>
-                <div class="content-section"><ul class='digest-list'><li>1. **Main Topics and Themes**:</li><li>• The discussion centers around the White House's use of an AI-generated image of a crying woman and broader implications of government manipulation through deepfakes and propaganda.</li><li>• Commenters highlight the erosion of trust in the government, particularly in the context of deceptive practices like altering images and spreading misinformation.</li><li>• The conversation also touches on Trump-era tactics, including the normalization of media manipulation, human rights concerns, and the prioritization of "owning the libs" over governance.</li><li></li><li>2. **Significant Agreements and Disagreements**:</li><li>• Many commenters agree that the use of AI to doctor images is unethical and undermines trust in government communications.</li><li>• There is consensus that such behavior reflects a broader trend of deception and propaganda, with commenters lamenting the lack of accountability.</li><li>• Some debate whether the misleading article title contributed to misunderstandings about the issue, with one commenter questioning how the title could be interpreted differently.</li><li></li><li>3. **Overall Sentiment**:</li><li>• The sentiment of the discussion is overwhelmingly negative, with commenters expressing frustration, anger, and disbelief at the government’s actions.</li><li>• There is widespread concern about the implications of deepfake technology being used by officials and the normalization of deceptive practices in politics and media.</li><li></li><li>4. **Unique Insights and Valuable Contributions**:</li><li>• One commenter points out the irony of a subset of Americans supporting government overreach despite previously opposing it, highlighting a shift in political dynamics.</li><li>• Another commenter links the issue to broader human rights concerns, referencing the March CECOT deportations and their lack of media coverage.</li><li>• Several comments critique the media’s role in legitimizing deceptive practices and failing to counter propaganda effectively.</li><li></li><li>5. **Additional Observations**:</li><li>• The use of memes and deepfakes is seen as a deliberate strategy to distract from serious issues, such as allegations of pedophilia and corruption.</li><li>• Commenters emphasize the importance of holding the government accountable for lying to the public and manipulating information, suggesting that these practices undermine democracy.</li><li>• There is a recurring theme of disillusionment with both the government and media, with commenters questioning their integrity and reliability.</li><li></li><li>Overall, the discussion reflects deep concerns about the ethical implications of AI-generated content, the erosion of trust in institutions, and the broader societal impact of deceptive practices in governance.</li></ul></div>
-            </div>
-    
-        </div>
-        <hr class="story-divider">
-        
-        <div class="section">
-            <div class="header">Composing APIs and CLIs in the LLM era</div>
-            <div class="story-meta">
-                
-                    • Article: <a href="https://walters.app/blog/composing-apis-clis" class="story-link">https://walters.app/blog/composing-apis-clis</a> <br>
-                    • HN Discussion: <a href="https://news.ycombinator.com/item?id=46722074" class="hn-link">https://news.ycombinator.com/item?id=46722074</a> <br>
-                    • Score: 64 <br>
-                    • Text-to-Speech audio: <a href="https://audios.aicrafter.info/c81306c1-e280-4703-aa35-f7b8090ed99d.mp3" class="story-link">Listen</a> <br>
-                    • AI-generated podcast: <a href="https://audios.aicrafter.info/361cd620-39e1-4cab-a73e-da87b2c1549d.mp3" class="story-link">Listen</a> <br>
-    
-                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
-            </div>
-             
-            <div class="story-content">
-                <h3>Article Summary:</h3>
-                <div class="content-section"><ul class='digest-list'><li>• The debate over LLM tool integration intensifies, with a shift toward enabling models to execute shell commands directly instead of relying on fine-grained tool calls. This approach allows for efficient command pipelines, reducing token costs and enabling reusable scripts.</li><li>• Tools like Restish and oauth2c exemplify a "no-code" philosophy by interpreting OpenAPI specs and simplifying OAuth 2.0 flows, replacing dense scripts with streamlined shell commands for API interactions.</li><li>• Reverse-engineering workflows using LLMs, such as creating Python clients from HAR files, demonstrates the potential for adversarial interoperability, empowering users to automate services even without official APIs.</li></ul></div>
-            </div>
-    
-             
-            <div class="story-content">
-                <h3>Discussion Highlights:</h3>
-                <div class="content-section"><ul class='digest-list'><li>1. **Main Topics Discussed**:</li><li>• Tools and approaches for interacting with remote MCP servers and APIs using CLI, FUSE, and Bash.</li><li>• The use of large language models (LLMs) with APIs, particularly leveraging OpenAPI specifications and curl commands.</li><li>• Authentication challenges when using agents and CLI tools, including security concerns around credentials.</li><li>• Development of platforms and registries for AI tools, such as tpmjs.com, which provides multiple interaction methods (CLI, MCP, REST) for agents.</li><li>• Debate over the advantages and trade-offs of CLI tools versus MCPs, focusing on composability, schema enforcement, and reliability.</li><li></li><li>2. **Key Themes**:</li><li>• CLI tools are widely appreciated for their composability, discoverability, and compatibility with LLMs. Several commenters view them as a natural interface for agents due to their simplicity and universality.</li><li>• Authentication remains a recurring challenge, with suggestions for proxy layers and scoped API tokens to address security issues.</li><li>• Structured data (as enforced by MCPs) is highlighted as crucial for building reliable pipelines, while CLI tools are noted for their flexibility but potential brittleness in complex scenarios.</li><li>• The role of standards like OpenAPI and JSON Schema is emphasized in ensuring consistency and reliability in API interactions.</li><li></li><li>3. **Significant Agreements**:</li><li>• Many commenters agree on the utility of CLI tools for interacting with agents and APIs, particularly for their composability and ease of use.</li><li>• There is a shared sentiment that authentication and credential management are critical areas needing improvement.</li><li>• The importance of structured data and schema enforcement for reliable pipelines is acknowledged by several participants.</li><li></li><li>4. **Disagreements**:</li><li>• Some commenters debate whether CLI tools or MCPs are better suited for interacting with agents, with arguments about composability versus structured data and reliability.</li><li>• One commenter expresses skepticism about the practical utility of current AI tooling advancements, criticizing the focus on creating text files (.md) over real-world software.</li><li></li><li>5. **Overall Sentiment**:</li><li>• The discussion is largely constructive, with commenters sharing insights, tools, and approaches to improve agent and API interactions.</li><li>• There is some critical sentiment regarding the broader AI tooling ecosystem, particularly around the lack of impactful real-world applications.</li><li></li><li>6. **Unique Insights**:</li><li>• Suggestions for using proxy layers to securely manage credentials and prevent direct access by agents.</li><li>• Innovative approaches like tpmjs.com, which offers multiple interaction modalities for agents and automates skill generation using LLMs.</li><li>• Observations on the natural compatibility of CLIs with LLMs due to their sequential nature and universality.</li><li></li><li>Overall, the discussion highlights practical challenges and solutions in the use of CLI tools, MCPs, and APIs for agents, with a focus on composability, security, and structured data.</li></ul></div>
-            </div>
-    
-        </div>
-        <hr class="story-divider">
-        
-        <div class="section">
-            <div class="header">The state of modern AI text to speech systems for screen reader users</div>
-            <div class="story-meta">
-                
-                    • Article: <a href="https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html" class="story-link">https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html</a> <br>
-                    • HN Discussion: <a href="https://news.ycombinator.com/item?id=46730346" class="hn-link">https://news.ycombinator.com/item?id=46730346</a> <br>
-                    • Score: 49 <br>
-                    • Text-to-Speech audio: <a href="https://audios.aicrafter.info/b247c6ad-6d07-4a4c-b852-882ea0694cef.mp3" class="story-link">Listen</a> <br>
-                    • AI-generated podcast: <a href="https://audios.aicrafter.info/411cec80-c867-474d-abcc-1b119fe9c3b4.mp3" class="story-link">Listen</a> <br>
-    
-                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
-            </div>
-             
-            <div class="story-content">
-                <h3>Article Summary:</h3>
-                <div class="content-section"><ul class='digest-list'><li>• Despite advancements in AI-driven text-to-speech (TTS) technology, blind screen reader users remain underserved due to their unique needs for speed, clarity, and efficiency over natural-sounding voices. Popular systems like Eloquence, last updated in 2003, are outdated and difficult to maintain.</li><li>• Modern AI TTS models, such as Supertonic and Kitten TTS, face critical issues like dependency bloat, inaccuracy, slow response times, and lack of customization, making them unsuitable for screen readers.</li><li>• The community faces significant challenges in modernizing TTS systems for blind users, with potential solutions requiring millions in funding and expertise in linguistics, signal processing, and programming. Advocates hope for increased awareness and collaboration to address these gaps.</li></ul></div>
-            </div>
-    
-             
-            <div class="story-content">
-                <h3>Discussion Highlights:</h3>
-                <div class="content-section"><ul class='digest-list'><li>1. The discussion revolves around the limitations and challenges of modern AI-based text-to-speech (TTS) systems, particularly in the context of screen readers used by blind individuals.</li><li></li><li>2. A key theme is the mismatch between the goals of AI TTS systems and the specific needs of screen reader users. Commenters noted that while AI voices aim to sound natural and human-like, blind users prioritize speed, accuracy, and predictability, which modern systems often fail to deliver.</li><li></li><li>3. Several commenters expressed frustration with AI TTS models, citing issues such as skipping words, mispronouncing numbers, generating garbled speech artifacts, and slower response times compared to legacy systems like Eloquence and ESpeak. These older systems, though outdated, are still favored by many blind users due to their efficiency and reliability.</li><li></li><li>4. Some commenters provided technical insights into the limitations of current models, suggesting that implementation choices and architectural issues may be contributing to the problems. For instance, one commenter argued that modern systems could be optimized by tweaking chunk sizes for streaming, though this was debated by others.</li><li></li><li>5. There is a general sentiment of concern and pessimism regarding the future of screen reader technology. Commenters highlighted the lack of overlap between modern TTS research and the needs of blind users, as well as the dwindling support for legacy systems. One commenter estimated that modernizing the preferred TTS stack would require significant funding and expertise, which seems unlikely to materialize.</li><li></li><li>6. Broader accessibility issues were raised, such as the lack of support for screen readers in Linux Wayland environments and the proprietary protocols introduced by GNOME, which further complicate adoption. This has led some users to consider switching to Windows despite reservations.</li><li></li><li>7. A few commenters proposed potential solutions, such as reverse-engineering older systems like Eloquence, though others pointed out the technical complexity and legal barriers involved.</li><li></li><li>8. The sentiment across the discussion was mixed but leaned toward skepticism and disappointment. While some commenters praised the advancements in AI TTS models for general use, many agreed that these systems are not yet suitable for screen reader users and fail to address their unique requirements.</li><li></li><li>9. One insightful comment suggested that AI's potential lies beyond improving screen readers and could instead serve as a conversational assistant for blind users, offering a more interactive and task-oriented experience.</li><li></li><li>10. Overall, the discussion highlighted the gap between technological innovation in AI TTS and practical accessibility needs, with a consensus that significant improvements are required before these systems can effectively replace legacy solutions for screen readers.</li></ul></div>
-            </div>
-    
-        </div>
-        <hr class="story-divider">
-        
-        <div class="section">
-            <div class="header">Show HN: CLI for working with Apple Core ML models</div>
-            <div class="story-meta">
-                
-                    • Article: <a href="https://github.com/schappim/coreml-cli" class="story-link">https://github.com/schappim/coreml-cli</a> <br>
-                    • HN Discussion: <a href="https://news.ycombinator.com/item?id=46724565" class="hn-link">https://news.ycombinator.com/item?id=46724565</a> <br>
-                    • Score: 45 <br>
-                    • Text-to-Speech audio: <a href="https://audios.aicrafter.info/3b91a9f4-81fb-4d5c-84e1-ad56989921dd.mp3" class="story-link">Listen</a> <br>
-                    • AI-generated podcast: <a href="https://audios.aicrafter.info/093e1978-a7dd-4227-9482-e711e9b66ca3.mp3" class="story-link">Listen</a> <br>
-    
-                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
-            </div>
-             
-            <div class="story-content">
-                <h3>Article Summary:</h3>
-                <div class="content-section"><ul class='digest-list'><li>• CoreML-CLI is a native command-line interface designed for macOS, enabling users to inspect, run inference, benchmark, and manage Core ML models without requiring Xcode or Python. It supports tasks like model inspection, batch processing, performance benchmarking, and metadata management.</li><li>• The tool simplifies workflows with features such as concurrent batch execution and model compilation to optimized formats (.mlmodelc). It is compatible with macOS 13+ and supports both Apple Silicon and Intel Macs.</li><li>• Built using Swift and Apple's Core ML framework, CoreML-CLI enhances efficiency for developers working with machine learning models while offering seamless integration into macOS environments.</li></ul></div>
-            </div>
-    
-             
-            <div class="story-content">
-                <h3>Discussion Highlights:</h3>
-                <div class="content-section"><ul class='digest-list'><li>1. The discussion revolves around a tool or functionality related to Core ML models and its capabilities. Commenters are exploring its features and potential use cases.</li><li></li><li>2. One commenter expressed interest in trying the tool over the weekend and sought information about Core ML model names, indicating a curiosity about its practical applications.</li><li></li><li>3. Another commenter asked whether the tool supports conversion and quantization from PyTorch or if it is strictly for running existing Core ML files. This reflects a focus on its technical scope and compatibility.</li><li></li><li>4. A reply clarified that the tool does not handle conversion or quantization directly but pointed out that Apple provides a Python library called "coremltools," which supports conversion from frameworks like PyTorch, TensorFlow/TF Lite, and ONNX. A link to the library was shared, adding valuable context and resources to the discussion.</li><li></li><li>5. The overall sentiment of the comments is positive and inquisitive, with participants showing interest in exploring the tool's capabilities and sharing helpful information.</li></ul></div>
-            </div>
-    
-        </div>
-        <hr class="story-divider">
-        
-        <div class="section">
-            <div class="header">CEOs Say AI Is Making Work More Efficient. Employees Tell a Different Story</div>
-            <div class="story-meta">
-                
-                    • Article: <a href="https://www.wsj.com/lifestyle/workplace/ceos-say-ai-is-making-work-more-efficient-employees-tell-a-different-story-6613ce9d" class="story-link">https://www.wsj.com/lifestyle/workplace/ceos-say-ai-is-making-work-more-efficient-employees-tell-a-different-story-6613ce9d</a> <br>
-                    • HN Discussion: <a href="https://news.ycombinator.com/item?id=46728781" class="hn-link">https://news.ycombinator.com/item?id=46728781</a> <br>
-                    • Score: 42 <br>
-                    
-                    
-    
-                <div> You can listen to the audio and podcast with better experience on <a href="https://aicrafter.info" class="story-link">aicrafter.info</a>.</div>
-            </div>
-             
-            <div class="story-content">
-                <h3>Article Summary:</h3>
-                <div class="content-section"><ul class='digest-list'><li>No relevant content found</li></ul></div>
-            </div>
-    
-             
-            <div class="story-content">
-                <h3>Discussion Highlights:</h3>
-                <div class="content-section"><ul class='digest-list'><li>• The discussion revolves around the role and impact of AI in various contexts, including corporate decision-making, development workflows, and efficiency improvements.</li><li></li><li>• **Corporate decision-making and AI**: One commenter suggests that AI helps CEOs make quicker decisions by reducing the amount of information they need to process, though the actual choice (yes or no) may not matter much. Another commenter notes that C-suite executives are inherently biased, with a reply highlighting that workers may also hold biases against AI.</li><li></li><li>• **AI's current stage and challenges**: A commenter describes AI as being in a "painful growth stage," where its outcomes are unpredictable—sometimes significantly improving efficiency but other times leading to poor results. This aligns with another comment that characterizes AI as a "force multiplier," amplifying both good and bad outcomes, making it hard to determine its net value.</li><li></li><li>• **AI's impact on developers**: One developer mentions that AI hasn't saved them time directly but has allowed them to expand their scope to tasks like documentation and prototyping, which they wouldn't have prioritized otherwise. A reply points out that this reflects a shift in expectations rather than a true time-saving benefit.</li><li></li><li>• **Learning curve and errors in AI usage**: While one commenter argues that AI efficiency improves significantly with experience, another disagrees, stating that AI still produces too many errors to be fully reliable and compares its utility to Stack Overflow at its peak.</li><li></li><li>• **Sentiment**: The overall sentiment is mixed, with some recognizing AI's potential to improve efficiency and scope, while others highlight its limitations, unpredictability, and error-prone nature. There is no clear consensus on whether AI is a net positive or negative at this stage.</li><li></li><li>• **Notable insights**: AI is described as a tool that amplifies both strengths and weaknesses, and its effectiveness depends heavily on the context and the user's ability to manage its outputs.</li></ul></div>
-            </div>
-    
-        </div>
-        <hr class="story-divider">
-        
-            <div class="footer">
-                <p>
-                    Built with ❤️ by <a href="https://dannyzheng.me">dannyzheng.me</a><br>
-                </p>
-            </div>
-        </div>
-    </body>
-    </html>
-    ]]></description>
-    <pubDate>Fri, 23 Jan 2026 15:22:42 GMT</pubDate>
-    <guid>19beb7432026ea99</guid>
     <author>&quot;AI Frontiers&quot; &lt;newsletter.digest@aicrafter.info&gt;</author>
   </item>
 
