@@ -4,7 +4,640 @@
     <title>Newsletter Feed</title>
     <link>https://your-domain.com/rss.xml</link>
     <description>Newsletter feed</description>
-    <lastBuildDate>Tue, 27 Jan 2026 01:00:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 01:15:17 GMT</lastBuildDate>
+
+  <item>
+    <title>The Briefing: Reckoning for Social Media</title>
+    <description><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" /> <!-- utf-8 works for most cases -->
+    <meta name="viewport" content="width=device-width" /> <!-- Supported on some email clients -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" /> <!-- Use the latest (edge) version of IE rendering engine -->
+    <title>%title%</title> <!-- The title tag shows in email notifications, like Android 4.4. -->
+    
+    <style>
+    </style>
+    <!--[if mso]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if lte mso 11]>
+      <style type="text/css">
+        .outlook-group-fix {
+          width:100% !important;
+        }
+      </style>
+    <![endif]-->
+  </head>
+  <body>
+    <table class="container" cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#ffffff" style="max-width: 600px !important; margin: auto;">
+      <tbody>
+        <tr>
+          <td class="content-wrapper main format-content" style="max-width: 600px;">
+            
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The Briefing</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="x-apple-disable-message-reformatting"/>
+    <style type="text/css">
+  body, table, td, a{-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;}
+  table, td{mso-table-lspace: 0pt; mso-table-rspace: 0pt;}
+  img{-ms-interpolation-mode: bicubic;}
+  img{border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none;}
+  table{border-collapse: collapse !important;}
+  body{height: 100% !important; margin: 0 auto !important; padding: 0 !important; width: 100% !important;}
+  p {font-family: 'Noto Serif', Georgia, serif; padding-bottom: 28px;}
+  a {
+    color: #f32a52;
+    font-weight: bold;
+  }
+  a:hover {color: #f32a52 !important;}
+  h1, h2, h3 {
+    line-height: 1.4 !important;
+    font-weight: 500;
+    font-family: 'Suisse Works', Georgia, serif;
+  }
+  h1, h2 {
+    font-size: 26px;
+  }
+  ul, ol {
+    margin-top: 0;
+  }
+  li {
+    font-family: 'Noto Serif', Georgia, serif;
+    font-size: 19px !important;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.7 !important;
+    margin-top: 12px;
+    Margin-Top: 12px;
+  }
+  hr {
+    border: 1px solid #f32a52;
+  }
+  a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+  }
+  .ad-corporate-container td {
+    padding: 0 !important;
+  }
+  @media screen and (max-width: 525px) {
+    .mobile-button-container {
+      margin: 0 auto;
+      width: 100% !important;
+    }
+    .mobile-hide {
+      display: none !important;
+    }
+    .mobile-logo {
+      width: 116px !important;
+    }
+    .mobile-date, .mobile-byline, .supported-by {
+      font-size: 12px !important;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    .responsive-table tr td,
+    .responsive-table tr td ul li,
+    .responsive-table tr td ol li,
+    p {
+      font-size: inherit;
+      line-height: inherit;
+    }
+    .img-max {
+      max-width: 100% !important;
+      width: 100% !important;
+      height: auto !important;
+      display: block !important;
+      margin: 0 auto 16px !important;
+    }
+    .img-container {
+      margin-bottom: 12px !important;
+    }
+    .responsive-table {
+      width: 100% !important;
+      max-width: 100% !important;
+    }
+    .padding {
+      padding-left: 5% !important;
+      padding-right: 5% !important;
+    }
+    .mobile-padding {
+      padding-left: 5% !important;
+      padding-right: 5% !important;
+    }
+    .no-padding {
+      padding: 0 !important;
+    }
+    .mobile-button {
+      font-size: 14px !important;
+      line-height: 1 !important;
+      padding: 16px 32px !important;
+      display: block !important;
+    }
+    .tablet-hide {
+      display: none !important;
+      visibility: hidden !important;
+    }
+  }
+  @media (prefers-color-scheme: dark) {
+    /* Your dark mode styles: */
+    body {
+      background: #2F3538;
+      color: #dfdfdf;
+      background: #2F3538 !important;
+      color: #dfdfdf !important;
+    }
+    .background-dark {
+      background: #2F3538;
+      color: #dfdfdf;
+      background: #2f3538 !important;
+      color: #dfdfdf !important;
+    }
+    h1, h2, h3, h4,
+    p {
+      color: #dfdfdf;
+      color: #dfdfdf !important;
+    }
+    p a {
+      color: #f32a52;
+    }
+    .logo-light {
+      display: none;
+      display: none !important;
+      visibility: hidden;
+      visibility: hidden !important;
+    }
+    .logo-dark {
+      display: block;
+      display: block !important;
+      visibility: visible;
+      visibility: visible !important;
+    }
+    .format-as-content li {
+      color: #dfdfdf !important;
+    }
+  }
+  .format-as-content h2, .format-as-content h3 {font-family: Georgia, Times, serif;font-weight: 400;font-size: 26px;line-height: 36px;margin-bottom: 26px;margin-top: 0}
+  .format-as-content a {
+    color: #f32a52;
+    text-decoration: none !important;
+    font-weight: 400;
+  }
+  .format-as-content p {font-size: 19px;padding-bottom: 28px !important;}
+  .format-as-content li {
+    color: #000;
+  }
+  .format-as-content p + a {display: block;margin-bottom: 24px !important;}
+  .format-as-content section > hr {
+    margin-top: 0;
+    margin-bottom: 24px;
+  }
+  div[style*="margin: 16px 0"] { margin: 0 !important; }
+  html, body, h1, h2, h3, h4, h5, p, ul li, ol li { margin: 0; padding: 0; }
+  .mobile-button, a, img {
+    transition: color 0.2s, opacity 0.2s;
+  }
+  a:hover {
+    color: #f32a52 !important;
+  }
+  .button-link {
+    color: #ffffff !important;
+    text-decoration: none;
+  }
+  .button-link:hover {
+    background-color: #fec6cc !important;
+  }
+  .mobile-button:hover {
+    color: #ffffff !important;
+    background: #ea685e !important;
+    border: 2px solid #ea685e !important;
+  }
+  
+</style>
+
+    <style>
+  .footer-link {
+    color: #ffffff !important;
+    text-decoration: underline !important;
+    font-weight: normal;
+  }
+  .footer-link:hover {
+    color: $magenta !important;
+  }
+  @media screen and (max-width: 600px) {
+    .responsive-table tr td,
+    .responsive-table tr td ul li,
+    .responsive-table tr td ol li {
+      font-size: inherit;
+      line-height: inherit;
+    }
+
+    .responsive-table {
+      width: 100% !important;
+      max-width: 100% !important;
+    }
+  }
+  @media (prefers-color-scheme: dark) {
+    .background-dark {
+      background: #2f3538 !important;
+      color: #dfdfdf !important;
+    }
+  }
+</style>
+
+  </head>
+  <body class="body" style="margin: 0 !important; padding: 0 !important">
+    <div
+      style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden"
+    >
+      <!-- Visually Hidden Preheader Text : BEGIN -->
+<div class="preheader" style="display: none !important;font-size: 1px;line-height: 1px;max-height: 0px;max-width: 0px;opacity: 0;overflow: hidden;mso-hide: all;font-family: sans-serif;color: #fff;">
+  Jury selection kicks off in Los Angeles tomorrow for a trial that both friends and foes of social media are saying could be existential for the social media industry&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;
+</div>
+
+    </div>
+    <table
+      border="0"
+      cellpadding="0"
+      cellspacing="0"
+      width="100%"
+    >
+      <tr>
+        <td bgcolor="#ffffff" align="center" class="background-dark">
+          <!--[if (gte mso 9)|(IE)]>
+            <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
+              <tr>
+                <td align="center" width="600">
+          <![endif]-->
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            style="max-width: 600px"
+            class="responsive-table"
+          >
+            <tr>
+              <td bgcolor="#ffffff" class="divider">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td
+                      bgcolor="#ffffff"
+                      align="left"
+                      valign="top"
+                      style="padding: 24px 20px"
+                      class="background-dark mobile-padding"
+                    >
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlvYCYiS-2F03cdUcMOgCPCyBxUkW3btpMf1IiekqWdBbLpHWM5XFZbZjWb97KeKOpSCHabSbblLIREeg7JOYnUAI9pij3i4pwUvkKf-2BBr74Ug9dRRapGGz37MfICdECADNc-3DE0hG_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x43n1OTtIO77Nb8fCp2wwfbplIlsrA7DqqfP5ugiQizWyoc88NHgmJ1IREcJyD-2F4984YI23GdIg7BhXY3KkMk20grg4EIVbnTIOJ4lOj01-2BDgQC9qvE8OmSQsFfXcexFF3Bd4GcEV7S8EngiSi98uB5y"
+                        target="_blank"
+                        style="text-decoration: none; color: #ffffff; line-height: 0; margin: 0; padding: 0; display: block"
+                      >
+                        <img
+                          alt="The Information logo"
+                          src="https://tii.imgix.net/logos/theinformation/the-information-black-text-logo-white-bg.jpg?pad=20&amp;bg=ffffff"
+                          class="mobile-logo"
+                          width="145"
+                          border="0"
+                          style="width: 145px; max-width: 145px; border: 0"
+                        />
+                      </a>
+                    </td>
+                    <td
+                      bgcolor="#ffffff"
+                      align="right"
+                      valign="top"
+                      style="padding: 24px 20px"
+                      class="background-dark mobile-padding"
+                    >
+                      <span
+                        class="mobile-date"
+                        style="font-family: 'Suisse Int&rsquo;l Mono', monospace, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 18px; color: #6D686E"
+                      >Jan 26, 2026</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td bgcolor="#ffffff" class="divider">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td
+                      bgcolor="#ffffff"
+                      align="center"
+                      valign="top"
+                      style="padding: 0 20px"
+                      class="background-dark mobile-padding"
+                    >
+                      <h1
+                        style="font-family: 'Suisse Works', Georgia, 'Times New Roman', Times, serif; font-weight: normal; font-size: 36px; line-height: 54px"
+                      >The Briefing</h1>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td
+                class="divider"
+                align="center"
+                style="padding-bottom: 16px;padding-top: 4px"
+              >
+                <table border="0" cellpadding="0" cellspacing="0" align="center">
+                  <tr>
+                    <td valign="middle" style="padding-right: 8px;">
+                      <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlD2HYSvlYFWqqbqsfvfmD2qeACFoVHCDEvmltIQZoeWLOxB4iGH0wuRp4V1v67fDA4RokExCecKv5SKu-2FRR8dzSzffaWAuad5Rpxv6HIsm9q3Us-2Bo3lmr4BvcdVrPBZZkI5liCA9Sz4LMxUNXRkojJ0gFM_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x42IR20kYp-2BXHQQNw7wQFjPCs01qxwIJevqe5wKD7c1B-2BFQAohUS3uMB93-2BTBxKQcyJeihC-2FZl-2BBPH3tXELCvD09s7vZN-2BdTsz4gGC0-2BhH5rWV9Ql-2FlWCUI6SBvdCtCddfCSGNOEs5rZjrKHzCMOigB8"
+                         style="text-decoration: none; color: inherit; display: block;">
+                        <img
+                          src="https://tii.imgix.net/production/avatars/1276174/_ETB1503.jpg?w=94&amp;compressed=true"
+                          width="47"
+                          height="47"
+                          style="display: block; border-radius: 47px;"
+                          alt="Erin Woo headshot"
+                        />
+                      </a>
+                    </td>
+                    <td valign="middle" style="font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 27px; color: inherit;">
+                      <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlD2HYSvlYFWqqbqsfvfmD2qeACFoVHCDEvmltIQZoeWLOxB4iGH0wuRp4V1v67fDA4RokExCecKv5SKu-2FRR8dzSzffaWAuad5Rpxv6HIsm9q3Us-2Bo3lmr4BvcdVrPBZZkI5liCA9Sz4LMxUNXRkojJLjkB_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x425zMvKOJ-2FdLT-2FrG21nUERI3xAaG3Y6cN9sgtG7BGf-2FEEdysMGFYaI2knqbBNnYyiJPVMfFpzpNKJ0kBAW0YVSITKJ58oERNdxL8GKYYi-2BIE4zTrwyAWjOON55dqH2VsSz9Dk8LONvKHqRxbp-2BliM9E"
+                         style="text-decoration: none; color: inherit; font-weight: normal;">
+                        <span class="mobile-byline">By Erin Woo</span>
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+              <tr><td style="padding: 0 20px;"><hr style="border: none;border-bottom: 1px solid #f0ece5 !important" /></td></tr>
+            <!-- Email Content -->
+            <tr>
+              <td bgcolor="#ffffff" class="divider format-as-content">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td style="padding: 0 20px" class="background-dark padding">
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td
+                            align="left"
+                            style="padding: 16px 0 0; font-size: 19px; line-height: 32px; color: #000000; font-weight: 400;"
+                          >
+                            <p style="padding-bottom: 32px;">Greetings!</p><p style="padding-bottom: 32px;">Jury selection kicks off in Los Angeles tomorrow for a trial that both friends and foes of social media are saying could be existential for the social media industry—broadly defined to include Google’s YouTube as well as Meta Platforms and TikTok. The trial centers on a 19-year-old girl from Chico, Calif. who says her social media addiction led to depression and suicidal thoughts. It will be the first of thousands of claims brought by families who say the companies built products designed to be addictive and harmful to young people’s mental health. </p><p style="padding-bottom: 32px;">It’s a big deal. The legal proceedings offer tech’s critics the best shot they’ve ever had at holding the companies accountable for the harm they’ve allegedly caused young people. If the tech firms lose, the cases could also establish a new legal precedent some say could make it too risky to build internet services. </p><p style="padding-bottom: 32px;">This won’t be a simple process, however, so don’t expect a quick resolution. The trials comprise two main proceedings—state trials filed by families and federal trials filed by families as well as school districts, state attorneys general and Native American tribes. Meta CEO Mark Zuckerberg and Instagram head Adam Mosseri are both expected to testify in the first trial. Snap CEO Evan Spiegel was also expected to testify in the trial starting tomorrow but Snap settled the case, although the Snapchat owner remains a defendant in other cases. </p><p style="padding-bottom: 32px;">Both the state and federal cases rest on a fairly novel legal theory, at least as applied to social media companies. Plaintiffs are arguing that the designs of the platforms themselves—including features like infinite scroll, autoplaying videos and targeted notifications—are defective and are causing harm to users. Courts could order changes to those features as part of their verdicts, which is what the school districts and state attorneys general are seeking. Some changes to social media platforms are rolling out already. Last week, days after settling the first trial, Snap <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1aN1qr-2BPLyNmfEwY9g8i6EID23prJ9dtu-2BCZtIYPR70yDyehHBufW1kH92THY4xXr5H8QTVwT8bi1mXL6-2F-2FesrAVBRy6UoBfcv89JAOPUc9nFURoFYzHzNEB-2BrC1KZHCCVtaey-2BYDzwIGOi-2FzjYZSB3r67i8O3vYNf2G-2BdApcNC0tf-2Fby2reqJVzurqf5SAxIQ-3D-3D3leR_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x40VZHhAVW5lerm5Mj5LzLZQGLQtHoVvkTt2FREVWbKc0gqV-2FIJkzSTIrrHvsoYwDrAFYCCC5nLcmrHjy-2BAgWP6sWjXH-2FbMaf1TZpLYpIKuj-2B0g7PWDy0xNVld5nVGxqQdhCm6xt7FVPCH87OnHOCdGh">announced</a> that it would give parents more information on how their kids are using Snapchat. Earlier this month YouTube <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1WFYRFI40leHZ1O0v01ilPXfByTzefXHScTP8q4F1-2B06C-2BfRdzqlEGr-2BUu3H0tCj1YTaeqgGylYF30hAiJdjlbAUMPpRTR4jmi-2BuBCGZ5OOubWpiQWNj3ZoyPOyfhwhVIiuMHBLkpLsnoGll-2FmbFDqNEBX8kib2pBZYqv-2BpPAENBWLy0fmVDroj6NX-2Bsn0-2FKW3vvbjWiE5HbLZTU8rfalSU-3D7sf3_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x41QuCEm2teTnbz8Pmy33qfspY9KkiiJ9gdR3d2Hsc9u6N5-2FgD-2Fn7whMPWTskAuTf1ggX5H0BZx7qPABy-2BBS-2FNDHDhBn2DM9afYYpbVovPyKO40I0Pxx5NveaybjrGeWENByVavEtoeSyvWGgVxB7K1f">announced</a> new time limit controls that parents can use to manage their children’s viewing. </p><p style="padding-bottom: 32px;">I should clarify that most of the thousands of cases won’t go to trial. Instead, both the companies and the plaintiffs will watch what happens in the first few trials, known as bellwether trials. They’re intended to give both sides an idea of the merits of their legal claims and of how juries might respond, including how large the damages might be. If the tech companies lose and a precedent is established, the parties could resolve the thousands of pending cases via a global settlement. </p><p style="padding-bottom: 32px;">That probably wouldn’t be cheap, although it’s difficult to know yet how much money could be at stake if the social media companies lose, lawyers involved in the case told me. The big wild cards include how a jury would determine the cost of a victim’s pain and suffering. In cases where a family’s child died by suicide and they blame it on the platforms, the case is essentially asking the jury to put a dollar value on a life, as one plaintiff’s lawyer put it. The largest-ever global settlement, with the tobacco industry, resulted in those companies agreeing to pay $206 billion over 25 years, as well as make other changes to their marketing practices.</p><p style="padding-bottom: 32px;">Of course, big tech companies have deep pockets. What’s arguably more far-reaching about these cases is that the plaintiffs are aiming to circumvent social media companies’ main legal defense: Section 230, which social media companies have used successfully to moderate third-party content on their platforms without being held responsible for the content themselves. Critics of social media, including researchers and lawyers, say social media companies have used Section 230 to skirt responsibility for the impact of their platforms. </p><p style="padding-bottom: 32px;">However, defenders of Section 230 warn that a plaintiff victory could be an “existential result” opening social media companies to new areas of liability, especially newer companies that can’t marshall the army of lawyers and resources big tech companies can. </p><p style="padding-bottom: 32px;">“You might see things like infinite scroll on a timeline or news feed is considered a dangerous design,” said Jess Miers, an assistant professor at the University of Akron School of Law who previously worked at Google and the industry group Chamber of Progress. “If these types of designs or features are considered to be negligent or dangerous, you will more than likely see these social media services change in significant ways.” </p><p style="padding-bottom: 32px;">For plaintiffs, of course, that’s the entire point. </p><h3 class="email-header">Zoom’s New Jet Fuel</h3><p style="padding-bottom: 32px;">Zoom Communications was left for dead, as far as the stock market goes, a few years ago. Having captured seemingly all its potential growth during the pandemic, the stock rocketed and then plunged back to earth. Since 2022 it has mostly bounced around in the $70 to $80 a share range—until Monday, when it suddenly jumped 11% to just above $95. According to <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1e85vL-2BnB-2FZXsAUUGqjyqMX0k2RBPaFXKcfPRMAh1hA33Xcejl8N-2BTDc8AP1kvtUzRhXjdbWeXPJ8RDvdm4LaOcpgYqvXtd0gyHVlQo2uBiRx4U8MQsqF5lZY00vkqrobN1fCfC8WmQRHu-2BNMuTOk-2Fo56nJcyBSR9Pnw7OD-2FL2um11gInt38nUcjMdXunc-2Bce8UGBe8gYTa5wpq8Bcv1YbN5e-2Bbl6XFKsvbSYZK0jMMgROhEkNI11OMvzss6WGVNpnHskcWsfxkmiyf0TomE07o-3DgL5W_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x40TYE64hC4zH6CHHqnGEV7TOsB75ofk5-2BI5YNUOB7vT1Sfsio8WbqPFZM2uLB82v6gU7RpEXM0pGa84qBzHi6gXqMwW146llDL4vH-2FQCFB6niToUzQaNo4xj-2BnF3D1NZACy3I8dWo5VGnxK0hwFukr4">a Barron’s write-up </a>of a research report by Baird Equity Research, Monday’s jump was due to Baird pointing out that Zoom holds shares in Anthropic from a few years ago—and they could be worth quite a lot.</p><p style="padding-bottom: 32px;">Zoom<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1UF1hZFMSc4hP1MNKJuniCbf8McJXQKs1G9wX0B2YqXHe5eMsG6CpprLs4B-2FvxzRrUELNNyhdzj0mItMq-2FgCEUgI-2Bns2GoeVCHIhJyyUray8R11YaGP6X2Xcew5o5IO9QY2t7OJ35STbAs5nagzOL2FihNQlYaQNLJA-2BX863E2PR8_Pi_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x40nE7Yz7-2BaoxpayUNZeJGlvhcB8-2FAAO4FiVxr8YcDir0Cdi-2F1RWjyPxBiBlZZLmNhT-2B8I8bONf9TyH1cl8SpHxiBeZq33e1GNDO-2Bb5oAL69pwZuKRh9gs-2F-2F9CVNrUE1nZLTefNuHhHm3Dv5SvCAlu-2FP"> invested in</a> Anthropic’s 2023 Series C round, which raised $450 million at a valuation, according to PitchBook, of $4.65 billion. We don’t know how much Zoom put into the round, but its financial statements for the first half of 2023 show it contributed $51 million to strategic investments—very likely the Anthropic investment (as Baird reportedly noted). Fast-forward to today: Anthropic is now in talks to <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlb4jj-2FxbVNQ7a6tF-2BOf9jX3uisuhBy8HojS5n0IsnXg4tKcdofI26HmlfPvN50SglAw6xIa5h-2BmwtDvChlIzVPfJEvn3eUj8VvJFzkYRbhcyidnm6x9P5WY3w5gw8qlj8iJzwZ0HXovyuCy1xkzUaYT-2B1dvSnxWE1WrhtuzWzhNDYipTywz1vxbjaCoywy8KSTyMdud-2FvE3LeZt4nuPg5QU2olEO5r2K50Tsyo9BEZ8g-3D-3D6q66_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x40R3gxWlvEjrhiVyLWvSMdTgkLpaoA0eJNeJvnUQ2QXyZNznnN9Ttk97Fds3woMZbzZmcQJpg7jDI6US7EMFo1z6yFE4IPP-2FqiJrC19DlUtd3DBlncWK80Yf4AERIWCVmzCHLPJ6wWKDotGwZAv7srs">raise money at a $350 billion valuation</a>. Its valuation seems likely to rise further if it goes public, as some have speculated it will. </p><p style="padding-bottom: 32px;">It’s little wonder Baird put out a report: Given Anthropic’s soaring value since 2023, Zoom’s stake in it seems likely to be now worth at least a couple billion dollars. For a company with an enterprise value of just $20 billion, that’s nothing to sneeze at!—<i>Martin Peers</i></p><h3 class="email-header">In Other News</h3><p style="padding-bottom: 32px;"><b>•</b> ​​Nvidia invested another $2 billion in AI cloud startup CoreWeave as part of a broader deal in which CoreWeave committed to adopt “multiple generations” of Nvidia chips, including the upcoming Rubin graphics processing units. The investment more than doubled Nvidia’s stake in CoreWeave to 11.5%, according to a securities filing.</p><p style="padding-bottom: 32px;">• The EU has opened a formal investigation into Elon Musk’s X over how the social media service has integrated xAI’s Grok AI chatbot. The investigation comes amid an outcry after users were able to prompt Grok to generate<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlb4jj-2FxbVNQ7a6tF-2BOf9jXOLsjVyc3PsP-2FQ-2FtH00VnGKc1avOSfZJOt5ivU3B9geHNp79-2FEGCC0FEA-2Ful-2Bb1pFhxwgilibHCSR-2By2vS4QSqKbwldG-2FHlcJRIoZbWBPOrs-2FHqRKsP7j2NjM9j7iZNwuCXIKuantYoVsfyA0-2FJ-2FSBsBmlao50-2FbTEg2GHwM4HRv9IEXKX57x-2FGIxaLklDctKAT59_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x43MqvqBNb3nlwzcFxo5d7Y2SrHEn-2B5NR4-2FJDfEeOE8vHktWg7Esxh61rfMo2SytUQeXz0nBexFJTJIMs2Il9dhLROcLY0W8VWHUwC3jahFmOVoZ2qKAy8rTMHS0xp26Fva5YaH90gT6mqc54mfDSDdl"> sexualized images of real people</a> on X, including minors. X is owned by xAI.</p><p style="padding-bottom: 32px;">• The National Transportation Safety Board on Friday<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TCZWs4xRJOI2a5oKSS8BY4u716-2Bc5SlXuW-2Bs1jijm0Ic-2Fu9sY1d1uCNIcLAuOz7DE0pxWqdqlwiOpWiZ2pi3-2FHSRcFNwLHqLtxCErHJlEHB1bz-2BcqmSKfO0bsBmghvKBqhOt8stnmBTWZRX2U-2BN6YA5YbpYzrDXgDl5pmAoPJODD7bSVHHskoiGC3W567sezA-3D-3DzBPf_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x40uTWmeN0O6cMBjaiTL5akiw87MQ8RhBFqWWek60cSeyzK4QlRoNXBDtaFSLTEnQ1SD8hmF2gkmbNUUSOIW9V4j-2FSdaMy011WQ8XzClAI0dw3x1FO9GmvTCxlCBVYHIInOkTjv-2FlDEqx6WSfpH4t-2Btu"> said it planned to open a safety investigation</a> into the activity of Waymo vehicles around school buses in Austin, Tex.</p><h3 class="email-header">Today in The Information’s TITV</h3><p style="padding-bottom: 32px;">Check out<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmtB32YliezksTcEJ7NOQAXmMlLlLs1lEkwamkE6ZgOpDb2BBc25ozTNJ3z7e-2FbeTcfJUZRPYXGExDDv9xu-2BM3UtpPKScaOsf-2FFd6LDfo0birMaW31e-2FpG3pSG3Djokhptc9D0PZihPu3WzUV9-2FtBKgNrF__CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x415zO8We5MA5an7pfRQa5IIyiUfiXqQz2xuytqeuxsa2LYz74OCYIYI-2Fb8ut6TPMGt-2F7GB0Ys0zPUiHKifA4B0EfGWUm2r-2BxMoH1rp0soIst-2FhzUhzBN9xP5LGstv-2F7w8uQji1s14f4-2FBs8YN2cR-2FiA"> our latest episode of TITV</a> in which we discuss OpenAI’s premium pricing strategy for its advertising rollout.</p><figure style="margin:0 0 16px 0;position:relative;">  <img src="https://tii.imgix.net/article/pictures/newsletters-production/79425b57-16bb-44f2-ba75-166775611ed3-9qN90w.jpg?auto=compress" width="600" style="width:auto !important; max-width:100% !important;"></figure><h3 class="email-header">Recommended Newsletter</h3><p style="padding-bottom: 32px;">Start your day with <i>Applied AI</i>, the newsletter from The Information that uncovers how leading businesses are leveraging AI to automate tasks across the board. <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBnPCXMf7muTnPAGZGawge6JmmapVMICsojOW4Z11ZcJDrnfFnDbLqxIhtNj2vsG2rxTF3qQWFcrIkbB-2B2a2W-2Fv8-2BfCP3TzrMC-2FimTXgN7UNnm-2BTwzmuFNnJBg8JGzqUF8EJ40GQRt9JnyorB2elGb6yNkGT_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x41lVYWhmpB01IGrRV4V-2BsD7Dcz0JlvBfmOYYENrYunvyiVKk2irvXAvaSw1yJ1csFYfiTIeMgw4-2BFM75OtMXDYMS-2F0fgzIZwE34AMYmP5YxTbbxe-2Fr6fpxUR75y4DHqxb2ZT8-2Fa0Mjj-2B62skGh0Voig">Subscribe now</a> for free to get it delivered straight to your inbox twice a week.<br><br><br></p><div id="bottom-supported-by-unit"></div><tr>
+<td align="left" style="padding: 48px 0 0;font-size: 19px;line-height: 24px;font-family: Georgia, serif;color: #000;font-weight: 400;">
+<h2 style="font-family: Georgia, Times, serif;font-weight: 400;font-size: 26px;line-height: 36px;margin-bottom: 16px;margin-top: 0;">New From Our Reporters</h2>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" role="presentation" style="border-collapse: collapse;"><tr>
+<!--[if (gte mso 9)|(IE)]>            <td width="164" valign="middle">          <![endif]--><td align="left" width="164" style="width: 164px; padding-right: 16px; vertical-align: top; display: inline-block;" class="responsive-table img-container"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNPyK6MFqmGQbRknnJYKXwW-2BvxTl4jsPWKvWA374wVr8B0S1bRfjiF6eoUJvB4SzVdDQbP-2BRzRQQa9ueexyd3DnY4XMmHzEP3ZZDRL458hPwsjIayC7-2BCNQNgpmHgexfyQKoVWMpxR1v688qCeDCbZIM-2BkiS395ySjp-2BTEQAFnN4Q-3DZ931_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x41lI0DSpKXiCoDQkMgoqS7qdg9NTl-2FK3MdN9zcozk-2BbuM6tfiIkETiBJ-2BIWgrN4r1-2Fva48j-2BWUWF3dq3ZKH0qkvJG1cMt6canGlMTpfksq0XN1A3i4xey2WkWUIXcxWfZrUAvHrA9d8dtSK1OuIQV2y" target="_blank"><img src="https://tii.imgix.net/production/articles/16464/e557b721-e11b-4978-90f0-26b695d70cdd.jpeg?auto=compress,format&amp;fit=crop&amp;w=560&amp;q=20" width="164" class="img-max" style="display: block; width: 100%; max-width: 164px; height: auto;" border="0" alt=""></a></td>
+<!--[if (gte mso 9)|(IE)]>            <td width="16">&nbsp;</td>            <td valign="middle">          <![endif]--><td align="left" style="font-family: Verdana, sans-serif; line-height: 27px; color: #000000; vertical-align: top; display: inline-block; width: 360px; max-width: 100%;" class="responsive-table">
+<span style="font-family: Verdana, sans-serif; font-size: 14px; color: #f32a52; display: block; margin-bottom: 8px;">Exclusive</span><h4 style="font-family: Verdana, sans-serif; font-size: 18px; line-height: 27px; margin: 0 0 4px;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNPyK6MFqmGQbRknnJYKXwW-2BvxTl4jsPWKvWA374wVr8B0S1bRfjiF6eoUJvB4SzVdDQbP-2BRzRQQa9ueexyd3DnY4XMmHzEP3ZZDRL458hPwsjIayC7-2BCNQNgpmHgexfyQKoVWMpxR1v688qCeDCbZIM-2BkiS395ySjp-2BTEQAFnN4Q-3DYR78_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x429JL3M4tW9SArTmLao6XqAWAamDuDCS85uLnXc0O1jLXtWiZjOAlZRQAb3kwfa6Y8zKBFM-2F7obyrRUlIYpldLt0boeMTdvzYxuzLaIUsaHi43Qzw7Qr4eBoNh-2BY1OqTdV1KUZsNI0iuUzAJNIMES8y" target="_blank" style="text-decoration: none; color: #000 !important; font-weight: 400;">OpenAI Seeks Premium Prices in Early Ads Push</a></h4>
+<span style="font-family: Verdana, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">By Ann Gehan and Catherine Perloff</span>
+</td>
+<!--[if (gte mso 9)|(IE)]>          </td>          <![endif]-->
+</tr></table>
+<div style="clear: both"></div>
+<table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top: 40px;"><tr><td style="background: #f0ece5;padding: 1px 0 0; line-height: 0; font-size: 1px"></td></tr></table>
+</td>
+</tr><tr>
+<td align="left" style="padding: 48px 0 0;font-size: 19px;line-height: 24px;font-family: Georgia, serif;color: #000;font-weight: 400;">
+<h2 style="font-family: Georgia, Times, serif;font-weight: 400;font-size: 26px;line-height: 36px;margin-bottom: 16px;margin-top: 0;">Upcoming Events</h2>
+<h4 style="font-family: Verdana, sans-serif;font-weight: 700;font-size: 18px;line-height: 27px;margin-bottom: 8px;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkq0YRel4d1UlCzhUP60d5cN9JfcsH8B7AZpnm5CgYJ8qGqdQLymbGu-2F6FcS9wSYwz7OCv1XkW7vrqjUU4HDeb-2FQO6D2pU87EF8Jh9uFWzcT9b0eUENPHLdLgv2-2FaTA9Yvz7UIeuJLFiX7W1BMl54brr7FTHST1RG-2Bv7tkG6InA-2F1Z3aWnl5mjspOFr-2FwTH91A-3Dh6NU_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x41DiLFo624XfiR-2Bd52TnfAeON9VeMAzyfhGwgfbDYQSvWyX1D1BhVTwvn8w2ETh0bovMqW01InsSiqsZuRP4r13KZ-2BV8T-2FF7Jtza5LCq6W-2FnIxh9V-2F-2F-2F3ipN1hgFE-2F9cpo6vetoVsWlL2cw8pA5YP0g" target="_blank" style="text-decoration: none;color: inherit;font-weight: 700;">Wednesday, January 28          — Inside Davos With Jessica Lessin: What Global Leaders Are Focused on Now</a></h4>
+<p style="font-family: Verdana, sans-serif;font-size: 18px;line-height: 27px;font-weight: 400;color: #000;padding: 0!important;">Join The Information Founder and Editor-in-Chief Jessica Lessin for a subscriber-only live session drawing on her reporting from the World Economic Forum in Davos.</p>
+<p style="margin-top: 8px;padding-bottom: 0 !important;font-size: 16px;line-height: 1.5;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkq0YRel4d1UlCzhUP60d5cN9JfcsH8B7AZpnm5CgYJ8qGqdQLymbGu-2F6FcS9wSYwz7OCv1XkW7vrqjUU4HDeb-2FQO6D2pU87EF8Jh9uFWzcT9b0eUENPHLdLgv2-2FaTA9Yvz7UIeuJLFiX7W1BMl54brr7FTHST1RG-2Bv7tkG6InA-2F1Z3aWnl5mjspOFr-2FwTH91A-3DKt-1_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x43bUM4GprL1Sqms6wRbC9xUPwuNiC8aCocoY5DaCjddSUNFgoUwWIyapyyX-2BFFA5TAQ4c-2FRwTGcTTWBARUZYSeL9Gh-2FO02joRQiz4jcQ8ruO0zPUP6eKVjYlfbK-2B5EfXS9DMUqtWpVccE-2ByhFQzXYxv" target="_blank" style="font-family: Verdana, sans-serif;font-weight: 400;line-height: 24px;font-size: 16px;text-decoration: underline !important;color: #f32a52;margin: 0;">More details</a></p>
+<hr style="margin: 24px 0;background: #fec6cc;border: none !important;height: 1px;">
+<h4 style="font-family: Verdana, sans-serif;font-weight: 700;font-size: 18px;line-height: 27px;margin-bottom: 8px;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlJ2ivuYPmKf3DroC19KHZfnUSSjiS60Qz9rvej7qW9CXTL3YUacJLAscWXlxdSC3D0GSFVskukvNkEhyBP7SZUaD4ZlyfTSV-2BPFtLPvB5BX7vGd-2BI5HUU1VwHvHBd0p0h6seHo1qfvliLa9V5-2FWFYP1cILS8-2BGtnu2GX5EfAkDOw-3D-3D8g4G_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x40DbwoQDfXTT0QupHf8Czwl2OWz5CPU3448WfAUm9rHp5eZZ3bmdC9t27vXLF5OhnOkwjAZAszhfxZTbhjx-2B58n9t0TfJKi0cYitD1vn4HhnKLvqe-2FCosHqEnEMNxbq03-2FS6tccY0NcRmN6J1uC22kC" target="_blank" style="text-decoration: none;color: inherit;font-weight: 700;">Tuesday, March 3            –            Wednesday, March 4          — Off the Racquet: An Exclusive Retreat at Indian Wells</a></h4>
+<p style="font-family: Verdana, sans-serif;font-size: 18px;line-height: 27px;font-weight: 400;color: #000;padding: 0!important;">Join The Information for an intimate, two-day experience at Indian Wells, where tech leaders, investors, and innovators come together around a shared love of tennis. Request an invite today.</p>
+<p style="margin-top: 8px;padding-bottom: 0 !important;font-size: 16px;line-height: 1.5;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlJ2ivuYPmKf3DroC19KHZfnUSSjiS60Qz9rvej7qW9CXTL3YUacJLAscWXlxdSC3D0GSFVskukvNkEhyBP7SZUaD4ZlyfTSV-2BPFtLPvB5BX7vGd-2BI5HUU1VwHvHBd0p0h6seHo1qfvliLa9V5-2FWFYP1cILS8-2BGtnu2GX5EfAkDOw-3D-3DMPh9_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x42yfqARp1BJDSlKpe5bxUm9-2F5N6N5p7iWTzUTXwhj2TNc3tHaH32CCrBsn-2FHow5ZM6xlOCrHVOaEdRIHOAvhvnlUmXCH1aKSvVOmoNXfasyAQMhjqZa5xnxHyjKagTouQxAvDH2E64H3RGFKoWqqu05" target="_blank" style="font-family: Verdana, sans-serif;font-weight: 400;line-height: 24px;font-size: 16px;text-decoration: underline !important;color: #f32a52;margin: 0;">More details</a></p>
+<table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top: 48px;"><tr><td style="background: #f0ece5;padding: 1px 0 0;line-height: 0;font-size: 1px"></td></tr></table>
+</td>
+</tr><tr>
+<td align="left" style="padding: 48px 0 0;font-size: 19px;line-height: 24px;font-family: Georgia, serif;font-weight: 400;">
+<h2 style="font-family: Georgia, Times, serif;font-weight: 400;font-size: 26px;line-height: 36px;margin-bottom: 16px;margin-top: 0;">What We’re Reading</h2>
+<h4 style="font-family: Verdana, sans-serif;font-weight: 400 !important;font-size: 18px;line-height: 27px;color: inherit !important"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1Zno2oAIXBsPl9fE4WKy41Fqr9SL1YWAKplM00z70Y9xoETBG6LV7O-2BR3psFIg-2FT2HzNuQWq5in9rfWObxkxD5yCWIc-2FFTKhKn8Lm0LjLtxEX7R-2FRFV-2B6scdwsolta7cNoWS-2F3rEmQw33JmogQaXvWKKl4z-2FzkpvSiblolrhMwxwBvge_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x42GMziPCxanWRw48S-2BVpSzTKIYo-2FbbciWl1fDieSYx5zcaSIxOBnQx4JD1bgbdzz70LanWce1KW-2BcZGJII2nIlBGBlrpbc7WfCFqweRGJn7PkOQyEXJRFlSaSpFnVhVExK9jeEpnR3QHqciaEFvi18-2B" style="text-decoration: none;color: inherit !important;font-weight: 400!important;" rel="noreferrer" target="_blank">The TSMC Risk</a></h4>
+<hr style="margin: 24px 0;background: #fec6cc;border: none !important;height: 1px;">
+<h4 style="font-family: Verdana, sans-serif;font-weight: 400 !important;font-size: 18px;line-height: 27px;color: inherit !important"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1SM-2FlD5qCdFdKJCLrapVmm3naXTlr4vC5PAoK45XUdHREy7P0Cj1Lx2MfCGIify9DA30JXmtEkhQhjbCHFS4x9GJ1ZfYcJgylxjm3uEGOpBrF8XCECDndcXr8aZLfi1J6bP6ragV0LS-2FszNHNl25SbVechN1Q2AH0yK-2Bvg5ZvTRVmDyWw7IldgVVanYv2la2speHsOg72ZayOVSNGx47VhxacaHkQpH1ufFwaamdH-2BDDG8SDBQ1MW9eY7YdVsA3gznicXJ5phw75kMyV8PqBnVXVRsFAvWMM-2F2u3-2BOebDTuiif2a_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x408LSMMZEunmwU3CinLo0YxsepEfThEfGEFzN-2F7gm-2FPIfNO9HpwTmx1SlRq9wybzqscM6EOOwwzZaMKnU6ynTJV0W2ziwjOeUwfs4-2F7UzNUXmQcWKlo91PRECQTCKLhU8x3btQPvprnZwAkYg4fv0T4" style="text-decoration: none;color: inherit !important;font-weight: 400!important;" rel="noreferrer" target="_blank">Co-Working Spaces Are Coming Back to Life</a></h4>
+<table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top: 48px;"><tr><td style="background: #f0ece5;padding: 1px 0 0;line-height: 0;font-size: 1px"></td></tr></table>
+</td>
+</tr>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <!-- END Email Content -->
+            <tr>
+  <td bgcolor="#ffffff" class="divider">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td style="padding: 0 20px" class="background-dark padding">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td align="left" style="padding: 48px 0 0;font-size: 18px;line-height: 27px;font-family: Verdana, serif;color: #000;font-weight: 400;">
+                <h2 style="font-family: Georgia, Times, serif;font-weight: 400;font-size: 26px;line-height: 36px;margin-bottom: 16px;margin-top: 0;">
+                  Opportunities
+                </h2>
+                <h4 style="font-family: Verdana, sans-serif;font-size: 18px;line-height: 27px;margin-bottom: 8px;margin-top: 0;">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlgaThIaQhhxP-2B18aQkVacQa-2BbGcb9fvNdGV7qVgiOyEIdSVCJFsORDX2dr1MYHCVQqMElygmvQBgh-2BUlG7u-2BYWJxYHyrf9UTdkh2s9NBPBP9-2BC5iZQa8Us5smS7CMKpG5oLIbCNJbVn0Wze6mtlwJSpokd_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x42-2FYKnvT2sn-2F9gObiYL-2FIIcKBgewDGn6LYbUNRuT6LRRimRzk9eaiJAFm1Uv-2Fwj6EzvLq3YebCws9oqyY2kIexDmiw0kqPnvYtLRIHWMz-2BjZm0QXoqipJKwHJPwx3zrUE44JZkAh4inZH5pFIHWoWs0" target="_blank" style="text-decoration: none;color: inherit;font-weight: 700;">
+                    Group subscriptions
+                  </a>
+                </h4>
+                <p style="font-family: Verdana, sans-serif;margin: 8px 0;font-weight: 400;">Empower your teams to stay ahead of market trends with the most trusted tech journalism.</p>
+                <p style="margin: 0;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlgaThIaQhhxP-2B18aQkVacQa-2BbGcb9fvNdGV7qVgiOyEIdSVCJFsORDX2dr1MYHCVQqMElygmvQBgh-2BUlG7u-2BYWJxYHyrf9UTdkh2s9NBPBP9-2BC5iZQa8Us5smS7CMKpG5oLIbCNJbVn0Wze6mtlwJSAJF0_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x40lnsnlEe2jthljFchsXWyiVddrfP-2BHB8qGNHcmkvIWXMDftQayYcL38mVMh46c-2FuUj2YjqhMV-2FAi-2BQiyJd2IyLFfT4d9GLy-2FOZi2gFmCypitE-2Fqs980J6TmOAL9k99XzUKwkRo-2FAfjzQeqkrGRoGoK" target="_blank" style="font-family: Verdana, sans-serif;text-decoration: underline;color: #f32a52;font-weight: 400;line-height:24px;font-size: 16px;">Learn more</a></p>
+                <table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 24px 0"><tr><td style="background: #fec6cc;padding: 1px 0 0;line-height: 0;font-size: 1px"></td></tr></table><br>
+                <h4 style="font-family: Verdana, sans-serif;font-size: 18px;line-height: 27px;margin-bottom: 8px;margin-top: 0;">
+                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkXfGE0AkbtBrzl4aUS5O2KNdNYXa5mgGSNJhsksQ21m75EruhwlHl0VwdpgyNrFiS16S8LmSEMKszbecuYgwpNtNtl8fwh9OVMptyZWsZQQhiusu81IUwnZJHTKv928OksO-2FFiN-2FFaQh-2F-2BaaqYGHaZEd6d_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x40vaG2xkUjm3ZkG9-2FxHmoAOFl8LmtchhqeCAva-2FtoY1GLJpHll3O2-2BUDsMKzdrMsvVOslQW4IoJf2-2F7P7fwFmu-2BgeMvMJ8J-2B5z8ZuWZrO25wD36Cpq-2B7Gp6lk0w-2BoK-2FkP74JJzDdpHaZp1t-2BItvR2mI" target="_blank" style="text-decoration: none;color: inherit;font-weight: 700;">
+                    Brand partnerships
+                  </a>
+                </h4>
+                <p style="font-family: Verdana, sans-serif;margin: 8px 0;font-weight: 400;">Reach The Information&rsquo;s influential audience with your message.</p>
+                <p style="margin: 0;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkXfGE0AkbtBrzl4aUS5O2KNdNYXa5mgGSNJhsksQ21m75EruhwlHl0VwdpgyNrFiS16S8LmSEMKszbecuYgwpNtNtl8fwh9OVMptyZWsZQQhiusu81IUwnZJHTKv928OksO-2FFiN-2FFaQh-2F-2BaaqYGHaZWQ_8_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x40e4-2BC2De6sEKaJcLfAL9e5wB2hWVfjQKMA4FEZZ8TzGmP7YYmyZCC9vBB36S59A3aPFtkuMLXmcfCVkZ1ghGumIh3ISqHWLBhNO0rbcQssx2RffgtgxXtgnAhy4Na05-2FcTDmeEKle-2BXs-2BMf2b-2BJmbC" target="_blank" style="font-family: Verdana, sans-serif;text-decoration: underline;color: #f32a52;font-weight: 400;line-height:24px;font-size: 16px;">Connect with our team</a></p>
+                <table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top: 48px;"><tr><td style="background: #f0ece5;padding: 1px 0 0;line-height: 0;font-size: 1px"></td></tr></table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+            
+<tr>
+  <td bgcolor="#ffffff" class="divider">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td style="padding: 0 20px" class="background-dark padding">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom: 48px;">
+            <tr>
+              <td align="left" style="padding: 48px 0;font-size: 18px;line-height: 27px;font-family: Verdana, serif;color: #000;font-weight: 400;">
+                <h2 style="font-family: Georgia, Times, serif;font-weight: 400;font-size: 26px;line-height: 36px;margin: 0;">
+                  About The Briefing
+                </h2>
+                <p style="font-family: Verdana, sans-serif;font-weight: 400;margin-top: 4px;">Get smarter about the most important stories in tech, media and finance by following Silicon Valley’s most-read executive newsletter.</p>
+                <p style="font-family: Verdana, sans-serif;margin-top: 16px"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBnPCXMf7muTnPAGZGawge6JeTCNF-2F1Qxzx0SNyX6z6NQs4DZMzXMJviqTlD5fV3Pfp578PbtBiOfF0eOMf92H4tOleZUVr7ZTrdw50OMBcIJ1Cpnn2m-2FZdfa9EoNIo7oy93gMNGLX8lEUh0MZF-2BFu5K1bjG-2FZBqdBG5yfY2-2BMxN6Q-3D-3DhAW7_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x43HiL0lxjHx5d3PALmSqr-2FHmTkDqTNo4lRXdvFqc35P7a5Uh6aNksGWTrG9GmLzgxuv2SOj7DyHNeqELyOW22-2FwhtB2pNnuWQFAJOXwV5VGN-2BRtDbGczZZy4u-2BJujPcDw99tAG8xMAv5npravr6UKTV" target="_blank" style="font-family: Verdana, sans-serif; text-decoration: underline; color: #f32a52;font-size: 16px;line-height: 24px;font-weight: 400">Read the archives</a></p>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+            <!-- FOOTER START -->
+            <tr>
+  <td bgcolor="#ffffff" class="background-dark">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center">
+          <table
+            width="600"
+            border="0"
+            cellspacing="0"
+            cellpadding="0"
+            style="width: 600px; max-width: 600px"
+            bgcolor="#ffffff"
+            class="responsive-table"
+          >
+            <tr>
+              <td
+                align="center"
+                style="padding: 45px 75px; padding-top: 45px !important; padding-bottom: 45px !important; font-family: Suisse Screen, Helvetica, Arial, sans-serif; font-weight: normal; font-size: 12px; line-height: 24px; font-size: 12px !important; line-height: 24px !important; color: #ffffff; background: #2F3538;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;"
+                class="background-dark padding"
+              >
+                <span
+                  style="font-family: 'Suisse Int\'l Mono', monospace, Helvetica, Arial, sans-serif; font-size: 14px; color: #F32A52"
+                >Follow us</span>
+                <table width="227.85" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1T2Sl5PeJ-2FG7XEaBvfWxfrQHbwmq5gLU2ojiuowH64rJBj-2BXB6C9UBnLd5uDA0OPkzjJvALNAX05BKspQYMbXWBJO1Qt0McuFVoNlLbgmJKjcBG8GXT0uIOj92dOcHR3kPZmgV2mZxGObFger9TjvXI-3DVmAM_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x40Yi1S-2BUS4e-2FZZEQrp25EeU36lscbISC-2FVxasKyOCsR6iDk9Ag7cQBXfvbJrxoVwS-2Fwfaf5gpCe7lbrIEQ2f4UDzM9jk0PhAK1KcLK5z-2BLM5opC8FwGrq1znImh2j-2BrYYgK-2Ff0XEAuTCh9VUysdtPx9"
+                        target="_blank"
+                        style="text-decoration: none;"
+                      >
+                        <img width="32" src="https://tii.imgix.net/global/email/icon-X-v3.png" alt="X" border="0">
+                      </a><br>
+                    </td>
+                    <td width="32" valign="middle"></td>
+                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1YCFIgUTnTtU9jcXdi5OlS4DnFensodraGNsXFNZLRKsOkUFKt9aKkvfZp-2FSglSxfcQA5R6BJTwq1KR4o1rz281uE5YzM2dIrm1plX7HgGIIsQCfjbnVUnyARFvGeD0NYRKaY3UlrQkrpTzvMvCmtd1Jp8NO-2F8BGbmLIG-2F-2BQojz3-18t_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x42ZTMSzkqg9F4nDqYT7JwyBMo9tMnux8pZgDJqcCGvC-2F0Tmnk9oSnHHb1TYdahHine7peS1X9tkjtVFJ9XdQbl2GSKFwuUZk5rXWqKKnF1wNh2GyY5D7iKtokfj3ICgNZo2cZyKQgxDIh19Lkei-2Bz3F"
+                        target="_blank"
+                        style="text-decoration: none"
+                      >
+                        <img width="32" src="https://tii.imgix.net/global/email/icon-linkedin-v3.png" alt="LinkedIn" border="0">
+                      </a><br>
+                    </td>
+                    <td width="32" valign="middle"></td>
+                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1dMu7bhLyA2t3R-2B-2Be0O7TUhTGcCztTV72-2BitQZ9RP9u7mPvffDgEtbfIxnCYoxVjmZwU-2F4wJBDbSU1NSG1isg34lEo-2BiWyPOebxPCDHxMyjDrPMRon9pJPHJD8d-2FvP3KKSs3d2eOf4UE2wERXKGXzHacXuX1COVuV9HXIXdh43zoePNI_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x41AJfWsnlrXCMTYHcY58fs6xad-2Fc3z01ooToU2PJoxldl-2B1kte2zdO-2BexoSCzyC0vX-2FMwZi7cI-2FaxI6i5L2KrrGxVW-2F1uKiIS44P4e5sRXfyMved-2FGBlrOzltIQDWR9GaY6txMhB2-2FIE8WdX3EI9aML"
+                        target="_blank"
+                        style="text-decoration: none"
+                      >
+                        <img width="32" src="https://tii.imgix.net/global/email/icon-facebook-v3.png" alt="Facebook" border="0">
+                      </a><br>
+                    </td>
+                    <td width="32" valign="middle"></td>
+                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1cH8QhuXOWazGIIpzuv5CPjwlNYj84mRAH9436zZAMWljvmgShg1z9AjH54DR-2FJmaxwE0lfdqeO6aF2rnrTc-2B6yV4vQ72eoUKuuQTG8zbqbF6qhxhvvEWnDENGy3SxcSKEXEB4pvyKrfq4yNqNZzd67EMirXtmwdlt7QPrWkuep0Rz08_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x42AkI3aV9wNzxEBI6nNQb8LaAscIsdE1XYlmkrnBwSQuJ8FnZvWyX2o5IxXDzr50zfI7lFw5fX1eb1iKZPTlBWWv9dkGXy9cwMh7he3ZiFPLPNlMeiYVIMxo1G5yvwSK-2BI8fTcrS9jcxImj8JWco9KO"
+                        target="_blank"
+                        style="text-decoration: none"
+                      >
+                        <img width="32" src="https://tii.imgix.net/global/email/icon-threads-v3.png" alt="Threads" border="0">
+                      </a><br>
+                    </td>
+                    <td width="32" valign="middle"></td>
+                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
+                      <a
+                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1eYsgqOksHLUoTSKBWk98czesKR7FvhLK0QjueixeWfEymYo67WgCfLTgN9bBamsRxs-2FfbX47PLmDZFfmR9ddZdchG9OlGO7Sr5lS5FAomr8Do0h3a6-2BcgHEil3zSYBk08Hz-2B2EBPszk1NMCcpmg4xsKCb-2B4-2FiC2tnhjU6Tzly9YijCo_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x40ZqwaTkNbWMuxW6U8esy2WFk-2FwdTfi6PsbVj8vmJG2jXwX-2Fnp3J6ZWDO56k46FQmERiavMxhQLHxB8GmiQjfGyCWwJYWuqEiR56Y-2FsfO3jgKyW2UAh8y4HcCruEaGX-2FDjOmRJVqcTPhI1EgdNbORax"
+                        target="_blank"
+                        style="text-decoration: none"
+                      >
+                        <img width="32" src="https://tii.imgix.net/global/email/icon-instagram-v3.png" alt="Instagram" border="0">
+                      </a><br>
+                    </td>
+                  </tr>
+                </table>
+                Sent to info@vibexcap.c&#173;om
+                |
+                <a
+                  href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmRyOSkt-2B6tut-2FgIJZjZ88GSa6oVYM0I7-2FTSqls99-2BpFjBk4wPLczKh9A2juBJWw-2FAsQsDOBrAWbxhChUuQ7edkqD5lSiTa4eyddiXiVLIFppCjDP8vRkbnbUWffmKYl9Ixk7gkXAGyo0MmTmYBxKr6xnbSdt47EMW669zEkDd-2BYLpROtRtKr441dayBfDpFl-2FM7owuDPDLkRK52SJhZnQrJYWw-2Fk3J-2Bh9po2H7jBXlL2lZZmd7itrOUzyBl5DyNqs-2BH-2F89T4o1Fbw3hzWtxv0SG17sdyTASzpWvz4BXgp66M-2FLJMeeTEmskxyR2-2FzioZa8b9FgMn2r1YXyoNOUJZjwWgDyKSocg8DqzByZdMKp8A-3D-3D8fot_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x43BB5j3FlYWnpx2qERE4EEK8UgyCM9NIeta8WXPqCn3lwgO5C-2B-2BJ-2FDW4vfj0-2BOqRc-2Bdd4OE0ELwgAvdSUs8rrNiOayaAYmfOeQ169AeU-2BQRQkIKf7MVygyo5t9pUjJVytJgTGuhEOo-2Fy-2BcNohHCpo-2FU"
+                  target="_blank"
+                  class="footer-link"
+                >Manage your preferences or unsubscribe</a>
+                |
+                <a
+                  href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1ZwsjdD8U8HPRHZODNtX5742xNsoxaJ40flKf35Cvt1CHBFE8dGLv92qL5h-2BGtShTp2SxIPlu4MrAdMlBQtsNK3jikyGl1eYTmsCEjA2fD08i-2BFNAoIORB9jUV1Q1uKO6Ac8m-2BakkZYeU-2B6b8FS4Eypov6VPuaZhp4eKE5oIUgEf6-OB_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x4332a9mooBaEsFy4SW-2BUk96YIU6xJ2DPvFVKuriSROQp3jlt1t3kkY7RCMo3QgxE9a0rAqSB89TmH0GmCLhf2pvr3IcjMr-2FtMAscJrqBevJdoo2n0Z6W2bxUFDVu3vC0abHOnhypMc-2Fi5x92-2Fr-2BXrPH"
+                  target="_blank"
+                  class="footer-link"
+                >Help</a>
+                <a href="#" style="color: #ffffff !important; text-decoration: none !important; font-weight: normal !important">The&nbsp;Information &middot;&nbsp;251&nbsp;Rhode&nbsp;Island&nbsp;Street,&nbsp;Suite&nbsp;107,&nbsp;San Francisco,&nbsp;CA&nbsp;94103</a><br>
+                <br>
+                <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmN-2BtioNXgRiKmS6QeiVMUmf1kk36DAm-2FsCscr1R8-2FpHXzZj8DFSUZAew8jPs4IufCFSP3cLUzhjoj1ntikChO0zWmh4Qb-2B68S33xnHwJAzq0vaH-2B3kJA7q6VgncDBQlHA-3D30I5_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQaim7dJoJeuXLWj0bEC-2FzNttNc6HgZixCyiciHgFoi-2Bna3C7YPIE3J4G0igHgUSk0MpbynEfVBcCLP1WWkd0qzJt4vIchJrUOy7nwNep3444alDMJO8CvTjGpab6w45Fctiw3nmBm15vAE4IUkLKQ88oxpAG5Q25rLXayYhtamfNiJXTw-2FYEM4S-2Fq96895x43w5m522MFzO05wsjEWn64k89BmFNd3moWumoO0Dweu-2FmAWFY0Xmg78dnKoMeKbtGsDOsoRDrABdJwEKCelh6uXjew-2BzXy8xObU-2FXAV7BlZYE-2Fs10HIm1FO0Y3e8YQvqamk7PuiHzEl0k6kZ6Reoqz3" target="_blank">
+                  <img
+                    alt=""
+                    width="20"
+                    border="0"
+                    src="https://tii.imgix.net/global/email/logo.png"
+                    style="width: 20px; max-width: 20px; height: auto; border: 0"
+                  >
+                </a>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+            <!-- FOOTER END -->
+          </table>
+          <!--[if (gte mso 9)|(IE)]>
+            </td>
+          </tr>
+          </table>
+          <![endif]-->
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+          </tr>
+      </tbody>
+    </table>
+    <!--[if (gte mso 9)|(IE)]>
+          </td>
+        </tr>
+      </table>
+    <![endif]-->
+  <img src="https://url3396.theinformation.com/wf/open?upn=u001.Vk1lvOTnrxw-2FfL8-2BmGyNhxdTSlGmmtgiIYT5kEvVfr1vFY5QSfRIs2AD8XouQ1krKJ5nznT-2FpNP4f0VTgAV1OpTi4s5w7ywN5Q4yVoqKpQ775UW7BY-2FZihVX2yeDFr9zN-2FwunTsfq-2B26SL6OYn6TmETrtMf-2BFyl88pzM9BY8gHYgh12FWT6qPBkJATwIgwwYhMyBcuE-2Ba0s6UOLb00gIWGdlqX3MFtnGO2rHJIR56dXfBDMI7tb8mOXpm7Q5YuuAICMWADEhiyruGs2wNVJn41Mxnfqe-2F0nt4lWKnyvx3pRlEjpqA-2BiQEopJMXBGPqQgNR0Q9UKk-2B7FBBj8lFdhI6RGCPxwBxMTdzV3T7j6pgA0WBVMkgIpIt5Pi2NN0WlPv" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/></body>
+</html>
+]]></description>
+    <pubDate>Tue, 27 Jan 2026 01:01:47 GMT</pubDate>
+    <guid>19bfcf92bf017716</guid>
+    <author>&quot;Erin Woo&quot; &lt;info@theinformation.com&gt;</author>
+  </item>
 
   <item>
     <title>Five Takeaways From ‘Data Center Davos’</title>
@@ -10217,665 +10850,6 @@ If you have any comments or feedback, just respond to this email!
     <pubDate>Sun, 25 Jan 2026 23:01:35 GMT</pubDate>
     <guid>19bf764b7b2e7da7</guid>
     <author>&quot;Martin Peers&quot; &lt;info@theinformation.com&gt;</author>
-  </item>
-
-  <item>
-    <title>Behind the Sky-High Valuation of China’s AI IPOs</title>
-    <description><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta charset="utf-8" /> <!-- utf-8 works for most cases -->
-    <meta name="viewport" content="width=device-width" /> <!-- Supported on some email clients -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" /> <!-- Use the latest (edge) version of IE rendering engine -->
-    <title>%title%</title> <!-- The title tag shows in email notifications, like Android 4.4. -->
-    
-    <style>
-    </style>
-    <!--[if mso]>
-      <xml>
-        <o:OfficeDocumentSettings>
-          <o:AllowPNG/>
-          <o:PixelsPerInch>96</o:PixelsPerInch>
-        </o:OfficeDocumentSettings>
-      </xml>
-      <![endif]-->
-      <!--[if lte mso 11]>
-      <style type="text/css">
-        .outlook-group-fix {
-          width:100% !important;
-        }
-      </style>
-    <![endif]-->
-  </head>
-  <body>
-    <table class="container" cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#ffffff" style="max-width: 600px !important; margin: auto;">
-      <tbody>
-        <tr>
-          <td class="content-wrapper main format-content" style="max-width: 600px;">
-            
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
-  <head>
-    <title>Behind the Sky-High Valuation of China’s AI IPOs</title> <!-- The title tag shows in email notifications, like Android 4.4. -->
-    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-    <meta charset="utf-8"> <!-- utf-8 works for most cases -->
-    <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- Supported on some email clients -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- Use the latest (edge) version of IE rendering engine -->
-    <meta name="x-apple-disable-message-reformatting" />
-    <!--[if !mso]><!-->
-    <style>
-  .footer-link {
-    color: #ffffff !important;
-    text-decoration: underline !important;
-    font-weight: normal;
-  }
-  .footer-link:hover {
-    color: $magenta !important;
-  }
-  @media screen and (max-width: 600px) {
-    .responsive-table tr td,
-    .responsive-table tr td ul li,
-    .responsive-table tr td ol li {
-      font-size: inherit;
-      line-height: inherit;
-    }
-
-    .responsive-table {
-      width: 100% !important;
-      max-width: 100% !important;
-    }
-  }
-  @media (prefers-color-scheme: dark) {
-    .background-dark {
-      background: #2f3538 !important;
-      color: #dfdfdf !important;
-    }
-  }
-</style>
-
-    <style type="text/css">
-      body, table, td, a{-webkit-text-size-adjust: 100% !important;-ms-text-size-adjust: 100% !important;}
-      table, td{mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
-      img{-ms-interpolation-mode: bicubic;}
-      img{border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;}
-      table{border-collapse: collapse !important;}
-      body{height: 100% !important;margin: 0 auto !important;padding: 0 !important;width: 100% !important;}
-      a[x-apple-data-detectors] {
-        color: inherit !important;
-        text-decoration: none !important;
-        font-size: inherit !important;
-        font-family: inherit !important;
-        font-weight: inherit !important;
-        line-height: inherit !important;
-      }
-      @media screen and (max-width: 525px) {
-        .mobile-button-container {
-          margin: 0 auto;
-          width: 100% !important;
-        }
-        .mobile-hide {
-          display: none !important;
-          visibility: hidden !important;
-        }
-        .mobile-logo {
-          width: 116px !important;
-        }
-        .mobile-date, .mobile-byline {
-          font-size: 12px !important;
-        }
-      }
-      @media screen and (max-width: 600px) {
-        .responsive-table tr td,
-        .responsive-table tr td ul li,
-        .responsive-table tr td ol li,
-        p {
-          font-size: inherit;
-          line-height: inherit;
-        }
-        h1 {
-          font-size: 26px !important;
-          line-height: 1.4 !important;
-        }
-        .img-max {
-          max-width: 100% !important;
-          width: 100% !important;
-          height: auto !important;
-          display: block !important;
-          margin: 0 auto 16px !important;
-        }
-        .img-container {
-          margin-bottom: 12px !important;
-        }
-        .responsive-table {
-          width: 100% !important;
-          max-width: 100% !important;
-        }
-        .padding {
-          padding-left: 5% !important;
-          padding-right: 5% !important;
-        }
-        .mobile-padding {
-          padding-left: 5% !important;
-          padding-right: 5% !important;
-        }
-        .no-padding {
-          padding: 0 !important;
-        }
-        .mobile-button {
-          font-size: 14px !important;
-          line-height: 1 !important;
-          padding: 16px 32px !important;
-          display: block !important;
-        }
-        .tablet-hide {
-          display: none !important;
-          visibility: hidden !important;
-        }
-      }
-      @media (prefers-color-scheme: dark) {
-        /* Your dark mode styles: */
-        body {
-          background: #2F3538;
-          color: #dfdfdf;
-          background: #2F3538 !important;
-          color: #dfdfdf !important;
-        }
-        .background-dark {
-          background: #2F3538;
-          color: #dfdfdf;
-          background: #2F3538 !important;
-          color: #dfdfdf !important;
-        }
-        h1, h2, h3, h4,
-        p {
-          color: #dfdfdf;
-          color: #dfdfdf !important;
-        }
-        .logo-light {
-          display: none;
-          display: none !important;
-          visibility: hidden;
-          visibility: hidden !important;
-        }
-        .logo-dark {
-          display: block;
-          display: block !important;
-          visibility: visible;
-          visibility: visible !important;
-        }
-      }
-      div[style*="margin: 16px 0"] { margin: 0 !important;}
-      html, body, h1, h2, h3, h4, h5, ul li, ol li { margin: 0;padding: 0;}
-      ul li, ol li { color: #000; }
-      .mobile-button, a, img {
-        transition: color 0.2s, opacity 0.2s;
-      }
-      a:hover {color: #f32a52 !important;}
-      .mobile-button:hover {
-        color: #ffffff !important;
-        background: #f32a52 !important;
-        border: 1px solid #f32a52 !important;
-      }
-      .content-body p {margin-bottom: 24px;-webkit-text-size-adjust: 100% !important;-ms-text-size-adjust: 100% !important;font-size: 19px;}
-      .content-body a {color: #f32a52;font-weight: bold;text-decoration: none;}
-      .content-body a:hover {color: #000 !important;}
-      .takeaway ul {margin-bottom: 0;padding-left: 28px;}
-      .takeaway p:last-of-type,
-      .takeaway li:last-of-type {margin-bottom: 0;}
-    </style>
-    <!--<![endif]-->
-    <!--[if mso]>
-      <xml>
-        <o:OfficeDocumentSettings>
-          <o:AllowPNG/>
-          <o:PixelsPerInch>96</o:PixelsPerInch>
-        </o:OfficeDocumentSettings>
-      </xml>
-    <![endif]-->
-    <!--[if lte mso 11]>
-      <style type="text/css">
-        .outlook-group-fix {
-          width:100% !important;
-        }
-      </style>
-    <![endif]-->
-  </head>
-  <body class="body" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;height: 100% !important;width: 100% !important;margin: 0;padding: 0">
-    <!-- Visually Hidden Preheader Text : BEGIN -->
-<div class="preheader" style="display: none !important;font-size: 1px;line-height: 1px;max-height: 0px;max-width: 0px;opacity: 0;overflow: hidden;mso-hide: all;font-family: sans-serif;color: #fff;">
-  China is letting AI and semiconductor startups go public at a furious pace. Since December, two developers of large language models and four designers of graphics processing units have listed on stock exchanges in Hong Kong and Shanghai, raising a total of over $4 billion. At least two more are in the pipeline. Kunlunxin, the chip arm of Baidu, is seeking to raise up to $2 billion in Hong Kong, according to Bloomberg. Enflame, a Shanghai-based GPU designer 20% owned by Tencent Holdings, was approved on Thursday to raise 6 billion yuan ($860 million) in the city’s bourse.
-</div>
-
-    <table border="0" align="center" cellpadding="0" cellspacing="0" width="100%" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important">
-      <tr>
-        <td bgcolor="#ffffff" align="center" class="background-dark" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;max-width:600px;">
-          <!--[if (gte mso 9)|(IE)]>
-            <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
-              <tr>
-                <td align="center" width="600">
-          <![endif]-->
-          <table  border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;" class="responsive-table">
-            <div style="display: none !important;font-size: 1px;line-height: 1px;max-height: 0px;max-width: 0px;opacity: 0;overflow: hidden;mso-hide: all;font-family: sans-serif;">
-  
-</div>
-
-            <tr>
-              <td bgcolor="#ffffff" class="divider" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;max-width:600px;">
-                <table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
-                  <tr>
-                    <td bgcolor="#ffffff" align="left" valign="top" style="padding: 24px 20px 0;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" class="mobile-padding background-dark">
-                      <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlvYCYiS-2F03cdUcMOgCPCyBxUkW3btpMf1IiekqWdBbLpHWM5XFZbZjWb97KeKOpSAlbDDjxHLoMdGhvdASqGaQatA5c7umV87fmJ4KQBI45fNvtVHK6zdqg69eQO-2FOSnk-3DWWN4_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZAAxpaM2pnQzsYSorLa4YA0NQtgSwUwhF6mGnR25sjBT0xYlIs-2FXBYT06Sk31vG5PTHj0s4mdOavgMX6sykN9EjBCLUXP-2FVBXnqYZRHJPJhROqHRmUoaZth6JV09JuhFVUfZI4h1P7uCGNNqrc3gAppA-3D-3D" target="_blank" style="text-decoration: none;color: #ffffff;line-height: 0;margin: 0;padding: 0;display: block">
-                        <img alt="The Information logo"
-                          src="https://tii.imgix.net/logos/theinformation/the-information-black-text-logo-white-bg.jpg?pad=20&amp;bg=ffffff"
-                          class="mobile-logo" width="145" border="0" style="width: 145px;max-width: 145px;border: 0" />
-                      </a>
-                    </td>
-                    <td bgcolor="#ffffff" align="right" valign="top" style="padding: 24px 20px 0" class="mobile-padding background-dark">
-                      <span class="mobile-date" style="font-family: 'Suisse Int\'l Mono', monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;color: #6d686e;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%">Jan 25, 2026</span>
-                    </td>
-                  </tr>
-                </table>
-              </td>
-            </tr>
-            <tr>
-              <td bgcolor="#ffffff" class="divider" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;max-width:600px;">
-                <table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;max-width: 600px">
-                  <tr>
-                    <td style="padding: 0 20px" class="background-dark padding">
-                      <table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
-                        <tr>
-                          <td align="left" style="padding: 32px 0;font-size: 19px;line-height: 32px;font-family: 'Noto Serif', Georgia, serif;font-weight: 400;border-bottom: 2px solid #f0ece5;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;max-width: 600px;width: 100%;">
-                            
-                            
-<p class="content-highlight" style="font-family: monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;color: #f32a52;margin-bottom: 8px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
-  Sunday Insights
-</p>
-
-                            
-<h1 class="content-title" style="font-family: 'Suisse Works', Georgia, 'Times New Roman', Times, serif; font-weight: normal; font-size: 36px; line-height: 54px; margin-bottom: 8px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
-    <a style="color:inherit;text-decoration:none;" universal="true" href="https://url3396.theinformation.com/uni/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNuMQ2JW-2BbLXCXtjPNMPLwQ-2FfP6NkO6V5dzUVUG-2BBw9BO9Z8JaNKh4GWupb7LuozWsgA3I-2B4Eb7Hi88ZK7C61VyRXB4cQcvsO94hH77eAhMM-2FtuTiPOGVPrANlxZ1LOVp6MMj-2Bi-2Biuppr7CT0gWfGD4ltMlxgzfaQJO7iqfbuZUpTQorTeUbj6qglGwnsIvOYWxf4Ee9qtSQ0SJ7CKUIsIQQ-3D-3DUkjM_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZAQhQjIDhMeAergF-2BXDpCY9t16Z84C0N8DjNqS3qDeQy-2Fz66QQXTOTmVrP7hLOzIA7CXrIbFRWcXO-2BY9vGEI-2Bd-2FLOgXoo3tzYfvwsMQ5WqC8rVj3LODIqNYrgsgARKUACuZ2iYxihS4eLqEYFC-2BX09-2BA-3D-3D">Behind the Sky-High Valuation of China’s AI IPOs</a>
-</h1>
-
-                            
-<p class="content-byline" style="font-family: Helvetica, Arial, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e;margin-bottom: 16px;font-weight: 400;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
-  By <a style="text-decoration: none; color: #6d686e; font-weight: normal;" href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmM2gjbegsga9gEFDcGrskNzdmyfV97-2FwuucC0GzFryIpOCvvJaiAv6ni5rze6A-2FVf5b22X2OMm873dYwpXW-2FTpdPX5jO-2FPAQdgZStY22XZSkkod4aslZowdJFIoh2-2Baz5CM4jbU5QTupwv8g4whGsUWfkZ_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZAaYYEqlJ0zUi498kn5cQlHhuYotuy83N0HxyVa-2BCXOr1ql2xQXvUB8ZWJggTOrBnEAJWPj7LXVz05DnFlUhGOT75c0uimFbB2wBq-2FD1PgGUgL6Iutybw5DNORlMyT2EdwgFTjwCBZ5NFHhT3yrX-2Ftpg-3D-3D">Jing Yang</a> and <a style="text-decoration: none; color: #6d686e; font-weight: normal;" href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlM7JqhgzjsrXhjpXK3lJBidCbGjzezaw1HicsfCVjsaWNUyz7ibDG2mTG5V1ohrHxEp9FvYLccRQtXF1h4ljsQfjluz0l9j0-2F8ed51Lk-2Bu7gnTtTB83Gb0m9-2FKhKk7vdlOJpsnhFw2RzMOW7x38-2BZtOkjb_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZA1YYp-2FLCd-2F3OJHUUw7atqwwBCAd4s66333yTT0bp6xxVlBkifHK9Q3lVPM-2BFnxDf-2FVx2DDdBKx32Bs1Y3n5YtjGcEn2mXP1YyiyeY-2FXQ1vEaVuZsg0rbQcsdtQs7pKQ8668BiWDhosv2ni-2BaBF6HtHw-3D-3D">Qianer Liu</a>
-</p>
-
-                            
-<div style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;" class="content-body">
-  <p>China is letting AI and semiconductor startups go public at a furious pace. Since December, two developers of large language models and four designers of graphics processing units have listed on stock exchanges in Hong Kong and Shanghai, raising a total of over $4 billion.</p>
-
-<p>At least two more are in the pipeline. Kunlunxin, the chip arm of Baidu, is seeking to raise up to $2 billion in Hong Kong, according to <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1R6q2XTiDSqeOT8QZgOWsh0Psz4C3vBIU3OHSbTO6kyKV3sghblcc3Vtn5wXSLhOYJTqmylgDTiCfzxNS-2Bj0kDQgFu-2FwK4-2FhI9gbOlbZIxKp8fVDQM5TYtANb-2FOHlNWTzdxfO9InJnWPDDCo5tRlv7hL9QeSnIHM1hYzi3MY54zj4mb-2B2eQGibHqX4n-2BiwX6IWGaF4jFlUcKU6k49DUNG75QNOTXOcCqNd0k4rSXq-2FqpTipWJj2Opgsd43P-2FeLUlqkw5rTYwPE4Ckzlanb-2BY82ypR1oj45VI-2BV2FC6BcrhHfNfK444FFFoQ63F7Z-2FzYLDQ-3D-3D2y1O_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZA7Z9f2ebLiFDoUJdefqcCSuoSTxiZqA-2BgkbeZqqhSN701zb2nyUXON2sgZ-2F-2B8A9h4Wf-2Fn-2FzlbMBW4RHGoQOyLa-2FGcsypTD-2ByuTOHtBWYYO-2F1ZPzRSYRMIjm1vx75HLRDQg6gNSjD1ZAOne9HPpNnpRw-3D-3D">Bloomberg</a>. Enflame, a Shanghai-based GPU designer 20% owned by Tencent Holdings, was approved on Thursday to raise 6 billion yuan ($860 million) in the city’s bourse.</p>
-</div>
-                              
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" style="padding: 0">
-      <table border="0" cellspacing="0" cellpadding="0" class="mobile-button-container">
-        <tr>
-          <td align="center" bgcolor="#f32a52">
-            <a class="button mobile-button" style="font-size: 16px;font-family: Helvetica, Arial, sans-serif;color: #fff;text-decoration: none;padding: 16px 154px;display: inline-block;font-weight: 400;line-height: 16px;border: 1px solid #f32a52;background: #f32a52;border-radius: 4px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;" universal="true" href="https://url3396.theinformation.com/uni/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNuMQ2JW-2BbLXCXtjPNMPLwQ-2FfP6NkO6V5dzUVUG-2BBw9BO9Z8JaNKh4GWupb7LuozWsgA3I-2B4Eb7Hi88ZK7C61VyT7KikQLJNYvrceA4ogH8kWh-2F9m-2BSGP-2BQ7NVzXRPnoAwG4XVfA9ssHWRALn0DFScXDYLTceaMjP5SMqBXkHG8qLEzMQcGbbRbhCaD56pfQoZ7CqFtFvuN4Md-2BIFsgHOoYw-3D-3DD-4D_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZAu3kc23SyXPv-2BsCoFuhEYroiJpeB-2BJ5-2B3HRi8AI1ZBVnS5v5r0lRTDufUpZgGFUlX3MI31zDWQHErXUQM5jvvbJWctB5FnOnu-2ByssTCPUJSJaidd-2FTSvVz4k2xARMbWCMFzvN-2FnGmdJOnA1r7mLAzaQ-3D-3D">
-  <!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->
-  Read the full article
-  <!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->
-</a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-                          </td>
-                        </tr>
-                      </table>
-                    </td>
-                  </tr>
-                </table>
-              </td>
-            </tr>
-              <tr class="takeaway">
-  <td bgcolor="#ffffff" class="divider">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td style="padding: 0 20px" class="background-dark padding">
-          <table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tr>
-              <td align="left" style="padding: 32px 0 48px;font-size: 19px;line-height: 32px;font-family: 'Noto Serif', Georgia, serif;font-weight: 400;border-bottom: 1px solid #f0ece5;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
-                <p style="font-family: 'Suisse Int\'l Mono', monospace, Helvetica, Arial, sans-serif;font-size: 16px;line-height: 18px;color: #f32a52;margin-bottom: 8px;">The Takeaway</p>
-                <ul><li>Six Chinese AI and chip startups raised over $4 billion in recent IPOs.</li><li>Chinese AI and chip firms trade at significantly higher revenue multiples.</li><li>Investors anticipate strong future revenue growth for China&#8217;s AI sector.</li></ul>
-              </td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </td>
-</tr>
-
-            
-            <tr>
-  <td bgcolor="#ffffff" class="divider">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td style="padding: 0 20px" class="background-dark padding">
-          <table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tr>
-              <td align="left" style="padding: 48px 0;font-size: 19px;line-height: 32px;font-family: 'Noto Serif', Georgia, serif;font-weight: 400;border-bottom: 1px solid #f0ece5;">
-                <h2 style="font-family: 'Suisse Works', Georgia, 'Times New Roman', Times, serif;font-weight: 500;font-size: 26px;line-height: 36px;margin-bottom: 16px;">Popular articles</h2>
-
-                <!--[if (gte mso 9)|(IE)]>
-                <table border="0" cellspacing="0" cellpadding="0" width="164" dir="ltr">
-                <tr>
-                <td width="164" valign="middle">
-                <![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" width="164" class="responsive-table img-container" style="width: 164px"><tr><td style="line-height: 0" class="img-container">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkayEPumDOht6B6TI0Zt47ONk9Dg6JQ7ej5NGpHG78-2FXKpBXKhcX1-2BF6ofMa1Yza58xAK-2BOgAUOpkmaLD0h-2F0jX-2FeAo-2BtfVW7KpwenBdW6dAE4RNezb7XXTbRQA2B3DyKbItwsi6N3hZPDW76wL3ckRXtqSs4jRua1ix4kFhU0gRXXh2oMSZCPsF2Yh1MB8RRJCIDatEB-2Bdr93enOZrMJpdqCoBWtIJSqWbuhjkI1QjxD7kUuN9tEGDVr0XN8Fp598C-2BS9RBA-2BKOz65zDhXE5T0kleZ_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZADe-2B6zs3N7fcKckukrko900OaR-2BvAvbYXtE3ZtAvbK12B6c6SvVi0nr3WESRhtdC52MJ2gIRO7zHzuz-2B8djbixAxK9rqVzgvwhRrltY-2FytZ5qZvY9YEpPo-2FHFd1e5IkZ1Xhx4TFtZlTYm3bfJqh0aaA-3D-3D" target="_blank">
-                    <img alt="" width="164" src="https://tii.imgix.net/production/articles/16447/e8ae4191-6f5a-400d-b29e-9835e38b34a3-SJfaks.png?w=560&amp;auto=compress,format&amp;q=20" style="max-width: 164px;margin: 0 20px 0 0!important" class="img-max" border="0" />
-                  </a>
-                </td></tr></table>
-                <!--[if (gte mso 9)|(IE)]>
-                </td>
-                <td width="16">&nbsp;</td>
-                <td width="363" valign="middle" style="font-size: 16px;line-height: 22px;font-family: Georgia, serif;color: #000000">
-                <![endif]-->
-                <div style="width: 360px;float: left" class="responsive-table">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkayEPumDOht6B6TI0Zt47ONk9Dg6JQ7ej5NGpHG78-2FXKpBXKhcX1-2BF6ofMa1Yza58xAK-2BOgAUOpkmaLD0h-2F0jX-2FeAo-2BtfVW7KpwenBdW6dAE4RNezb7XXTbRQA2B3DyKbItwsi6N3hZPDW76wL3ckRXtqSs4jRua1ix4kFhU0gRXXh2oMSZCPsF2Yh1MB8RRJCIDatEB-2Bdr93enOZrMJpdqCoBWtIJSqWbuhjkI1QjxD7kUuN9tEGDVr0XN8Fp598C-2BS9RBA-2BKOz65zDhXE5T0PR3Q_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZAsWMrRMCZG8cXAPpaoq2t-2BLPO-2FxSDPqukZPePQ8ltwQTDONGGAAQcfGCEyedIAKBo2ZOqGd726Pfqc8NfLlnvgQazHuRMuoNGuM6D8AtLBtxRvKCB47P2Ldy30riZOHRKhHgS6z9BF9H1FvnCPTaHMQ-3D-3D" target="_blank" style="text-decoration: none; color: inherit;">
-                    <span style="font-family: 'Suisse Int\'l', monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;display: block;margin-bottom: 8px;color: #f32a52;">Applied AI</span>
-                    <h4 style="font-family: 'Suisse Int\'l', Helvetica, Arial, sans-serif;font-size: 18px;line-height: 27px;margin: 0 0 4px;font-weight:500; color: inherit;">
-                      OpenAI Plans to Take a Cut of Customers’ AI-Aided Discoveries
-                    </h4>
-                    <span style="font-family: Helvetica, Arial, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">
-                      By Amir Efrati
-                    </span>
-                  </a>
-                </div>
-                <!--[if (gte mso 9)|(IE)]>
-                </td>
-                </tr>
-                </table>
-                <![endif]-->
-                <div style="clear: both"></div>
-                <br><table align="left" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td style="background: #fec6cc;padding: 1px 0 0; line-height: 0; font-size: 1px"></td></tr></table><br>
-                <!--[if (gte mso 9)|(IE)]>
-                <table border="0" cellspacing="0" cellpadding="0" width="164" dir="ltr">
-                <tr>
-                <td width="164" valign="middle">
-                <![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" width="164" class="responsive-table img-container" style="width: 164px"><tr><td style="line-height: 0" class="img-container">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNFPDRVyZ6YfRpU7VFKF84mUaZbM5mJf8pjk0FDUVmdsOcFPy-2B19d1u2jZIYq6PRLHKuR842u5Nl4FG0GRz5Ju566fzL2Oa-2BuOpPIbQGvjmJgB40v5poK0pKdnMtxbpCfMGiKVqj0P69Yf8I442IdgrEvwnTMpc7fx9Mnq7PaShsBd24K32rgvhnRjezA2QauQBWCSH0pfGxtLd56YLDRZOGplAgIBXUzm275Pi2WhpBQ-3DPDyU_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZAZ8a-2Bjfl3T035UL0q6kYeYTR2sPtHZLVfubzimBjMF2c-2BEt4OS-2FH4WqMZF4HDtQc4sCdwKcihuTtKrKTjiQjGQJrVKBWRoCY1kte-2FQ3RXlKyKVUkV6G-2FPDmbHYLZJkGPwNqY-2FZkd32kk8U5QpASGHXA-3D-3D" target="_blank">
-                    <img alt="" width="164" src="https://tii.imgix.net/production/articles/16444/517fe562-db64-448f-b2c5-6688d22bd57e.jpg?w=560&amp;auto=compress,format&amp;q=20" style="max-width: 164px;margin: 0 20px 0 0!important" class="img-max" border="0" />
-                  </a>
-                </td></tr></table>
-                <!--[if (gte mso 9)|(IE)]>
-                </td>
-                <td width="16">&nbsp;</td>
-                <td width="363" valign="middle" style="font-size: 16px;line-height: 22px;font-family: Georgia, serif;color: #000000">
-                <![endif]-->
-                <div style="width: 360px;float: left" class="responsive-table">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNFPDRVyZ6YfRpU7VFKF84mUaZbM5mJf8pjk0FDUVmdsOcFPy-2B19d1u2jZIYq6PRLHKuR842u5Nl4FG0GRz5Ju566fzL2Oa-2BuOpPIbQGvjmJgB40v5poK0pKdnMtxbpCfMGiKVqj0P69Yf8I442IdgrEvwnTMpc7fx9Mnq7PaShsBd24K32rgvhnRjezA2QauQBWCSH0pfGxtLd56YLDRZOGplAgIBXUzm275Pi2WhpBQ-3D7ONs_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZA9f5ZbAENtI4t1QtTha17LEcgAntL-2FKVB-2FwRgCKB5bH7WXwsxG26dy1gmv6MnIovvO7q-2FzX4VrmXS5q0CG6d35syV6op6AyJ4BaS0CXCrZJMs2WkHzpuhO9Wa1aF3MjCJmJEoanTPsVTpac8LlUiC2Q-3D-3D" target="_blank" style="text-decoration: none; color: inherit;">
-                    <span style="font-family: 'Suisse Int\'l', monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;display: block;margin-bottom: 8px;color: #f32a52;">Exclusive</span>
-                    <h4 style="font-family: 'Suisse Int\'l', Helvetica, Arial, sans-serif;font-size: 18px;line-height: 27px;margin: 0 0 4px;font-weight:500; color: inherit;">
-                      Anthropic Lowers Gross Margin Projection as Revenue Skyrockets
-                    </h4>
-                    <span style="font-family: Helvetica, Arial, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">
-                      By Sri Muppidi
-                    </span>
-                  </a>
-                </div>
-                <!--[if (gte mso 9)|(IE)]>
-                </td>
-                </tr>
-                </table>
-                <![endif]-->
-                <div style="clear: both"></div>
-                <br><table align="left" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td style="background: #fec6cc;padding: 1px 0 0; line-height: 0; font-size: 1px"></td></tr></table><br>
-                <!--[if (gte mso 9)|(IE)]>
-                <table border="0" cellspacing="0" cellpadding="0" width="164" dir="ltr">
-                <tr>
-                <td width="164" valign="middle">
-                <![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" width="164" class="responsive-table img-container" style="width: 164px"><tr><td style="line-height: 0" class="img-container">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNCAMt4ugUQEQQirn6ze2-2BfLVaRHkqmwz30lIvRDHoSri3HDv76fqehWdIfLJKOv5iTCAOaxg0QbgfGFDCxfaVop-2FvOcCl0bUDR61BcDlFjB2JUcpsXmCMyLqq-2FjhKTc0f7ZjvQfxXjxzyJ1EVMpONTjNEKdjkQJkk2SG6wDIXHylbj-2FthkCxyL-2B7LEXCy5qvqny0dsFUMA1qQ86hA3nGs8TLF7hahagIlBSPSvi10Z-2FI-3Dxtew_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZAq9aPb2ftQOM-2F6-2F4x-2BkJv2H4jrP1-2FHZcsVSC5u-2Bzq9zcvUne61xpC4e1fHxkgbJyum8qtjMXTJt4fq2x4ui0ATQ7dLfHu0fsUGkgm7kN4R-2BHqCQQPnFgc73QANJ-2B-2BVlyUEB8bdmXpWht9yrVNjOC2XA-3D-3D" target="_blank">
-                    <img alt="" width="164" src="https://tii.imgix.net/production/articles/16434/b1598fdc-fa3a-4fd2-8a5a-6e0036f760ec.jpg?w=560&amp;auto=compress,format&amp;q=20" style="max-width: 164px;margin: 0 20px 0 0!important" class="img-max" border="0" />
-                  </a>
-                </td></tr></table>
-                <!--[if (gte mso 9)|(IE)]>
-                </td>
-                <td width="16">&nbsp;</td>
-                <td width="363" valign="middle" style="font-size: 16px;line-height: 22px;font-family: Georgia, serif;color: #000000">
-                <![endif]-->
-                <div style="width: 360px;float: left" class="responsive-table">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNCAMt4ugUQEQQirn6ze2-2BfLVaRHkqmwz30lIvRDHoSri3HDv76fqehWdIfLJKOv5iTCAOaxg0QbgfGFDCxfaVop-2FvOcCl0bUDR61BcDlFjB2JUcpsXmCMyLqq-2FjhKTc0f7ZjvQfxXjxzyJ1EVMpONTjNEKdjkQJkk2SG6wDIXHylbj-2FthkCxyL-2B7LEXCy5qvqny0dsFUMA1qQ86hA3nGs8TLF7hahagIlBSPSvi10Z-2FI-3DreKG_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZA06AjQBletZSnpTSRtem1UINoA0L7MuKcrev9IdAJT9N4lJbxBb0ptaeBXHXSRv4S0LUE70aEnLm5dakN15Vk7MngqEtkNDw3NBTsrQ8rDOGr2oUgOJqI9cf0HMmJupgQOkS0EvifaHqyEEjRNMbowg-3D-3D" target="_blank" style="text-decoration: none; color: inherit;">
-                    <span style="font-family: 'Suisse Int\'l', monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;display: block;margin-bottom: 8px;color: #f32a52;">Exclusive</span>
-                    <h4 style="font-family: 'Suisse Int\'l', Helvetica, Arial, sans-serif;font-size: 18px;line-height: 27px;margin: 0 0 4px;font-weight:500; color: inherit;">
-                      OpenAI Lines Up Advertisers, Reveals Key Details Ahead of Ads Launch
-                    </h4>
-                    <span style="font-family: Helvetica, Arial, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">
-                      By Catherine Perloff and Sri Muppidi
-                    </span>
-                  </a>
-                </div>
-                <!--[if (gte mso 9)|(IE)]>
-                </td>
-                </tr>
-                </table>
-                <![endif]-->
-                <div style="clear: both"></div>
-                <br><table align="left" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td style="background: #fec6cc;padding: 1px 0 0; line-height: 0; font-size: 1px"></td></tr></table><br>
-                <!--[if (gte mso 9)|(IE)]>
-                <table border="0" cellspacing="0" cellpadding="0" width="164" dir="ltr">
-                <tr>
-                <td width="164" valign="middle">
-                <![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" width="164" class="responsive-table img-container" style="width: 164px"><tr><td style="line-height: 0" class="img-container">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaN-2FvFOhIE1eAwIjwr9iLzvh-2F1EAvYJ7LHMEIqrNT4V4XCYwN1wcTzVuHNLWE5N0Q-2Fn7eR35LzKzEPvzlFlN2gV4wr2lNCL-2B-2FIfq3HM1ij-2FuTbgTeiTgwNRsfZr691th-2FFeSuV75McWqrMskAxjja3wGRVSZ1-2BYbrtoSM2ywD6IzVLoZcnHcF0IdWhWhU-2BJrFuEoM5ApCV7u2-2Fz2xZ-2FV1g6Cw-3D-3Db9qd_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZAndjqc0kW4DfxTbo3qZSViVU4Gw-2BwfyMsiDFtuItjEmpU31mZLr-2FPtVAq2LjRiLsvg9sIVIFoLmgj1qJYjD80yCtJNeMN4PxsEl6J1QQGJXEQQGksQE80-2BlyJqbZ2aJBmEkJv2gv0pEm6gMT13rjceg-3D-3D" target="_blank">
-                    <img alt="" width="164" src="https://tii.imgix.net/production/articles/16423/fe74cb6c-0463-40a7-8ae9-94e5aa6019ad.png?w=560&amp;auto=compress,format&amp;q=20" style="max-width: 164px;margin: 0 20px 0 0!important" class="img-max" border="0" />
-                  </a>
-                </td></tr></table>
-                <!--[if (gte mso 9)|(IE)]>
-                </td>
-                <td width="16">&nbsp;</td>
-                <td width="363" valign="middle" style="font-size: 16px;line-height: 22px;font-family: Georgia, serif;color: #000000">
-                <![endif]-->
-                <div style="width: 360px;float: left" class="responsive-table">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaN-2FvFOhIE1eAwIjwr9iLzvh-2F1EAvYJ7LHMEIqrNT4V4XCYwN1wcTzVuHNLWE5N0Q-2Fn7eR35LzKzEPvzlFlN2gV4wr2lNCL-2B-2FIfq3HM1ij-2FuTbgTeiTgwNRsfZr691th-2FFeSuV75McWqrMskAxjja3wGRVSZ1-2BYbrtoSM2ywD6IzVLoZcnHcF0IdWhWhU-2BJrFuEoM5ApCV7u2-2Fz2xZ-2FV1g6Cw-3D-3DWRjh_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZAFCrSnpDlZrMo4mQjD9iyDO-2FvgRIeYaGdd5uLPFylIzVURiZiV0c5cbhQPppVjvSuVkIAiMQLTmfCbNV8GEsac8-2Fmo59-2Fvus-2FfEEWuhjsvTJQSMby-2FYc0Shl5REz-2BrSYJ6WiyPoPL0MJDhJiB5PzLWQ-3D-3D" target="_blank" style="text-decoration: none; color: inherit;">
-                    <span style="font-family: 'Suisse Int\'l', monospace, Helvetica, Arial, sans-serif;font-size: 14px;line-height: 18px;display: block;margin-bottom: 8px;color: #f32a52;">Exclusive</span>
-                    <h4 style="font-family: 'Suisse Int\'l', Helvetica, Arial, sans-serif;font-size: 18px;line-height: 27px;margin: 0 0 4px;font-weight:500; color: inherit;">
-                      Google’s Gemini Sees Developer Requests More Than Double in Five Months
-                    </h4>
-                    <span style="font-family: Helvetica, Arial, sans-serif;font-size: 16px;line-height: 27px;color: #6d686e">
-                      By Erin Woo
-                    </span>
-                  </a>
-                </div>
-                <!--[if (gte mso 9)|(IE)]>
-                </td>
-                </tr>
-                </table>
-                <![endif]-->
-                <div style="clear: both"></div>
-              </td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </td>
-</tr>
-
-            <tr>
-  <td bgcolor="#ffffff" class="divider">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td style="padding: 0 20px" class="background-dark padding">
-          <table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tr>
-              <td align="left" style="padding: 48px 0 0;font-size: 18px;line-height: 27px;font-family: Verdana, serif;color: #000;font-weight: 400;">
-                <h2 style="font-family: Georgia, Times, serif;font-weight: 400;font-size: 26px;line-height: 36px;margin-bottom: 16px;margin-top: 0;">
-                  Opportunities
-                </h2>
-                <h4 style="font-family: Verdana, sans-serif;font-size: 18px;line-height: 27px;margin-bottom: 8px;margin-top: 0;">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlgaThIaQhhxP-2B18aQkVacQa-2BbGcb9fvNdGV7qVgiOyEIdSVCJFsORDX2dr1MYHCVQqMElygmvQBgh-2BUlG7u-2BYWvXWOqYCOn1JkgUKmLdu2g691VLNR4rHbvwBE-2F74k3d4TBrfFimyQ5RuGCDBHJJPuX80C_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZA9oaUeW5e1XsN0WgJlTSeviY-2Faa0vtDRaPhp6j4CQMY0NvB5JO4rrFuCLJKrQRZ-2BYqrsThMI1pwrDork51GjrtAaBWYdoJ-2F-2BfzZEZ3K2DfGiG4E-2B7g5tzw5VBSEBf0aGEPbXS5exUikf4-2FgQ6TxSILg-3D-3D" target="_blank" style="text-decoration: none;color: inherit;font-weight: 700;">
-                    Group subscriptions
-                  </a>
-                </h4>
-                <p style="font-family: Verdana, sans-serif;margin: 8px 0;font-weight: 400;">Empower your teams to stay ahead of market trends with the most trusted tech journalism.</p>
-                <p style="margin: 0;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlgaThIaQhhxP-2B18aQkVacQa-2BbGcb9fvNdGV7qVgiOyEIdSVCJFsORDX2dr1MYHCVQqMElygmvQBgh-2BUlG7u-2BYWvXWOqYCOn1JkgUKmLdu2g691VLNR4rHbvwBE-2F74k3d4TBrfFimyQ5RuGCDBHJJPu6OI8_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZAx6W92D-2FGZRLQl4A7-2BF8BG9eWLvBm37ndcY8TAjy6QkIxRnYOBK-2Fsqe9RzlbPeQhHWVrwm6FHCGqRqBy1AKteJI-2FARW72URtIP1SOKOy2EmKlzhNN54C4BuAnr5hr6KPxz8mSO0gD3BP0OCiCunla3A-3D-3D" target="_blank" style="font-family: Verdana, sans-serif;text-decoration: underline;color: #f32a52;font-weight: 400;line-height:24px;font-size: 16px;">Learn more</a></p>
-                <table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 24px 0"><tr><td style="background: #fec6cc;padding: 1px 0 0;line-height: 0;font-size: 1px"></td></tr></table><br>
-                <h4 style="font-family: Verdana, sans-serif;font-size: 18px;line-height: 27px;margin-bottom: 8px;margin-top: 0;">
-                  <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkXfGE0AkbtBrzl4aUS5O2KNdNYXa5mgGSNJhsksQ21m75EruhwlHl0VwdpgyNrFiS16S8LmSEMKszbecuYgwpNCmoauBl0YYw0mvy7TcY7VFCQIYbLoqSrArDyu1eJtNSbQHbWjd-2FVfNtnxydlkzvHHKlc_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZA8UKKmi3ctPSDfOb2WApluMO4-2F7PrVTHFbbWiPMrp3oBhdxtBcA7sDCQCbAbLfUkvyRx075KExeUfAynJWpozjr7kn-2FDco-2B8Klcoy6vl4v1-2BFxg4Dc-2BCPWh7GnStfAmCi5ELDxp-2BVncag9aKaaA4ZBQ-3D-3D" target="_blank" style="text-decoration: none;color: inherit;font-weight: 700;">
-                    Brand partnerships
-                  </a>
-                </h4>
-                <p style="font-family: Verdana, sans-serif;margin: 8px 0;font-weight: 400;">Reach The Information&rsquo;s influential audience with your message.</p>
-                <p style="margin: 0;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkXfGE0AkbtBrzl4aUS5O2KNdNYXa5mgGSNJhsksQ21m75EruhwlHl0VwdpgyNrFiS16S8LmSEMKszbecuYgwpNCmoauBl0YYw0mvy7TcY7VFCQIYbLoqSrArDyu1eJtNSbQHbWjd-2FVfNtnxydlkzvHAreU_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZAPXD0fl1DJwW88YHmhOZaDi-2FMKpUZeZ5fEIVwGU-2FEgNK9PKrWkx-2FRGpd9HaRAVMy4G9ncA0GjsYF25HnsPgxGBVJ42DR-2BGone-2FQ-2BBcn-2B1O2v7wEliorPdnMCD4LBZ4IaNht53rmt2ChYNXA5zjQgiAQ-3D-3D" target="_blank" style="font-family: Verdana, sans-serif;text-decoration: underline;color: #f32a52;font-weight: 400;line-height:24px;font-size: 16px;">Connect with our team</a></p>
-                <table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top: 48px;"><tr><td style="background: #f0ece5;padding: 1px 0 0;line-height: 0;font-size: 1px"></td></tr></table>
-              </td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </td>
-</tr>
-
-          </table>
-          <!--[if (gte mso 9)|(IE)]>
-              </td>
-            </tr>
-          </table>
-          <![endif]-->
-        </td>
-      </tr>
-      <tr>
-  <td bgcolor="#ffffff" class="background-dark">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <table
-            width="600"
-            border="0"
-            cellspacing="0"
-            cellpadding="0"
-            style="width: 600px; max-width: 600px"
-            bgcolor="#ffffff"
-            class="responsive-table"
-          >
-            <tr>
-              <td
-                align="center"
-                style="padding: 45px 75px; padding-top: 45px !important; padding-bottom: 45px !important; font-family: Suisse Screen, Helvetica, Arial, sans-serif; font-weight: normal; font-size: 12px; line-height: 24px; font-size: 12px !important; line-height: 24px !important; color: #ffffff; background: #2F3538;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;"
-                class="background-dark padding"
-              >
-                <span
-                  style="font-family: 'Suisse Int\'l Mono', monospace, Helvetica, Arial, sans-serif; font-size: 14px; color: #F32A52"
-                >Follow us</span>
-                <table width="227.85" border="0" cellspacing="0" cellpadding="0">
-                  <tr>
-                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
-                      <a
-                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1T2Sl5PeJ-2FG7XEaBvfWxfrQHbwmq5gLU2ojiuowH64rJBj-2BXB6C9UBnLd5uDA0OPkzjJvALNAX05BKspQYMbXWANxknRh0F-2F8KOr3djlPzt9brTNBKMyyZbiTdaQv2L9nJ9Z6CqsvWm-2FvTSj-2B1PItKc-3DoELD_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZANgBGyXRiaBiqr8rdA6-2FUAcH4IHbwaSAIgCss1CCPH4Q6hAsqfMbaVXDD1e0TNS7-2FPHP-2F4BisZV14IWR1TVB2-2BKOIWQiAGUW6K02JDFb23YzvEL4hIztIxxp-2FJN2KKTAHtweOI4R0zaoT9r3gomimEQ-3D-3D"
-                        target="_blank"
-                        style="text-decoration: none;"
-                      >
-                        <img width="32" src="https://tii.imgix.net/global/email/icon-X-v3.png" alt="X" border="0">
-                      </a><br>
-                    </td>
-                    <td width="32" valign="middle"></td>
-                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
-                      <a
-                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1YCFIgUTnTtU9jcXdi5OlS4DnFensodraGNsXFNZLRKsOkUFKt9aKkvfZp-2FSglSxfcQA5R6BJTwq1KR4o1rz281uE5YzM2dIrm1plX7HgGIIp5alZgqa-2FhtX0-2B2UmxKKTbRhd7X5qs8-2BadfH43PTB4rzgKNzpjZ1HomBztjnGHRVgz1R_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZAgxX3Otflrrszp765glGrhrs9ZfrKw8cUo3R6U9Bg8wRK17YzW8LVp-2BJt-2BsPAb599DLRPfGxsUxNOXqPiP8VW4B6OEHQLap9Kecrsa5vk6tjVcewXV1w2oq-2BlysEHjul36DXJjL1r5vKqTyqUXtuPBA-3D-3D"
-                        target="_blank"
-                        style="text-decoration: none"
-                      >
-                        <img width="32" src="https://tii.imgix.net/global/email/icon-linkedin-v3.png" alt="LinkedIn" border="0">
-                      </a><br>
-                    </td>
-                    <td width="32" valign="middle"></td>
-                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
-                      <a
-                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1dMu7bhLyA2t3R-2B-2Be0O7TUhTGcCztTV72-2BitQZ9RP9u7mPvffDgEtbfIxnCYoxVjmZwU-2F4wJBDbSU1NSG1isg34lEo-2BiWyPOebxPCDHxMyjD-2Fgv7132Q602Z9VbwbGFdpkWtRlz1jwRFPO-2Fps3tFL0fhFMD7LqCJS8vt-2FIH581uZ9nEi_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZAaiqC4615jypFl0XrMUekux1gZSc2aZoiwzrTLZizVz4j5dyQBEf3sXp-2BTp90pQF8A-2FvIuZzKaiGCXym-2BAX565cLEanVlMXvpmgpPJr3hkUWWyKkhBrJ41LahEh5uRs-2BgYV8uTg23OVyhOTV-2FKl-2FJPA-3D-3D"
-                        target="_blank"
-                        style="text-decoration: none"
-                      >
-                        <img width="32" src="https://tii.imgix.net/global/email/icon-facebook-v3.png" alt="Facebook" border="0">
-                      </a><br>
-                    </td>
-                    <td width="32" valign="middle"></td>
-                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
-                      <a
-                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1cH8QhuXOWazGIIpzuv5CPjwlNYj84mRAH9436zZAMWljvmgShg1z9AjH54DR-2FJmaxwE0lfdqeO6aF2rnrTc-2B6yV4vQ72eoUKuuQTG8zbqbFplylxTy-2FR-2Fa3IbxusJxCqKSQUujT65ScHyfleOWQc24rVM3OrBnbNHb-2FLXL-2BG9co6msO_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZAzzNKOrc-2B1t76qHrenBIo5Et9qnXlbBoI-2BQKqJDyA1ZMzuH86eLAveh4nTNcaOfOrWzd8h9nL7H9wC-2FaCX9Zk-2BXKI65pU8rMTh2BneKlI-2BWHjkOsE41PMsnpqywmJ0Jml64YFIy4TywXzxx-2BpvVdKnA-3D-3D"
-                        target="_blank"
-                        style="text-decoration: none"
-                      >
-                        <img width="32" src="https://tii.imgix.net/global/email/icon-threads-v3.png" alt="Threads" border="0">
-                      </a><br>
-                    </td>
-                    <td width="32" valign="middle"></td>
-                    <td width="32" align="center" style="padding: 16px 0 48px; line-height: 1">
-                      <a
-                        href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1eYsgqOksHLUoTSKBWk98czesKR7FvhLK0QjueixeWfEymYo67WgCfLTgN9bBamsRxs-2FfbX47PLmDZFfmR9ddZdchG9OlGO7Sr5lS5FAomr8W2X-2FQrVB-2Bk0-2Ftdb6T-2F-2F6eAfTw4-2FVKLe81PhJpayjoEhVNUSGxdcDst3JrgnY-2FbXMQYwA_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZAmg7f0Rd7OUDGUpaR0vgTVlYEZp-2Bet0ymef8pXucV7qn9xD-2BsW81a8qbQ7QkP1tG7YqyT58GVKFjWr7VYGfjlh83iSqb5zMaF15Oe012jysYApFrv86eMNjsbmRnHc-2FWdbcceIXRRWz-2BzsVmNt5m-2B3Q-3D-3D"
-                        target="_blank"
-                        style="text-decoration: none"
-                      >
-                        <img width="32" src="https://tii.imgix.net/global/email/icon-instagram-v3.png" alt="Instagram" border="0">
-                      </a><br>
-                    </td>
-                  </tr>
-                </table>
-                Sent to info@vibexcap.c&#173;om
-                |
-                <a
-                  href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmRyOSkt-2B6tut-2FgIJZjZ88GSa6oVYM0I7-2FTSqls99-2BpFjBk4wPLczKh9A2juBJWw-2FAFJy4lqm3Jk1oGJHYZ3eGMQW-2BiesP-2BixF17328U1DkZvbFAv7ItDfEt20JX95h0Sy3k0ULW45wdi6S89ETAOXLgcGpJH-2FPtKP1Bt1-2FH1LKRfL-2BlWDlTr-2Fa-2FWOFEqu7-2BeEpeX0aptYaqpxbYakQl5j2pFISkbk1QmrYQautchWYWOaSTJbtS7aKHUVeTdBctz-2FDJEt73pxVG0nKKzl91FgKDUiqQPEYNWRcxfYZ77m73YUoABhnLMKB9mV8U3s7p-2FGHXH3D0O4uL-2Brkdbf-2FKZ5M-2F0NcNoaAyFnHJ-2BwU6tRXJg-3D-3DIBO1_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZAN-2BBE7scAnDoMsWnt2SVhuQBR6KTfyKlGg1NcHmFCUnHLvcy4Ujj2YBze3joZRtKdHNcBUnFQKSoRxOQ2VsTdtHD0YeOpeYX-2FH003hVsKCkrbmui1pILhfsfz3FfMQr4cc-2F-2Fyd9NnMf9m5pWsSvVQQA-3D-3D"
-                  target="_blank"
-                  class="footer-link"
-                >Manage your preferences or unsubscribe</a>
-                |
-                <a
-                  href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1ZwsjdD8U8HPRHZODNtX5742xNsoxaJ40flKf35Cvt1CHBFE8dGLv92qL5h-2BGtShTp2SxIPlu4MrAdMlBQtsNK3jikyGl1eYTmsCEjA2fD08GZ7BKh4tec3ZBzttY8c7CEoy9Ew3nozVhE82f-2Fh77be6vCszFULPBI1sDedaUsg07Xps_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZAr3DvnFXDaBx-2B-2FXk6WjIBjtQGKLMLchuWFdaqPBeDVUJJS-2BBp-2F-2BlR1i3mKugMrTHgSKCPvjUo0o8OpFBp54WOVPUboSD0s1r-2BhVVZMsIBwAd9g-2Bjw5xe4MXM0QHI82Z2HvDQ6tYfDVGGuB31Gf1uC3Q-3D-3D"
-                  target="_blank"
-                  class="footer-link"
-                >Help</a>
-                <a href="#" style="color: #ffffff !important; text-decoration: none !important; font-weight: normal !important">The&nbsp;Information &middot;&nbsp;251&nbsp;Rhode&nbsp;Island&nbsp;Street,&nbsp;Suite&nbsp;107,&nbsp;San Francisco,&nbsp;CA&nbsp;94103</a><br>
-                <br>
-                <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmN-2BtioNXgRiKmS6QeiVMUmf1kk36DAm-2FsCscr1R8-2FpHXzZj8DFSUZAew8jPs4IufA7-2FYVi0i4C5L5uDkpjkdoXKHplvEJeLrPybWTXoxTGGcdS-2FrGJ4g2Gw2IgZikWCUI-3DcPyl_CBtBlRXWwa-2FzgSHW2e6n9ddWdw3zjN-2Biodb-2BB8v-2FCgQc8vQdnVCOQbKQIuP9U2JjKjwEb9Caug-2FEzfDLK91HKP3cFjpZPVM-2B4NsgMBs4zrWfQv8TRLH6hs5LuM2yX8QcoNIU5hiYxSYbKOK7NKKpVBYLF2XPpB5gd8wSG7rsdF28SBDqY7pN2-2BjUUvdDo0ZA8tOdtV9D51sCBM30flzOpI3LnkHv0nPLunf10boM0SehdgKDLHZeydqHKsSlUVsH3sOD-2FZ8tZCVcj1K8PPBrg5GUzmS6rPyW6PaYX0mz3yQdSxlcE7vwL9Ic9T2GKCpF4zck-2FCCGsKR5Na-2FZQ9Qm7w-3D-3D" target="_blank">
-                  <img
-                    alt=""
-                    width="20"
-                    border="0"
-                    src="https://tii.imgix.net/global/email/logo.png"
-                    style="width: 20px; max-width: 20px; height: auto; border: 0"
-                  >
-                </a>
-              </td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </td>
-</tr>
-
-    </table>
-  </body>
-</html>
-
-          </tr>
-      </tbody>
-    </table>
-    <!--[if (gte mso 9)|(IE)]>
-          </td>
-        </tr>
-      </table>
-    <![endif]-->
-  <img src="https://url3396.theinformation.com/wf/open?upn=u001.Vk1lvOTnrxw-2FfL8-2BmGyNhxdTSlGmmtgiIYT5kEvVfr3qyjVBUViZuAvnafX6ACbVm53-2Fe18DHdi9F5hAiHkJPgSIJySZnnyQjz2ehESzRdEHFJNxuQkTcDIXQ0zJT3gYMjJDz1PL6-2Fvb-2F6yLx1KnMwlJkeXgGUV9XTRxaeucsLO8jFJ-2FxfTGTtmDvh1ZSHNr7oeJc35Y3kisltsQ6Fd7b3e3g-2BGdnBBsKivdpNG-2Bn-2FzXkHZ6mBQIuVknzPWjjo-2BQiq08r6CyIy-2BHep-2Baaf5rJKN08Osbb2jKlE9k9CiA9YT451shoKMCXjIMBWEJ-2FFpADDMTxXQiTmyursiknannGA-3D-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/></body>
-</html>
-]]></description>
-    <pubDate>Sun, 25 Jan 2026 16:01:15 GMT</pubDate>
-    <guid>19bf5e3cbf0c0b3d</guid>
-    <author>&quot;The Information&quot; &lt;hello@theinformation.com&gt;</author>
   </item>
 
   </channel>
