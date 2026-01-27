@@ -4,7 +4,646 @@
     <title>Newsletter Feed</title>
     <link>https://your-domain.com/rss.xml</link>
     <description>Newsletter feed</description>
-    <lastBuildDate>Tue, 27 Jan 2026 11:45:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 12:00:16 GMT</lastBuildDate>
+
+  <item>
+    <title>Anthropic CEO manifesto 📜, Apple&apos;s new AirTag 🏷️, 37signals&apos; codebase 👨‍💻</title>
+    <description><![CDATA[<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html charset=UTF-8"><meta charset="UTF-8"><meta name="viewport" content="width=device-width"><meta name="x-apple-disable-message-reformatting"><title>TLDR</title><meta name="color-scheme" content="light dark"><meta name="supported-color-schemes" content="light dark"><style type="text/css">
+			:root {
+				color-scheme: light dark; supported-color-schemes: light dark;
+			}
+			
+			*,
+			*:after,
+			*:before {
+				-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
+			}
+			
+			* {
+				-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;
+			}
+			
+			html,
+			body,
+			.document {
+				width: 100% !important; height: 100% !important; margin: 0; padding: 0;
+			}
+			
+			body {
+				-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility;
+			}
+			
+			div[style*="margin: 16px 0"] {
+				margin: 0 !important;
+			}
+			
+			table,
+			td {
+				mso-table-lspace: 0pt; mso-table-rspace: 0pt;
+			}
+			
+			table {
+				border-spacing: 0; border-collapse: collapse; table-layout: fixed; margin: 0 auto;
+			}
+			
+			img {
+				-ms-interpolation-mode: bicubic; max-width: 100%; border: 0;
+			}
+			
+			*[x-apple-data-detectors] {
+				color: inherit !important; text-decoration: none !important;
+			}
+			
+			.x-gmail-data-detectors,
+			.x-gmail-data-detectors *,
+			.aBn {
+				border-bottom: 0 !important; cursor: default !important;
+			}
+			
+			.btn {
+				-webkit-transition: all 200ms ease; transition: all 200ms ease;
+			}
+			
+			.btn:hover {
+				background-color: #f67575; border-color: #f67575;
+			}
+			
+			* {
+				font-family: Arial, Helvetica, sans-serif; font-size: 18px;
+			}
+			
+			@media screen and (max-width: 600px) {
+				.container {
+					width: 100%; margin: auto;
+				}
+				.stack {
+					display: block!important; width: 100%!important; max-width: 100%!important;
+				}
+				.btn {
+					display: block; width: 100%; text-align: center;
+				}
+			}
+			
+			body,
+			p,
+			td,
+			tr,
+			.body,
+			table,
+			h1,
+			h2,
+			h3,
+			h4,
+			h5,
+			h6,
+			div,
+			span {
+				background-color: #FEFEFE !important; color: #010101 !important;
+			}
+			
+			@media (prefers-color-scheme: dark) {
+				body,
+				p,
+				td,
+				tr,
+				.body,
+				table,
+				h1,
+				h2,
+				h3,
+				h4,
+				h5,
+				h6,
+				div,
+				span {
+					background-color: #27292D !important; color: #FEFEFE !important;
+				}
+			}
+			
+			a {
+				color: inherit !important; text-decoration: underline !important;
+			}
+
+		</style><!--[if mso | ie]>
+		<style type="text/css">
+			a {
+				background-color: #FEFEFE !important; color: #010101 !important;
+			}
+			@media (prefers-color-scheme: dark) {
+				a {
+					background-color: #27292D !important; color: #FEFEFE !important;
+				}
+			}
+	 </style>
+			<![endif]--></head><body class="">
+
+
+
+<div style="display: none; max-height: 0px; overflow: hidden;">AI models are now beginning to make progress in solving unsolved problems. It is so good that strong engineers are now handing their coding to AI&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;</div>
+
+<div style="display: none; max-height: 0px; overflow: hidden;">
+<br>
+</div>
+
+<table align="center" class="document"><tbody><tr><td valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="container" width="600"><tbody><tr class="inner-body"><td>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr class="header"><td bgcolor="" class="container">
+
+<table width="100%"><tbody><tr><td class="container">
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" style="margin-top: 0px;" width="100%"><tbody><tr><td style="padding: 0px;">
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div style="text-align: center;">
+<span style="margin-right: 0px;"><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/OclN5KuDnNCnfC5_f_OwsFZupGZt2_34Jjy4Mp3I970=442" rel="noopener noreferrer" target="_blank"><span>Sign Up</span></a>
+<span>|</span><span style="margin-right: 2px; margin-left: 2px;"><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/nBc708jXQvP6e4zJXR4xMR0x5OhKbbqkiN8Sjx7VP10=442" rel="noopener noreferrer" target="_blank"><span>Advertise</span></a></span><span>|</span><span style="margin-left: 2px;"><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=d88fa1a6-f698-11f0-8745-1fdc0695ba1c%26p=33242360-fb5a-11f0-a256-0bb2bfc1c155%26pt=campaign%26t=1769514801%26s=c5675988fbd54ddca70e661ad1a5677bf81f68c6f3272dbd83e4743f6ed5e476/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/Nz9W5fmzPMN7uEMqkhLR75OvPkAzSOLpM64Q8yO6ovw=442"><span>View Online</span></a></span>
+<br>
+</span></div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="text-align: center;"><span data-darkreader-inline-color="" style="--darkreader-inline-color:#3db3ff; color: rgb(51, 175, 255) !important; font-size: 30px;">T</span><span style="font-size: 30px;"><span data-darkreader-inline-color="" style="color: rgb(232, 192, 96) !important; --darkreader-inline-color:#e8c163; font-size:30px;">L</span><span data-darkreader-inline-color="" style="color: rgb(101, 195, 173) !important; --darkreader-inline-color:#6ec7b2; font-size:30px;">D</span></span><span data-darkreader-inline-color="" style="--darkreader-inline-color:#dd6e6e; color: rgb(220, 107, 107) !important; font-size: 30px;">R</span>
+<br>
+</td></tr></tbody></table>
+
+<br>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr id="together-with"><td align="center" height="20" style="vertical-align:middle !important;" valign="middle" width="100%"><strong style="vertical-align:middle !important; height: 100%;">Together With </strong>
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=primary01222026/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/khi1Unde3uigV0wPDBZ9sGbDlkJSMRHMm-9YhhrZWxU=442"><img src="https://images.tldr.tech/tldr50.png" valign="middle" style="vertical-align: middle !important; height: 100%;" alt="TLDR"></a></td></tr></tbody></table>
+
+<table style="table-layout: fixed; width:100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;">
+<div style="text-align: center;">
+
+<h1><strong>TLDR <span id="date">2026-01-27</span></strong></h1>
+</div>
+</td></tr></tbody></table>
+
+<table style="table-layout: fixed; width:100%;" width="100%"><tbody><tr id="sponsy-copy"><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=primary01222026/2/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/FopBlNdQzCb0fI8L2_gAzGDQQIk_l3Vxdlv_m2K1kQE=442">
+                                    <span>
+                                        <strong>Reach real buyers in TLDR instead of fighting for attention on social (Sponsor)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    TLDR puts you in front of your target audience with almost no competition. Each issue features only three advertisers max, giving your message the space it needs to stand out. Millions of developers, product managers, CEOs, and other tech decision makers actually see what you have to say. <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=primary01222026/3/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/1SZxU8rzvFe0zn9pC3qprAUB5gc4g8Yn76U6SBKhKU8=442" rel="noopener noreferrer nofollow" target="_blank"><span>Learn more</span></a> about running a test campaign.
+</span>
+</span>
+</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr>
+<tr bgcolor=""><td class="container">
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td style="padding: 0px;">
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><span style="font-size: 36px;">📱</span></div></div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;">
+
+<h1><strong>Big Tech &amp; Startups</strong></h1>
+</div>
+</div>
+</td></tr></tbody></table>
+
+<table style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fgadgets%2F2026%2F01%2Fapple-introduces-new-airtag-with-better-range-and-a-louder-speaker%2F%3Futm_source=tldrnewsletter/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/69dVllcH_UrKlb9BmYtmRkvyOgw7l3cTjvxhZ7wmc6c=442">
+                                    <span>
+                                        <strong>Apple's AirTag 2 is easier to find thanks to new chip (2 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Apple's new AirTag, simply dubbed 'the new AirTag', features a new Bluetooth chip that offers substantial improvements. It can work with the Precision Finding feature in the Find My app to find items up to 50% farther away. The speaker is also 50% louder. The new AirTag doesn't introduce any major new features, only updates to the device's accuracy, volume, and range.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tomshardware.com%2Fpc-components%2Fcpus%2Fmicrosoft-introduces-newest-in-house-ai-chip-maia-200-is-faster-than-other-bespoke-nvidia-competitors-built-on-tsmc-3nm-with-216gb-of-hbm3e%3Futm_source=tldrnewsletter/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/LIN4f6lKRjurL0ijOtxt52HbOnIvUeh8vOql3RzfI4A=442">
+                                    <span>
+                                        <strong>Microsoft introduces newest in-house AI chip (5 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    The Microsoft Azure Maia 200 is a new in-house AI server chip designed for inferencing AI models with ludicrous speeds. It is the most efficient inference system Microsoft has ever deployed. The chip gives 30% more performance per dollar and 50% higher TDP than the first-gen Maia 100. It can hit up to 10 petaflops of FP4 compute, three times higher than Amazon's Trainium3.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><span style="font-size: 36px;">🚀</span></div>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;">
+
+<h1><strong>Science &amp; Futuristic Technology</strong></h1>
+</div>
+</div>
+</td></tr></tbody></table>
+
+<table style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.asimov.press%2Fp%2Fbrains%3Futm_source=tldrnewsletter/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/vow4ddybJmWRcGkOxMLNu6ACkXDzWshSzrnCHF9sW9U=442">
+                                    <span>
+                                        <strong>Building Brains on a Computer (40 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Before we simulate human brains, we first need to demonstrate mastery at the sub-million-neuron-brain level. Achieving this goal will depend primarily on more and better data, which is bottlenecked by funding and the achievement of some key technological breakthroughs. It will soon be feasible thanks to a couple of recent advances. We are nearly capable of overcoming such bottlenecks at the scale of insect-sized organisms.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fasteriskmag.com%2Fissues%2F13%2Fseeing-like-a-sedan%3Futm_source=tldrnewsletter/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/WtmtPiGLrpIlFM-UJVh-7wwNJ6UfZJ0uIdzL0Fb9deY=442">
+                                    <span>
+                                        <strong>Seeing Like a Sedan (40 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Tesla robotaxis navigate using an array of cameras, while Waymos uses LIDAR technology along with a suite of complementary sensors. Tesla challenged convention, but it has quietly reintroduced radar, and it is possible it may bring in other modalities. The paths for the two companies seem likely to converge in the future. This means that instead of debating whether cameras or LIDAR is better, regulators should be asking whether robotaxis in general are as safe as human drivers.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><span style="font-size: 36px;">💻</span></div></div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;">
+
+<h1><strong>Programming, Design &amp; Data Science</strong></h1>
+</div>
+</div>
+</td></tr></tbody></table>
+
+<table style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.datadoghq.com%2Fresources%2Fdesigning-cloud-architecture%2F%3Futm_source=tldrnewsletter%26utm_medium=newsletter%26utm_campaign=dg-coreplatform-ww-cloud-architecture-tldr/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/ySURv583haBdASldusPZSk_sPOzOBFDIzBfZza93d4g=442">
+                                    <span>
+                                        <strong>[Datadog eBook] 6 steps to diagram your cloud architecture (Sponsor)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    If you can't see how traffic moves, you can't truly calculate cost or detect latency issues — especially if you use dozens of services. In this eBook, Datadog &amp; AWS Solutions Architects provide <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.datadoghq.com%2Fresources%2Fdesigning-cloud-architecture%2F%3Futm_source=tldrnewsletter%26utm_medium=newsletter%26utm_campaign=dg-coreplatform-ww-cloud-architecture-tldr/2/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/UWZTS23FGmhsBk3iAqwvUvNweT_OLEqB96wMki8QwWI=442" rel="noopener noreferrer nofollow" target="_blank"><span>6 steps to diagramming your cloud architecture</span></a> at the infra and traffic levels. <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.datadoghq.com%2Fresources%2Fdesigning-cloud-architecture%2F%3Futm_source=tldrnewsletter%26utm_medium=newsletter%26utm_campaign=dg-coreplatform-ww-cloud-architecture-tldr/3/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/V-mZh3Lu3OBYDs6OvBF8AShsUzVsBVEr0SLttlDFI6M=442" rel="noopener noreferrer nofollow" target="_blank"><span>Download your copy</span></a>
+</span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fxcancel.com%2Fkarpathy%2Fstatus%2F2015883857489522876%3Futm_source=tldrnewsletter/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/or0_i9M7cUjjUc3eFPWLOzuMQDk4nhhyzYCyIbt8Y-M=442">
+                                    <span>
+                                        <strong>A few random notes from Claude coding quite a bit last few weeks (7 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    AI agent capabilities crossed a threshold at the end of last year. This has caused a phase shift in software engineering. The intelligence part is a bit ahead of integration, so there is a need for new organizational workflows and processes. This year will be a high-energy year as the industry digests the new capability.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.nateberkopec.com%2Fblog%2F37signals-is-not-smarter-than-you%2F%3Futm_source=tldrnewsletter/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/Vq24uELqJQ1yAHQHFI4mVFaCqAtifH1WEcXrS-5A5e4=442">
+                                    <span>
+                                        <strong>37signals Isn't Smarter Than You, But They Are Different (3 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    37signals' engineering strategy results in good code. The company stays small, cuts scope ruthlessly, and hires well. Its strategy creates a flywheel where developers maintain less code, allowing them to apply more fixup/review cycles, creating a cleaner code base, which helps to reduce headcount. Most companies can't adopt the strategy because they think more features equals more money.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><span style="font-size: 36px;">🎁</span></div></div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><strong><h1>Miscellaneous</h1></strong></div>
+</div>
+</td></tr></tbody></table>
+
+<table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.darioamodei.com%2Fessay%2Fthe-adolescence-of-technology%3Futm_source=tldrnewsletter/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/8vZRbK_1_lbTpOqnhCl-7x2bXAbKYRhzUqE-lQLKLiw=442">
+                                    <span>
+                                        <strong>The Adolescence of Technology (142 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    AI models are now beginning to make progress in solving unsolved mathematical problems. It is so good that strong engineers are now handing their coding to AI. Similar improvements are occurring across biological science, finance, physics, and a variety of agentic tasks. If progress continues, it will only be a few years before AI is better than humans at essentially everything. This could result in a serious civilizational challenge that will require decisive and careful action.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdigitalseams.com%2Fblog%2Fthe-behavioral-cost-of-personalized-pricing%3Futm_source=tldrnewsletter/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/UwBgYhQerL72dIVhbOmQClAPfY4sKXCua7bNTlU6z7A=442">
+                                    <span>
+                                        <strong>The behavioral cost of personalized pricing (7 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Today's personalized pricing is different. The average person probably doesn't even know that haggling is an option or the factors that contribute to personalized pricing. In the future, people will cultivate their digital representations so they can get the lowest prices and best treatment. This access could even be sold to others who aren't so careful.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;"><span style="font-size: 36px;">⚡</span></div></div>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="text-block">
+<div style="text-align: center;">
+
+<h1><strong>Quick Links</strong></h1>
+</div>
+</div>
+</td></tr></tbody></table>
+
+<table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="mailto:itcurator@tldr.tech?utm_source=tldrnewsletter">
+                                    <span>
+                                        <strong>TLDR is hiring a Curator for TLDR IT! (TLDR Curator, ~5 hrs/week)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    We are launching a brand new newsletter covering IT and enterprise tech.<br>If you are an IT leader interested in writing for us, please send your resume or LinkedIn to&nbsp;<a class="c-link" href="mailto:itcurator@tldr.tech" rel="noopener noreferrer" target="_blank"><span>itcurator@tldr.tech</span></a>!
+</span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.benedict.dev%2Fclosing-the-software-loop%3Futm_source=tldrnewsletter/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/O9nQCjlV9JCVCS35EkEv37aDKN0WYEnAROjUqV85-S8=442">
+                                    <span>
+                                        <strong>Closing the Software Loop (5 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    The Holy Grail of software development is full self-improvement, and the key to building this is a system that can autonomously generate bug reports and understand features that users will want.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmaknee.github.io%2Fblog%2F2026%2FPerformance-Hints%2F%3Futm_source=tldrnewsletter/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/yL59n_dowOvXBJpChYDWWGqFIgRpZxY2csxjrO2LuQ8=442">
+                                    <span>
+                                        <strong>Performance Hints (58 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    This post is a review of a blog post written by Jeff Dean and Sanjay Ghemawat, the power duo who arguably made Google what it is today.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.teslarati.com%2Fspacex-starship-v3-gets-launch-date-update-from-elon-musk%2F%3Futm_source=tldrnewsletter/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/KWvs-Z7RQitI26eK532IcB8O8l0tt1ZmQmN7zcx55aY=442">
+                                    <span>
+                                        <strong>SpaceX Starship V3 gets launch date update from Elon Musk (1 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Starship Flight 12 will launch in six weeks.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbuffettsdisciple.substack.com%2Fp%2Fsaas-widely-misunderstood-csuto-toiv%3Futm_campaign=post%26utm_medium=web%26triedRedirect=true%26utm_source=tldrnewsletter/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/0Klh_pSphwssXtHza6SZC1V6__R65NBZX-1MlRZnYJE=442">
+                                    <span>
+                                        <strong>SaaS, widely misunderstood (15 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Replacing SaaS with AI would cost more and deliver a lower-quality product in almost all scenarios, so it makes no sense from an economic or product perspective.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstratechery.com%2F2026%2Ftsmc-risk%2F%3Futm_source=tldrnewsletter/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/ktzH71M-p_pxQ9WIqd3jUBo1w8rUz_gwdgt5em0NUko=442">
+                                    <span>
+                                        <strong>TSMC Risk (16 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    The only way to actually meet demand in 2028 and beyond is to have competition in the foundry space.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block">
+<span>
+                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbabuschk.in%2Fposts%2F2026-01-25-life-on-claude-nine.html%3Futm_source=tldrnewsletter/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/X34bSiFtkthtsfE7fJeWSo3L-OgAXXNQqj-KzJE-QT4=442">
+                                    <span>
+                                        <strong>Life on Claude Nine (26 minute read)</strong>
+                                    </span>
+</a>
+<br>
+<br>
+<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
+                                    Claude makes problems that used to take hours take minutes, automating every tedious task away.
+                                </span>
+</span>
+</div>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;">
+
+<p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;">
+Love TLDR? Tell your friends and get rewards!
+</p>
+</td></tr>
+<tr><td class="container" style="padding: 0px 10px 15px;">
+<div class="text-block">
+Share your referral link below with friends to get free TLDR swag!
+</div>
+</td></tr>
+<tr><td align="left" style="padding: 10px;">
+<div class="text-block">
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F3faf287b%2F/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/cPPLhPM1yPYkMwvoK4N0kR5g6JZ6MWs76Bap_VXUT-g=442" style="color: #464ba4; text-decoration: underline;">https://refer.tldr.tech/3faf287b/</a>
+</div>
+</td></tr>
+<tr></tr>
+<tr><td align="left" style="padding:5px 10px;">
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_20e4b943114b%2F1/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/kFCM--Oz6Vf6aOVDEuI0gZb4qM9KW0Lr5ILqAIqfu50=442" style="font-size: 16px; line-height: 1.6;  padding: 10px 0; display: inline-block;  text-decoration: underline;"><span style="mso-text-raise:13pt; text-decoration: underline;">Track your referrals here.</span></a>
+</td></tr></tbody></table>
+
+
+
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;">
+
+<p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;">
+Want to advertise in TLDR? 📰
+</p>
+<div class="text-block" style="margin-top: 10px;">
+If your company is interested in reaching an audience of tech executives, decision-makers and engineers, you may want to <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/DJ0c-xP_O7rU9SaM9bg3UtIBsXdAHAd_veRmteRLRng=442"><strong><span>advertise with us</span></strong></a>.
+</div>
+<br>
+
+<!-- New "Want to work at TLDR?" section -->
+
+<p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;">
+Want to work at TLDR? 💼
+</p>
+<div class="text-block" style="margin-top: 10px;">
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/myIrMvDEvkgj5vWaZLiblUl2i6uj0OMEkc0Axt-sCTs=442" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"><strong>Apply here</strong></a>,
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/3xTl9kKQJyD08YEJypUwoCTZkCZUuN6SHLLkJ4Zwap0=442" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"><strong>create your own role</strong></a> or send a friend's resume to <a href="mailto:jobs@tldr.tech" style="color: #0000EE; text-decoration: underline;">jobs@tldr.tech</a> and get $1k if we hire them! TLDR is one of <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/Ye2Wyy36ZBoq7KkdsgjJUxEcjXC6cniuookJu6n6u5E=442" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"><strong>Inc.'s Best Bootstrapped businesses</strong></a> of 2025.
+</div>
+<br>
+
+<div class="text-block">
+If you have any comments or feedback, just respond to this email!
+<br>
+<br> Thanks for reading,
+<br>
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2Ftldrdan/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/VAXdqozNhw6dC0V_G766ocp8wGwHPXTdDHyH6CgQfmo=442"><span>Dan Ni</span></a> &amp; <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2FSteveFlanders22/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/ctDA8aSr5Bv2Ukears-G_iBHVIrXI-tbd3OuYCKPzkQ=442"><span>Stephen Flanders</span></a>
+<br>
+<br>
+</div>
+<br>
+</td></tr></tbody></table>
+
+<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
+<div class="text-block" id="testing-id">
+<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Ftech%2Fmanage%3Femail=info%2540vibexcap.com/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/QBhfoC9skoQtB4oxRFxwogfbAyxA_sh0s6kVxP_uKGU=442">Manage your subscriptions</a> to our other newsletters on tech, startups, and programming. Or if TLDR isn't for you, please <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=d88fa1a6-f698-11f0-8745-1fdc0695ba1c%26p=33242360-fb5a-11f0-a256-0bb2bfc1c155%26pt=campaign%26pv=4%26spa=1769511675%26t=1769514801%26s=d89720ab39ab4e84c004a71fd749f5bbf043f21c69dccb6c86c6fbe14d59e0d1/1/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/JfH7aBkt2rBAnK27XTIcbjFH0Yfoq2NjFh8BFmalvvo=442">unsubscribe</a>.
+<br>
+</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+
+
+<img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019bff4d192d-541ab971-082c-4fe1-b1bf-93685e04ce64-000000/aLKcqiPgCYtAhlvrfvVAP-N1dzVv5dzZ8paQxjh64JY=442" style="display: none; width: 1px; height: 1px;">
+</body></html>]]></description>
+    <pubDate>Tue, 27 Jan 2026 11:53:21 GMT</pubDate>
+    <guid>19bff4d89b75fe4b</guid>
+    <author>&quot;TLDR&quot; &lt;dan@tldrnewsletter.com&gt;</author>
+  </item>
 
   <item>
     <title>Go where the action is 🔥, vibe prototyping’s problems 🧠, a lean approach to AI ⚙️</title>
@@ -10091,650 +10730,6 @@ border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-
     <pubDate>Mon, 26 Jan 2026 12:02:17 GMT</pubDate>
     <guid>19bfa2fc7fd5745e</guid>
     <author>&quot;WIRED Daily&quot; &lt;wired@newsletters.wired.com&gt;</author>
-  </item>
-
-  <item>
-    <title>Inside Apple AI 📱, ChatGPT lead shrinks 📉, Claude Code&apos;s hidden feature 👨‍💻</title>
-    <description><![CDATA[<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html charset=UTF-8"><meta charset="UTF-8"><meta name="viewport" content="width=device-width"><meta name="x-apple-disable-message-reformatting"><title>TLDR</title><meta name="color-scheme" content="light dark"><meta name="supported-color-schemes" content="light dark"><style type="text/css">
-			:root {
-				color-scheme: light dark; supported-color-schemes: light dark;
-			}
-			
-			*,
-			*:after,
-			*:before {
-				-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
-			}
-			
-			* {
-				-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;
-			}
-			
-			html,
-			body,
-			.document {
-				width: 100% !important; height: 100% !important; margin: 0; padding: 0;
-			}
-			
-			body {
-				-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility;
-			}
-			
-			div[style*="margin: 16px 0"] {
-				margin: 0 !important;
-			}
-			
-			table,
-			td {
-				mso-table-lspace: 0pt; mso-table-rspace: 0pt;
-			}
-			
-			table {
-				border-spacing: 0; border-collapse: collapse; table-layout: fixed; margin: 0 auto;
-			}
-			
-			img {
-				-ms-interpolation-mode: bicubic; max-width: 100%; border: 0;
-			}
-			
-			*[x-apple-data-detectors] {
-				color: inherit !important; text-decoration: none !important;
-			}
-			
-			.x-gmail-data-detectors,
-			.x-gmail-data-detectors *,
-			.aBn {
-				border-bottom: 0 !important; cursor: default !important;
-			}
-			
-			.btn {
-				-webkit-transition: all 200ms ease; transition: all 200ms ease;
-			}
-			
-			.btn:hover {
-				background-color: #f67575; border-color: #f67575;
-			}
-			
-			* {
-				font-family: Arial, Helvetica, sans-serif; font-size: 18px;
-			}
-			
-			@media screen and (max-width: 600px) {
-				.container {
-					width: 100%; margin: auto;
-				}
-				.stack {
-					display: block!important; width: 100%!important; max-width: 100%!important;
-				}
-				.btn {
-					display: block; width: 100%; text-align: center;
-				}
-			}
-			
-			body,
-			p,
-			td,
-			tr,
-			.body,
-			table,
-			h1,
-			h2,
-			h3,
-			h4,
-			h5,
-			h6,
-			div,
-			span {
-				background-color: #FEFEFE !important; color: #010101 !important;
-			}
-			
-			@media (prefers-color-scheme: dark) {
-				body,
-				p,
-				td,
-				tr,
-				.body,
-				table,
-				h1,
-				h2,
-				h3,
-				h4,
-				h5,
-				h6,
-				div,
-				span {
-					background-color: #27292D !important; color: #FEFEFE !important;
-				}
-			}
-			
-			a {
-				color: inherit !important; text-decoration: underline !important;
-			}
-
-		</style><!--[if mso | ie]>
-		<style type="text/css">
-			a {
-				background-color: #FEFEFE !important; color: #010101 !important;
-			}
-			@media (prefers-color-scheme: dark) {
-				a {
-					background-color: #27292D !important; color: #FEFEFE !important;
-				}
-			}
-	 </style>
-			<![endif]--></head><body class="">
-
-
-
-<div style="display: none; max-height: 0px; overflow: hidden;">Apple&#039;s AI efforts have resulted in a Google partnership, management changes, and two new versions of Siri. Apple is planning an announcement&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;</div>
-
-<div style="display: none; max-height: 0px; overflow: hidden;">
-<br>
-</div>
-
-<table align="center" class="document"><tbody><tr><td valign="top">
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" class="container" width="600"><tbody><tr class="inner-body"><td>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr class="header"><td bgcolor="" class="container">
-
-<table width="100%"><tbody><tr><td class="container">
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" style="margin-top: 0px;" width="100%"><tbody><tr><td style="padding: 0px;">
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div style="text-align: center;">
-<span style="margin-right: 0px;"><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/jsnEGPqnQDGbLISt0RGSJp0_edQfSUVnmGGTE7Nr1kw=441" rel="noopener noreferrer" target="_blank"><span>Sign Up</span></a>
-<span>|</span><span style="margin-right: 2px; margin-left: 2px;"><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/jzM1sgA4dP4Kehx3-yDGFx_9K31idN0yzBUgdNJkfPo=441" rel="noopener noreferrer" target="_blank"><span>Advertise</span></a></span><span>|</span><span style="margin-left: 2px;"><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=d88fa1a6-f698-11f0-8745-1fdc0695ba1c%26p=71cc34b0-fa9a-11f0-b945-4d109c362b34%26pt=campaign%26t=1769428571%26s=6c1fe4303f83b306857c9f28b66e5c0329a96e4933ddba5b84ae931c024517f8/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/AJAHlOPCGWNMd3ihx6FrBocEtNeTx-JY9qx2J1ugo6c=441"><span>View Online</span></a></span>
-<br>
-</span></div>
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="text-align: center;"><span data-darkreader-inline-color="" style="--darkreader-inline-color:#3db3ff; color: rgb(51, 175, 255) !important; font-size: 30px;">T</span><span style="font-size: 30px;"><span data-darkreader-inline-color="" style="color: rgb(232, 192, 96) !important; --darkreader-inline-color:#e8c163; font-size:30px;">L</span><span data-darkreader-inline-color="" style="color: rgb(101, 195, 173) !important; --darkreader-inline-color:#6ec7b2; font-size:30px;">D</span></span><span data-darkreader-inline-color="" style="--darkreader-inline-color:#dd6e6e; color: rgb(220, 107, 107) !important; font-size: 30px;">R</span>
-<br>
-</td></tr></tbody></table>
-
-<br>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr id="together-with"><td align="center" height="20" style="vertical-align:middle !important;" valign="middle" width="100%"><strong style="vertical-align:middle !important; height: 100%;">Together With </strong>
-<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnebius.com%2Fservices%2Ftoken-factory%3Futm_source=yoloco%26utm_medium=newsletter-tldr%26utm_campaign=influencer_collaboration_tf/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/QC-z2DZoRVJ_azYQ-L9R8I8cqGdH54_XTekFHobnZW8=441"><img src="https://images.tldr.tech/nebius2.png" valign="middle" style="vertical-align: middle !important; height: 100%;" alt="Nebius"></a></td></tr></tbody></table>
-
-<table style="table-layout: fixed; width:100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;">
-<div style="text-align: center;">
-
-<h1><strong>TLDR <span id="date">2026-01-26</span></strong></h1>
-</div>
-</td></tr></tbody></table>
-
-<table style="table-layout: fixed; width:100%;" width="100%"><tbody><tr id="sponsy-copy"><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnebius.com%2Fservices%2Ftoken-factory%3Futm_source=yoloco%26utm_medium=newsletter-tldr%26utm_campaign=influencer_collaboration_tf/2/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/5IyZ6xWZyJz1oiMhHaQSCjmoH-t1G2__uA019zMRwZ0=441">
-                                    <span>
-                                        <strong>Production inference for open-source LLMs (Sponsor)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnebius.com%2Fservices%2Ftoken-factory%3Futm_source=yoloco%26utm_medium=newsletter-tldr%26utm_campaign=influencer_collaboration_tf/3/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/J49ueVQS-CFqV2mxE1dlmBJs7S5i4EWERfYgMbCHKRA=441" rel="noopener noreferrer nofollow" target="_blank"><span>Nebius Token Factory</span></a> is built for teams running open-source LLMs in real products. We deliver managed inference with explicit control over execution paths: speculative decoding, cache-aware routing, and post-training tuned to real traffic. Predictable tail latency, stable cost, and production-grade systems for AI that actually ships.
-
-<p></p>
-
-<p><a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnebius.com%2Fservices%2Ftoken-factory%3Futm_source=yoloco%26utm_medium=newsletter-tldr%26utm_campaign=influencer_collaboration_tf/4/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/7pttrcvhLfqQyE7F8sM5s1iAlLyAnqRTp8plf20TBy8=441" rel="noopener noreferrer nofollow" target="_blank"><span>Build inference that holds at scale →</span></a>
-
-
-</p>
-</span></span></div>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-</td></tr>
-<tr bgcolor=""><td class="container">
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td style="padding: 0px;">
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;"><span style="font-size: 36px;">📱</span></div></div>
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;">
-
-<h1><strong>Big Tech &amp; Startups</strong></h1>
-</div>
-</div>
-</td></tr></tbody></table>
-
-<table style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F9Gm6MC/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/Eclr9-u7LZWi0Nj8gDR1wQ-CiFOAmcnhjMAsSqNSi9U=441">
-                                    <span>
-                                        <strong>Inside Apple's AI Shake-Up and Its Plans for Two New Versions of Siri (18 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Apple's AI efforts have resulted in a Google partnership, management changes, and two new versions of Siri. The company had considered partnering with OpenAI or Anthropic, but Anthropic wanted too much money, and OpenAI was actively poaching Apple engineers. Google was willing to agree to a financial structure Apple deemed reasonable, and its technology had improved significantly in recent months. Apple is planning an announcement for the second half of February that will include demonstrations of the new Siri.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fppc.land%2Fchatgpts-lead-shrinks-as-gemini-surges-in-ai-traffic-war%2F%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/Z1DGwCa1xxof7d_aVDVO__xOUnF6h2Rng7dXLfiaZMs=441">
-                                    <span>
-                                        <strong>ChatGPT's lead shrinks as Gemini surges in AI traffic war (9 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    ChatGPT's worldwide traffic declined in January as Google's Gemini's traffic increased. The shift marks a significant acceleration of competitive pressure. ChatGPT had a commanding share last year, but its dominance eroded over the course of the year. Gemini's growth reflects Google's systematic integration across its services and devices, which creates a distribution advantage through existing userbases.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;"><span style="font-size: 36px;">🚀</span></div>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;">
-
-<h1><strong>Science &amp; Futuristic Technology</strong></h1>
-</div>
-</div>
-</td></tr></tbody></table>
-
-<table style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fspace%2F2026%2F01%2Fblue-origin-makes-impressive-strides-with-reuse-next-launch-will-refly-booster%2F%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/9oa4L5n99gQ7fbv2mtwticwSPQv-BLaxez0wN546CoE=441">
-                                    <span>
-                                        <strong>Blue Origin makes impressive strides with reuse—next launch will refly booster (2 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    The next launch of Blue Origin's New Glenn rocket will carry an AST SpaceMobile large communications satellite into low-Earth orbit. The mission will use a refurbished booster from New Glenn's second mission. It will launch from Cape Canaveral Space Force Station no earlier than late February. Blue Origin's turnaround time for the rocket (less than four months) is impressive, even for a well-capitalized program.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.nbcnews.com%2Fhealth%2Fhealth-news%2Fharmful-cholesterol-levels-cut-half-one-time-gene-editing-drug-early-t-rcna242320%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/AK4coRToawk5xeWwT8t2t-S8yagKdS0UugnVELFbSqM=441">
-                                    <span>
-                                        <strong>Harmful cholesterol levels cut in half with one-time gene editing drug in early trial (6 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    A new experimental drug uses CRISPR to manipulate a single gene in the liver that normally boosts cholesterol levels. The approach works after one dose, helping people lower their levels of cholesterol and other fats in the blood permanently. While a Phase 1 clinical trial showed that the treatment is effective, its long-term safety is unknown. There are already safe and effective medications that can control cholesterol and fats, but patients tend to stop using them within a year due to side effects.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;"><span style="font-size: 36px;">💻</span></div></div>
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;">
-
-<h1><strong>Programming, Design &amp; Data Science</strong></h1>
-</div>
-</div>
-</td></tr></tbody></table>
-
-<table style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.granola.ai%2F%3Fvia=adops-tldr-tech%26dub_id=hofOr9MUxEqv3XzA%26utm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/Z6TICbBnsjAHTzxeXb9sTJeGpkv8892y9FFCAnTeqb0=441">
-                                    <span>
-                                        <strong>Is your AI notetaker missing the big picture? (Sponsor)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    AI meeting notes often miss the point or drown you in details. <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.granola.ai%2F%3Fvia=adops-tldr-tech%26dub_id=hofOr9MUxEqv3XzA/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/8Z6oC6L7_UCMc1ZnWCyBsQ6xjfsyHmTb7ZCGCQ4S0G0=441" rel="noopener noreferrer nofollow" target="_blank"><span>Granola</span></a> follows your lead: By enriching your raw meeting notes, it focuses on what you know is relevant. Built for Mac and iPhone, Granola listens in on calls — without an awkward meeting bot — and captures every detail. <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.granola.ai%2F%3Fvia=adops-tldr-tech%26dub_id=hofOr9MUxEqv3XzA/2/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/rs2hHiIKewIh7JeO6K4kOlNzipUBctwBJjFqsoiENo4=441" rel="noopener noreferrer nofollow" target="_blank"><span>Try Granola for free in your next meeting&nbsp;</span></a>
-</span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmaggieappleton.com%2Fgastown%2F%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/9CmB6JdS26J1Fut5O0mN_Uo9eM8u0VO47i6O7QMNFnk=441">
-                                    <span>
-                                        <strong>Gas Town's Agent Patterns, Design Bottlenecks, and Vibecoding at Scale (32 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Gas Town is a provocative piece of speculative design, but its design is too poorly thought through to persist. The problems with Gas Town will undoubtedly show up in the next generation of development tools. Thoughtful design, critical thinking, user research, and planning and coordination within teams will become more important as the pace of software development speeds up. The most valuable tools will help people think more clearly, plan more carefully, and keep the quality bar high.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgist.github.com%2Fmccun934%2Ffc0779bcf2d47fcb65969e5a4208c9cf%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/oW96SZV2pvMw2-AywCvFEEgmtikbm20MBZkBmUmLF38=441">
-                                    <span>
-                                        <strong>Claude Code TeammateTool - Source Code Analysis (12 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    TeammateTool is an existing-but-hidden functionality found in the Claude Code v2.1.19 binary. While it is fully implemented, it is gated behind feature flags. The tool could potentially be used to review PRs through multiple perspectives, build complete features with specialized agents for each layer, investigate a production bug from multiple angles, and more. This post documents what has been discovered about the feature.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;"><span style="font-size: 36px;">🎁</span></div></div>
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;"><strong><h1>Miscellaneous</h1></strong></div>
-</div>
-</td></tr></tbody></table>
-
-<table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FEAFH2I/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/k6ZY9bA6USJ2G84Mci_Qn6-6us2JtaV-mTQoAhVO12I=441">
-                                    <span>
-                                        <strong>The Warner Bros. Bidding War Is Over (11 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Netflix has agreed to buy Warner Bros. Discovery's studio and streaming business in an all-cash deal for $27.75 a share. The deal has been unanimously approved by Warner Bros.' board, and shareholders will vote on it in the next couple of months. The deal could be blocked by regulators, and Paramount could still increase its offer, but it previously said that the last bid was final.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fcars%2F2026%2F01%2Ftesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd%2F%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/X1qxvREpO8tAktMEqFW1xjzV9TqrB7hGMktfuqygqfU=441">
-                                    <span>
-                                        <strong>Tesla kills Autopilot, locks lane-keeping behind $99/month fee (4 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Tesla will start to charge $99 per month for its Full Self-Driving (FSD) subscription starting on February 14. The capability can be bought for a one-time fee of $8,000 until then. The $99 per month price will rise as FSD's capabilities improve. Tesla's falling profit margins, declining sales, and loss of emissions credits may be pushing the company to find other sources of regular income.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;"><span style="font-size: 36px;">⚡</span></div></div>
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding-top: 0px; padding-bottom: 0px;">
-<div class="text-block">
-<div style="text-align: center;">
-
-<h1><strong>Quick Links</strong></h1>
-</div>
-</div>
-</td></tr></tbody></table>
-
-<table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"><tbody><tr><td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top">
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2F3b21aaf8-dea5-4127-be71-602d30e5001e%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/26dXoto9gE11Ki5NWFhKPdVz5aNjKSpTx3kDIN4FBTM=441">
-                                    <span>
-                                        <strong>TLDR is hiring a Senior Software Engineer, Applied AI ($200k-$300k, Fully Remote)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    As the first engineer on TLDR's new Applied AI team, you'll build AI agents and composable Claude Skills to let non-technical teammates create their own AI workflows.&nbsp;<a class="c-link" href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2F3b21aaf8-dea5-4127-be71-602d30e5001e/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/o4fnBJCWBuVkrM-AAf_8rJPoFvC6wEbiyQSNgAgV4yg=441" rel="noopener noreferrer" target="_blank"><span>Learn more</span></a>.
-</span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FzZrZ2P/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/Vqs6RhXYj52izeidGruW5LNWYKSk49Zh6KHQc9d9T8g=441">
-                                    <span>
-                                        <strong>Lessons from Building AI Agents for Financial Services (34 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Advice on building agents from someone with two years of experience building AI agents for financial services.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fswizec.com%2Fblog%2Fthe-future-of-software-engineering-is-sre%2F%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/yFtWfvA-oOw5BIFN6mRGt_DwT6NpM2iWIBPRByOUkN4=441">
-                                    <span>
-                                        <strong>The future of software engineering is SRE (6 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Software engineering is about keeping code running over time as systems change.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Falbedo.com%2Fpost%2Fclarity-1-what-worked-and-where-we-go-next%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/9p-4-m6oMGIdaZ2T4krU7gJqa3dZ3ZzwjSuiDG1NfHI=441">
-                                    <span>
-                                        <strong>Clarity-1: What Worked, and Where We Go Next (22 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Clarity-1 proved sustainable orbit operations in VLEO, validated its mid-size, high-performance Precision bus, and validated 98% of the technology required to capture 10 cm resolution visible imagery and 2-meter thermal infrared imagery.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fben1777.substack.com%2Fp%2Fvimeos-slow-fade-an-engineers-front%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/CorkoRVRZtCpI88BLd25PCGKR7UH0Myn9WLyeAei9Rg=441">
-                                    <span>
-                                        <strong>Vimeo's Slow Fade: An Engineer's Front-Row Seat to the Fall of a Web Icon (42 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Vimeo, which started before YouTube in 2004, was acquired by Bending Spoons in September last year.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.androidauthority.com%2Fgoogle-sideloading-android-high-friction-process-3633468%2F%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/_qezuIPvSrjnVSxXzT-0S0BPTGGVGL5Lbo3wR_azjE0=441">
-                                    <span>
-                                        <strong>Google confirms 'high-friction' sideloading flow is coming to Android (2 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    Google is introducing extra steps when sideloading to ensure users understand the risks of installing apps from unverified developers.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block">
-<span>
-                                <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnotes.nora.codes%2Fatproto-again%2F%3Futm_source=tldrnewsletter/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/offBmH5gXFb-oMLqmoxI7Xhrk5mHcQrOzW1mX5pLzQA=441">
-                                    <span>
-                                        <strong>I Was Right About ATProto Key Management (6 minute read)</strong>
-                                    </span>
-</a>
-<br>
-<br>
-<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif;">
-                                    A centralized burn can completely prevent users from interacting with people using Bluesky.
-                                </span>
-</span>
-</div>
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;">
-
-<p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;">
-Love TLDR? Tell your friends and get rewards!
-</p>
-</td></tr>
-<tr><td class="container" style="padding: 0px 10px 15px;">
-<div class="text-block">
-Share your referral link below with friends to get free TLDR swag!
-</div>
-</td></tr>
-<tr><td align="left" style="padding: 10px;">
-<div class="text-block">
-<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F3faf287b%2F/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/E9PYuIO1ZloCLF2OsxYXA5vInH_4HsaJRz4vknBjJHw=441" style="color: #464ba4; text-decoration: underline;">https://refer.tldr.tech/3faf287b/</a>
-</div>
-</td></tr>
-<tr></tr>
-<tr><td align="left" style="padding:5px 10px;">
-<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_20e4b943114b%2F1/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/Z2dQluFjAFCjH9edC-U1vbJ2VmApu845b_Qgw_osXbY=441" style="font-size: 16px; line-height: 1.6;  padding: 10px 0; display: inline-block;  text-decoration: underline;"><span style="mso-text-raise:13pt; text-decoration: underline;">Track your referrals here.</span></a>
-</td></tr></tbody></table>
-
-
-
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;">
-
-<p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;">
-Want to advertise in TLDR? 📰
-</p>
-<div class="text-block" style="margin-top: 10px;">
-If your company is interested in reaching an audience of tech executives, decision-makers and engineers, you may want to <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/W9hmvajzjeb1hqsodushC6uXe_p8WIJ_3gg81K5QwBQ=441"><strong><span>advertise with us</span></strong></a>.
-</div>
-<br>
-
-<!-- New "Want to work at TLDR?" section -->
-
-<p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;">
-Want to work at TLDR? 💼
-</p>
-<div class="text-block" style="margin-top: 10px;">
-<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/5MP9pSM7mBXSM9SovG-Tp_Es8PTkZDsJHPLKTKpl3KM=441" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"><strong>Apply here</strong></a>,
-<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/d2lXjc7E9L0aVY6KLHOtRlkkqS0cyCh7tkHWs2WHTYE=441" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"><strong>create your own role</strong></a> or send a friend's resume to <a href="mailto:jobs@tldr.tech" style="color: #0000EE; text-decoration: underline;">jobs@tldr.tech</a> and get $1k if we hire them! TLDR is one of <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/MJAEfC98v4_kgLCDiswt-eKXCrkZJ7U4IRbjchPWj7M=441" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"><strong>Inc.'s Best Bootstrapped businesses</strong></a> of 2025.
-</div>
-<br>
-
-<div class="text-block">
-If you have any comments or feedback, just respond to this email!
-<br>
-<br> Thanks for reading,
-<br>
-<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2Ftldrdan/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/jfx-05OViNm0aYSiguAEAccuBIglV11OEurCY2Ai8nw=441"><span>Dan Ni</span></a> &amp; <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2FSteveFlanders22/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/xG13sWFNfxE8FoQULtAilQ6KbLjW9t3M05mBbbqNvLY=441"><span>Stephen Flanders</span></a>
-<br>
-<br>
-</div>
-<br>
-</td></tr></tbody></table>
-
-<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="container" style="padding: 15px 15px;">
-<div class="text-block" id="testing-id">
-<a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Ftech%2Fmanage%3Femail=info%2540vibexcap.com/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/DHnRaR2xvz-yRuOUTD030HrTmYTsbC4G_6h-jre_MzA=441">Manage your subscriptions</a> to our other newsletters on tech, startups, and programming. Or if TLDR isn't for you, please <a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=d88fa1a6-f698-11f0-8745-1fdc0695ba1c%26p=71cc34b0-fa9a-11f0-b945-4d109c362b34%26pt=campaign%26pv=4%26spa=1769425283%26t=1769428571%26s=85aeaaf2819556a89da5526856bf97267c76371318aa5ef0898624793423c2e9/1/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/fhtxwsVPF9t0EvJP3jc8omb8iE9NTOv8Wh7MgN_co0M=441">unsubscribe</a>.
-<br>
-</div>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-
-
-
-<img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019bfa295553-b947e621-1aa8-406c-8ee9-456a04b63224-000000/1aln4T_pDI-LbQCaGmNSpLfb_YGfFicYKjKc60y-fLQ=441" style="display: none; width: 1px; height: 1px;">
-</body></html>]]></description>
-    <pubDate>Mon, 26 Jan 2026 11:56:11 GMT</pubDate>
-    <guid>19bfa29c1f1da582</guid>
-    <author>&quot;TLDR&quot; &lt;dan@tldrnewsletter.com&gt;</author>
   </item>
 
   </channel>
